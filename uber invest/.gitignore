@@ -16,3 +16,7 @@ scraper/find_ciks.py
 
 # SEC ticker cache (large, re-downloadable)
 data/sec_tickers_cache.json
+
+# Internal pipeline changelog (large; regenerated from holdings data by scraper)
+# Frontend uses the capped data/frontend/changelog.json instead
+data/changelog/
