@@ -1,0 +1,45 @@
+{
+  "investor_id": "ubben",
+  "cik": "0001817187",
+  "quarter": "2024-Q2",
+  "report_date": "2024-06-30",
+  "filing_date": "2024-08-14",
+  "accession_number": "0000902664-24-005140",
+  "total_value": 291715096,
+  "num_holdings": 3,
+  "holdings": [
+    {
+      "cusip": "45688C107",
+      "name": "INGEVITY CORP",
+      "ticker": "NGVT",
+      "title_of_class": "COM",
+      "value": 50327913,
+      "shares": 1151405,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "75734B100",
+      "name": "REDDIT INC",
+      "ticker": "RDDT",
+      "title_of_class": "CL A",
+      "value": 133493683,
+      "shares": 2089430,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "86272C103",
+      "name": "STRATEGIC ED INC",
+      "ticker": "STRA",
+      "title_of_class": "COM",
+      "value": 107893500,
+      "shares": 975000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

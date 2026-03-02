@@ -1,0 +1,100 @@
+{
+  "investor_id": "tepper",
+  "cik": "0001047644",
+  "quarter": "2015-Q3",
+  "report_date": "2015-09-30",
+  "filing_date": "2015-11-13",
+  "accession_number": "0001104659-15-078791",
+  "total_value": 840450000,
+  "num_holdings": 8,
+  "holdings": [
+    {
+      "cusip": "609207105",
+      "name": "Mondelez International, Inc.",
+      "ticker": "MDLZ",
+      "title_of_class": "COM",
+      "value": 101245000,
+      "shares": 2418076,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "69344F106",
+      "name": "PMC-Sierra, Inc.",
+      "ticker": "BSRR",
+      "title_of_class": "COM",
+      "value": 24763000,
+      "shares": 3657795,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "436440101",
+      "name": "Hologic, Inc.",
+      "ticker": "HOLX",
+      "title_of_class": "COM",
+      "value": 290279000,
+      "shares": 7418332,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G16962105",
+      "name": "Bunge Limited",
+      "ticker": "SLB",
+      "title_of_class": "COM",
+      "value": 362591000,
+      "shares": 4946670,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78467Y107",
+      "name": "SPDR S&P MidCap 400 ETF Trust",
+      "ticker": "MDY",
+      "title_of_class": "COM",
+      "value": 7940000,
+      "shares": 31900,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78462F103",
+      "name": "SPDR S&P 500 ETF Trust",
+      "ticker": "SPY",
+      "title_of_class": "COM",
+      "value": 13299000,
+      "shares": 69400,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78469X107",
+      "name": "SPX Flow, Inc.",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 29960000,
+      "shares": 870182,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "784635104",
+      "name": "SPX Corporation",
+      "ticker": "WTBA",
+      "title_of_class": "COM",
+      "value": 10373000,
+      "shares": 870182,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

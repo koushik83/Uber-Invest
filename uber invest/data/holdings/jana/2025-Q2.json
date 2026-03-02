@@ -1,0 +1,122 @@
+{
+  "investor_id": "jana",
+  "cik": "0001998597",
+  "quarter": "2025-Q2",
+  "report_date": "2025-06-30",
+  "filing_date": "2025-08-14",
+  "accession_number": "0000902664-25-003587",
+  "total_value": 1991086576,
+  "num_holdings": 10,
+  "holdings": [
+    {
+      "cusip": "29332G102",
+      "name": "ENHABIT INC",
+      "ticker": "EHAB",
+      "title_of_class": "COM",
+      "value": 20602078,
+      "shares": 2137145,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "358039105",
+      "name": "FRESHPET INC",
+      "ticker": "FRPT",
+      "title_of_class": "COM",
+      "value": 68419613,
+      "shares": 1006763,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "513272104",
+      "name": "LAMB WESTON HLDGS INC",
+      "ticker": "LW",
+      "title_of_class": "COM",
+      "value": 374990555,
+      "shares": 7232219,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "570535104",
+      "name": "MARKEL GROUP INC",
+      "ticker": "MKL",
+      "title_of_class": "COM",
+      "value": 302464220,
+      "shares": 151432,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "589378108",
+      "name": "MERCURY SYS INC",
+      "ticker": "MRCY",
+      "title_of_class": "COM",
+      "value": 363738824,
+      "shares": 6753413,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "753422104",
+      "name": "RAPID7 INC",
+      "ticker": "RPD",
+      "title_of_class": "COM",
+      "value": 132532911,
+      "shares": 5729914,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78462F103",
+      "name": "SPDR S&P 500 ETF TR",
+      "ticker": "SPY",
+      "title_of_class": "TR UNIT",
+      "value": 316989796,
+      "shares": 513053,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "89469A104",
+      "name": "TREEHOUSE FOODS INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 113050365,
+      "shares": 5821337,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "896239100",
+      "name": "TRIMBLE INC",
+      "ticker": "TRMB",
+      "title_of_class": "COM",
+      "value": 274203994,
+      "shares": 3608897,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "96208T104",
+      "name": "WEX INC",
+      "ticker": "WEX",
+      "title_of_class": "COM",
+      "value": 24094220,
+      "shares": 164029,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

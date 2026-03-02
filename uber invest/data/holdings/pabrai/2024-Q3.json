@@ -1,0 +1,67 @@
+{
+  "investor_id": "pabrai",
+  "cik": "0001549575",
+  "quarter": "2024-Q3",
+  "report_date": "2024-09-30",
+  "filing_date": "2024-11-13",
+  "accession_number": "0001549575-24-000013",
+  "total_value": 246895462,
+  "num_holdings": 5,
+  "holdings": [
+    {
+      "cusip": "020764106",
+      "name": "ALPHA METALLURGICAL RESOUR I",
+      "ticker": "ATGL",
+      "title_of_class": "COM",
+      "value": 113295117,
+      "shares": 479698,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "03940R107",
+      "name": "ARCH RESOURCES INC",
+      "ticker": "AXREF",
+      "title_of_class": "CL A",
+      "value": 4283236,
+      "shares": 31002,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "20854L108",
+      "name": "CONSOL ENERGY INC NEW",
+      "ticker": "CEHCF",
+      "title_of_class": "COM",
+      "value": 80647685,
+      "shares": 770642,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "Y1968P121",
+      "name": "DANAOS CORPORATION",
+      "ticker": "DAN",
+      "title_of_class": "SHS",
+      "value": 4041217,
+      "shares": 46590,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "93627C101",
+      "name": "WARRIOR MET COAL INC",
+      "ticker": "HCC",
+      "title_of_class": "COM",
+      "value": 44628207,
+      "shares": 698407,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

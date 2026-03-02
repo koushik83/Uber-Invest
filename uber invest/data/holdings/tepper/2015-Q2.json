@@ -1,0 +1,111 @@
+{
+  "investor_id": "tepper",
+  "cik": "0001047644",
+  "quarter": "2015-Q2",
+  "report_date": "2015-06-30",
+  "filing_date": "2015-08-14",
+  "accession_number": "0001104659-15-060106",
+  "total_value": 1608528000,
+  "num_holdings": 9,
+  "holdings": [
+    {
+      "cusip": "55973B102",
+      "name": "Magnum Hunter Resources Corporation",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 38763000,
+      "shares": 20729080,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "609207105",
+      "name": "Mondelez International, Inc.",
+      "ticker": "MDLZ",
+      "title_of_class": "COM",
+      "value": 181760000,
+      "shares": 4418076,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "69344F106",
+      "name": "PMC-Sierra, Inc.",
+      "ticker": "BSRR",
+      "title_of_class": "COM",
+      "value": 148149000,
+      "shares": 17307171,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "436440101",
+      "name": "Hologic, Inc.",
+      "ticker": "HOLX",
+      "title_of_class": "COM",
+      "value": 493575000,
+      "shares": 12968332,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "297425100",
+      "name": "Esterline Technologies Corporation",
+      "ticker": "WAL-PA",
+      "title_of_class": "COM",
+      "value": 205319000,
+      "shares": 2153543,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G16962105",
+      "name": "Bunge Limited",
+      "ticker": "SLB",
+      "title_of_class": "COM",
+      "value": 434318000,
+      "shares": 4946670,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78467Y107",
+      "name": "SPDR S&P MidCap 400 ETF Trust",
+      "ticker": "MDY",
+      "title_of_class": "COM",
+      "value": 3661000,
+      "shares": 13400,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78462F103",
+      "name": "SPDR S&P 500 ETF Trust",
+      "ticker": "SPY",
+      "title_of_class": "COM",
+      "value": 6093000,
+      "shares": 29600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "784635104",
+      "name": "SPX Corporation",
+      "ticker": "WTBA",
+      "title_of_class": "COM",
+      "value": 96890000,
+      "shares": 1338440,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

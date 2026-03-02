@@ -1,0 +1,100 @@
+{
+  "investor_id": "burry",
+  "cik": "0001649339",
+  "quarter": "2025-Q3",
+  "report_date": "2025-09-30",
+  "filing_date": "2025-11-03",
+  "accession_number": "0001649339-25-000007",
+  "total_value": 1381198076,
+  "num_holdings": 8,
+  "holdings": [
+    {
+      "cusip": "116794207",
+      "name": "BRUKER CORP",
+      "ticker": "BRKRP",
+      "title_of_class": "6.375 PREF SER A",
+      "value": 13137181,
+      "shares": 48334,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "406216101",
+      "name": "HALLIBURTON CO",
+      "ticker": "HAL",
+      "title_of_class": "COM",
+      "value": 61500000,
+      "shares": 2500000,
+      "share_type": "SH",
+      "put_call": "CALL",
+      "sector": null
+    },
+    {
+      "cusip": "550021109",
+      "name": "LULULEMON ATHLETICA INC",
+      "ticker": "LULU",
+      "title_of_class": "COM",
+      "value": 17793000,
+      "shares": 100000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "60855R100",
+      "name": "MOLINA HEALTHCARE INC",
+      "ticker": "MOH",
+      "title_of_class": "COM",
+      "value": 23920000,
+      "shares": 125000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "ticker": "NVDA",
+      "title_of_class": "COM",
+      "value": 186580000,
+      "shares": 1000000,
+      "share_type": "SH",
+      "put_call": "PUT",
+      "sector": null
+    },
+    {
+      "cusip": "69608A108",
+      "name": "PALANTIR TECHNOLOGIES INC",
+      "ticker": "PLTR",
+      "title_of_class": "CL A",
+      "value": 912100000,
+      "shares": 5000000,
+      "share_type": "SH",
+      "put_call": "PUT",
+      "sector": null
+    },
+    {
+      "cusip": "717081103",
+      "name": "PFIZER INC",
+      "ticker": "PFE",
+      "title_of_class": "COM",
+      "value": 152880000,
+      "shares": 6000000,
+      "share_type": "SH",
+      "put_call": "CALL",
+      "sector": null
+    },
+    {
+      "cusip": "78442P106",
+      "name": "SLM CORP",
+      "ticker": "SLMBP",
+      "title_of_class": "COM",
+      "value": 13287895,
+      "shares": 480054,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

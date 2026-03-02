@@ -1,0 +1,133 @@
+{
+  "investor_id": "ackman",
+  "cik": "0001336528",
+  "quarter": "2024-Q3",
+  "report_date": "2024-09-30",
+  "filing_date": "2024-11-14",
+  "accession_number": "0001172661-24-005218",
+  "total_value": 12916077581,
+  "num_holdings": 11,
+  "holdings": [
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 1261880235,
+      "shares": 7547582,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 661159035,
+      "shares": 3986488,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "11271J107",
+      "name": "BROOKFIELD CORP",
+      "ticker": "BKFDF",
+      "title_of_class": "CL A LTD VT SH",
+      "value": 1739912181,
+      "shares": 32735883,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "13646K108",
+      "name": "CANADIAN PACIFIC KANSAS CITY",
+      "ticker": "CP",
+      "title_of_class": "COM",
+      "value": 1272634267,
+      "shares": 14877651,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "169656105",
+      "name": "CHIPOTLE MEXICAN GRILL INC",
+      "ticker": "CMG",
+      "title_of_class": "COM",
+      "value": 1660329807,
+      "shares": 28815165,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 1698823724,
+      "shares": 7370168,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "44267T102",
+      "name": "HOWARD HUGHES HOLDINGS INC",
+      "ticker": "HHH",
+      "title_of_class": "COM",
+      "value": 1459715316,
+      "shares": 18852064,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "654106103",
+      "name": "NIKE INC",
+      "ticker": "NKE",
+      "title_of_class": "CL B",
+      "value": 1439181879,
+      "shares": 16280338,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "76131D103",
+      "name": "RESTAURANT BRANDS INTL INC",
+      "ticker": "QSR",
+      "title_of_class": "COM",
+      "value": 1658825918,
+      "shares": 23000914,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "812215101",
+      "name": "SEAPORT ENTMT GROUP INC",
+      "ticker": "SEG",
+      "title_of_class": "RIGHT 10/10/2024",
+      "value": 6179285,
+      "shares": 2094673,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "812215200",
+      "name": "SEAPORT ENTMT GROUP INC",
+      "ticker": "SEG",
+      "title_of_class": "COMMON STOCK",
+      "value": 57435934,
+      "shares": 2094673,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

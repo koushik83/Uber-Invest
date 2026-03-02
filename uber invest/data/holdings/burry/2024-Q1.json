@@ -1,0 +1,188 @@
+{
+  "investor_id": "burry",
+  "cik": "0001649339",
+  "quarter": "2024-Q1",
+  "report_date": "2024-03-31",
+  "filing_date": "2024-05-15",
+  "accession_number": "0000905148-24-001390",
+  "total_value": 103486463,
+  "num_holdings": 16,
+  "holdings": [
+    {
+      "cusip": "00751Y106",
+      "name": "ADVANCE AUTO PARTS INC",
+      "ticker": "AAP",
+      "title_of_class": "COM",
+      "value": 7232650,
+      "shares": 85000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "01609W102",
+      "name": "ALIBABA GROUP HLDG LTD",
+      "ticker": "BBAAY",
+      "title_of_class": "SPONSORED ADS",
+      "value": 9045000,
+      "shares": 125000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "910710102",
+      "name": "AMERICAN COASTAL INS CORP",
+      "ticker": "AFGB",
+      "title_of_class": "COM",
+      "value": 2692725,
+      "shares": 251892,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "056752108",
+      "name": "BAIDU INC",
+      "ticker": "BAIDF",
+      "title_of_class": "SPON ADR REP A",
+      "value": 4211200,
+      "shares": 40000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "852234103",
+      "name": "BLOCK INC",
+      "ticker": "BSQKZ",
+      "title_of_class": "CL A",
+      "value": 7612200,
+      "shares": 90000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "055622104",
+      "name": "BP PLC",
+      "ticker": "BPPFF",
+      "title_of_class": "SPONSORED ADR",
+      "value": 6594000,
+      "shares": 175000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "172967424",
+      "name": "CITIGROUP INC",
+      "ticker": "C-PR",
+      "title_of_class": "COM NEW",
+      "value": 7905000,
+      "shares": 125000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "336433107",
+      "name": "FIRST SOLAR INC",
+      "ticker": "FSLR",
+      "title_of_class": "COM",
+      "value": 5064000,
+      "shares": 30000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "40412C101",
+      "name": "HCA HEALTHCARE INC",
+      "ticker": "HCA",
+      "title_of_class": "COM",
+      "value": 8338250,
+      "shares": 25000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "47215P106",
+      "name": "JD.COM INC",
+      "ticker": "JDCMF",
+      "title_of_class": "SPON ADR CL A",
+      "value": 9860400,
+      "shares": 360000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "Y7388L103",
+      "name": "SAFE BULKERS INC",
+      "ticker": "SB-PC",
+      "title_of_class": "COM",
+      "value": 1984000,
+      "shares": 400000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "85207H104",
+      "name": "SPROTT PHYSICAL GOLD TR",
+      "ticker": "PHYS",
+      "title_of_class": "UNIT",
+      "value": 7624612,
+      "shares": 440729,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "Y8162K204",
+      "name": "STAR BULK CARRIERS CORP.",
+      "ticker": "SBLK",
+      "title_of_class": "SHS PAR",
+      "value": 5967500,
+      "shares": 250000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "125523100",
+      "name": "THE CIGNA GROUP",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 7263800,
+      "shares": 20000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "88339P101",
+      "name": "THE REALREAL INC",
+      "ticker": "REAL",
+      "title_of_class": "COM",
+      "value": 5523626,
+      "shares": 1412692,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "516806205",
+      "name": "VITAL ENERGY INC",
+      "ticker": "TLN",
+      "title_of_class": "COM",
+      "value": 6567500,
+      "shares": 125000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

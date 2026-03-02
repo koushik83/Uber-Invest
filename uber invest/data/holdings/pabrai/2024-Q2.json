@@ -1,0 +1,56 @@
+{
+  "investor_id": "pabrai",
+  "cik": "0001549575",
+  "quarter": "2024-Q2",
+  "report_date": "2024-06-30",
+  "filing_date": "2024-08-13",
+  "accession_number": "0001549575-24-000009",
+  "total_value": 232830310,
+  "num_holdings": 4,
+  "holdings": [
+    {
+      "cusip": "020764106",
+      "name": "ALPHA METALLURGICAL RESOUR I",
+      "ticker": "ATGL",
+      "title_of_class": "COM",
+      "value": 125946800,
+      "shares": 448960,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "03940R107",
+      "name": "ARCH RESOURCES INC",
+      "ticker": "AXREF",
+      "title_of_class": "CL A",
+      "value": 59733225,
+      "shares": 392388,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "20854L108",
+      "name": "CONSOL ENERGY INC NEW",
+      "ticker": "CEHCF",
+      "title_of_class": "COM",
+      "value": 17553037,
+      "shares": 172038,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "93627C101",
+      "name": "WARRIOR MET COAL INC",
+      "ticker": "HCC",
+      "title_of_class": "COM",
+      "value": 29597248,
+      "shares": 471519,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

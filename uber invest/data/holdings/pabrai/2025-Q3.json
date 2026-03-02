@@ -1,0 +1,67 @@
+{
+  "investor_id": "pabrai",
+  "cik": "0001549575",
+  "quarter": "2025-Q3",
+  "report_date": "2025-09-30",
+  "filing_date": "2025-11-13",
+  "accession_number": "0001549575-25-000012",
+  "total_value": 336857377,
+  "num_holdings": 5,
+  "holdings": [
+    {
+      "cusip": "020764106",
+      "name": "ALPHA METALLURGICAL RESOUR I",
+      "ticker": "ATGL",
+      "title_of_class": "COM",
+      "value": 87295880,
+      "shares": 532000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G65431127",
+      "name": "NOBLE CORP PLC",
+      "ticker": "NE-WT",
+      "title_of_class": "ORD SHS A",
+      "value": 6758920,
+      "shares": 239000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "H8817H100",
+      "name": "TRANSOCEAN LTD",
+      "ticker": "RIG",
+      "title_of_class": "REGISTERED SHS",
+      "value": 76260076,
+      "shares": 24442332,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G9460G101",
+      "name": "VALARIS LTD",
+      "ticker": "VAL-WT",
+      "title_of_class": "CL A",
+      "value": 52001256,
+      "shares": 1066255,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "93627C101",
+      "name": "WARRIOR MET COAL INC",
+      "ticker": "HCC",
+      "title_of_class": "COM",
+      "value": 114541245,
+      "shares": 1799831,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

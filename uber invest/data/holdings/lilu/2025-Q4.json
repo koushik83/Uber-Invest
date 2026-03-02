@@ -1,0 +1,111 @@
+{
+  "investor_id": "lilu",
+  "cik": "0001709323",
+  "quarter": "2025-Q4",
+  "report_date": "2025-12-31",
+  "filing_date": "2026-02-17",
+  "accession_number": "0002043585-26-000011",
+  "total_value": 3568876223,
+  "num_holdings": 9,
+  "holdings": [
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 796052900,
+      "shares": 2543300,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 769217940,
+      "shares": 2451300,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "ticker": "AAPL",
+      "title_of_class": "COM",
+      "value": 30067716,
+      "shares": 110600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "060505104",
+      "name": "BK OF AMERICA CORP",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 573726285,
+      "shares": 10431387,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "084670702",
+      "name": "BERKSHIRE HATHAWAY INC DEL",
+      "ticker": "BRK-A",
+      "title_of_class": "CL B NEW",
+      "value": 451253535,
+      "shares": 897749,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "227046109",
+      "name": "CROCS INC",
+      "ticker": "CROX",
+      "title_of_class": "COM",
+      "value": 53720158,
+      "shares": 628159,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "27579R104",
+      "name": "EAST WEST BANCORP INC",
+      "ticker": "EWBC",
+      "title_of_class": "COM",
+      "value": 312034089,
+      "shares": 2776351,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "674599105",
+      "name": "OCCIDENTAL PETE CORP",
+      "ticker": "OXY-WT",
+      "title_of_class": "COM",
+      "value": 60302480,
+      "shares": 1466500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "722304102",
+      "name": "PDD HOLDINGS INC",
+      "ticker": "PDD",
+      "title_of_class": "SPONSORED ADS",
+      "value": 522501120,
+      "shares": 4608000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

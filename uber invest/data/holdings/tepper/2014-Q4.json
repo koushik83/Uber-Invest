@@ -1,0 +1,144 @@
+{
+  "investor_id": "tepper",
+  "cik": "0001047644",
+  "quarter": "2014-Q4",
+  "report_date": "2014-12-31",
+  "filing_date": "2015-02-13",
+  "accession_number": "0001104659-15-010465",
+  "total_value": 2780783000,
+  "num_holdings": 12,
+  "holdings": [
+    {
+      "cusip": "55973B102",
+      "name": "Magnum Hunter Resources Corporation",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 94919000,
+      "shares": 30229080,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "609207105",
+      "name": "Mondelez International, Inc.",
+      "ticker": "MDLZ",
+      "title_of_class": "COM",
+      "value": 452903000,
+      "shares": 12468076,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "184496107",
+      "name": "Clean Harbors, Inc.",
+      "ticker": "CLH",
+      "title_of_class": "COM",
+      "value": 282341000,
+      "shares": 5875984,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "40075T607",
+      "name": "Guaranty Bancorp",
+      "ticker": "FGBIP",
+      "title_of_class": "COM",
+      "value": 50806000,
+      "shares": 3518400,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "69344F106",
+      "name": "PMC-Sierra, Inc.",
+      "ticker": "BSRR",
+      "title_of_class": "COM",
+      "value": 208917000,
+      "shares": 22807519,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "436440101",
+      "name": "Hologic, Inc.",
+      "ticker": "HOLX",
+      "title_of_class": "COM",
+      "value": 346773000,
+      "shares": 12968332,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "297425100",
+      "name": "Esterline Technologies Corporation",
+      "ticker": "WAL-PA",
+      "title_of_class": "COM",
+      "value": 271847000,
+      "shares": 2478543,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G16962105",
+      "name": "Bunge Limited",
+      "ticker": "SLB",
+      "title_of_class": "COM",
+      "value": 449702000,
+      "shares": 4946670,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78467Y107",
+      "name": "SPDR S&P MidCap 400 ETF Trust",
+      "ticker": "MDY",
+      "title_of_class": "COM",
+      "value": 8790000,
+      "shares": 33300,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78462F103",
+      "name": "SPDR S&P 500 ETF Trust",
+      "ticker": "SPY",
+      "title_of_class": "COM",
+      "value": 19975000,
+      "shares": 97200,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "563571108",
+      "name": "The Manitowoc Company, Inc.",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 225254000,
+      "shares": 10192469,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "784635104",
+      "name": "SPX Corporation",
+      "ticker": "WTBA",
+      "title_of_class": "COM",
+      "value": 368556000,
+      "shares": 4289521,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

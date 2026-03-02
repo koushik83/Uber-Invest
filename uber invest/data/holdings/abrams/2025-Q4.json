@@ -1,0 +1,144 @@
+{
+  "investor_id": "abrams",
+  "cik": "0001358706",
+  "quarter": "2025-Q4",
+  "report_date": "2025-12-31",
+  "filing_date": "2026-02-13",
+  "accession_number": "0001172661-26-000791",
+  "total_value": 5673786822,
+  "num_holdings": 12,
+  "holdings": [
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 599905190,
+      "shares": 1916630,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "043436104",
+      "name": "ASBURY AUTOMOTIVE GROUP INC",
+      "ticker": "ABG",
+      "title_of_class": "COM",
+      "value": 501216555,
+      "shares": 2155492,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "22266T109",
+      "name": "COUPANG INC",
+      "ticker": "CPNG",
+      "title_of_class": "CL A",
+      "value": 307093771,
+      "shares": 13017964,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "29273V100",
+      "name": "ENERGY TRANSFER L P",
+      "ticker": "ET-PI",
+      "title_of_class": "COM UT LTD PTN",
+      "value": 100843226,
+      "shares": 6115417,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "536797103",
+      "name": "LITHIA MTRS INC",
+      "ticker": "LAD",
+      "title_of_class": "COM",
+      "value": 827679164,
+      "shares": 2490534,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "53947R105",
+      "name": "LOAR HOLDINGS INC",
+      "ticker": "LOAR",
+      "title_of_class": "COM SHS",
+      "value": 2179416320,
+      "shares": 32050240,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 214631564,
+      "shares": 325155,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67080N101",
+      "name": "NUVATION BIO INC",
+      "ticker": "NUVB",
+      "title_of_class": "COM CL A",
+      "value": 34151156,
+      "shares": 3811513,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "88023U101",
+      "name": "SOMNIGROUP INTERNATIONAL INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 518193262,
+      "shares": 5804136,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023586100",
+      "name": "U HAUL HOLDING COMPANY",
+      "ticker": "UHAL-B",
+      "title_of_class": "COM",
+      "value": 1834974,
+      "shares": 36401,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023586506",
+      "name": "U HAUL HOLDING COMPANY",
+      "ticker": "UHAL-B",
+      "title_of_class": "COM SER N",
+      "value": 151973661,
+      "shares": 3251469,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G96629103",
+      "name": "WILLIS TOWERS WATSON PLC LTD",
+      "ticker": "WTW",
+      "title_of_class": "SHS",
+      "value": 236847979,
+      "shares": 720779,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "investor_id": "ubben",
+  "cik": "0001817187",
+  "quarter": "2024-Q3",
+  "report_date": "2024-09-30",
+  "filing_date": "2024-11-14",
+  "accession_number": "0000902664-24-006622",
+  "total_value": 26049270,
+  "num_holdings": 1,
+  "holdings": [
+    {
+      "cusip": "45688C107",
+      "name": "INGEVITY CORP",
+      "ticker": "NGVT",
+      "title_of_class": "COM",
+      "value": 26049270,
+      "shares": 667930,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

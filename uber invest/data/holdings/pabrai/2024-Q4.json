@@ -1,0 +1,45 @@
+{
+  "investor_id": "pabrai",
+  "cik": "0001549575",
+  "quarter": "2024-Q4",
+  "report_date": "2024-12-31",
+  "filing_date": "2025-02-13",
+  "accession_number": "0001549575-25-000002",
+  "total_value": 253439237,
+  "num_holdings": 3,
+  "holdings": [
+    {
+      "cusip": "020764106",
+      "name": "ALPHA METALLURGICAL RESOUR I",
+      "ticker": "ATGL",
+      "title_of_class": "COM",
+      "value": 97508670,
+      "shares": 487251,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "20854L108",
+      "name": "CONSOL ENERGY INC NEW",
+      "ticker": "CEHCF",
+      "title_of_class": "COM",
+      "value": 63469266,
+      "shares": 594950,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "93627C101",
+      "name": "WARRIOR MET COAL INC",
+      "ticker": "HCC",
+      "title_of_class": "COM",
+      "value": 92461301,
+      "shares": 1704670,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

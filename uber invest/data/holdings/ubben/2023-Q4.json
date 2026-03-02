@@ -1,0 +1,56 @@
+{
+  "investor_id": "ubben",
+  "cik": "0001817187",
+  "quarter": "2023-Q4",
+  "report_date": "2023-12-31",
+  "filing_date": "2024-02-12",
+  "accession_number": "0000902664-24-001429",
+  "total_value": 309372779,
+  "num_holdings": 4,
+  "holdings": [
+    {
+      "cusip": "29415B103",
+      "name": "ENVIVA INC",
+      "ticker": "RVPH",
+      "title_of_class": "COM",
+      "value": 2936325,
+      "shares": 2948710,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "45688C107",
+      "name": "INGEVITY CORP",
+      "ticker": "NGVT",
+      "title_of_class": "COM",
+      "value": 113394344,
+      "shares": 2401405,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "86272C103",
+      "name": "STRATEGIC ED INC",
+      "ticker": "STRA",
+      "title_of_class": "COM",
+      "value": 190744050,
+      "shares": 2065000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "904677200",
+      "name": "UNIFI INC",
+      "ticker": "UFI",
+      "title_of_class": "COM NEW",
+      "value": 2298060,
+      "shares": 345054,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}
