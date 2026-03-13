@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Shark Watchlist HQ</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🦈</text></svg>" />
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: #ffffff; color: #1a1a1a; font-family: 'JetBrains Mono', 'Fira Code', monospace; -webkit-font-smoothing: antialiased; }
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: #f5f5f5; }
+    ::-webkit-scrollbar-thumb { background: #e0c8c8; border-radius: 3px; }
+    ::-webkit-scrollbar-thumb:hover { background: #c89898; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+    @keyframes shimmer { 0% { background-position: -200% 0; } 100% { background-position: 200% 0; } }
+    .fade-in { animation: fadeIn 0.3s ease-out forwards; }
+    .loading-shimmer { background: linear-gradient(90deg, #f0f0f0 25%, #e8e8e8 50%, #f0f0f0 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.9/babel.min.js"></script>
+  <script type="text/babel">
+    const { useState, useCallback } = React;
+
+    const WATCHLIST = [
+      {
+        id: 1, tier: 1,
+        name: "Knowledge Marine (KMEW)", ticker: "KMEW",
+        sector: "Dredging / Marine",
+        entryLow: 1100, entryHigh: 1200,
+        searchQuery: "Knowledge Marine KMEW NSE share price",
+        triggers: ["Q4 FY26 sustains Q3 run-rate (₹80+ Cr rev)", "Debtor days improve to <90", "Preferential issue funds deployed"],
+        thesis: "Best business on watchlist. 39% OPM, 116% OCF/PAT, fleet moat, tonnage tax = near-zero tax for a decade. Potential 10x from right entry.",
+        verdict: "WAIT FOR PRICE", verdictColor: "#b45309", allocation: "30%", lastAnalysis: "Mar 2026",
+      },
+      {
+        id: 2, tier: 1,
+        name: "CFF Fluid Control", ticker: "CFF",
+        sector: "Defence / Fluid Systems",
+        entryLow: 450, entryHigh: 520,
+        searchQuery: "CFF Fluid Control BSE share price",
+        triggers: ["TKMS / P75I AEM confirmation", "Flash Forge RPT clarity in FY26 annual report", "Order book crosses ₹500 Cr confirmed"],
+        thesis: "P75I submarine is the 10x catalyst. MDL-TKMS-Atlas Elektronik chain = warm handshake. 65-70% selection probability. Flash Forge RPT = 5-6/10 risk.",
+        verdict: "WAIT FOR CATALYST", verdictColor: "#2563eb", allocation: "20%", lastAnalysis: "Feb 2026",
+      },
+      {
+        id: 3, tier: 1,
+        name: "KRN Heat Exchangers", ticker: "KRN",
+        sector: "HVAC / Data Center Cooling",
+        entryLow: 500, entryHigh: 580,
+        searchQuery: "KRN Heat Exchanger NSE share price",
+        triggers: ["Q4 FY26 positive OCF", "Confirmed hyperscaler DC contract", "Neemrana utilization >50%"],
+        thesis: "Real thesis = commercial HVAC compounder (Daikin 33% rev). DC is optionality. Liquid cooling disruption is 2028+. OCF needs to normalize.",
+        verdict: "WAIT FOR CASH FLOW", verdictColor: "#b45309", allocation: "10%", lastAnalysis: "Feb 2026",
+      },
+      {
+        id: 4, tier: 1,
+        name: "Balu Forge Industries", ticker: "BALUFORGE",
+        sector: "Defence / Forgings",
+        entryLow: 420, entryHigh: 460,
+        searchQuery: "Balu Forge Industries NSE share price",
+        triggers: ["First NATO artillery shell shipment from Belgaum (Apr 2026)", "IT assessment order outcome", "Clean Q4 FY26 results"],
+        thesis: "Cheapest defence-adjacent at ~22x PE. NATO ammo MOU = ₹1,260 Cr/yr potential. Re-rating from auto PE to defence PE is the alpha. IT probe is open risk.",
+        verdict: "CONDITIONAL BUY", verdictColor: "#16a34a", allocation: "15%", lastAnalysis: "Mar 2026",
+      },
+      {
+        id: 5, tier: 1,
+        name: "Astra Microwave", ticker: "ASTRAMICRO",
+        sector: "Defence / RF Electronics",
+        entryLow: 750, entryHigh: 850,
+        searchQuery: "Astra Microwave Products NSE share price",
+        triggers: ["SEBI inquiry closure (~60 days from Mar 2026)", "QRSAM production order confirmation", "Space/Met demerger ratio announced", "Rafael JV revenue >₹400 Cr"],
+        thesis: "Best defence electronics setup. ₹2,566 Cr order book, Rafael JV, DRDO-scientist founders, ex-DG DRDO chairman. 6.5% promoter = YELLOW (diluted, not sold). Demerger unlocks value.",
+        verdict: "WAIT FOR PRICE + SEBI", verdictColor: "#2563eb", allocation: "25%", lastAnalysis: "Mar 2026",
+      },
+      {
+        id: 6, tier: 1,
+        name: "Shilchar Technologies", ticker: "SHILCTECH",
+        sector: "Power / Transformers",
+        entryLow: 3200, entryHigh: 3600,
+        searchQuery: "Shilchar Technologies BSE share price",
+        triggers: ["Price correction into ₹3,200-3,600 zone", "FY26 revenue crosses ₹750 Cr", "Capacity expansion beyond 14,000 MVA"],
+        thesis: "Cleanest company on watchlist. 52.9% ROE, zero debt, 64% promoter, zero pledge. Structural transformer shortage globally. FY26 guidance ₹750-800 Cr. 17 acres, 40% utilized = huge runway.",
+        verdict: "NEAR BUY ZONE", verdictColor: "#16a34a", allocation: "—", lastAnalysis: "Mar 2026",
+      },
+      {
+        id: 7, tier: 1,
+        name: "Pitti Engineering", ticker: "PITTIENG",
+        sector: "Electrical Laminations / Electrification",
+        entryLow: 700, entryHigh: 750,
+        searchQuery: "Pitti Engineering NSE share price",
+        triggers: ["Price correction to ₹700-750", "Q4 FY26 EBITDA margin >17%", "Capex cycle completion guidance", "RBI rate cut = ₹4-6 Cr PAT uplift per 25 bps"],
+        thesis: "India's #1 electrical lamination manufacturer. 237% OCF/PAT (best on watchlist). CCC halved to 54 days. GE/Siemens/ABB customer base. Picks-and-shovels for ALL electrification themes. 26x PE cheapest quality industrial. Debt (₹778 Cr) is the concern. 3-4x potential, not 10x.",
+        verdict: "WAIT FOR PRICE", verdictColor: "#b45309", allocation: "—", lastAnalysis: "Mar 2026",
+      },
+      {
+        id: 8, tier: 2,
+        name: "Unimech Aerospace", ticker: "UNIMECH",
+        sector: "Aerospace / Precision Tooling",
+        entryLow: null, entryHigh: null,
+        searchQuery: "Unimech Aerospace NSE share price",
+        triggers: ["Q4 FY26 revenue >₹80 Cr", "Positive OCF", "FTWZ approval"],
+        thesis: "Best precision aerospace startup in India but Q3 FY26 was a disaster (-44% QoQ). 59% customer concentration, 82% US revenue unhedged. Wait for recovery proof.",
+        verdict: "WATCH & VERIFY", verdictColor: "#64748b", allocation: "—", lastAnalysis: "Feb 2026",
+      },
+      {
+        id: 9, tier: 2,
+        name: "Aimtron Electronics", ticker: "AIMTRON",
+        sector: "EMS / Defence Electronics",
+        entryLow: null, entryHigh: null,
+        searchQuery: "Aimtron Electronics BSE share price",
+        triggers: ["FY26 OCF turns positive", "RPT concentration drops below 40%", "Debtor days normalize to <120"],
+        thesis: "Real EMS business but broken cash flow. Negative ₹19 Cr OCF in FY25 despite positive PAT. 200-day debtor days. 52-56% revenue from promoter's US entity = structural RPT.",
+        verdict: "WATCH & VERIFY", verdictColor: "#64748b", allocation: "—", lastAnalysis: "Mar 2026",
+      },
+      {
+        id: 10, tier: 2,
+        name: "Aeroflex Industries", ticker: "AEROFLEX",
+        sector: "SS Hoses / DC Liquid Cooling",
+        entryLow: 140, entryHigh: 160,
+        searchQuery: "Aeroflex Industries NSE share price",
+        triggers: ["Price correction to ₹140-160", "Vertiv skid orders >₹50 Cr confirmed", "Debtor days improve to <100 for 2 qtrs", "US tariff clarity"],
+        thesis: "Good business (22% OPM, debt-free, niche moat). Vertiv DC liquid cooling exclusive = game-changer IF it scales. Kacholia invested. But 57x PE, 113-day debtors rising, 74% export exposure, SAT Group entity web. 10x candidate from ₹150.",
+        verdict: "WATCH & VERIFY", verdictColor: "#64748b", allocation: "—", lastAnalysis: "Mar 2026",
+      },
+    ];
+
+    const REJECTED = [
+      { name: "GNG Electronics", reason: "UAE shell, CCC 162d, cyclical margins" },
+      { name: "Zen Technologies", reason: "Order book -66%, OCF negative ₹146 Cr" },
+      { name: "Rossell Techsys", reason: "120x PE, no IP, build-to-print" },
+      { name: "Frontier Springs", reason: "Single customer, not a 10x" },
+      { name: "Premier Explosives", reason: "SEBI inquiry risk" },
+      { name: "Apollo Micro", reason: "High promoter pledge" },
+      { name: "DCX Systems", reason: "Declining revenue, losses" },
+      { name: "RRP Defense", reason: "455x PE, pure hype" },
+    ];
+
+    const ALERTS = [
+      { name: "KMEW", watch: "₹1,200", buy: "₹1,100" },
+      { name: "CFF", watch: "₹520", buy: "₹450" },
+      { name: "KRN", watch: "₹580", buy: "₹500" },
+      { name: "Balu Forge", watch: "₹460", buy: "₹420" },
+      { name: "Astra", watch: "₹850", buy: "₹750" },
+      { name: "Shilchar", watch: "₹3,600", buy: "₹3,200" },
+      { name: "Pitti", watch: "₹750", buy: "₹700" },
+      { name: "Aeroflex", watch: "₹160", buy: "₹140" },
+    ];
+
+    const HIGHLIGHTS = [
+      { label: "BEST QUALITY", value: "KMEW", sub: "39% OPM · 116% OCF/PAT", color: "#c1121f" },
+      { label: "BEST CASH FLOW", value: "PITTI", sub: "237% OCF/PAT · CCC 54d", color: "#9b1c1c" },
+      { label: "CHEAPEST PE", value: "BALU", sub: "~22x PE · NATO catalyst", color: "#dc2626" },
+      { label: "CLEANEST", value: "SHILCHAR", sub: "52.9% ROE · 0 debt · 0 pledge", color: "#7f1d1d" },
+      { label: "BEST DEFENCE", value: "ASTRA", sub: "₹2,566 Cr order book", color: "#b91c1c" },
+    ];
+
+    const ALLOC = [
+      { name: "KMEW", pct: "30%", color: "#c1121f", why: "Best quality" },
+      { name: "ASTRA", pct: "25%", color: "#9b1c1c", why: "After SEBI closure" },
+      { name: "CFF", pct: "20%", color: "#dc2626", why: "P75I binary" },
+      { name: "BALU", pct: "15%", color: "#b91c1c", why: "NATO trigger" },
+      { name: "KRN", pct: "10%", color: "#a8201a", why: "OCF pending" },
+    ];
+
+    function StockCard({ stock, isExpanded, onToggle, priceData, idx }) {
+      const price = priceData?.price;
+      const distLow = price && stock.entryLow ? (((price - stock.entryLow) / price) * 100).toFixed(1) : null;
+      const inZone = price && stock.entryLow && stock.entryHigh && price >= stock.entryLow && price <= stock.entryHigh;
+      const belowZone = price && stock.entryLow && price < stock.entryLow;
+
+      return (
+        <div className="fade-in" style={{
+          background: inZone || belowZone ? "#f0fdf4" : "#fafafa",
+          border: `1px solid ${inZone ? "#16a34a44" : belowZone ? "#16a34a66" : "#ede8e8"}`,
+          borderLeft: `3px solid ${stock.verdictColor}`,
+          borderRadius: 6, marginBottom: 8,
+          transition: "all 0.2s", animationDelay: `${idx * 40}ms`,
+        }}>
+          <div onClick={onToggle} style={{
+            padding: "12px 14px", cursor: "pointer",
+            display: "flex", alignItems: "center", gap: 10,
+          }}>
+            <div style={{
+              background: stock.tier === 1 ? "rgba(180,83,9,0.1)" : "rgba(100,116,139,0.1)",
+              color: stock.tier === 1 ? "#b45309" : "#64748b",
+              fontSize: 9, fontWeight: 800, padding: "2px 6px", borderRadius: 2, letterSpacing: "1px", flexShrink: 0,
+            }}>T{stock.tier}</div>
+            <div style={{ flex: 1, minWidth: 0 }}>
+              <div style={{ fontSize: 13, fontWeight: 700, color: "#1a1a1a", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{stock.name}</div>
+              <div style={{ fontSize: 10, color: "#999", marginTop: 2 }}>{stock.sector}</div>
+            </div>
+            <div style={{ textAlign: "right", flexShrink: 0 }}>
+              {price ? (
+                <>
+                  <div style={{ fontSize: 15, fontWeight: 800, color: inZone || belowZone ? "#16a34a" : "#1a1a1a" }}>₹{price}</div>
+                  {stock.entryLow && (
+                    <div style={{ fontSize: 9, color: inZone ? "#16a34a" : belowZone ? "#16a34a" : distLow > 0 ? "#dc2626" : "#16a34a" }}>
+                      {inZone ? "● IN BUY ZONE" : belowZone ? "● BELOW ZONE" : `${distLow}% above`}
+                    </div>
+                  )}
+                </>
+              ) : priceData === undefined ? (
+                <div style={{ fontSize: 11, color: "#bbb" }}>—</div>
+              ) : (
+                <div className="loading-shimmer" style={{ width: 60, height: 18, borderRadius: 3 }} />
+              )}
+            </div>
+            <div style={{
+              background: stock.verdictColor + "18", color: stock.verdictColor,
+              fontSize: 8, fontWeight: 800, padding: "3px 8px", borderRadius: 2,
+              letterSpacing: "1px", whiteSpace: "nowrap", flexShrink: 0,
+            }}>{stock.verdict}</div>
+            <div style={{ fontSize: 12, color: "#bbb", flexShrink: 0, transform: isExpanded ? "rotate(180deg)" : "none", transition: "0.2s" }}>▼</div>
+          </div>
+          {isExpanded && (
+            <div className="fade-in" style={{ padding: "0 14px 14px", borderTop: "1px solid #f0e8e8" }}>
+              <div style={{
+                fontSize: 11, color: "#444", lineHeight: 1.7, margin: "10px 0 12px",
+                padding: "10px 12px", background: "rgba(193,18,31,0.03)", borderRadius: 4,
+                border: "1px solid rgba(193,18,31,0.12)",
+              }}>{stock.thesis}</div>
+              {stock.entryLow && (
+                <div style={{ display: "flex", gap: 16, marginBottom: 12, flexWrap: "wrap" }}>
+                  <div style={{ fontSize: 10, color: "#888" }}>
+                    Entry: <span style={{ color: "#c1121f", fontWeight: 700 }}>₹{stock.entryLow}–{stock.entryHigh}</span>
+                  </div>
+                  {stock.allocation && stock.allocation !== "—" && (
+                    <div style={{ fontSize: 10, color: "#888" }}>
+                      Alloc: <span style={{ color: "#b45309", fontWeight: 700 }}>{stock.allocation}</span>
+                    </div>
+                  )}
+                  {price && stock.entryLow && (
+                    <div style={{ fontSize: 10, color: "#888" }}>
+                      Gap: <span style={{ color: price > stock.entryHigh ? "#dc2626" : "#16a34a", fontWeight: 700 }}>
+                        {price > stock.entryHigh ? `₹${(price - stock.entryHigh).toFixed(0)} above` : price < stock.entryLow ? `₹${(stock.entryLow - price).toFixed(0)} below` : "IN ZONE"}
+                      </span>
+                    </div>
+                  )}
+                </div>
+              )}
+              <div style={{ fontSize: 10, color: "#c1121f", fontWeight: 700, letterSpacing: "1px", marginBottom: 6 }}>TRIGGERS:</div>
+              {stock.triggers.map((t, i) => (
+                <div key={i} style={{ fontSize: 11, color: "#555", padding: "3px 0 3px 12px", borderLeft: "2px solid #f0d5d5", marginBottom: 4, lineHeight: 1.5 }}>{t}</div>
+              ))}
+              {priceData?.news && priceData.news.length > 0 && (
+                <div style={{ marginTop: 10 }}>
+                  <div style={{ fontSize: 10, color: "#b45309", fontWeight: 700, letterSpacing: "1px", marginBottom: 6 }}>LATEST NEWS:</div>
+                  {priceData.news.map((n, i) => (
+                    <div key={i} style={{ fontSize: 10, color: "#777", lineHeight: 1.5, marginBottom: 4, paddingLeft: 12, borderLeft: "2px solid rgba(180,83,9,0.2)" }}>{n}</div>
+                  ))}
+                </div>
+              )}
+              <div style={{ fontSize: 9, color: "#bbb", marginTop: 8 }}>Analysis: {stock.lastAnalysis}</div>
+            </div>
+          )}
+        </div>
+      );
+    }
+
+    function App() {
+      const [expanded, setExpanded] = useState(null);
+      const [prices, setPrices] = useState({});
+      const [loading, setLoading] = useState(false);
+      const [lastFetch, setLastFetch] = useState(null);
+      const [showRejected, setShowRejected] = useState(false);
+      const [showAlerts, setShowAlerts] = useState(false);
+      const [showAlloc, setShowAlloc] = useState(false);
+      // IMPORTANT: Update this URL after deploying your Cloudflare Worker
+      const WORKER_URL = "https://shark-watchlist-proxy.koushik83.workers.dev";
+
+      const fetchPrices = useCallback(async () => {
+        setLoading(true);
+        const results = {};
+        for (const stock of WATCHLIST) {
+          try {
+            const resp = await fetch(WORKER_URL, {
+              method: "POST",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({ query: stock.searchQuery }),
+            });
+            results[stock.id] = await resp.json();
+          } catch (e) { results[stock.id] = { price: null, news: [e.message] }; }
+        }
+        setPrices(results);
+        setLastFetch(new Date().toLocaleString("en-IN", { timeZone: "Asia/Kolkata" }));
+        setLoading(false);
+      }, []);
+
+      const tier1 = WATCHLIST.filter((s) => s.tier === 1);
+      const tier2 = WATCHLIST.filter((s) => s.tier === 2);
+
+      return (
+        <div style={{ minHeight: "100vh", maxWidth: 900, margin: "0 auto" }}>
+          {/* HEADER */}
+          <div style={{ borderBottom: "1px solid rgba(193,18,31,0.15)", padding: "28px 16px 18px" }}>
+            <div style={{ fontSize: 8, color: "#c8a0a0", letterSpacing: "3px", marginBottom: 6 }}>SHARK RESEARCH · ACTIVE MONITORING · ZERO ATTACHMENT</div>
+            <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end", flexWrap: "wrap", gap: 12 }}>
+              <div>
+                <h1 style={{ fontSize: 26, fontWeight: 800, color: "#c1121f", margin: "0 0 4px", letterSpacing: "-0.5px" }}>
+                  🦈 WATCHLIST HQ
+                </h1>
+                <div style={{ fontSize: 10, color: "#aaa" }}>
+                  {tier1.length} Tier 1 · {tier2.length} Tier 2 · {REJECTED.length} Killed · {WATCHLIST.length} Active
+                </div>
+              </div>
+              <div style={{ textAlign: "right" }}>
+                <button onClick={fetchPrices} disabled={loading} style={{
+                  background: loading ? "rgba(193,18,31,0.06)" : "rgba(193,18,31,0.08)",
+                  border: "1px solid rgba(193,18,31,0.25)", color: "#c1121f",
+                  padding: "8px 16px", borderRadius: 4,
+                  cursor: loading ? "wait" : "pointer",
+                  fontFamily: "inherit", fontSize: 11, fontWeight: 700, letterSpacing: "1px",
+                  transition: "all 0.2s",
+                }}>
+                  {loading ? "⏳ FETCHING..." : "⚡ REFRESH PRICES"}
+                </button>
+                {lastFetch && <div style={{ fontSize: 9, color: "#bbb", marginTop: 4 }}>Last: {lastFetch} IST</div>}
+              </div>
+            </div>
+          </div>
+
+
+          {/* HIGHLIGHTS */}
+          <div style={{ display: "flex", gap: 2, padding: "12px 16px", overflowX: "auto" }}>
+            {HIGHLIGHTS.map((s, i) => (
+              <div key={i} className="fade-in" style={{
+                flex: 1, minWidth: 90, background: `${s.color}08`, border: `1px solid ${s.color}22`,
+                borderRadius: 4, padding: "8px 6px", textAlign: "center", animationDelay: `${i * 60}ms`,
+              }}>
+                <div style={{ fontSize: 7, color: "#aaa", letterSpacing: "1px", marginBottom: 2 }}>{s.label}</div>
+                <div style={{ fontSize: 14, fontWeight: 800, color: s.color }}>{s.value}</div>
+                <div style={{ fontSize: 8, color: "#bbb", marginTop: 1 }}>{s.sub}</div>
+              </div>
+            ))}
+          </div>
+
+          {/* STOCKS */}
+          <div style={{ padding: "8px 16px 16px" }}>
+            {/* TIER 1 */}
+            <div style={{ fontSize: 10, fontWeight: 700, color: "#b45309", letterSpacing: "2px", marginBottom: 10, display: "flex", alignItems: "center", gap: 8 }}>
+              <span style={{ width: 20, height: 1, background: "#b45309" }} />
+              TIER 1 — CONDITIONAL BUY ({tier1.length})
+              <span style={{ flex: 1, height: 1, background: "rgba(180,83,9,0.2)" }} />
+            </div>
+            {tier1.map((stock, i) => (
+              <StockCard key={stock.id} stock={stock} idx={i}
+                isExpanded={expanded === stock.id}
+                onToggle={() => setExpanded(expanded === stock.id ? null : stock.id)}
+                priceData={prices[stock.id]} />
+            ))}
+
+            {/* TIER 2 */}
+            <div style={{ fontSize: 10, fontWeight: 700, color: "#94a3b8", letterSpacing: "2px", marginTop: 20, marginBottom: 10, display: "flex", alignItems: "center", gap: 8 }}>
+              <span style={{ width: 20, height: 1, background: "#94a3b8" }} />
+              TIER 2 — WATCH & VERIFY ({tier2.length})
+              <span style={{ flex: 1, height: 1, background: "rgba(148,163,184,0.2)" }} />
+            </div>
+            {tier2.map((stock, i) => (
+              <StockCard key={stock.id} stock={stock} idx={i + tier1.length}
+                isExpanded={expanded === stock.id}
+                onToggle={() => setExpanded(expanded === stock.id ? null : stock.id)}
+                priceData={prices[stock.id]} />
+            ))}
+
+            {/* ALLOCATION */}
+            <div onClick={() => setShowAlloc(!showAlloc)} style={{
+              fontSize: 10, fontWeight: 700, color: "#c1121f", letterSpacing: "2px",
+              marginTop: 20, marginBottom: 10, display: "flex", alignItems: "center", gap: 8, cursor: "pointer",
+            }}>
+              <span style={{ width: 20, height: 1, background: "#c1121f" }} />
+              CAPITAL ALLOCATION
+              <span style={{ flex: 1, height: 1, background: "rgba(193,18,31,0.15)" }} />
+              <span style={{ fontSize: 12, color: "#ccc", transform: showAlloc ? "rotate(180deg)" : "none", transition: "0.2s" }}>▼</span>
+            </div>
+            {showAlloc && (
+              <div className="fade-in" style={{ background: "rgba(193,18,31,0.03)", border: "1px solid rgba(193,18,31,0.12)", borderRadius: 8, padding: 16 }}>
+                <div style={{ display: "grid", gridTemplateColumns: "repeat(5, 1fr)", gap: 6 }}>
+                  {ALLOC.map((a, i) => (
+                    <div key={i} style={{ background: `${a.color}08`, border: `1px solid ${a.color}22`, borderRadius: 4, padding: "8px 6px", textAlign: "center" }}>
+                      <div style={{ fontSize: 12, fontWeight: 800, color: a.color }}>{a.name}</div>
+                      <div style={{ fontSize: 18, fontWeight: 800, color: "#1a1a1a", margin: "2px 0" }}>{a.pct}</div>
+                      <div style={{ fontSize: 8, color: "#aaa" }}>{a.why}</div>
+                    </div>
+                  ))}
+                </div>
+                <div style={{ fontSize: 9, color: "#aaa", marginTop: 8 }}>3 tranches per stock (40/30/30). Stop-loss 20-25% below entry. Shilchar + Pitti + Aeroflex TBD.</div>
+              </div>
+            )}
+
+            {/* ALERTS */}
+            <div onClick={() => setShowAlerts(!showAlerts)} style={{
+              fontSize: 10, fontWeight: 700, color: "#9a3412", letterSpacing: "2px",
+              marginTop: 16, marginBottom: 10, display: "flex", alignItems: "center", gap: 8, cursor: "pointer",
+            }}>
+              <span style={{ width: 20, height: 1, background: "#9a3412" }} />
+              BROKER ALERTS
+              <span style={{ flex: 1, height: 1, background: "rgba(154,52,18,0.2)" }} />
+              <span style={{ fontSize: 12, color: "#ccc", transform: showAlerts ? "rotate(180deg)" : "none", transition: "0.2s" }}>▼</span>
+            </div>
+            {showAlerts && (
+              <div className="fade-in" style={{ background: "rgba(154,52,18,0.03)", border: "1px solid rgba(154,52,18,0.12)", borderRadius: 8, padding: 12 }}>
+                <div style={{ display: "grid", gridTemplateColumns: "repeat(2, 1fr)", gap: 6, fontSize: 10 }}>
+                  {ALERTS.map((a, i) => (
+                    <div key={i} style={{ display: "flex", gap: 8, padding: "5px 8px", background: "#f8f4f4", borderRadius: 3, alignItems: "center" }}>
+                      <span style={{ color: "#9a3412", fontWeight: 700, minWidth: 80 }}>{a.name}</span>
+                      <span style={{ color: "#888" }}>W: <span style={{ color: "#b45309" }}>{a.watch}</span></span>
+                      <span style={{ color: "#888" }}>B: <span style={{ color: "#16a34a" }}>{a.buy}</span></span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* REJECTED */}
+            <div onClick={() => setShowRejected(!showRejected)} style={{
+              fontSize: 10, fontWeight: 700, color: "#dc2626", letterSpacing: "2px",
+              marginTop: 16, marginBottom: 10, display: "flex", alignItems: "center", gap: 8, cursor: "pointer",
+            }}>
+              <span style={{ width: 20, height: 1, background: "#dc2626" }} />
+              KILLED ({REJECTED.length})
+              <span style={{ flex: 1, height: 1, background: "rgba(220,38,38,0.15)" }} />
+              <span style={{ fontSize: 12, color: "#ccc", transform: showRejected ? "rotate(180deg)" : "none", transition: "0.2s" }}>▼</span>
+            </div>
+            {showRejected && (
+              <div className="fade-in" style={{ background: "rgba(220,38,38,0.03)", border: "1px solid rgba(220,38,38,0.1)", borderRadius: 6, padding: 12 }}>
+                {REJECTED.map((r, i) => (
+                  <div key={i} style={{ fontSize: 11, color: "#666", padding: "4px 0", display: "flex", gap: 8, flexWrap: "wrap" }}>
+                    <span style={{ color: "#dc2626", fontWeight: 700, minWidth: 140 }}>{r.name}</span>
+                    <span style={{ color: "#999", flex: 1 }}>{r.reason}</span>
+                  </div>
+                ))}
+              </div>
+            )}
+          </div>
+
+          {/* FOOTER */}
+          <div style={{ borderTop: "1px solid #f0e8e8", padding: "16px", textAlign: "center" }}>
+            <div style={{ fontSize: 8, color: "#ccc", letterSpacing: "1px" }}>
+              SHARK WATCHLIST HQ · 10 NAMES · MAR 2026 · ZERO ATTACHMENT ZERO EGO
+            </div>
+            <div style={{ fontSize: 8, color: "#ddd", marginTop: 4 }}>NOT INVESTMENT ADVICE · DYOR</div>
+          </div>
+        </div>
+      );
+    }
+
+    ReactDOM.createRoot(document.getElementById("root")).render(<App />);
+  </script>
+</body>
+</html>
