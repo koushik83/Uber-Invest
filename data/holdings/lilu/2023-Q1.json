@@ -1,0 +1,89 @@
+{
+  "investor_id": "lilu",
+  "cik": "0001709323",
+  "quarter": "2023-Q1",
+  "report_date": "2023-03-31",
+  "filing_date": "2023-05-16",
+  "accession_number": "0001709323-23-000004",
+  "total_value": 2039300000,
+  "num_holdings": 7,
+  "holdings": [
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 316576000,
+      "shares": 3044000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 263817000,
+      "shares": 2543300,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "ticker": "AAPL",
+      "title_of_class": "COM",
+      "value": 125258000,
+      "shares": 759600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "060505104",
+      "name": "BK OF AMERICA CORP",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 517120000,
+      "shares": 18081133,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "084670702",
+      "name": "BERKSHIRE HATHAWAY INC DEL",
+      "ticker": "BRK-A",
+      "title_of_class": "CL B NEW",
+      "value": 277198000,
+      "shares": 897749,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "27579R104",
+      "name": "EAST WEST BANCORP INC",
+      "ticker": "EWBC",
+      "title_of_class": "COM",
+      "value": 127445000,
+      "shares": 2296300,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "595112103",
+      "name": "MICRON TECHNOLOGY INC",
+      "ticker": "MU",
+      "title_of_class": "COM",
+      "value": 411886000,
+      "shares": 6826079,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

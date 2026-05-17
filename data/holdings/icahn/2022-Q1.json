@@ -1,0 +1,232 @@
+{
+  "investor_id": "icahn",
+  "cik": "0000921669",
+  "quarter": "2022-Q1",
+  "report_date": "2022-03-31",
+  "filing_date": "2022-05-13",
+  "accession_number": "0001539497-22-000974",
+  "total_value": 21866657,
+  "num_holdings": 20,
+  "holdings": [
+    {
+      "cusip": "071734107",
+      "name": "Bausch Health Companies Inc.",
+      "ticker": "BHC",
+      "title_of_class": "COM",
+      "value": 793378,
+      "shares": 34721118,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "16411R208",
+      "name": "Cheniere Energy Inc",
+      "ticker": "LNG",
+      "title_of_class": "COM NEW",
+      "value": 1348037,
+      "shares": 9722592,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "206787103",
+      "name": "Conduent Inc",
+      "ticker": "CNDT",
+      "title_of_class": "COM",
+      "value": 196851,
+      "shares": 38149336,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "12662P108",
+      "name": "CVR Energy Inc",
+      "ticker": "CVI",
+      "title_of_class": "COM",
+      "value": 1818415,
+      "shares": 71198718,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "235825205",
+      "name": "Dana Inc.",
+      "ticker": "DAN",
+      "title_of_class": "COM",
+      "value": 251014,
+      "shares": 14286505,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "24665A103",
+      "name": "Delek US Holdings, Inc.",
+      "ticker": "DK",
+      "title_of_class": "COM",
+      "value": 28416,
+      "shares": 1339093,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "337932107",
+      "name": "FirstEnergy Corp",
+      "ticker": "FE",
+      "title_of_class": "COM",
+      "value": 869861,
+      "shares": 18967757,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "42704L104",
+      "name": "Herc Holdings Inc",
+      "ticker": "HRI",
+      "title_of_class": "COM",
+      "value": 672177,
+      "shares": 4022841,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "451100101",
+      "name": "Icahn Enterprises LP",
+      "ticker": "IEP",
+      "title_of_class": "DEPOSITARY UNIT",
+      "value": 6414070,
+      "shares": 123513759,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "451100101",
+      "name": "Icahn Enterprises LP",
+      "ticker": "IEP",
+      "title_of_class": "DEPOSITARY UNIT",
+      "value": 1494984,
+      "shares": 28788442,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "451100101",
+      "name": "Icahn Enterprises LP",
+      "ticker": "IEP",
+      "title_of_class": "DEPOSITARY UNIT",
+      "value": 3110279,
+      "shares": 59893683,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "451100101",
+      "name": "Icahn Enterprises LP",
+      "ticker": "IEP",
+      "title_of_class": "DEPOSITARY UNIT",
+      "value": 1831709,
+      "shares": 35272655,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "451100101",
+      "name": "Icahn Enterprises LP",
+      "ticker": "IEP",
+      "title_of_class": "DEPOSITARY UNIT",
+      "value": 497423,
+      "shares": 9578721,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "459506101",
+      "name": "International Flavors and Fragrances Inc.",
+      "ticker": "IFF",
+      "title_of_class": "COM",
+      "value": 84643,
+      "shares": 644510,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "651229106",
+      "name": "Newell Brands, Inc",
+      "ticker": "NWL",
+      "title_of_class": "COM",
+      "value": 708038,
+      "shares": 33070432,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "674599162",
+      "name": "Occidental Petroleum Corp Wts",
+      "ticker": "OXY-WT",
+      "title_of_class": "*W",
+      "value": 530649,
+      "shares": 15062416,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "80007P869",
+      "name": "SandRidge Energy, Inc.",
+      "ticker": "SD",
+      "title_of_class": "COM NEW",
+      "value": 77198,
+      "shares": 4818832,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "844895102",
+      "name": "Southwest Gas Holdings Inc.",
+      "ticker": "SWX",
+      "title_of_class": "COM",
+      "value": 226937,
+      "shares": 2898676,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "949090104",
+      "name": "Welbilt Inc",
+      "ticker": "ESLT",
+      "title_of_class": "COM",
+      "value": 264821,
+      "shares": 11150368,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98421M106",
+      "name": "Xerox Holdings Corp",
+      "ticker": "XRXDW",
+      "title_of_class": "COM NEW",
+      "value": 647757,
+      "shares": 32114891,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

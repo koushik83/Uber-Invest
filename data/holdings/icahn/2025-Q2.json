@@ -1,0 +1,221 @@
+{
+  "investor_id": "icahn",
+  "cik": "0000921669",
+  "quarter": "2025-Q2",
+  "report_date": "2025-06-30",
+  "filing_date": "2025-08-14",
+  "accession_number": "0001539497-25-002145",
+  "total_value": 7886564146,
+  "num_holdings": 19,
+  "holdings": [
+    {
+      "cusip": "025537101",
+      "name": "American Electric Power Company",
+      "ticker": "AFGB",
+      "title_of_class": "COM",
+      "value": 125061928,
+      "shares": 1205300,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "071705107",
+      "name": "Bausch Plus Lomb Corp.",
+      "ticker": "BLCO",
+      "title_of_class": "COMMON SHARES",
+      "value": 45535000,
+      "shares": 3500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "071734107",
+      "name": "Bausch Health Companies Inc.",
+      "ticker": "BHC",
+      "title_of_class": "COM",
+      "value": 231242646,
+      "shares": 34721118,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "12769G100",
+      "name": "Caesars Entertainment, Inc.",
+      "ticker": "CZR",
+      "title_of_class": "COM",
+      "value": 69274695,
+      "shares": 2440109,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "155923105",
+      "name": "Centuri Holdings, Inc.",
+      "ticker": "CTRI",
+      "title_of_class": "COM SHS",
+      "value": 143703000,
+      "shares": 6403877,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "12662P108",
+      "name": "CVR Energy Inc",
+      "ticker": "CVI",
+      "title_of_class": "COM",
+      "value": 1398095422,
+      "shares": 52070593,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "12662P108",
+      "name": "CVR Energy Inc",
+      "ticker": "CVI",
+      "title_of_class": "COM",
+      "value": 416175000,
+      "shares": 15500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "12662P108",
+      "name": "CVR Energy Inc",
+      "ticker": "CVI",
+      "title_of_class": "COM",
+      "value": 76465524,
+      "shares": 2847878,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "126633205",
+      "name": "CVR Partners, LP",
+      "ticker": "UAN",
+      "title_of_class": "COM",
+      "value": 345765280,
+      "shares": 3892000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "126633205",
+      "name": "CVR Partners, LP",
+      "ticker": "UAN",
+      "title_of_class": "COM",
+      "value": 24188822,
+      "shares": 272274,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "451100101",
+      "name": "Icahn Enterprises LP",
+      "ticker": "IEP",
+      "title_of_class": "DEPOSITARY UNIT",
+      "value": 1994621854,
+      "shares": 247933108,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "451100101",
+      "name": "Icahn Enterprises LP",
+      "ticker": "IEP",
+      "title_of_class": "DEPOSITARY UNIT",
+      "value": 439691342,
+      "shares": 54653989,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "451100101",
+      "name": "Icahn Enterprises LP",
+      "ticker": "IEP",
+      "title_of_class": "DEPOSITARY UNIT",
+      "value": 850468382,
+      "shares": 105713907,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "451100101",
+      "name": "Icahn Enterprises LP",
+      "ticker": "IEP",
+      "title_of_class": "DEPOSITARY UNIT",
+      "value": 547163684,
+      "shares": 68012888,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "451100101",
+      "name": "Icahn Enterprises LP",
+      "ticker": "IEP",
+      "title_of_class": "DEPOSITARY UNIT",
+      "value": 148588954,
+      "shares": 18469727,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "459506101",
+      "name": "International Flavors and Fragrances Inc.",
+      "ticker": "IFF",
+      "title_of_class": "COM",
+      "value": 275812500,
+      "shares": 3750000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "477143101",
+      "name": "JetBlue Airways Corp.",
+      "ticker": "JBLU",
+      "title_of_class": "COM",
+      "value": 142219939,
+      "shares": 33621735,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "80007P869",
+      "name": "SandRidge Energy, Inc.",
+      "ticker": "SD",
+      "title_of_class": "COM NEW",
+      "value": 52139762,
+      "shares": 4818832,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "844895102",
+      "name": "Southwest Gas Holdings Inc.",
+      "ticker": "SWX",
+      "title_of_class": "COM",
+      "value": 560350412,
+      "shares": 7532604,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

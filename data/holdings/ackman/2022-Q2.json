@@ -1,0 +1,89 @@
+{
+  "investor_id": "ackman",
+  "cik": "0001336528",
+  "quarter": "2022-Q2",
+  "report_date": "2022-06-30",
+  "filing_date": "2022-08-15",
+  "accession_number": "0001172661-22-002007",
+  "total_value": 7462417,
+  "num_holdings": 7,
+  "holdings": [
+    {
+      "cusip": "13645T100",
+      "name": "CANADIAN PAC RY LTD",
+      "ticker": "CSIQ",
+      "title_of_class": "COM",
+      "value": 205627,
+      "shares": 2944259,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "169656105",
+      "name": "CHIPOTLE MEXICAN GRILL INC",
+      "ticker": "CMG",
+      "title_of_class": "COM",
+      "value": 1444794,
+      "shares": 1105208,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "25754A201",
+      "name": "DOMINOS PIZZA INC",
+      "ticker": "DPZ",
+      "title_of_class": "COM",
+      "value": 803314,
+      "shares": 2061312,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 1104215,
+      "shares": 9908602,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "44267D107",
+      "name": "HOWARD HUGHES CORP",
+      "ticker": "HHH",
+      "title_of_class": "COM",
+      "value": 926852,
+      "shares": 13620164,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "548661107",
+      "name": "LOWES COS INC",
+      "ticker": "LOW",
+      "title_of_class": "COM",
+      "value": 1782910,
+      "shares": 10207306,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "76131D103",
+      "name": "RESTAURANT BRANDS INTL INC",
+      "ticker": "QSR",
+      "title_of_class": "COM",
+      "value": 1194705,
+      "shares": 23822641,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

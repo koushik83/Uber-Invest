@@ -1,0 +1,111 @@
+{
+  "investor_id": "ubben",
+  "cik": "0001817187",
+  "quarter": "2023-Q3",
+  "report_date": "2023-09-30",
+  "filing_date": "2023-11-14",
+  "accession_number": "0000902664-23-005527",
+  "total_value": 1012057532,
+  "num_holdings": 9,
+  "holdings": [
+    {
+      "cusip": "090572207",
+      "name": "BIO RAD LABS INC",
+      "ticker": "BIOA",
+      "title_of_class": "CL A",
+      "value": 21507000,
+      "shares": 60000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "29415B103",
+      "name": "ENVIVA INC",
+      "ticker": "RVPH",
+      "title_of_class": "COM",
+      "value": 56762368,
+      "shares": 7598710,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30231G102",
+      "name": "EXXON MOBIL CORP",
+      "ticker": "XOM",
+      "title_of_class": "COM",
+      "value": 214818660,
+      "shares": 1827000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "45688C107",
+      "name": "INGEVITY CORP",
+      "ticker": "NGVT",
+      "title_of_class": "COM",
+      "value": 114330892,
+      "shares": 2401405,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "45866F104",
+      "name": "INTERCONTINENTAL EXCHANGE IN",
+      "ticker": "ICE",
+      "title_of_class": "COM",
+      "value": 203537000,
+      "shares": 1850000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "737630103",
+      "name": "POTLATCHDELTIC CORPORATION",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 128330829,
+      "shares": 2827293,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "86272C103",
+      "name": "STRATEGIC ED INC",
+      "ticker": "STRA",
+      "title_of_class": "COM",
+      "value": 155391250,
+      "shares": 2065000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "904677200",
+      "name": "UNIFI INC",
+      "ticker": "UFI",
+      "title_of_class": "COM NEW",
+      "value": 13611083,
+      "shares": 1917054,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92511U102",
+      "name": "VERRA MOBILITY CORP",
+      "ticker": "VRRM",
+      "title_of_class": "CL A COM STK",
+      "value": 103768450,
+      "shares": 5549115,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

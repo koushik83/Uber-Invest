@@ -1,0 +1,122 @@
+{
+  "investor_id": "ubben",
+  "cik": "0001817187",
+  "quarter": "2020-Q4",
+  "report_date": "2020-12-31",
+  "filing_date": "2021-02-16",
+  "accession_number": "0000902664-21-001356",
+  "total_value": 986450000,
+  "num_holdings": 10,
+  "holdings": [
+    {
+      "cusip": "00130H105",
+      "name": "AES CORP",
+      "ticker": "AES",
+      "title_of_class": "COM",
+      "value": 125643000,
+      "shares": 5346500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "055622104",
+      "name": "BP PLC",
+      "ticker": "BPPFF",
+      "title_of_class": "SPONSORED ADR",
+      "value": 60985000,
+      "shares": 2972000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "29414J107",
+      "name": "ENVIVA PARTNERS LP",
+      "ticker": "ACPS",
+      "title_of_class": "COM UNIT",
+      "value": 219600000,
+      "shares": 4834867,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "419870100",
+      "name": "HAWAIIAN ELEC INDUSTRIES",
+      "ticker": "HE",
+      "title_of_class": "COM",
+      "value": 114900000,
+      "shares": 3246668,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "45688C107",
+      "name": "INGEVITY CORP",
+      "ticker": "NGVT",
+      "title_of_class": "COM",
+      "value": 34534000,
+      "shares": 456010,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "535219109",
+      "name": "LINDBLAD EXPEDITIONS HLDGS I",
+      "ticker": "LIND",
+      "title_of_class": "COM",
+      "value": 34210000,
+      "shares": 1998247,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "654110105",
+      "name": "NIKOLA CORP",
+      "ticker": "NIKA",
+      "title_of_class": "COM",
+      "value": 156803000,
+      "shares": 10275437,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "86272C103",
+      "name": "STRATEGIC ED INC",
+      "ticker": "STRA",
+      "title_of_class": "COM",
+      "value": 132277000,
+      "shares": 1387565,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "904677200",
+      "name": "UNIFI INC",
+      "ticker": "UFI",
+      "title_of_class": "COM NEW",
+      "value": 25139000,
+      "shares": 1417054,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92511U102",
+      "name": "VERRA MOBILITY CORP",
+      "ticker": "VRRM",
+      "title_of_class": "COM",
+      "value": 82359000,
+      "shares": 6137000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

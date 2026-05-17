@@ -1,0 +1,78 @@
+{
+  "investor_id": "lilu",
+  "cik": "0001709323",
+  "quarter": "2021-Q2",
+  "report_date": "2021-06-30",
+  "filing_date": "2021-08-13",
+  "accession_number": "0001709323-21-000004",
+  "total_value": 2049392000,
+  "num_holdings": 6,
+  "holdings": [
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 215293000,
+      "shares": 85900,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "ticker": "AAPL",
+      "title_of_class": "COM",
+      "value": 104035000,
+      "shares": 759600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "060505104",
+      "name": "BK OF AMERICA CORP",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 509561000,
+      "shares": 12358987,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "FACEBOOK INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 199099000,
+      "shares": 572600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "595112103",
+      "name": "MICRON TECHNOLOGY INC",
+      "ticker": "MU",
+      "title_of_class": "COM",
+      "value": 975275000,
+      "shares": 11476523,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "722304102",
+      "name": "PINDUODUO INC",
+      "ticker": "PDD",
+      "title_of_class": "SPONSORED ADS",
+      "value": 46129000,
+      "shares": 363165,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

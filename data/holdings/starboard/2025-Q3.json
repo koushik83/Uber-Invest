@@ -1,0 +1,232 @@
+{
+  "investor_id": "starboard",
+  "cik": "0001517137",
+  "quarter": "2025-Q3",
+  "report_date": "2025-09-30",
+  "filing_date": "2025-11-14",
+  "accession_number": "0000921895-25-003099",
+  "total_value": 5314627248,
+  "num_holdings": 20,
+  "holdings": [
+    {
+      "cusip": "003881307",
+      "name": "ACACIA RESH CORP",
+      "ticker": "ACTG",
+      "title_of_class": "ACACIA TCH COM",
+      "value": 198651684,
+      "shares": 61123595,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "015857105",
+      "name": "ALGONQUIN PWR UTILS CORP",
+      "ticker": "AGQPF",
+      "title_of_class": "COM",
+      "value": 340938185,
+      "shares": 63489420,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "01626W101",
+      "name": "ALIGHT INC",
+      "ticker": "ALIT",
+      "title_of_class": "COM CL A",
+      "value": 149522831,
+      "shares": 45865899,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "052769106",
+      "name": "AUTODESK INC",
+      "ticker": "ADSK",
+      "title_of_class": "COM",
+      "value": 417100710,
+      "shares": 1313000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "075887109",
+      "name": "BECTON DICKINSON & CO",
+      "ticker": "BDX",
+      "title_of_class": "COM",
+      "value": 226100986,
+      "shares": 1207998,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "090043100",
+      "name": "BILL HOLDINGS INC",
+      "ticker": "BILL",
+      "title_of_class": "COM",
+      "value": 372106199,
+      "shares": 7024848,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "094235108",
+      "name": "BLOOMIN BRANDS INC",
+      "ticker": "BLMN",
+      "title_of_class": "COM",
+      "value": 57223713,
+      "shares": 7980992,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "668771108",
+      "name": "GEN DIGITAL INC",
+      "ticker": "GENVR",
+      "title_of_class": "COM",
+      "value": 345534690,
+      "shares": 12171000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "42226K105",
+      "name": "HEALTHCARE RLTY TR",
+      "ticker": "HCSG",
+      "title_of_class": "CL A COM",
+      "value": 261255349,
+      "shares": 14490036,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "464287507",
+      "name": "ISHARES TR",
+      "ticker": "UNKNOWN",
+      "title_of_class": "CORE S&P MCP ETF",
+      "value": 342657811,
+      "shares": 5250656,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "464287655",
+      "name": "ISHARES TR",
+      "ticker": "UNKNOWN",
+      "title_of_class": "RUSSELL 2000 ETF",
+      "value": 33148520,
+      "shares": 137000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "49177J102",
+      "name": "KENVUE INC",
+      "ticker": "KVUE",
+      "title_of_class": "COM",
+      "value": 339692894,
+      "shares": 20929938,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "57667L107",
+      "name": "MATCH GROUP INC NEW",
+      "ticker": "MTCH",
+      "title_of_class": "COM",
+      "value": 391005786,
+      "shares": 11070379,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "65249B208",
+      "name": "NEWS CORP NEW",
+      "ticker": "NWSLL",
+      "title_of_class": "CL B",
+      "value": 207887350,
+      "shares": 6017000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "65249B109",
+      "name": "NEWS CORP NEW",
+      "ticker": "NWSLL",
+      "title_of_class": "CL A",
+      "value": 195982498,
+      "shares": 6381716,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "74736K101",
+      "name": "QORVO INC",
+      "ticker": "QRVO",
+      "title_of_class": "COM",
+      "value": 684090131,
+      "shares": 7510871,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "767292105",
+      "name": "RIOT PLATFORMS INC",
+      "ticker": "RIOT",
+      "title_of_class": "COM",
+      "value": 167806540,
+      "shares": 8818000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "775133101",
+      "name": "ROGERS CORP",
+      "ticker": "RCIAF",
+      "title_of_class": "COM",
+      "value": 134891351,
+      "shares": 1676502,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE INC",
+      "ticker": "CRM",
+      "title_of_class": "COM",
+      "value": 294389550,
+      "shares": 1242150,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "896945201",
+      "name": "TRIPADVISOR INC",
+      "ticker": "TRIP",
+      "title_of_class": "COM",
+      "value": 154640470,
+      "shares": 9510484,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "investor_id": "lilu",
+  "cik": "0001709323",
+  "quarter": "2021-Q3",
+  "report_date": "2021-09-30",
+  "filing_date": "2021-11-15",
+  "accession_number": "0001709323-21-000005",
+  "total_value": 2147971000,
+  "num_holdings": 7,
+  "holdings": [
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 228950000,
+      "shares": 85900,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "ticker": "AAPL",
+      "title_of_class": "COM",
+      "value": 107483000,
+      "shares": 759600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "060505104",
+      "name": "BK OF AMERICA CORP",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 524639000,
+      "shares": 12358987,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "084670702",
+      "name": "BERKSHIRE HATHAWAY INC",
+      "ticker": "BRK-A",
+      "title_of_class": "CL B NEW",
+      "value": 245032000,
+      "shares": 897749,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "FACEBOOK INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 194335000,
+      "shares": 572600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "595112103",
+      "name": "MICRON TECHNOLOGY INC",
+      "ticker": "MU",
+      "title_of_class": "COM",
+      "value": 814604000,
+      "shares": 11476523,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "722304102",
+      "name": "PINDUODUO INC",
+      "ticker": "PDD",
+      "title_of_class": "SPONSORED ADS",
+      "value": 32928000,
+      "shares": 363165,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

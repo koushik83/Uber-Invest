@@ -1,0 +1,133 @@
+{
+  "investor_id": "jana",
+  "cik": "0001998597",
+  "quarter": "2024-Q4",
+  "report_date": "2024-12-31",
+  "filing_date": "2025-02-14",
+  "accession_number": "0000902664-25-001058",
+  "total_value": 2033102865,
+  "num_holdings": 11,
+  "holdings": [
+    {
+      "cusip": "29332G102",
+      "name": "ENHABIT INC",
+      "ticker": "EHAB",
+      "title_of_class": "COM",
+      "value": 16691102,
+      "shares": 2137145,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "31620M106",
+      "name": "FIDELITY NATL INFORMATION SV",
+      "ticker": "FIS",
+      "title_of_class": "COM",
+      "value": 40134209,
+      "shares": 496895,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "513272104",
+      "name": "LAMB WESTON HLDGS INC",
+      "ticker": "LW",
+      "title_of_class": "COM",
+      "value": 476587385,
+      "shares": 7131339,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "570535104",
+      "name": "MARKEL GROUP INC",
+      "ticker": "MKL",
+      "title_of_class": "COM",
+      "value": 119109870,
+      "shares": 69000,
+      "share_type": "SH",
+      "put_call": "CALL",
+      "sector": null
+    },
+    {
+      "cusip": "570535104",
+      "name": "MARKEL GROUP INC",
+      "ticker": "MKL",
+      "title_of_class": "COM",
+      "value": 188031329,
+      "shares": 108926,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "589378108",
+      "name": "MERCURY SYS INC",
+      "ticker": "MRCY",
+      "title_of_class": "COM",
+      "value": 291545730,
+      "shares": 6941565,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "753422104",
+      "name": "RAPID7 INC",
+      "ticker": "RPD",
+      "title_of_class": "COM",
+      "value": 148453890,
+      "shares": 3690129,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78462F103",
+      "name": "SPDR S&P 500 ETF TR",
+      "ticker": "SPY",
+      "title_of_class": "TR UNIT",
+      "value": 251582459,
+      "shares": 429263,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "89469A104",
+      "name": "TREEHOUSE FOODS INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 172521674,
+      "shares": 4910950,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "896239100",
+      "name": "TRIMBLE INC",
+      "ticker": "TRMB",
+      "title_of_class": "COM",
+      "value": 295223698,
+      "shares": 4178088,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "977852102",
+      "name": "WOLFSPEED INC",
+      "ticker": "WOLF",
+      "title_of_class": "COM",
+      "value": 33221519,
+      "shares": 4988216,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

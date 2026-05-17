@@ -1,0 +1,324 @@
+{
+  "investors": [
+    {
+      "id": "burry",
+      "name": "Michael Burry",
+      "fund": "Scion Asset Management",
+      "cik": "0001649339",
+      "category": "og",
+      "avatar": "MB"
+    },
+    {
+      "id": "buffett",
+      "name": "Warren Buffett",
+      "fund": "Berkshire Hathaway",
+      "cik": "0001067983",
+      "category": "og",
+      "avatar": "WB"
+    },
+    {
+      "id": "druckenmiller",
+      "name": "Stanley Druckenmiller",
+      "fund": "Duquesne Family Office",
+      "cik": "0001536411",
+      "category": "og",
+      "avatar": "SD"
+    },
+    {
+      "id": "tepper",
+      "name": "David Tepper",
+      "fund": "Appaloosa Management",
+      "cik": "0001047644",
+      "category": "og",
+      "avatar": "DT"
+    },
+    {
+      "id": "ackman",
+      "name": "Bill Ackman",
+      "fund": "Pershing Square",
+      "cik": "0001336528",
+      "category": "og",
+      "avatar": "BA"
+    },
+    {
+      "id": "klarman",
+      "name": "Seth Klarman",
+      "fund": "Baupost Group",
+      "cik": "0001061768",
+      "category": "og",
+      "avatar": "SK"
+    },
+    {
+      "id": "coleman",
+      "name": "Chase Coleman",
+      "fund": "Tiger Global",
+      "cik": "0001167483",
+      "category": "og",
+      "avatar": "CC"
+    },
+    {
+      "id": "loeb",
+      "name": "Dan Loeb",
+      "fund": "Third Point",
+      "cik": "0001040273",
+      "category": "og",
+      "avatar": "DL"
+    },
+    {
+      "id": "dalio",
+      "name": "Ray Dalio",
+      "fund": "Bridgewater Associates",
+      "cik": "0001350694",
+      "category": "og",
+      "avatar": "RD"
+    },
+    {
+      "id": "smith",
+      "name": "Terry Smith",
+      "fund": "Fundsmith",
+      "cik": "0001828937",
+      "category": "og",
+      "avatar": "TS"
+    },
+    {
+      "id": "einhorn",
+      "name": "David Einhorn",
+      "fund": "Greenlight Capital",
+      "cik": "0001079114",
+      "category": "og",
+      "avatar": "DE"
+    },
+    {
+      "id": "pabrai",
+      "name": "Mohnish Pabrai",
+      "fund": "Dalal Street LLC",
+      "cik": "0001549575",
+      "category": "og",
+      "avatar": "MP"
+    },
+    {
+      "id": "hohn",
+      "name": "Chris Hohn",
+      "fund": "TCI Fund Management",
+      "cik": "0001647251",
+      "category": "og",
+      "avatar": "CH"
+    },
+    {
+      "id": "marks",
+      "name": "Howard Marks",
+      "fund": "Oaktree Capital",
+      "cik": "0000949509",
+      "category": "og",
+      "avatar": "HM"
+    },
+    {
+      "id": "griffin",
+      "name": "Ken Griffin",
+      "fund": "Citadel Advisors",
+      "cik": "0001423053",
+      "category": "og",
+      "avatar": "KG"
+    },
+    {
+      "id": "robbins",
+      "name": "Larry Robbins",
+      "fund": "Glenview Capital",
+      "cik": "0001138995",
+      "category": "og",
+      "avatar": "LR"
+    },
+    {
+      "id": "singer",
+      "name": "Paul Singer",
+      "fund": "Elliott Management",
+      "cik": "0001791786",
+      "category": "og",
+      "avatar": "PS"
+    },
+    {
+      "id": "soros",
+      "name": "George Soros",
+      "fund": "Soros Fund Management",
+      "cik": "0001029160",
+      "category": "og",
+      "avatar": "GS"
+    },
+    {
+      "id": "peltz",
+      "name": "Nelson Peltz",
+      "fund": "Trian Fund Management",
+      "cik": "0001345471",
+      "category": "og",
+      "avatar": "NP"
+    },
+    {
+      "id": "viking",
+      "name": "Andreas Halvorsen",
+      "fund": "Viking Global",
+      "cik": "0001103804",
+      "category": "og",
+      "avatar": "AH"
+    },
+    {
+      "id": "coatue",
+      "name": "Philippe Laffont",
+      "fund": "Coatue Management",
+      "cik": "0001135730",
+      "category": "og",
+      "avatar": "PL"
+    },
+    {
+      "id": "ainslie",
+      "name": "Lee Ainslie",
+      "fund": "Maverick Capital",
+      "cik": "0000934639",
+      "category": "og",
+      "avatar": "LA"
+    },
+    {
+      "id": "mandel",
+      "name": "Steve Mandel",
+      "fund": "Lone Pine Capital",
+      "cik": "0001061165",
+      "category": "og",
+      "avatar": "SM"
+    },
+    {
+      "id": "sundheim",
+      "name": "Daniel Sundheim",
+      "fund": "D1 Capital Partners",
+      "cik": "0001747057",
+      "category": "og",
+      "avatar": "DS"
+    },
+    {
+      "id": "cohen",
+      "name": "Steve Cohen",
+      "fund": "Point72 Asset Management",
+      "cik": "0001603466",
+      "category": "og",
+      "avatar": "SC"
+    },
+    {
+      "id": "englander",
+      "name": "Israel Englander",
+      "fund": "Millennium Management",
+      "cik": "0001273087",
+      "category": "og",
+      "avatar": "IE"
+    },
+    {
+      "id": "tudor",
+      "name": "Paul Tudor Jones",
+      "fund": "Tudor Investment Corp",
+      "cik": "0000923093",
+      "category": "og",
+      "avatar": "PT"
+    },
+    {
+      "id": "simons",
+      "name": "James Simons",
+      "fund": "Renaissance Technologies",
+      "cik": "0001037389",
+      "category": "og",
+      "avatar": "JS"
+    },
+    {
+      "id": "icahn",
+      "name": "Carl Icahn",
+      "fund": "Icahn Capital Management",
+      "cik": "0000921669",
+      "category": "og",
+      "avatar": "CI"
+    },
+    {
+      "id": "starboard",
+      "name": "Jeff Smith",
+      "fund": "Starboard Value",
+      "cik": "0001517137",
+      "category": "og",
+      "avatar": "JF"
+    },
+    {
+      "id": "jana",
+      "name": "Barry Rosenstein",
+      "fund": "JANA Partners",
+      "cik": "0001998597",
+      "category": "og",
+      "avatar": "BR"
+    },
+    {
+      "id": "ubben",
+      "name": "Jeffrey Ubben",
+      "fund": "Inclusive Capital",
+      "cik": "0001817187",
+      "category": "og",
+      "avatar": "JU"
+    },
+    {
+      "id": "lilu",
+      "name": "Li Lu",
+      "fund": "Himalaya Capital",
+      "cik": "0001709323",
+      "category": "og",
+      "avatar": "LL"
+    },
+    {
+      "id": "akre",
+      "name": "Chuck Akre",
+      "fund": "Akre Capital Management",
+      "cik": "0001112520",
+      "category": "og",
+      "avatar": "CA"
+    },
+    {
+      "id": "abrams",
+      "name": "David Abrams",
+      "fund": "Abrams Capital",
+      "cik": "0001358706",
+      "category": "og",
+      "avatar": "DA"
+    },
+    {
+      "id": "greenblatt",
+      "name": "Joel Greenblatt",
+      "fund": "Gotham Asset Management",
+      "cik": "0001510387",
+      "category": "og",
+      "avatar": "JG"
+    },
+    {
+      "id": "baron",
+      "name": "Ron Baron",
+      "fund": "Baron Capital Group",
+      "cik": "0001017918",
+      "category": "og",
+      "avatar": "RB"
+    },
+    {
+      "id": "ark",
+      "name": "Cathie Wood",
+      "fund": "ARK Investment Management",
+      "cik": "0001697748",
+      "category": "og",
+      "avatar": "CW"
+    },
+    {
+      "id": "baker",
+      "name": "Felix & Julian Baker",
+      "fund": "Baker Bros Advisors",
+      "cik": "0001263508",
+      "category": "og",
+      "avatar": "BB"
+    },
+    {
+      "id": "nygren",
+      "name": "Bill Nygren",
+      "fund": "Harris Associates",
+      "cik": "0000813917",
+      "category": "og",
+      "avatar": "BN"
+    }
+  ]
+}

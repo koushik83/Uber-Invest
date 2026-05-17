@@ -1,0 +1,188 @@
+{
+  "investor_id": "abrams",
+  "cik": "0001358706",
+  "quarter": "2022-Q4",
+  "report_date": "2022-12-31",
+  "filing_date": "2023-02-10",
+  "accession_number": "0001172661-23-000651",
+  "total_value": 2804212528,
+  "num_holdings": 16,
+  "holdings": [
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 206408791,
+      "shares": 2339440,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "043436104",
+      "name": "ASBURY AUTOMOTIVE GROUP INC",
+      "ticker": "ABG",
+      "title_of_class": "COM",
+      "value": 379690218,
+      "shares": 2118216,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "13462K109",
+      "name": "CAMPING WORLD HLDGS INC",
+      "ticker": "CWH",
+      "title_of_class": "CL A",
+      "value": 114028595,
+      "shares": 5108808,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "138103106",
+      "name": "CANTALOUPE INC",
+      "ticker": "CTLPP",
+      "title_of_class": "COM",
+      "value": 13441500,
+      "shares": 3090000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "22266T109",
+      "name": "COUPANG INC",
+      "ticker": "CPNG",
+      "title_of_class": "CL A",
+      "value": 197701870,
+      "shares": 13439964,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "29273V100",
+      "name": "ENERGY TRANSFER L P",
+      "ticker": "ET-PI",
+      "title_of_class": "COM UT LTD PTN",
+      "value": 211693402,
+      "shares": 17834322,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "536797103",
+      "name": "LITHIA MTRS INC",
+      "ticker": "LAD",
+      "title_of_class": "COM",
+      "value": 481357662,
+      "shares": 2351068,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 261948170,
+      "shares": 2176734,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67080N101",
+      "name": "NUVATION BIO INC",
+      "ticker": "NUVB",
+      "title_of_class": "COM CL A",
+      "value": 7318105,
+      "shares": 3811513,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "88023U101",
+      "name": "TEMPUR SEALY INTL INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 123588000,
+      "shares": 3600000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "881624209",
+      "name": "TEVA PHARMACEUTICAL INDS LTD",
+      "ticker": "TEVJF",
+      "title_of_class": "SPONSORED ADS",
+      "value": 145307729,
+      "shares": 15932865,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "893641100",
+      "name": "TRANSDIGM GROUP INC",
+      "ticker": "TDG",
+      "title_of_class": "COM",
+      "value": 230569645,
+      "shares": 366187,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023586506",
+      "name": "U HAUL HOLDING COMPANY",
+      "ticker": "UHAL-B",
+      "title_of_class": "COM SER N",
+      "value": 201405100,
+      "shares": 3663243,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023586100",
+      "name": "U HAUL HOLDING COMPANY",
+      "ticker": "UHAL-B",
+      "title_of_class": "COM",
+      "value": 24498955,
+      "shares": 407027,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90355N101",
+      "name": "USCB FINANCIAL HOLDINGS INC",
+      "ticker": "USCB",
+      "title_of_class": "CLASS A COM",
+      "value": 7918837,
+      "shares": 649085,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G96629103",
+      "name": "WILLIS TOWERS WATSON PLC LTD",
+      "ticker": "WTW",
+      "title_of_class": "SHS",
+      "value": 197335949,
+      "shares": 806836,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

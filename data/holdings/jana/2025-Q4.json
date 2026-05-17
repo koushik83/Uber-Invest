@@ -1,0 +1,144 @@
+{
+  "investor_id": "jana",
+  "cik": "0001998597",
+  "quarter": "2025-Q4",
+  "report_date": "2025-12-31",
+  "filing_date": "2026-02-17",
+  "accession_number": "0000902664-26-001069",
+  "total_value": 1921781130,
+  "num_holdings": 12,
+  "holdings": [
+    {
+      "cusip": "01644J108",
+      "name": "ALKAMI TECHNOLOGY INC",
+      "ticker": "ALKT",
+      "title_of_class": "COM",
+      "value": 112919922,
+      "shares": 4894665,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "216648501",
+      "name": "COOPER COS INC",
+      "ticker": "COO",
+      "title_of_class": "COM",
+      "value": 288468055,
+      "shares": 3519620,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "29332G102",
+      "name": "ENHABIT INC",
+      "ticker": "EHAB",
+      "title_of_class": "COM",
+      "value": 19273599,
+      "shares": 2090412,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "337738108",
+      "name": "FISERV INC",
+      "ticker": "FISV",
+      "title_of_class": "COM",
+      "value": 150831578,
+      "shares": 2245520,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "358039105",
+      "name": "FRESHPET INC",
+      "ticker": "FRPT",
+      "title_of_class": "COM",
+      "value": 33961773,
+      "shares": 557390,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "513272104",
+      "name": "LAMB WESTON HLDGS INC",
+      "ticker": "LW",
+      "title_of_class": "COM",
+      "value": 209811720,
+      "shares": 5008635,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "570535104",
+      "name": "MARKEL GROUP INC",
+      "ticker": "MKL",
+      "title_of_class": "COM",
+      "value": 174592423,
+      "shares": 81219,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "589378108",
+      "name": "MERCURY SYS INC",
+      "ticker": "MRCY",
+      "title_of_class": "COM",
+      "value": 362091708,
+      "shares": 4959481,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "753422104",
+      "name": "RAPID7 INC",
+      "ticker": "RPD",
+      "title_of_class": "COM",
+      "value": 102503526,
+      "shares": 6743653,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83001C108",
+      "name": "SIX FLAGS ENTERTAINMENT CORP",
+      "ticker": "FUN",
+      "title_of_class": "COM",
+      "value": 63140959,
+      "shares": 4116099,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78462F103",
+      "name": "SPDR S&P 500 ETF TR",
+      "ticker": "SPY",
+      "title_of_class": "TR UNIT",
+      "value": 266860527,
+      "shares": 391337,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "89469A104",
+      "name": "TREEHOUSE FOODS INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 137325340,
+      "shares": 5821337,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

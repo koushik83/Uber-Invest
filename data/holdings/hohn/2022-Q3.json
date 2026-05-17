@@ -1,0 +1,122 @@
+{
+  "investor_id": "hohn",
+  "cik": "0001647251",
+  "quarter": "2022-Q3",
+  "report_date": "2022-09-30",
+  "filing_date": "2022-11-14",
+  "accession_number": "0001647251-22-000008",
+  "total_value": 28576617,
+  "num_holdings": 10,
+  "holdings": [
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 5041220,
+      "shares": 52430790,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 1526710,
+      "shares": 15961420,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "101121101",
+      "name": "BOSTON PROPERTIES INC",
+      "ticker": "ONL",
+      "title_of_class": "COM",
+      "value": 391418,
+      "shares": 5220997,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "136375102",
+      "name": "CANADIAN NATL RY CO",
+      "ticker": "CNI",
+      "title_of_class": "COM",
+      "value": 3960442,
+      "shares": 36699825,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "13645T100",
+      "name": "CANADIAN PAC RY LTD",
+      "ticker": "CSIQ",
+      "title_of_class": "COM",
+      "value": 3725245,
+      "shares": 55860385,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 4629511,
+      "shares": 19877677,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "615369105",
+      "name": "MOODYS CORP",
+      "ticker": "MCO",
+      "title_of_class": "COM",
+      "value": 2004735,
+      "shares": 8246207,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78409V104",
+      "name": "S&P GLOBAL INC",
+      "ticker": "SPGI",
+      "title_of_class": "COM",
+      "value": 2677407,
+      "shares": 8768321,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "907818108",
+      "name": "UNION PAC CORP",
+      "ticker": "UNP",
+      "title_of_class": "COM",
+      "value": 1078153,
+      "shares": 5534098,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "ticker": "V",
+      "title_of_class": "COM CL A",
+      "value": 3541776,
+      "shares": 19936821,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

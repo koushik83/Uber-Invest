@@ -1,0 +1,199 @@
+{
+  "investor_id": "tepper",
+  "cik": "0001047644",
+  "quarter": "2014-Q1",
+  "report_date": "2014-03-31",
+  "filing_date": "2014-05-15",
+  "accession_number": "0001104659-14-039351",
+  "total_value": 5702456000,
+  "num_holdings": 17,
+  "holdings": [
+    {
+      "cusip": "609207105",
+      "name": "Mondelez International, Inc.",
+      "ticker": "MDLZ",
+      "title_of_class": "COM",
+      "value": 554641000,
+      "shares": 16053284,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "184496107",
+      "name": "Clean Harbors, Inc.",
+      "ticker": "CLH",
+      "title_of_class": "COM",
+      "value": 163006000,
+      "shares": 2975100,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "073302101",
+      "name": "B/E Aerospace, Inc.",
+      "ticker": "BAERW",
+      "title_of_class": "COM",
+      "value": 316792000,
+      "shares": 3650100,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "38388F108",
+      "name": "W. R. Grace & Co.",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 90220000,
+      "shares": 909752,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "40075T607",
+      "name": "Guaranty Bancorp",
+      "ticker": "FGBIP",
+      "title_of_class": "COM",
+      "value": 50137000,
+      "shares": 3518400,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "31847R102",
+      "name": "First American Financial Corporation",
+      "ticker": "FAF",
+      "title_of_class": "COM",
+      "value": 70810000,
+      "shares": 2667035,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G47791101",
+      "name": "Ingersoll-Rand Public Limited Company",
+      "ticker": "IR",
+      "title_of_class": "COM",
+      "value": 455743000,
+      "shares": 7961964,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "428236103",
+      "name": "Hewlett-Packard Company",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 899487000,
+      "shares": 27796270,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "69344F106",
+      "name": "PMC-Sierra, Inc.",
+      "ticker": "BSRR",
+      "title_of_class": "COM",
+      "value": 173565000,
+      "shares": 22807519,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "887389104",
+      "name": "The Timken Company",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 485319000,
+      "shares": 8256535,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "436440101",
+      "name": "Hologic, Inc.",
+      "ticker": "HOLX",
+      "title_of_class": "COM",
+      "value": 477304000,
+      "shares": 22200200,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "297425100",
+      "name": "Esterline Technologies Corporation",
+      "ticker": "WAL-PA",
+      "title_of_class": "COM",
+      "value": 263129000,
+      "shares": 2469765,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "42809H107",
+      "name": "Hess Corporation",
+      "ticker": "WTBA",
+      "title_of_class": "COM",
+      "value": 262356000,
+      "shares": 3165495,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G16962105",
+      "name": "Bunge Limited",
+      "ticker": "SLB",
+      "title_of_class": "COM",
+      "value": 454643000,
+      "shares": 5718061,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78467Y107",
+      "name": "SPDR S&P MidCap 400 ETF Trust",
+      "ticker": "MDY",
+      "title_of_class": "COM",
+      "value": 171784000,
+      "shares": 685573,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78462F103",
+      "name": "SPDR S&P 500 ETF Trust",
+      "ticker": "SPY",
+      "title_of_class": "COM",
+      "value": 197515000,
+      "shares": 1056002,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "784635104",
+      "name": "SPX Corporation",
+      "ticker": "WTBA",
+      "title_of_class": "COM",
+      "value": 616005000,
+      "shares": 6265940,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

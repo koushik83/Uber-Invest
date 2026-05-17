@@ -1,0 +1,89 @@
+{
+  "investor_id": "lilu",
+  "cik": "0001709323",
+  "quarter": "2024-Q2",
+  "report_date": "2024-06-30",
+  "filing_date": "2024-08-14",
+  "accession_number": "0001709323-24-000005",
+  "total_value": 2561616158,
+  "num_holdings": 7,
+  "holdings": [
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 558330480,
+      "shares": 3044000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 463262095,
+      "shares": 2543300,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "ticker": "AAPL",
+      "title_of_class": "COM",
+      "value": 159986952,
+      "shares": 759600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "060505104",
+      "name": "BK OF AMERICA CORP",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 719086659,
+      "shares": 18081133,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "084670702",
+      "name": "BERKSHIRE HATHAWAY INC DEL",
+      "ticker": "BRK-A",
+      "title_of_class": "CL B NEW",
+      "value": 365204293,
+      "shares": 897749,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "27579R104",
+      "name": "EAST WEST BANCORP INC",
+      "ticker": "EWBC",
+      "title_of_class": "COM",
+      "value": 203312184,
+      "shares": 2776351,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "674599105",
+      "name": "OCCIDENTAL PETE CORP",
+      "ticker": "OXY-WT",
+      "title_of_class": "COM",
+      "value": 92433495,
+      "shares": 1466500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

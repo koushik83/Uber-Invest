@@ -1,0 +1,144 @@
+{
+  "investor_id": "burry",
+  "cik": "0001649339",
+  "quarter": "2022-Q1",
+  "report_date": "2022-03-31",
+  "filing_date": "2022-05-16",
+  "accession_number": "0001567619-22-010747",
+  "total_value": 201379000,
+  "num_holdings": 12,
+  "holdings": [
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 18079000,
+      "shares": 6500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "ticker": "AAPL",
+      "title_of_class": "COM",
+      "value": 35970000,
+      "shares": 206000,
+      "share_type": "SH",
+      "put_call": "PUT",
+      "sector": null
+    },
+    {
+      "cusip": "09857L108",
+      "name": "BOOKING HOLDINGS INC",
+      "ticker": "BKNG",
+      "title_of_class": "COM",
+      "value": 18788000,
+      "shares": 8000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "110122108",
+      "name": "BRISTOL-MYERS SQUIBB CO",
+      "ticker": "CELG-RI",
+      "title_of_class": "COM",
+      "value": 21909000,
+      "shares": 300000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "125523100",
+      "name": "CIGNA CORP NEW",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 17971000,
+      "shares": 75000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "25470F302",
+      "name": "DISCOVERY INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM SER C",
+      "value": 18728000,
+      "shares": 750000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "37940X102",
+      "name": "GLOBAL PMTS INC",
+      "ticker": "GTLL",
+      "title_of_class": "COM",
+      "value": 9127000,
+      "shares": 66700,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 17789000,
+      "shares": 80000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "65336K103",
+      "name": "NEXSTAR MEDIA GROUP INC",
+      "ticker": "NXST",
+      "title_of_class": "CL A",
+      "value": 14362000,
+      "shares": 76200,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "69047Q102",
+      "name": "OVINTIV INC",
+      "ticker": "OVV",
+      "title_of_class": "COM",
+      "value": 16221000,
+      "shares": 300000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "84920Y106",
+      "name": "SPORTSMANS WHSE HLDGS INC",
+      "ticker": "SPWH",
+      "title_of_class": "COM",
+      "value": 2673000,
+      "shares": 250000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N82405106",
+      "name": "STELLANTIS N.V",
+      "ticker": "STLA",
+      "title_of_class": "SHS",
+      "value": 9762000,
+      "shares": 600000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

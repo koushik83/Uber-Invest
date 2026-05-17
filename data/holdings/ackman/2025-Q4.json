@@ -1,0 +1,133 @@
+{
+  "investor_id": "ackman",
+  "cik": "0001336528",
+  "quarter": "2025-Q4",
+  "report_date": "2025-12-31",
+  "filing_date": "2026-02-17",
+  "accession_number": "0001172661-26-001091",
+  "total_value": 15526737802,
+  "num_holdings": 11,
+  "holdings": [
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 212306961,
+      "shares": 678297,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 1934222720,
+      "shares": 6163871,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 2217677936,
+      "shares": 9607824,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "11271J107",
+      "name": "BROOKFIELD CORP",
+      "ticker": "BKFDF",
+      "title_of_class": "CL A LTD VT SH",
+      "value": 2817787754,
+      "shares": 61403089,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "42806J700",
+      "name": "HERTZ GLOBAL HLDGS INC",
+      "ticker": "HTZWW",
+      "title_of_class": "COM NEW",
+      "value": 78339393,
+      "shares": 15241127,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 869983734,
+      "shares": 3028664,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "44267T102",
+      "name": "HOWARD HUGHES HOLDINGS INC",
+      "ticker": "HHH",
+      "title_of_class": "COM",
+      "value": 1503829145,
+      "shares": 18852064,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 1764796161,
+      "shares": 2673569,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "76131D103",
+      "name": "RESTAURANT BRANDS INTL INC",
+      "ticker": "QSR",
+      "title_of_class": "COM",
+      "value": 1560199922,
+      "shares": 22866773,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "812215200",
+      "name": "SEAPORT ENTMT GROUP INC",
+      "ticker": "SEG",
+      "title_of_class": "COMMON STOCK",
+      "value": 99320131,
+      "shares": 5023780,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90353T100",
+      "name": "UBER TECHNOLOGIES INC",
+      "ticker": "UBER",
+      "title_of_class": "COM",
+      "value": 2468273945,
+      "shares": 30207734,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

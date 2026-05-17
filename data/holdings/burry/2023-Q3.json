@@ -1,0 +1,155 @@
+{
+  "investor_id": "burry",
+  "cik": "0001649339",
+  "quarter": "2023-Q3",
+  "report_date": "2023-09-30",
+  "filing_date": "2023-11-14",
+  "accession_number": "0000905148-23-001400",
+  "total_value": 98976144,
+  "num_holdings": 13,
+  "holdings": [
+    {
+      "cusip": "01609W102",
+      "name": "ALIBABA GROUP HLDG LTD",
+      "ticker": "BBAAY",
+      "title_of_class": "SPONSORED ADS",
+      "value": 4337000,
+      "shares": 50000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "09857L108",
+      "name": "BOOKING HOLDINGS INC",
+      "ticker": "BKNG",
+      "title_of_class": "COM",
+      "value": 7709875,
+      "shares": 2500,
+      "share_type": "SH",
+      "put_call": "PUT",
+      "sector": null
+    },
+    {
+      "cusip": "09857L108",
+      "name": "BOOKING HOLDINGS INC",
+      "ticker": "BKNG",
+      "title_of_class": "COM",
+      "value": 4625925,
+      "shares": 1500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "44952J104",
+      "name": "CRESCENT ENERGY COMPANY",
+      "ticker": "CRGY",
+      "title_of_class": "CL A COM",
+      "value": 2528000,
+      "shares": 200000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "B38564108",
+      "name": "EURONAV NV",
+      "ticker": "CLWT",
+      "title_of_class": "SHS",
+      "value": 4107500,
+      "shares": 250000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "444097109",
+      "name": "HUDSON PAC PPTYS INC",
+      "ticker": "HPP-PC",
+      "title_of_class": "COM",
+      "value": 2660000,
+      "shares": 400000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "464287523",
+      "name": "ISHARES TR",
+      "ticker": "UNKNOWN",
+      "title_of_class": "ISHARES SEMICDTR",
+      "value": 47365000,
+      "shares": 100000,
+      "share_type": "SH",
+      "put_call": "PUT",
+      "sector": null
+    },
+    {
+      "cusip": "47215P106",
+      "name": "JD.COM INC",
+      "ticker": "JDCMF",
+      "title_of_class": "SPON ADR CL A",
+      "value": 3641250,
+      "shares": 125000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "65336K103",
+      "name": "NEXSTAR MEDIA GROUP INC",
+      "ticker": "NXST",
+      "title_of_class": "COMMON STOCK",
+      "value": 6975094,
+      "shares": 48651,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "Y7388L103",
+      "name": "SAFE BULKERS INC",
+      "ticker": "SB-PC",
+      "title_of_class": "COM",
+      "value": 972000,
+      "shares": 300000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "Y8162K204",
+      "name": "STAR BULK CARRIERS CORP.",
+      "ticker": "SBLK",
+      "title_of_class": "SHS PAR",
+      "value": 4820000,
+      "shares": 250000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N82405106",
+      "name": "STELLANTIS N.V",
+      "ticker": "STLA",
+      "title_of_class": "SHS",
+      "value": 7652000,
+      "shares": 400000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "88339P101",
+      "name": "THE REALREAL INC",
+      "ticker": "REAL",
+      "title_of_class": "COM",
+      "value": 1582500,
+      "shares": 750000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

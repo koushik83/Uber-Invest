@@ -1,0 +1,100 @@
+{
+  "investor_id": "jana",
+  "cik": "0001998597",
+  "quarter": "2023-Q3",
+  "report_date": "2023-09-30",
+  "filing_date": "2023-11-14",
+  "accession_number": "0000902664-23-005550",
+  "total_value": 1365962551,
+  "num_holdings": 8,
+  "holdings": [
+    {
+      "cusip": "29332G102",
+      "name": "ENHABIT INC",
+      "ticker": "EHAB",
+      "title_of_class": "COM",
+      "value": 20531554,
+      "shares": 1825027,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "31620M106",
+      "name": "FIDELITY NATL INFORMATION SV",
+      "ticker": "FIS",
+      "title_of_class": "COM",
+      "value": 206506738,
+      "shares": 3736326,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "358039105",
+      "name": "FRESHPET INC",
+      "ticker": "FRPT",
+      "title_of_class": "COM",
+      "value": 214405142,
+      "shares": 3254480,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "35909D109",
+      "name": "FRONTIER COMMUNICATIONS PARE",
+      "ticker": "ULCC",
+      "title_of_class": "COM",
+      "value": 129569104,
+      "shares": 8279176,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "589378108",
+      "name": "MERCURY SYS INC",
+      "ticker": "MRCY",
+      "title_of_class": "COM",
+      "value": 174517685,
+      "shares": 4705249,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "64829B100",
+      "name": "NEW RELIC INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 275304774,
+      "shares": 3215426,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78462F103",
+      "name": "SPDR S&P 500 ETF TR",
+      "ticker": "SPY",
+      "title_of_class": "TR UNIT",
+      "value": 131250467,
+      "shares": 307033,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "89469A104",
+      "name": "TREEHOUSE FOODS INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 213877087,
+      "shares": 4907689,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

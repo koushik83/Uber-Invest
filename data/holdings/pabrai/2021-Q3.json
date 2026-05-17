@@ -1,0 +1,45 @@
+{
+  "investor_id": "pabrai",
+  "cik": "0001549575",
+  "quarter": "2021-Q3",
+  "report_date": "2021-09-30",
+  "filing_date": "2021-11-12",
+  "accession_number": "0001549575-21-000013",
+  "total_value": 190770000,
+  "num_holdings": 3,
+  "holdings": [
+    {
+      "cusip": "01609W102",
+      "name": "ALIBABA GROUP HLDG LTD",
+      "ticker": "BBAAY",
+      "title_of_class": "SPONSORED ADS",
+      "value": 8490000,
+      "shares": 57347,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "595112103",
+      "name": "MICRON TECHNOLOGY INC",
+      "ticker": "MU",
+      "title_of_class": "COM",
+      "value": 112088000,
+      "shares": 1579150,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "81752R100",
+      "name": "SERITAGE GROWTH PPTYS",
+      "ticker": "SRG-PA",
+      "title_of_class": "CL A",
+      "value": 70192000,
+      "shares": 4733118,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

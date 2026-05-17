@@ -1,0 +1,78 @@
+{
+  "investor_id": "burry",
+  "cik": "0001649339",
+  "quarter": "2022-Q3",
+  "report_date": "2022-09-30",
+  "filing_date": "2022-11-14",
+  "accession_number": "0001567619-22-019784",
+  "total_value": 41298000,
+  "num_holdings": 6,
+  "holdings": [
+    {
+      "cusip": "007800105",
+      "name": "AEROJET ROCKETDYNE HLDGS INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 5301000,
+      "shares": 132561,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "16119P108",
+      "name": "CHARTER COMMUNICATIONS INC N",
+      "ticker": "CHTR",
+      "title_of_class": "CL A",
+      "value": 3034000,
+      "shares": 10000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "21871N101",
+      "name": "CORECIVIC INC",
+      "ticker": "CXW",
+      "title_of_class": "COM",
+      "value": 6408000,
+      "shares": 724895,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "36162J106",
+      "name": "GEO GROUP INC NEW",
+      "ticker": "OKE",
+      "title_of_class": "COM",
+      "value": 15547000,
+      "shares": 2019150,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G9001E128",
+      "name": "LIBERTY LATIN AMERICA LTD",
+      "ticker": "LILAB",
+      "title_of_class": "COM CL C",
+      "value": 958000,
+      "shares": 155761,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "74915M100",
+      "name": "QURATE RETAIL INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM SER A",
+      "value": 10050000,
+      "shares": 5000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

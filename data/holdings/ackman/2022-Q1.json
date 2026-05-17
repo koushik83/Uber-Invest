@@ -1,0 +1,100 @@
+{
+  "investor_id": "ackman",
+  "cik": "0001336528",
+  "quarter": "2022-Q1",
+  "report_date": "2022-03-31",
+  "filing_date": "2022-05-16",
+  "accession_number": "0001172661-22-001442",
+  "total_value": 10391834,
+  "num_holdings": 8,
+  "holdings": [
+    {
+      "cusip": "13645T100",
+      "name": "CANADIAN PAC RY LTD",
+      "ticker": "CSIQ",
+      "title_of_class": "COM",
+      "value": 243019,
+      "shares": 2944259,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "169656105",
+      "name": "CHIPOTLE MEXICAN GRILL INC",
+      "ticker": "CMG",
+      "title_of_class": "COM",
+      "value": 1763528,
+      "shares": 1114725,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "25754A201",
+      "name": "DOMINOS PIZZA INC",
+      "ticker": "DPZ",
+      "title_of_class": "COM",
+      "value": 841709,
+      "shares": 2068031,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 1510160,
+      "shares": 9952287,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "44267D107",
+      "name": "HOWARD HUGHES CORP",
+      "ticker": "HHH",
+      "title_of_class": "COM",
+      "value": 1411185,
+      "shares": 13620164,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "548661107",
+      "name": "LOWES COS INC",
+      "ticker": "LOW",
+      "title_of_class": "COM",
+      "value": 2063815,
+      "shares": 10207306,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "64110L106",
+      "name": "NETFLIX INC",
+      "ticker": "NFLX",
+      "title_of_class": "COM",
+      "value": 1164962,
+      "shares": 3109965,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "76131D103",
+      "name": "RESTAURANT BRANDS INTL INC",
+      "ticker": "QSR",
+      "title_of_class": "COM",
+      "value": 1393456,
+      "shares": 23864631,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Node / frontend build
+frontend/node_modules/
+frontend/dist/
+
+# Dev/temp scraper files
+scraper/cik_lookup_results.json
+scraper/fix_values.py
+scraper/rebuild_diffs.py
+scraper/find_ciks.py
+
+# SEC ticker cache (large, re-downloadable)
+data/sec_tickers_cache.json
+
+# Internal pipeline changelog (large; regenerated from holdings data by scraper)
+# Frontend uses the capped data/frontend/changelog.json instead
+data/changelog/
+
+# Sparkline history JSON is 17 MB and regenerated on every CI run --
+# no point committing it.
+data/frontend/position_history.json
+frontend/public/data/position_history.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

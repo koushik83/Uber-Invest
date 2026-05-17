@@ -1,0 +1,78 @@
+{
+  "investor_id": "ackman",
+  "cik": "0001336528",
+  "quarter": "2022-Q3",
+  "report_date": "2022-09-30",
+  "filing_date": "2022-11-14",
+  "accession_number": "0001172661-22-002568",
+  "total_value": 7877045,
+  "num_holdings": 6,
+  "holdings": [
+    {
+      "cusip": "13645T100",
+      "name": "CANADIAN PAC RY LTD",
+      "ticker": "CSIQ",
+      "title_of_class": "COM",
+      "value": 1016616,
+      "shares": 15237044,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "169656105",
+      "name": "CHIPOTLE MEXICAN GRILL INC",
+      "ticker": "CMG",
+      "title_of_class": "COM",
+      "value": 1660862,
+      "shares": 1105208,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 1210009,
+      "shares": 10031580,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "44267D107",
+      "name": "HOWARD HUGHES CORP",
+      "ticker": "HHH",
+      "title_of_class": "COM",
+      "value": 754421,
+      "shares": 13620164,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "548661107",
+      "name": "LOWES COS INC",
+      "ticker": "LOW",
+      "title_of_class": "COM",
+      "value": 1948491,
+      "shares": 10374801,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "76131D103",
+      "name": "RESTAURANT BRANDS INTL INC",
+      "ticker": "QSR",
+      "title_of_class": "COM",
+      "value": 1286646,
+      "shares": 24194166,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

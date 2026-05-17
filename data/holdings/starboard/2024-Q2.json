@@ -1,0 +1,232 @@
+{
+  "investor_id": "starboard",
+  "cik": "0001517137",
+  "quarter": "2024-Q2",
+  "report_date": "2024-06-30",
+  "filing_date": "2024-08-14",
+  "accession_number": "0000921895-24-001819",
+  "total_value": 4295391494,
+  "num_holdings": 20,
+  "holdings": [
+    {
+      "cusip": "00766T100",
+      "name": "AECOM",
+      "ticker": "ACM",
+      "title_of_class": "COM",
+      "value": 55126105,
+      "shares": 625438,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "003881307",
+      "name": "ACACIA RESH CORP",
+      "ticker": "ACTG",
+      "title_of_class": "ACACIA TCH COM",
+      "value": 306229211,
+      "shares": 61123595,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "01626W101",
+      "name": "ALIGHT INC",
+      "ticker": "ALIT",
+      "title_of_class": "COM CL A",
+      "value": 320255100,
+      "shares": 43395000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "015857105",
+      "name": "ALGONQUIN PWR UTILS CORP",
+      "ticker": "AGQPF",
+      "title_of_class": "COM",
+      "value": 364146260,
+      "shares": 62141000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "094235108",
+      "name": "BLOOMIN BRANDS INC",
+      "ticker": "BLMN",
+      "title_of_class": "COM",
+      "value": 162320430,
+      "shares": 8441000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE INC",
+      "ticker": "CRM",
+      "title_of_class": "COM",
+      "value": 432408777,
+      "shares": 1681870,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "34965K107",
+      "name": "FORTREA HLDGS INC",
+      "ticker": "FTRE",
+      "title_of_class": "COMMON STOCK",
+      "value": 186720000,
+      "shares": 8000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "380237107",
+      "name": "GODADDY INC",
+      "ticker": "GDDY",
+      "title_of_class": "CL A",
+      "value": 644394073,
+      "shares": 4612369,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "39304D102",
+      "name": "GREEN DOT CORP",
+      "ticker": "GDOT",
+      "title_of_class": "CL A",
+      "value": 47423700,
+      "shares": 5018381,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "668771108",
+      "name": "GEN DIGITAL INC",
+      "ticker": "GENVR",
+      "title_of_class": "COM",
+      "value": 437564768,
+      "shares": 17516604,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "444859102",
+      "name": "HUMANA INC",
+      "ticker": "HUM",
+      "title_of_class": "COM",
+      "value": 189440550,
+      "shares": 507000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "464287630",
+      "name": "ISHARES TR",
+      "ticker": "UNKNOWN",
+      "title_of_class": "RUS 2000 VAL ETF",
+      "value": 194944000,
+      "shares": 1280000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "464287499",
+      "name": "ISHARES TR",
+      "ticker": "UNKNOWN",
+      "title_of_class": "RUS MID CAP ETF",
+      "value": 24324000,
+      "shares": 300000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "589378108",
+      "name": "MERCURY SYS INC",
+      "ticker": "MRCY",
+      "title_of_class": "COM",
+      "value": 61915060,
+      "shares": 2294000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "65249B208",
+      "name": "NEWS CORP NEW",
+      "ticker": "NWSLL",
+      "title_of_class": "CL B",
+      "value": 247901480,
+      "shares": 8732000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "65249B109",
+      "name": "NEWS CORP NEW",
+      "ticker": "NWSLL",
+      "title_of_class": "CL A",
+      "value": 198542405,
+      "shares": 7201393,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "74935Q107",
+      "name": "RB GLOBAL INC",
+      "ticker": "RBA",
+      "title_of_class": "COM",
+      "value": 19178807,
+      "shares": 251163,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "775133101",
+      "name": "ROGERS CORP",
+      "ticker": "RCIAF",
+      "title_of_class": "COM",
+      "value": 96970440,
+      "shares": 804000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M98068105",
+      "name": "WIX COM LTD",
+      "ticker": "WIX",
+      "title_of_class": "SHS",
+      "value": 298574390,
+      "shares": 1877000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92940WAD1",
+      "name": "WIX COM LTD",
+      "ticker": "WIX",
+      "title_of_class": "NOTE 8/1",
+      "value": 7011938,
+      "shares": 7500000,
+      "share_type": "PRN",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

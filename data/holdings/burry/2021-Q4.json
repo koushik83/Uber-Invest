@@ -1,0 +1,78 @@
+{
+  "investor_id": "burry",
+  "cik": "0001649339",
+  "quarter": "2021-Q4",
+  "report_date": "2021-12-31",
+  "filing_date": "2022-02-14",
+  "accession_number": "0001567619-22-003986",
+  "total_value": 74459000,
+  "num_holdings": 6,
+  "holdings": [
+    {
+      "cusip": "G01046104",
+      "name": "AEA-BRIDGES IMPACT CORP",
+      "ticker": "UNKNOWN",
+      "title_of_class": "SHS CL A",
+      "value": 9991000,
+      "shares": 1000100,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "110122108",
+      "name": "BRISTOL-MYERS SQUIBB CO",
+      "ticker": "CELG-RI",
+      "title_of_class": "COM",
+      "value": 18705000,
+      "shares": 300000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "21871N101",
+      "name": "CORECIVIC INC",
+      "ticker": "CXW",
+      "title_of_class": "COM",
+      "value": 5538000,
+      "shares": 555427,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "31620R303",
+      "name": "FIDELITY NATIONAL FINANCIAL",
+      "ticker": "FNF",
+      "title_of_class": "FNF GROUP COM",
+      "value": 16959000,
+      "shares": 325000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "369550108",
+      "name": "GENERAL DYNAMICS CORP",
+      "ticker": "GD",
+      "title_of_class": "COM",
+      "value": 16678000,
+      "shares": 80000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "36162J106",
+      "name": "GEO GROUP INC NEW",
+      "ticker": "OKE",
+      "title_of_class": "COM",
+      "value": 6588000,
+      "shares": 850000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

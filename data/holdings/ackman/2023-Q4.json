@@ -1,0 +1,100 @@
+{
+  "investor_id": "ackman",
+  "cik": "0001336528",
+  "quarter": "2023-Q4",
+  "report_date": "2023-12-31",
+  "filing_date": "2024-02-14",
+  "accession_number": "0001172661-24-001556",
+  "total_value": 10396017618,
+  "num_holdings": 8,
+  "holdings": [
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 1321528091,
+      "shares": 9377195,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 608325365,
+      "shares": 4354824,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "13646K108",
+      "name": "CANADIAN PACIFIC KANSAS CITY",
+      "ticker": "CP",
+      "title_of_class": "COM",
+      "value": 1193452444,
+      "shares": 15095528,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "169656105",
+      "name": "CHIPOTLE MEXICAN GRILL INC",
+      "ticker": "CMG",
+      "title_of_class": "COM",
+      "value": 1886737426,
+      "shares": 824998,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 1671801066,
+      "shares": 9181180,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "44267T102",
+      "name": "HOWARD HUGHES HOLDINGS INC",
+      "ticker": "HHH",
+      "title_of_class": "COM",
+      "value": 1612794075,
+      "shares": 18852064,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "548661107",
+      "name": "LOWES COS INC",
+      "ticker": "LOW",
+      "title_of_class": "COM",
+      "value": 277189363,
+      "shares": 1245515,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "76131D103",
+      "name": "RESTAURANT BRANDS INTL INC",
+      "ticker": "QSR",
+      "title_of_class": "COM",
+      "value": 1824189788,
+      "shares": 23348135,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

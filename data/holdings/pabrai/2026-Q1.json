@@ -1,0 +1,45 @@
+{
+  "investor_id": "pabrai",
+  "cik": "0001549575",
+  "quarter": "2026-Q1",
+  "report_date": "2026-03-31",
+  "filing_date": "2026-05-14",
+  "accession_number": "0001549575-26-000009",
+  "total_value": 422885142,
+  "num_holdings": 3,
+  "holdings": [
+    {
+      "cusip": "020764106",
+      "name": "ALPHA METALLURGICAL RESOUR I",
+      "ticker": "ATGL",
+      "title_of_class": "COM",
+      "value": 119002819,
+      "shares": 579738,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "H8817H100",
+      "name": "TRANSOCEAN LTD",
+      "ticker": "RIG",
+      "title_of_class": "REGISTERED SHS",
+      "value": 135203415,
+      "shares": 20392672,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "93627C101",
+      "name": "WARRIOR MET COAL INC",
+      "ticker": "HCC",
+      "title_of_class": "COM",
+      "value": 168678908,
+      "shares": 1810831,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

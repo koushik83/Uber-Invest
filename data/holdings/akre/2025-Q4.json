@@ -1,0 +1,210 @@
+{
+  "investor_id": "akre",
+  "cik": "0001112520",
+  "quarter": "2025-Q4",
+  "report_date": "2025-12-31",
+  "filing_date": "2026-02-13",
+  "accession_number": "0001112520-26-000008",
+  "total_value": 9120742965,
+  "num_holdings": 18,
+  "holdings": [
+    {
+      "cusip": "009066101",
+      "name": "AIRBNB INC",
+      "ticker": "ABNB",
+      "title_of_class": "COM CL A",
+      "value": 471388540,
+      "shares": 3473243,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "03027X100",
+      "name": "AMERICAN TOWER CORP NEW",
+      "ticker": "AFGB",
+      "title_of_class": "COM",
+      "value": 44817227,
+      "shares": 255267,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "084670702",
+      "name": "BERKSHIRE HATHAWAY INC DEL",
+      "ticker": "BRK-A",
+      "title_of_class": "CL B NEW",
+      "value": 5982540,
+      "shares": 11902,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "11271J107",
+      "name": "BROOKFIELD CORP",
+      "ticker": "BKFDF",
+      "title_of_class": "CL A LTD VT SH",
+      "value": 1231854338,
+      "shares": 26843633,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "12510Q100",
+      "name": "CCC INTELLIGENT SOLUTIONS HL",
+      "ticker": "CCC",
+      "title_of_class": "COM",
+      "value": 197454023,
+      "shares": 24836984,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "143130102",
+      "name": "CARMAX INC",
+      "ticker": "KMX",
+      "title_of_class": "COM",
+      "value": 5819184,
+      "shares": 150600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "217204106",
+      "name": "COPART INC",
+      "ticker": "CPRT",
+      "title_of_class": "COM",
+      "value": 308030908,
+      "shares": 7867967,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "22160N109",
+      "name": "COSTAR GROUP INC",
+      "ticker": "CSGP",
+      "title_of_class": "COM",
+      "value": 646701208,
+      "shares": 9617805,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "235851102",
+      "name": "DANAHER CORPORATION",
+      "ticker": "DAN",
+      "title_of_class": "COM",
+      "value": 15913603,
+      "shares": 69516,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "303250104",
+      "name": "FAIR ISAAC CORP",
+      "ticker": "FICO",
+      "title_of_class": "COM",
+      "value": 469054066,
+      "shares": 277445,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "38267D109",
+      "name": "GOOSEHEAD INS INC",
+      "ticker": "GSHD",
+      "title_of_class": "COM CL A",
+      "value": 27331220,
+      "shares": 371096,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "48251w104",
+      "name": "KKR & CO L P DEL",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM UNITS",
+      "value": 1033359070,
+      "shares": 8106049,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "MASTERCARD INCORPORATED",
+      "ticker": "MA",
+      "title_of_class": "CL A",
+      "value": 1715654246,
+      "shares": 3005280,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "615369105",
+      "name": "MOODYS CORP",
+      "ticker": "MCO",
+      "title_of_class": "COM",
+      "value": 886442756,
+      "shares": 1735231,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67103H107",
+      "name": "OREILLY AUTOMOTIVE INC",
+      "ticker": "ORLY",
+      "title_of_class": "COM",
+      "value": 612914691,
+      "shares": 6719819,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "776696106",
+      "name": "ROPER TECHNOLOGIES INC",
+      "ticker": "ROP",
+      "title_of_class": "COM",
+      "value": 491936755,
+      "shares": 1105153,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "H82027105",
+      "name": "SOPHIA GENETICS SA",
+      "ticker": "SOPH",
+      "title_of_class": "ORDINARY SHARES",
+      "value": 17368384,
+      "shares": 3719140,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "ticker": "V",
+      "title_of_class": "COM CL A",
+      "value": 938720206,
+      "shares": 2676628,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "investor_id": "burry",
+  "cik": "0001649339",
+  "quarter": "2021-Q3",
+  "report_date": "2021-09-30",
+  "filing_date": "2021-11-15",
+  "accession_number": "0001567619-21-020215",
+  "total_value": 41719000,
+  "num_holdings": 6,
+  "holdings": [
+    {
+      "cusip": "21871N101",
+      "name": "CORECIVIC INC",
+      "ticker": "CXW",
+      "title_of_class": "COM",
+      "value": 3668000,
+      "shares": 412126,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "126650100",
+      "name": "CVS HEALTH CORP",
+      "ticker": "CVS",
+      "title_of_class": "COM",
+      "value": 16972000,
+      "shares": 200000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "36162J106",
+      "name": "GEO GROUP INC NEW",
+      "ticker": "OKE",
+      "title_of_class": "COM",
+      "value": 8656000,
+      "shares": 1158820,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "539830109",
+      "name": "LOCKHEED MARTIN CORP",
+      "ticker": "LMT",
+      "title_of_class": "COM",
+      "value": 10353000,
+      "shares": 30000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67011P100",
+      "name": "NOW INC",
+      "ticker": "DNOW",
+      "title_of_class": "COM",
+      "value": 1148000,
+      "shares": 150000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "811292200",
+      "name": "SCYNEXIS INC",
+      "ticker": "SCYX",
+      "title_of_class": "COM NEW",
+      "value": 922000,
+      "shares": 174030,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

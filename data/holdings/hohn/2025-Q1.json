@@ -1,0 +1,122 @@
+{
+  "investor_id": "hohn",
+  "cik": "0001647251",
+  "quarter": "2025-Q1",
+  "report_date": "2025-03-31",
+  "filing_date": "2025-05-15",
+  "accession_number": "0001647251-25-000005",
+  "total_value": 43372530344,
+  "num_holdings": 10,
+  "holdings": [
+    {
+      "cusip": "N3168P101",
+      "name": "FERROVIAL SE",
+      "ticker": "FER",
+      "title_of_class": "ORD SHS",
+      "value": 861116451,
+      "shares": 19333428,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 2164681479,
+      "shares": 13855735,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 631721410,
+      "shares": 4085110,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "136375102",
+      "name": "CANADIAN NATL RY CO",
+      "ticker": "CNI",
+      "title_of_class": "COM",
+      "value": 2619619831,
+      "shares": 26899078,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "13646K108",
+      "name": "CANADIAN PACIFIC KANSAS CITY",
+      "ticker": "CP",
+      "title_of_class": "COM",
+      "value": 3854575745,
+      "shares": 54913285,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "369604301",
+      "name": "GE AEROSPACE",
+      "ticker": "GE",
+      "title_of_class": "COM NEW",
+      "value": 9521325042,
+      "shares": 47570947,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 6494202329,
+      "shares": 17299881,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "615369105",
+      "name": "MOODYS CORP",
+      "ticker": "MCO",
+      "title_of_class": "COM",
+      "value": 6129927299,
+      "shares": 13163107,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78409V104",
+      "name": "S&P GLOBAL INC",
+      "ticker": "SPGI",
+      "title_of_class": "COM",
+      "value": 5264560779,
+      "shares": 10361269,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "ticker": "V",
+      "title_of_class": "COM CL A",
+      "value": 5830799979,
+      "shares": 16637562,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "investor_id": "hohn",
+  "cik": "0001647251",
+  "quarter": "2023-Q1",
+  "report_date": "2023-03-31",
+  "filing_date": "2023-05-15",
+  "accession_number": "0001647251-23-000007",
+  "total_value": 29203849357,
+  "num_holdings": 9,
+  "holdings": [
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 2446960048,
+      "shares": 23528462,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "136375102",
+      "name": "CANADIAN NATL RY CO",
+      "ticker": "CNI",
+      "title_of_class": "COM",
+      "value": 4329617168,
+      "shares": 36699825,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "13645T100",
+      "name": "CANADIAN PAC RY LTD",
+      "ticker": "CSIQ",
+      "title_of_class": "COM",
+      "value": 4299986681,
+      "shares": 55860385,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "369604301",
+      "name": "GENERAL ELECTRIC CO",
+      "ticker": "GE",
+      "title_of_class": "COM NEW",
+      "value": 2496378613,
+      "shares": 26112747,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 4410755900,
+      "shares": 15299188,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "615369105",
+      "name": "MOODYS CORP",
+      "ticker": "MCO",
+      "title_of_class": "COM",
+      "value": 3173267964,
+      "shares": 10369479,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78409V104",
+      "name": "S&P GLOBAL INC",
+      "ticker": "SPGI",
+      "title_of_class": "COM",
+      "value": 3216569984,
+      "shares": 9329611,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "883556102",
+      "name": "THERMO FISHER SCIENTIFIC INC",
+      "ticker": "TMO",
+      "title_of_class": "COM",
+      "value": 480779036,
+      "shares": 834150,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "ticker": "V",
+      "title_of_class": "COM CL A",
+      "value": 4349533963,
+      "shares": 19291821,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

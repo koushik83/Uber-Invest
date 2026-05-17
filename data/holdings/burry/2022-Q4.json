@@ -1,0 +1,111 @@
+{
+  "investor_id": "burry",
+  "cik": "0001649339",
+  "quarter": "2022-Q4",
+  "report_date": "2022-12-31",
+  "filing_date": "2023-02-14",
+  "accession_number": "0000905148-23-000213",
+  "total_value": 46536925,
+  "num_holdings": 9,
+  "holdings": [
+    {
+      "cusip": "01609W102",
+      "name": "ALIBABA GROUP HLDG LTD",
+      "ticker": "BBAAY",
+      "title_of_class": "SPONSORED ADS",
+      "value": 4404500,
+      "shares": 50000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "09215C105",
+      "name": "BLACK KNIGHT INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 9262500,
+      "shares": 150000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "19247G107",
+      "name": "COHERENT CORP",
+      "ticker": "COHR",
+      "title_of_class": "COM",
+      "value": 5265000,
+      "shares": 150000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "36162J106",
+      "name": "GEO GROUP INC NEW",
+      "ticker": "OKE",
+      "title_of_class": "COM",
+      "value": 11641241,
+      "shares": 1063127,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "47215P106",
+      "name": "JD.COM INC",
+      "ticker": "JDCMF",
+      "title_of_class": "SPON ADR CL A",
+      "value": 4209750,
+      "shares": 75000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "552953101",
+      "name": "MGM RESORTS INTERNATIONAL",
+      "ticker": "MGM",
+      "title_of_class": "COM",
+      "value": 3353000,
+      "shares": 100000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "74915M100",
+      "name": "QURATE RETAIL INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM SER A",
+      "value": 2445000,
+      "shares": 1500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "830879102",
+      "name": "SKYWEST INC",
+      "ticker": "SKYW",
+      "title_of_class": "COM",
+      "value": 2063750,
+      "shares": 125000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "978097103",
+      "name": "WOLVERINE WORLD WIDE INC",
+      "ticker": "WWW",
+      "title_of_class": "COM",
+      "value": 3892184,
+      "shares": 356101,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

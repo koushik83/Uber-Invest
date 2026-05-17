@@ -1,0 +1,122 @@
+{
+  "investor_id": "jana",
+  "cik": "0001998597",
+  "quarter": "2024-Q1",
+  "report_date": "2024-03-31",
+  "filing_date": "2024-05-15",
+  "accession_number": "0000902664-24-003586",
+  "total_value": 1829573735,
+  "num_holdings": 10,
+  "holdings": [
+    {
+      "cusip": "29332G102",
+      "name": "ENHABIT INC",
+      "ticker": "EHAB",
+      "title_of_class": "COM",
+      "value": 24244547,
+      "shares": 2081077,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "31620M106",
+      "name": "FIDELITY NATL INFORMATION SV",
+      "ticker": "FIS",
+      "title_of_class": "COM",
+      "value": 255091223,
+      "shares": 3438814,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "358039105",
+      "name": "FRESHPET INC",
+      "ticker": "FRPT",
+      "title_of_class": "COM",
+      "value": 126690245,
+      "shares": 1093477,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "35909D109",
+      "name": "FRONTIER COMMUNICATIONS PARE",
+      "ticker": "ULCC",
+      "title_of_class": "COM",
+      "value": 238190862,
+      "shares": 9722076,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "589378108",
+      "name": "MERCURY SYS INC",
+      "ticker": "MRCY",
+      "title_of_class": "COM",
+      "value": 204284432,
+      "shares": 6924896,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "219798105",
+      "name": "QUIDELORTHO CORP",
+      "ticker": "QDEL",
+      "title_of_class": "COM",
+      "value": 57326652,
+      "shares": 1195800,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78462F103",
+      "name": "SPDR S&P 500 ETF TR",
+      "ticker": "SPY",
+      "title_of_class": "TR UNIT",
+      "value": 356071010,
+      "shares": 680733,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "89469A104",
+      "name": "TREEHOUSE FOODS INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 191154487,
+      "shares": 4907689,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "896239100",
+      "name": "TRIMBLE INC",
+      "ticker": "TRMB",
+      "title_of_class": "COM",
+      "value": 242062787,
+      "shares": 3761075,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "977852102",
+      "name": "WOLFSPEED INC",
+      "ticker": "WOLF",
+      "title_of_class": "COM",
+      "value": 134457490,
+      "shares": 4557881,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

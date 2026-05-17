@@ -1,0 +1,100 @@
+{
+  "investor_id": "ubben",
+  "cik": "0001817187",
+  "quarter": "2021-Q4",
+  "report_date": "2021-12-31",
+  "filing_date": "2022-02-14",
+  "accession_number": "0000902664-22-001735",
+  "total_value": 977321000,
+  "num_holdings": 8,
+  "holdings": [
+    {
+      "cusip": "03783T103",
+      "name": "APPHARVEST INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 34227000,
+      "shares": 8798704,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "29414J107",
+      "name": "ENVIVA PARTNERS LP",
+      "ticker": "ACPS",
+      "title_of_class": "COM UNIT",
+      "value": 402379000,
+      "shares": 5713987,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30231G102",
+      "name": "EXXON MOBIL CORP",
+      "ticker": "XOM",
+      "title_of_class": "COM",
+      "value": 102616000,
+      "shares": 1677000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "45688C107",
+      "name": "INGEVITY CORP",
+      "ticker": "NGVT",
+      "title_of_class": "COM",
+      "value": 55589000,
+      "shares": 775299,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "654110105",
+      "name": "NIKOLA CORP",
+      "ticker": "NIKA",
+      "title_of_class": "COM",
+      "value": 101419000,
+      "shares": 10275437,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "86272C103",
+      "name": "STRATEGIC ED INC",
+      "ticker": "STRA",
+      "title_of_class": "COM",
+      "value": 87879000,
+      "shares": 1519349,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "904677200",
+      "name": "UNIFI INC",
+      "ticker": "UFI",
+      "title_of_class": "COM NEW",
+      "value": 32805000,
+      "shares": 1417054,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92511U102",
+      "name": "VERRA MOBILITY CORP",
+      "ticker": "VRRM",
+      "title_of_class": "COM",
+      "value": 160407000,
+      "shares": 10395815,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

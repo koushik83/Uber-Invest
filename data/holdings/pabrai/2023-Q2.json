@@ -1,0 +1,34 @@
+{
+  "investor_id": "pabrai",
+  "cik": "0001549575",
+  "quarter": "2023-Q2",
+  "report_date": "2023-06-30",
+  "filing_date": "2023-08-11",
+  "accession_number": "0001549575-23-000014",
+  "total_value": 73402592,
+  "num_holdings": 2,
+  "holdings": [
+    {
+      "cusip": "020764106",
+      "name": "ALPHA METALLURGICAL RESOUR I",
+      "ticker": "ATGL",
+      "title_of_class": "COM",
+      "value": 59605020,
+      "shares": 362649,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "20854L108",
+      "name": "CONSOL ENERGY INC NEW",
+      "ticker": "CEHCF",
+      "title_of_class": "COM",
+      "value": 13797572,
+      "shares": 203474,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

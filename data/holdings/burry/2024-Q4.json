@@ -1,0 +1,155 @@
+{
+  "investor_id": "burry",
+  "cik": "0001649339",
+  "quarter": "2024-Q4",
+  "report_date": "2024-12-31",
+  "filing_date": "2025-02-14",
+  "accession_number": "0001879202-25-000012",
+  "total_value": 77435131,
+  "num_holdings": 13,
+  "holdings": [
+    {
+      "cusip": "01609W102",
+      "name": "ALIBABA GROUP HLDG LTD",
+      "ticker": "BBAAY",
+      "title_of_class": "SPONSORED ADS",
+      "value": 12718500,
+      "shares": 150000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "910710102",
+      "name": "AMERICAN COASTAL INS CORP",
+      "ticker": "AFGB",
+      "title_of_class": "COM",
+      "value": 1966506,
+      "shares": 146100,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "056752108",
+      "name": "BAIDU INC",
+      "ticker": "BAIDF",
+      "title_of_class": "SPON ADR REP A",
+      "value": 10538750,
+      "shares": 125000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "116794108",
+      "name": "BRUKER CORP",
+      "ticker": "BRKRP",
+      "title_of_class": "COM",
+      "value": 4396500,
+      "shares": 75000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "135086106",
+      "name": "CANADA GOOSE HLDGS INC",
+      "ticker": "GOOS",
+      "title_of_class": "SHS SUB VTG",
+      "value": 249125,
+      "shares": 24838,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "40412C101",
+      "name": "HCA HEALTHCARE INC",
+      "ticker": "HCA",
+      "title_of_class": "COM",
+      "value": 4502250,
+      "shares": 15000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "47215P106",
+      "name": "JD.COM INC",
+      "ticker": "JDCMF",
+      "title_of_class": "SPON ADS CL A",
+      "value": 10401000,
+      "shares": 300000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "518439104",
+      "name": "LAUDER ESTEE COS INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "CL A",
+      "value": 7498000,
+      "shares": 100000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "55939A107",
+      "name": "MAGNERA CORP",
+      "ticker": "MAGN",
+      "title_of_class": "COM SHS",
+      "value": 3634000,
+      "shares": 200000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "60855R100",
+      "name": "MOLINA HEALTHCARE INC",
+      "ticker": "MOH",
+      "title_of_class": "COM",
+      "value": 7276250,
+      "shares": 25000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "687793109",
+      "name": "OSCAR HEALTH INC",
+      "ticker": "OSCR",
+      "title_of_class": "CL A",
+      "value": 2688000,
+      "shares": 200000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "722304102",
+      "name": "PDD HOLDINGS INC",
+      "ticker": "PDD",
+      "title_of_class": "SPONSORED ADS",
+      "value": 7274250,
+      "shares": 75000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "918204108",
+      "name": "V F CORP",
+      "ticker": "VFC",
+      "title_of_class": "COM",
+      "value": 4292000,
+      "shares": 200000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

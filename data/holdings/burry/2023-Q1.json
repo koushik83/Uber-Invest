@@ -1,0 +1,243 @@
+{
+  "investor_id": "burry",
+  "cik": "0001649339",
+  "quarter": "2023-Q1",
+  "report_date": "2023-03-31",
+  "filing_date": "2023-05-15",
+  "accession_number": "0000905148-23-000408",
+  "total_value": 106935614,
+  "num_holdings": 21,
+  "holdings": [
+    {
+      "cusip": "01609W102",
+      "name": "ALIBABA GROUP HLDG LTD",
+      "ticker": "BBAAY",
+      "title_of_class": "SPONSORED ADS",
+      "value": 10218000,
+      "shares": 100000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "14040H105",
+      "name": "CAPITAL ONE FINL CORP",
+      "ticker": "COF-PN",
+      "title_of_class": "COM",
+      "value": 7212000,
+      "shares": 75000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "19247G107",
+      "name": "COHERENT CORP",
+      "ticker": "COHR",
+      "title_of_class": "COM",
+      "value": 4760000,
+      "shares": 125000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "127097103",
+      "name": "COTERRA ENERGY INC",
+      "ticker": "CTRA",
+      "title_of_class": "COM",
+      "value": 3681000,
+      "shares": 150000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "25179M103",
+      "name": "DEVON ENERGY CORP NEW",
+      "ticker": "DVN",
+      "title_of_class": "COM",
+      "value": 2444362,
+      "shares": 48298,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "33616C100",
+      "name": "FIRST REP BK SAN FRANCISCO C",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 2098500,
+      "shares": 150000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "36162J106",
+      "name": "GEO GROUP INC NEW",
+      "ticker": "OKE",
+      "title_of_class": "COM",
+      "value": 3156000,
+      "shares": 400000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "446150104",
+      "name": "HUNTINGTON BANCSHARES INC",
+      "ticker": "HBANP",
+      "title_of_class": "COM",
+      "value": 2070880,
+      "shares": 184900,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "47215P106",
+      "name": "JD.COM INC",
+      "ticker": "JDCMF",
+      "title_of_class": "SPON ADR CL A",
+      "value": 10972500,
+      "shares": 250000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G9001E128",
+      "name": "LIBERTY LATIN AMERICA LTD",
+      "ticker": "LILAB",
+      "title_of_class": "COM CL C",
+      "value": 6608000,
+      "shares": 800000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "649445103",
+      "name": "NEW YORK CMNTY BANCORP INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 7684000,
+      "shares": 850000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "62955J103",
+      "name": "NOV INC",
+      "ticker": "NOV",
+      "title_of_class": "COM",
+      "value": 2657925,
+      "shares": 143594,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "69047Q102",
+      "name": "OVINTIV INC",
+      "ticker": "OVV",
+      "title_of_class": "COM",
+      "value": 811800,
+      "shares": 22500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "695263103",
+      "name": "PACWEST BANCORP DEL",
+      "ticker": "ARCB",
+      "title_of_class": "COM",
+      "value": 2432500,
+      "shares": 250000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "82575P107",
+      "name": "SIBANYE STILLWATER LTD",
+      "ticker": "SBYSF",
+      "title_of_class": "SPONSORED ADR",
+      "value": 6656000,
+      "shares": 800000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G81276100",
+      "name": "SIGNET JEWELERS LIMITED",
+      "ticker": "SIG",
+      "title_of_class": "SHS",
+      "value": 9722500,
+      "shares": 125000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "125523100",
+      "name": "THE CIGNA GROUP",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 6388250,
+      "shares": 25000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "88339P101",
+      "name": "THE REALREAL INC",
+      "ticker": "REAL",
+      "title_of_class": "COM",
+      "value": 862397,
+      "shares": 684442,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "949746101",
+      "name": "WELLS FARGO CO NEW",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 4672500,
+      "shares": 125000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "957638109",
+      "name": "WESTERN ALLIANCE BANCORP",
+      "ticker": "WAL-PA",
+      "title_of_class": "COM",
+      "value": 4442500,
+      "shares": 125000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98980L101",
+      "name": "ZOOM VIDEO COMMUNICATIONS IN",
+      "ticker": "ZM",
+      "title_of_class": "CL A",
+      "value": 7384000,
+      "shares": 100000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "investor_id": "ackman",
+  "cik": "0001336528",
+  "quarter": "2021-Q3",
+  "report_date": "2021-09-30",
+  "filing_date": "2021-11-15",
+  "accession_number": "0001172661-21-002355",
+  "total_value": 9463494,
+  "num_holdings": 6,
+  "holdings": [
+    {
+      "cusip": "169656105",
+      "name": "CHIPOTLE MEXICAN GRILL INC",
+      "ticker": "CMG",
+      "title_of_class": "COM",
+      "value": 2026035,
+      "shares": 1114725,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "25754A201",
+      "name": "DOMINOS PIZZA INC",
+      "ticker": "DPZ",
+      "title_of_class": "COM",
+      "value": 997897,
+      "shares": 2092202,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 1702284,
+      "shares": 12885354,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "44267D107",
+      "name": "HOWARD HUGHES CORP",
+      "ticker": "HHH",
+      "title_of_class": "COM",
+      "value": 1195987,
+      "shares": 13620164,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "548661107",
+      "name": "LOWES COS INC",
+      "ticker": "LOW",
+      "title_of_class": "COM",
+      "value": 2076571,
+      "shares": 10236471,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "76131D103",
+      "name": "RESTAURANT BRANDS INTL INC",
+      "ticker": "QSR",
+      "title_of_class": "COM",
+      "value": 1464720,
+      "shares": 23937248,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "investor_id": "ackman",
+  "cik": "0001336528",
+  "quarter": "2021-Q2",
+  "report_date": "2021-06-30",
+  "filing_date": "2021-08-16",
+  "accession_number": "0001172661-21-001865",
+  "total_value": 10709784,
+  "num_holdings": 7,
+  "holdings": [
+    {
+      "cusip": "00846U101",
+      "name": "AGILENT TECHNOLOGIES INC",
+      "ticker": "A",
+      "title_of_class": "COM",
+      "value": 1728762,
+      "shares": 11695838,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "169656105",
+      "name": "CHIPOTLE MEXICAN GRILL INC",
+      "ticker": "CMG",
+      "title_of_class": "COM",
+      "value": 1683880,
+      "shares": 1086136,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "25754A201",
+      "name": "DOMINOS PIZZA INC",
+      "ticker": "DPZ",
+      "title_of_class": "COM",
+      "value": 951252,
+      "shares": 2039170,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 1539117,
+      "shares": 12760047,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "44267D107",
+      "name": "HOWARD HUGHES CORP",
+      "ticker": "HHH",
+      "title_of_class": "COM",
+      "value": 1312787,
+      "shares": 13470008,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "548661107",
+      "name": "LOWES COS INC",
+      "ticker": "LOW",
+      "title_of_class": "COM",
+      "value": 1966957,
+      "shares": 10140520,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "76131D103",
+      "name": "RESTAURANT BRANDS INTL INC",
+      "ticker": "QSR",
+      "title_of_class": "COM",
+      "value": 1527029,
+      "shares": 23696917,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "investor_id": "hohn",
+  "cik": "0001647251",
+  "quarter": "2022-Q1",
+  "report_date": "2022-03-31",
+  "filing_date": "2022-05-16",
+  "accession_number": "0001647251-22-000004",
+  "total_value": 36837943,
+  "num_holdings": 11,
+  "holdings": [
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 6620336,
+      "shares": 2370340,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 1593772,
+      "shares": 573021,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "101121101",
+      "name": "BOSTON PROPERTIES INC",
+      "ticker": "ONL",
+      "title_of_class": "COM",
+      "value": 1508402,
+      "shares": 11711196,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "136375102",
+      "name": "CANADIAN NATL RY CO",
+      "ticker": "CNI",
+      "title_of_class": "COM",
+      "value": 4921414,
+      "shares": 36699825,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "13645T100",
+      "name": "CANADIAN PAC RY LTD",
+      "ticker": "CSIQ",
+      "title_of_class": "COM",
+      "value": 4608767,
+      "shares": 55860385,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "16119P108",
+      "name": "CHARTER COMMUNICATIONS INC N",
+      "ticker": "CHTR",
+      "title_of_class": "CL A",
+      "value": 1151840,
+      "shares": 2111453,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 5322900,
+      "shares": 17264766,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "615369105",
+      "name": "MOODYS CORP",
+      "ticker": "MCO",
+      "title_of_class": "COM",
+      "value": 2458313,
+      "shares": 7285832,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78409V104",
+      "name": "S&P GLOBAL INC",
+      "ticker": "SPGI",
+      "title_of_class": "COM",
+      "value": 2798688,
+      "shares": 6823072,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "907818108",
+      "name": "UNION PAC CORP",
+      "ticker": "UNP",
+      "title_of_class": "COM",
+      "value": 1434939,
+      "shares": 5252148,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "ticker": "V",
+      "title_of_class": "COM CL A",
+      "value": 4418572,
+      "shares": 19924121,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

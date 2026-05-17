@@ -1,0 +1,45 @@
+{
+  "investor_id": "pabrai",
+  "cik": "0001549575",
+  "quarter": "2023-Q1",
+  "report_date": "2023-03-31",
+  "filing_date": "2023-05-12",
+  "accession_number": "0001549575-23-000008",
+  "total_value": 121274277,
+  "num_holdings": 3,
+  "holdings": [
+    {
+      "cusip": "595112103",
+      "name": "MICRON TECHNOLOGY INC",
+      "ticker": "MU",
+      "title_of_class": "COM",
+      "value": 96069366,
+      "shares": 1592134,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "81752R100",
+      "name": "SERITAGE GROWTH PPTYS",
+      "ticker": "SRG-PA",
+      "title_of_class": "CL A",
+      "value": 26561,
+      "shares": 3375,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "11271J107",
+      "name": "BROOKFIELD CORP",
+      "ticker": "BKFDF",
+      "title_of_class": "CL A",
+      "value": 25178350,
+      "shares": 772579,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

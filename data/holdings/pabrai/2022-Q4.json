@@ -1,0 +1,67 @@
+{
+  "investor_id": "pabrai",
+  "cik": "0001549575",
+  "quarter": "2022-Q4",
+  "report_date": "2022-12-31",
+  "filing_date": "2023-02-14",
+  "accession_number": "0001549575-23-000004",
+  "total_value": 120558334,
+  "num_holdings": 5,
+  "holdings": [
+    {
+      "cusip": "595112103",
+      "name": "MICRON TECHNOLOGY INC",
+      "ticker": "MU",
+      "title_of_class": "COM",
+      "value": 81486592,
+      "shares": 1630384,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "595112103",
+      "name": "MICRON TECHNOLOGY INC",
+      "ticker": "MU",
+      "title_of_class": "COM",
+      "value": 11516792,
+      "shares": 230428,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "81752R100",
+      "name": "SERITAGE GROWTH PPTYS",
+      "ticker": "SRG-PA",
+      "title_of_class": "CL A",
+      "value": 39926,
+      "shares": 3375,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "113004105",
+      "name": "BROOKFIELD ASSET MANAGMT LTD",
+      "ticker": "BAM",
+      "title_of_class": "CL A",
+      "value": 5105468,
+      "shares": 178077,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "11271J107",
+      "name": "BROOKFIELD CORP",
+      "ticker": "BKFDF",
+      "title_of_class": "CL A",
+      "value": 22409556,
+      "shares": 712319,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

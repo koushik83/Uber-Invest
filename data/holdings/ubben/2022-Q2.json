@@ -1,0 +1,122 @@
+{
+  "investor_id": "ubben",
+  "cik": "0001817187",
+  "quarter": "2022-Q2",
+  "report_date": "2022-06-30",
+  "filing_date": "2022-08-15",
+  "accession_number": "0000902664-22-003980",
+  "total_value": 895387000,
+  "num_holdings": 10,
+  "holdings": [
+    {
+      "cusip": "03783T103",
+      "name": "APPHARVEST INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 20237000,
+      "shares": 5798704,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "05478C105",
+      "name": "AZEK CO INC",
+      "ticker": "MAZE",
+      "title_of_class": "CL A",
+      "value": 68671000,
+      "shares": 4102200,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "29415B103",
+      "name": "ENVIVA INC",
+      "ticker": "RVPH",
+      "title_of_class": "COM",
+      "value": 298248000,
+      "shares": 5212296,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30231G102",
+      "name": "EXXON MOBIL CORP",
+      "ticker": "XOM",
+      "title_of_class": "COM",
+      "value": 15158000,
+      "shares": 177000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "45688C107",
+      "name": "INGEVITY CORP",
+      "ticker": "NGVT",
+      "title_of_class": "COM",
+      "value": 135840000,
+      "shares": 2151405,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "654110105",
+      "name": "NIKOLA CORP",
+      "ticker": "NIKA",
+      "title_of_class": "COM",
+      "value": 35577000,
+      "shares": 7474130,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "737630103",
+      "name": "POTLATCHDELTIC CORPORATION",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 24096000,
+      "shares": 545291,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "86272C103",
+      "name": "STRATEGIC ED INC",
+      "ticker": "STRA",
+      "title_of_class": "COM",
+      "value": 107236000,
+      "shares": 1519349,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "904677200",
+      "name": "UNIFI INC",
+      "ticker": "UFI",
+      "title_of_class": "COM NEW",
+      "value": 26954000,
+      "shares": 1917054,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92511U102",
+      "name": "VERRA MOBILITY CORP",
+      "ticker": "VRRM",
+      "title_of_class": "CL A COM STK",
+      "value": 163370000,
+      "shares": 10399115,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

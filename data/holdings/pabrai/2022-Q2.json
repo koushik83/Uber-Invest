@@ -1,0 +1,45 @@
+{
+  "investor_id": "pabrai",
+  "cik": "0001549575",
+  "quarter": "2022-Q2",
+  "report_date": "2022-06-30",
+  "filing_date": "2022-08-12",
+  "accession_number": "0001549575-22-000013",
+  "total_value": 100838000,
+  "num_holdings": 3,
+  "holdings": [
+    {
+      "cusip": "595112103",
+      "name": "MICRON TECHNOLOGY INC",
+      "ticker": "MU",
+      "title_of_class": "COM",
+      "value": 88082000,
+      "shares": 1593384,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "595112103",
+      "name": "MICRON TECHNOLOGY INC",
+      "ticker": "MU",
+      "title_of_class": "COM",
+      "value": 12738000,
+      "shares": 230428,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "81752R100",
+      "name": "SERITAGE GROWTH PPTYS",
+      "ticker": "SRG-PA",
+      "title_of_class": "CL A",
+      "value": 18000,
+      "shares": 3375,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}
