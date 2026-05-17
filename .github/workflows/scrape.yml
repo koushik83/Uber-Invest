@@ -2,10 +2,10 @@ name: Scrape 13F Filings
 
 on:
   schedule:
-    # Every 6 hours year-round — filing season windows are Feb/May/Aug/Nov.
-    # GitHub Actions may skip runs if the repo is inactive; workflow_dispatch
-    # lets you trigger manually any time.
-    - cron: '0 */6 * * *'
+    # Once daily at 04:00 UTC. Conservative cadence -- 13F filings are
+    # quarterly, so once-a-day still catches anything within ~16h of filing.
+    # Manual trigger remains available via workflow_dispatch.
+    - cron: '0 4 * * *'
   workflow_dispatch:
 
 jobs:
@@ -29,10 +29,22 @@ jobs:
       - name: Install Python dependencies
         run: pip install requests lxml
 
+      - name: Verify CONTACT_EMAIL secret is set
+        # Fail loudly if the secret is empty, before any SEC requests go out.
+        # Avoids the bare "SuperinvestorTracker/1.0 " UA that gets throttled.
+        run: |
+          if [ -z "${{ secrets.CONTACT_EMAIL }}" ]; then
+            echo "::error::CONTACT_EMAIL secret is not set. Aborting before SEC requests."
+            exit 1
+          fi
+          echo "CONTACT_EMAIL secret present (length OK)."
+
       - name: Run scraper (incremental — skips quarters already on disk)
         run: python scraper/main.py
         env:
           SEC_USER_AGENT: "SuperinvestorTracker/1.0 ${{ secrets.CONTACT_EMAIL }}"
+          # Slower delay on shared CI runners. Local dev stays at 0.15s default.
+          SEC_DELAY: "0.5"
 
       - name: Commit updated data if anything changed
         run: |
