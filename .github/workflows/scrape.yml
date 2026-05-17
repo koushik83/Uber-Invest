@@ -57,6 +57,18 @@ jobs:
         with:
           ref: main   # pick up any commit made by the scrape job above
 
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Python dependencies
+        run: pip install requests lxml
+
+      - name: Regenerate dashboard JSONs from raw holdings
+        # data/frontend/*.json is gitignored (derivative data). Rebuild it
+        # from the committed data/holdings/ tree before bundling the frontend.
+        run: python scraper/main.py --export-only
+
       - uses: actions/setup-node@v4
         with:
           node-version: 20

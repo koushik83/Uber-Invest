@@ -21,10 +21,11 @@ data/sec_tickers_cache.json
 # Frontend uses the capped data/frontend/changelog.json instead
 data/changelog/
 
-# Sparkline history JSON is 17 MB and regenerated on every CI run --
-# no point committing it.
-data/frontend/position_history.json
-frontend/public/data/position_history.json
+# Dashboard-cache JSONs (regenerated from data/holdings/ every CI run).
+# The deploy job rebuilds them via `python scraper/main.py --export-only`
+# right before `npm run build`, so they don't need to live in git.
+data/frontend/*.json
+frontend/public/data/*.json
 
 # OS / editor
 .DS_Store
