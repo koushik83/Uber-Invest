@@ -132,6 +132,19 @@ def main():
                 updated += 1
 
         print(f"\n\nDone. {updated}/{total} investors had new data.")
+    else:
+        # --export-only path: skip SEC fetching, but we still need to regenerate
+        # data/changelog/{investor}.json from on-disk holdings -- those files are
+        # gitignored so the CI deploy runner doesn't have them, and the changelog
+        # export reads from them. Diffing is local-only (no network).
+        print("\nRegenerating per-investor changelogs from on-disk holdings ...")
+        for inv in investors:
+            try:
+                entries = diff_all_quarters(inv)
+                save_investor_changelog(inv["id"], entries)
+                print(f"  {inv['id']}: {len(entries)} entries")
+            except Exception as exc:
+                print(f"  WARN: diff regen failed for {inv['id']}: {exc}")
 
     # ---- Optional OpenFIGI pass -----------------------------------------
     if args.openfigi:
