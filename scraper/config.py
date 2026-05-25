@@ -31,10 +31,10 @@ SEC_HEADERS = {
     "Accept-Encoding": "gzip, deflate",
 }
 
-# Delay between SEC requests. Default 0.15s (~6.7 req/sec, well below SEC's
-# 10/sec cap). CI overrides to 0.5s via env to be extra conservative on
-# shared GitHub Actions runner IPs.
-SEC_DELAY = float(os.environ.get("SEC_DELAY", "0.15"))
+# Delay between SEC requests. Default 0.5s (~2 req/sec, 1/5th of SEC's 10/sec
+# cap) per project policy — we'd rather wait than risk an IP block on shared
+# GitHub Actions runners. Override via SEC_DELAY env var if needed.
+SEC_DELAY = float(os.environ.get("SEC_DELAY", "0.5"))
 
 # How many quarters of history to backfill
 BACKFILL_QUARTERS = 20
