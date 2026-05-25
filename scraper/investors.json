@@ -1,27 +1,12 @@
 {
   "investors": [
     {
-      "id": "burry",
-      "name": "Michael Burry",
-      "fund": "Scion Asset Management",
-      "cik": "0001649339",
-      "category": "og",
-      "avatar": "MB"
-    },
-    {
-      "id": "buffett",
-      "name": "Warren Buffett",
-      "fund": "Berkshire Hathaway",
-      "cik": "0001067983",
-      "category": "og",
-      "avatar": "WB"
-    },
-    {
       "id": "druckenmiller",
       "name": "Stanley Druckenmiller",
       "fund": "Duquesne Family Office",
       "cik": "0001536411",
       "category": "og",
+      "bucket": "Macro / tech-aware",
       "avatar": "SD"
     },
     {
@@ -30,71 +15,8 @@
       "fund": "Appaloosa Management",
       "cik": "0001047644",
       "category": "og",
+      "bucket": "Macro / tactical tech",
       "avatar": "DT"
-    },
-    {
-      "id": "ackman",
-      "name": "Bill Ackman",
-      "fund": "Pershing Square",
-      "cik": "0001336528",
-      "category": "og",
-      "avatar": "BA"
-    },
-    {
-      "id": "klarman",
-      "name": "Seth Klarman",
-      "fund": "Baupost Group",
-      "cik": "0001061768",
-      "category": "og",
-      "avatar": "SK"
-    },
-    {
-      "id": "coleman",
-      "name": "Chase Coleman",
-      "fund": "Tiger Global",
-      "cik": "0001167483",
-      "category": "og",
-      "avatar": "CC"
-    },
-    {
-      "id": "loeb",
-      "name": "Dan Loeb",
-      "fund": "Third Point",
-      "cik": "0001040273",
-      "category": "og",
-      "avatar": "DL"
-    },
-    {
-      "id": "dalio",
-      "name": "Ray Dalio",
-      "fund": "Bridgewater Associates",
-      "cik": "0001350694",
-      "category": "og",
-      "avatar": "RD"
-    },
-    {
-      "id": "smith",
-      "name": "Terry Smith",
-      "fund": "Fundsmith",
-      "cik": "0001828937",
-      "category": "og",
-      "avatar": "TS"
-    },
-    {
-      "id": "einhorn",
-      "name": "David Einhorn",
-      "fund": "Greenlight Capital",
-      "cik": "0001079114",
-      "category": "og",
-      "avatar": "DE"
-    },
-    {
-      "id": "pabrai",
-      "name": "Mohnish Pabrai",
-      "fund": "Dalal Street LLC",
-      "cik": "0001549575",
-      "category": "og",
-      "avatar": "MP"
     },
     {
       "id": "hohn",
@@ -102,174 +24,205 @@
       "fund": "TCI Fund Management",
       "cik": "0001647251",
       "category": "og",
+      "bucket": "Quality activist",
       "avatar": "CH"
     },
     {
-      "id": "marks",
-      "name": "Howard Marks",
-      "fund": "Oaktree Capital",
-      "cik": "0000949509",
+      "id": "ackman",
+      "name": "Bill Ackman",
+      "fund": "Pershing Square",
+      "cik": "0001336528",
       "category": "og",
-      "avatar": "HM"
+      "bucket": "Concentrated activist",
+      "avatar": "BA"
     },
     {
-      "id": "griffin",
-      "name": "Ken Griffin",
-      "fund": "Citadel Advisors",
-      "cik": "0001423053",
+      "id": "loeb",
+      "name": "Dan Loeb",
+      "fund": "Third Point",
+      "cik": "0001040273",
       "category": "og",
-      "avatar": "KG"
-    },
-    {
-      "id": "robbins",
-      "name": "Larry Robbins",
-      "fund": "Glenview Capital",
-      "cik": "0001138995",
-      "category": "og",
-      "avatar": "LR"
-    },
-    {
-      "id": "singer",
-      "name": "Paul Singer",
-      "fund": "Elliott Management",
-      "cik": "0001791786",
-      "category": "og",
-      "avatar": "PS"
-    },
-    {
-      "id": "soros",
-      "name": "George Soros",
-      "fund": "Soros Fund Management",
-      "cik": "0001029160",
-      "category": "og",
-      "avatar": "GS"
-    },
-    {
-      "id": "peltz",
-      "name": "Nelson Peltz",
-      "fund": "Trian Fund Management",
-      "cik": "0001345471",
-      "category": "og",
-      "avatar": "NP"
-    },
-    {
-      "id": "viking",
-      "name": "Andreas Halvorsen",
-      "fund": "Viking Global",
-      "cik": "0001103804",
-      "category": "og",
-      "avatar": "AH"
+      "bucket": "Event-driven / tech-aware",
+      "avatar": "DL"
     },
     {
       "id": "coatue",
       "name": "Philippe Laffont",
       "fund": "Coatue Management",
       "cik": "0001135730",
-      "category": "og",
+      "category": "tmt",
+      "bucket": "TMT / growth",
       "avatar": "PL"
     },
     {
-      "id": "ainslie",
-      "name": "Lee Ainslie",
-      "fund": "Maverick Capital",
-      "cik": "0000934639",
-      "category": "og",
-      "avatar": "LA"
+      "id": "gerstner",
+      "name": "Brad Gerstner",
+      "fund": "Altimeter Capital",
+      "cik": "0001541617",
+      "category": "tmt",
+      "bucket": "TMT / AI / cloud",
+      "avatar": "BG"
+    },
+    {
+      "id": "sacerdote",
+      "name": "Alex Sacerdote",
+      "fund": "Whale Rock Capital",
+      "cik": "0001387322",
+      "category": "tmt",
+      "bucket": "TMT / semis / software",
+      "avatar": "AS"
+    },
+    {
+      "id": "sarma",
+      "name": "Karthik Sarma",
+      "fund": "SRS Investment Management",
+      "cik": "0001503174",
+      "category": "tmt",
+      "bucket": "Platforms / internet",
+      "avatar": "KS"
+    },
+    {
+      "id": "goel",
+      "name": "David Goel",
+      "fund": "Matrix Capital",
+      "cik": "0001410830",
+      "category": "tmt",
+      "bucket": "TMT / growth",
+      "avatar": "DG"
+    },
+    {
+      "id": "coleman",
+      "name": "Chase Coleman",
+      "fund": "Tiger Global",
+      "cik": "0001167483",
+      "category": "growth",
+      "bucket": "Growth / internet",
+      "avatar": "CC"
     },
     {
       "id": "mandel",
-      "name": "Steve Mandel",
+      "name": "Stephen Mandel",
       "fund": "Lone Pine Capital",
       "cik": "0001061165",
-      "category": "og",
+      "category": "growth",
+      "bucket": "Quality growth",
       "avatar": "SM"
     },
     {
+      "id": "viking",
+      "name": "Andreas Halvorsen",
+      "fund": "Viking Global",
+      "cik": "0001103804",
+      "category": "growth",
+      "bucket": "Quality growth",
+      "avatar": "AH"
+    },
+    {
       "id": "sundheim",
-      "name": "Daniel Sundheim",
-      "fund": "D1 Capital Partners",
+      "name": "Dan Sundheim",
+      "fund": "D1 Capital",
       "cik": "0001747057",
-      "category": "og",
+      "category": "growth",
+      "bucket": "Growth / crossover",
       "avatar": "DS"
     },
     {
-      "id": "cohen",
-      "name": "Steve Cohen",
-      "fund": "Point72 Asset Management",
-      "cik": "0001603466",
-      "category": "og",
-      "avatar": "SC"
+      "id": "kacher",
+      "name": "Glen Kacher",
+      "fund": "Light Street Capital",
+      "cik": "0001569049",
+      "category": "tmt",
+      "bucket": "TMT / software",
+      "avatar": "GK"
     },
     {
-      "id": "englander",
-      "name": "Israel Englander",
-      "fund": "Millennium Management",
-      "cik": "0001273087",
-      "category": "og",
-      "avatar": "IE"
+      "id": "resnick",
+      "name": "Josh Resnick",
+      "fund": "Jericho Capital",
+      "cik": "0001525234",
+      "category": "tmt",
+      "bucket": "TMT",
+      "avatar": "JR"
     },
     {
-      "id": "tudor",
-      "name": "Paul Tudor Jones",
-      "fund": "Tudor Investment Corp",
-      "cik": "0000923093",
-      "category": "og",
-      "avatar": "PT"
+      "id": "gaonkar",
+      "name": "Mala Gaonkar",
+      "fund": "SurgoCap Partners",
+      "cik": "0001960830",
+      "category": "tmt",
+      "bucket": "TMT / data / AI",
+      "avatar": "MG"
     },
     {
-      "id": "simons",
-      "name": "James Simons",
-      "fund": "Renaissance Technologies",
-      "cik": "0001037389",
-      "category": "og",
-      "avatar": "JS"
+      "id": "desai",
+      "name": "Anand Desai",
+      "fund": "Darsana Capital",
+      "cik": "0001609098",
+      "category": "growth",
+      "bucket": "Growth / tech-aware",
+      "avatar": "AD"
     },
     {
-      "id": "icahn",
-      "name": "Carl Icahn",
-      "fund": "Icahn Capital Management",
-      "cik": "0000921669",
-      "category": "og",
-      "avatar": "CI"
+      "id": "hong",
+      "name": "Dennis Hong",
+      "fund": "ShawSpring Partners",
+      "cik": "0001766908",
+      "category": "growth",
+      "bucket": "Quality growth",
+      "avatar": "DH"
     },
     {
-      "id": "starboard",
-      "name": "Jeff Smith",
-      "fund": "Starboard Value",
-      "cik": "0001517137",
-      "category": "og",
-      "avatar": "JF"
+      "id": "haley",
+      "name": "Connor Haley",
+      "fund": "Alta Fox Capital",
+      "cik": "0001858353",
+      "category": "smallcap",
+      "bucket": "Small/mid-cap tech-aware",
+      "avatar": "CH2"
     },
     {
-      "id": "jana",
-      "name": "Barry Rosenstein",
-      "fund": "JANA Partners",
-      "cik": "0001998597",
-      "category": "og",
-      "avatar": "BR"
+      "id": "tarasoff",
+      "name": "Josh Tarasoff",
+      "fund": "Greenlea Lane Capital",
+      "cik": "0001766504",
+      "category": "quality",
+      "bucket": "Quality / tech-aware",
+      "avatar": "JT"
     },
     {
-      "id": "ubben",
-      "name": "Jeffrey Ubben",
-      "fund": "Inclusive Capital",
-      "cik": "0001817187",
-      "category": "og",
-      "avatar": "JU"
+      "id": "kantesaria",
+      "name": "Dev Kantesaria",
+      "fund": "Valley Forge Capital",
+      "cik": "0001697868",
+      "category": "quality",
+      "bucket": "Quality compounders",
+      "avatar": "DK"
     },
     {
-      "id": "lilu",
-      "name": "Li Lu",
-      "fund": "Himalaya Capital",
-      "cik": "0001709323",
-      "category": "og",
-      "avatar": "LL"
+      "id": "sosin",
+      "name": "Cliff Sosin",
+      "fund": "CAS Investment Partners",
+      "cik": "0001697591",
+      "category": "value",
+      "bucket": "Concentrated value",
+      "avatar": "CS"
+    },
+    {
+      "id": "dorsey",
+      "name": "Pat Dorsey",
+      "fund": "Dorsey Asset Management",
+      "cik": "0001671657",
+      "category": "quality",
+      "bucket": "Moat investing",
+      "avatar": "PD"
     },
     {
       "id": "akre",
       "name": "Chuck Akre",
-      "fund": "Akre Capital Management",
+      "fund": "Akre Capital",
       "cik": "0001112520",
-      "category": "og",
+      "category": "quality",
+      "bucket": "Quality compounders",
       "avatar": "CA"
     },
     {
@@ -277,48 +230,216 @@
       "name": "David Abrams",
       "fund": "Abrams Capital",
       "cik": "0001358706",
-      "category": "og",
+      "category": "value",
+      "bucket": "Concentrated value",
       "avatar": "DA"
     },
     {
-      "id": "greenblatt",
-      "name": "Joel Greenblatt",
-      "fund": "Gotham Asset Management",
-      "cik": "0001510387",
-      "category": "og",
-      "avatar": "JG"
+      "id": "greenberg",
+      "name": "Glenn Greenberg",
+      "fund": "Brave Warrior Advisors",
+      "cik": "0001553733",
+      "category": "value",
+      "bucket": "Concentrated value",
+      "avatar": "GG"
+    },
+    {
+      "id": "klarman",
+      "name": "Seth Klarman",
+      "fund": "Baupost Group",
+      "cik": "0001061768",
+      "category": "value",
+      "bucket": "Deep value / special sits",
+      "avatar": "SK"
+    },
+    {
+      "id": "einhorn",
+      "name": "David Einhorn",
+      "fund": "Greenlight Capital",
+      "cik": "0001079114",
+      "category": "value",
+      "bucket": "Contrarian value",
+      "avatar": "DE"
+    },
+    {
+      "id": "singer",
+      "name": "Paul Singer / Jesse Cohn",
+      "fund": "Elliott Management",
+      "cik": "0001791786",
+      "category": "activist",
+      "bucket": "Activist / special sits",
+      "avatar": "PS"
+    },
+    {
+      "id": "morfit",
+      "name": "Mason Morfit",
+      "fund": "ValueAct Capital",
+      "cik": "0001418814",
+      "category": "activist",
+      "bucket": "Activist / operator lens",
+      "avatar": "MM"
+    },
+    {
+      "id": "starboard",
+      "name": "Jeff Smith",
+      "fund": "Starboard Value",
+      "cik": "0001517137",
+      "category": "activist",
+      "bucket": "Activist",
+      "avatar": "JS"
+    },
+    {
+      "id": "ferguson",
+      "name": "Scott Ferguson",
+      "fund": "Sachem Head Capital",
+      "cik": "0001582090",
+      "category": "activist",
+      "bucket": "Activist",
+      "avatar": "SF"
+    },
+    {
+      "id": "meister",
+      "name": "Keith Meister",
+      "fund": "Corvex Management",
+      "cik": "0001535472",
+      "category": "activist",
+      "bucket": "Activist",
+      "avatar": "KM"
+    },
+    {
+      "id": "jana",
+      "name": "Barry Rosenstein",
+      "fund": "JANA Partners",
+      "cik": "0001998597",
+      "category": "activist",
+      "bucket": "Activist",
+      "avatar": "BR"
+    },
+    {
+      "id": "jain",
+      "name": "Rajiv Jain",
+      "fund": "GQG Partners",
+      "cik": "0001697233",
+      "category": "quality",
+      "bucket": "Global quality",
+      "avatar": "RJ"
     },
     {
       "id": "baron",
       "name": "Ron Baron",
-      "fund": "Baron Capital Group",
+      "fund": "Baron Capital",
       "cik": "0001017918",
-      "category": "og",
+      "category": "growth",
+      "bucket": "Growth / compounders",
       "avatar": "RB"
     },
     {
       "id": "ark",
       "name": "Cathie Wood",
-      "fund": "ARK Investment Management",
+      "fund": "ARK Invest",
       "cik": "0001697748",
-      "category": "og",
+      "category": "thematic",
+      "bucket": "Disruptive tech / thematic",
       "avatar": "CW"
     },
     {
-      "id": "baker",
-      "name": "Felix & Julian Baker",
-      "fund": "Baker Bros Advisors",
-      "cik": "0001263508",
-      "category": "og",
-      "avatar": "BB"
+      "id": "buffett",
+      "name": "Warren Buffett",
+      "fund": "Berkshire Hathaway",
+      "cik": "0001067983",
+      "category": "value",
+      "bucket": "Benchmark value legend",
+      "avatar": "WB"
+    },
+    {
+      "id": "lilu",
+      "name": "Li Lu",
+      "fund": "Himalaya Capital",
+      "cik": "0001709323",
+      "category": "value",
+      "bucket": "Concentrated value",
+      "avatar": "LL"
     },
     {
       "id": "nygren",
       "name": "Bill Nygren",
-      "fund": "Harris Associates",
+      "fund": "Oakmark",
       "cik": "0000813917",
-      "category": "og",
+      "category": "value",
+      "bucket": "Quality value",
       "avatar": "BN"
+    },
+    {
+      "id": "gayner",
+      "name": "Tom Gayner",
+      "fund": "Markel Group",
+      "cik": "0001096343",
+      "category": "value",
+      "bucket": "Value / insurance allocator",
+      "avatar": "TG"
+    },
+    {
+      "id": "davis",
+      "name": "Chris Davis",
+      "fund": "Davis Advisors",
+      "cik": "0001036325",
+      "category": "value",
+      "bucket": "Quality value",
+      "avatar": "CD"
+    },
+    {
+      "id": "smith",
+      "name": "Terry Smith",
+      "fund": "Fundsmith",
+      "cik": "0001569205",
+      "category": "quality",
+      "bucket": "Quality compounders",
+      "avatar": "TS"
+    },
+    {
+      "id": "rochon",
+      "name": "François Rochon",
+      "fund": "Giverny Capital",
+      "cik": "0001641864",
+      "category": "quality",
+      "bucket": "Quality compounders",
+      "avatar": "FR"
+    },
+    {
+      "id": "greenhaven",
+      "name": "Scott Miller",
+      "fund": "Greenhaven Road",
+      "cik": "0001741129",
+      "category": "smallcap",
+      "bucket": "Emerging small-cap compounders",
+      "avatar": "SMi"
+    },
+    {
+      "id": "huber",
+      "name": "John Huber",
+      "fund": "Saber Capital",
+      "cik": "0001911378",
+      "category": "quality",
+      "bucket": "Quality compounders",
+      "avatar": "JH"
+    },
+    {
+      "id": "bloomstran",
+      "name": "Christopher Bloomstran",
+      "fund": "Semper Augustus",
+      "cik": "0001115373",
+      "category": "value",
+      "bucket": "Quality value",
+      "avatar": "CB"
+    },
+    {
+      "id": "citrone",
+      "name": "Robert Citrone",
+      "fund": "Discovery Capital Management",
+      "cik": "0001389507",
+      "category": "macro",
+      "bucket": "Macro / tactical global equities",
+      "avatar": "RC"
     }
   ]
 }
