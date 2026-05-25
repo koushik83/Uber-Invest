@@ -1,0 +1,199 @@
+{
+  "investor_id": "gaonkar",
+  "cik": "0001960830",
+  "quarter": "2025-Q4",
+  "report_date": "2025-12-31",
+  "filing_date": "2026-02-17",
+  "accession_number": "0000919574-26-001016",
+  "total_value": 3612144133,
+  "num_holdings": 17,
+  "holdings": [
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 392383365,
+      "shares": 1250425,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "04247X102",
+      "name": "ARMSTRONG WORLD INDS INC NEW",
+      "ticker": "AWI",
+      "title_of_class": "COM",
+      "value": 72019666,
+      "shares": 376869,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "09260D107",
+      "name": "BLACKSTONE INC",
+      "ticker": "BX",
+      "title_of_class": "COM",
+      "value": 319700695,
+      "shares": 2074093,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "101137107",
+      "name": "BOSTON SCIENTIFIC CORP",
+      "ticker": "BSX",
+      "title_of_class": "COM",
+      "value": 244020674,
+      "shares": 2559210,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "11135F101",
+      "name": "BROADCOM INC",
+      "ticker": "AVGO",
+      "title_of_class": "COM",
+      "value": 231876271,
+      "shares": 669969,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "144285103",
+      "name": "CARPENTER TECHNOLOGY CORP",
+      "ticker": "CRS",
+      "title_of_class": "COM",
+      "value": 362886473,
+      "shares": 1152606,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "316841105",
+      "name": "FIGMA INC",
+      "ticker": "FIG",
+      "title_of_class": "CLASS A COM STK",
+      "value": 69789036,
+      "shares": 1867515,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "40171V100",
+      "name": "GUIDEWIRE SOFTWARE INC",
+      "ticker": "GWRE",
+      "title_of_class": "COM",
+      "value": 144641369,
+      "shares": 719573,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 144693283,
+      "shares": 503719,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "46120E602",
+      "name": "INTUITIVE SURGICAL INC",
+      "ticker": "ISRG",
+      "title_of_class": "COM NEW",
+      "value": 148868292,
+      "shares": 262851,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "50212V100",
+      "name": "LPL FINL HLDGS INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 355384150,
+      "shares": 995000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "58155Q103",
+      "name": "MCKESSON CORP",
+      "ticker": "MCK",
+      "title_of_class": "COM",
+      "value": 343837678,
+      "shares": 419166,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G63755105",
+      "name": "NIQ GLOBAL INTELLIGENCE PLC",
+      "ticker": "NIQ",
+      "title_of_class": "ORDINARY SHARES",
+      "value": 96598420,
+      "shares": 5858000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G6683N103",
+      "name": "NU HLDGS LTD",
+      "ticker": "NU",
+      "title_of_class": "ORD SHS CL A",
+      "value": 176111412,
+      "shares": 10520395,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "ticker": "NVDA",
+      "title_of_class": "COM",
+      "value": 116103524,
+      "shares": 622539,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "82509L107",
+      "name": "SHOPIFY INC",
+      "ticker": "SHOP",
+      "title_of_class": "CL A SUB VTG SHS",
+      "value": 56038647,
+      "shares": 348131,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "ticker": "TSMWF",
+      "title_of_class": "SPONSORED ADS",
+      "value": 337191178,
+      "shares": 1109583,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

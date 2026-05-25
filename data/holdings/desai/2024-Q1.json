@@ -1,0 +1,155 @@
+{
+  "investor_id": "desai",
+  "cik": "0001609098",
+  "quarter": "2024-Q1",
+  "report_date": "2024-03-31",
+  "filing_date": "2024-05-15",
+  "accession_number": "0001172661-24-002477",
+  "total_value": 3111913470,
+  "num_holdings": 13,
+  "holdings": [
+    {
+      "cusip": "060505104",
+      "name": "BANK AMERICA CORP",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 284400000,
+      "shares": 7500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "070830104",
+      "name": "BATH & BODY WORKS INC",
+      "ticker": "BBWI",
+      "title_of_class": "COM",
+      "value": 150060000,
+      "shares": 3000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "20030N101",
+      "name": "COMCAST CORP NEW",
+      "ticker": "CCZ",
+      "title_of_class": "CL A",
+      "value": 325125000,
+      "shares": 7500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "21036P108",
+      "name": "CONSTELLATION BRANDS INC",
+      "ticker": "STZ",
+      "title_of_class": "CL A",
+      "value": 353288000,
+      "shares": 1300000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "389375106",
+      "name": "GRAY TELEVISION INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 33130470,
+      "shares": 5242163,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "40171V100",
+      "name": "GUIDEWIRE SOFTWARE INC",
+      "ticker": "GWRE",
+      "title_of_class": "COM",
+      "value": 379307500,
+      "shares": 3250000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "40412C101",
+      "name": "HCA HEALTHCARE INC",
+      "ticker": "HCA",
+      "title_of_class": "COM",
+      "value": 250147500,
+      "shares": 750000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 319965000,
+      "shares": 1500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "48251W104",
+      "name": "KKR & CO INC",
+      "ticker": "KKR-PD",
+      "title_of_class": "COM",
+      "value": 201160000,
+      "shares": 2000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 242790000,
+      "shares": 500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "650111107",
+      "name": "NEW YORK TIMES CO",
+      "ticker": "NYT",
+      "title_of_class": "CL A",
+      "value": 216100000,
+      "shares": 5000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "808513105",
+      "name": "SCHWAB CHARLES CORP",
+      "ticker": "SCHW-PJ",
+      "title_of_class": "COM",
+      "value": 72340000,
+      "shares": 1000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "88023U101",
+      "name": "TEMPUR SEALY INTL INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 284100000,
+      "shares": 5000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

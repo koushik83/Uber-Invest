@@ -1,0 +1,210 @@
+{
+  "investor_id": "gerstner",
+  "cik": "0001541617",
+  "quarter": "2025-Q4",
+  "report_date": "2025-12-31",
+  "filing_date": "2026-02-17",
+  "accession_number": "0001541617-26-000002",
+  "total_value": 6661973445,
+  "num_holdings": 18,
+  "holdings": [
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 511418641,
+      "shares": 2215660,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "11135F101",
+      "name": "BROADCOM INC",
+      "ticker": "AVGO",
+      "title_of_class": "COM",
+      "value": 11119847,
+      "shares": 32129,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "093712107",
+      "name": "BLOOM ENERGY CORP",
+      "ticker": "BE",
+      "title_of_class": "COM CL A",
+      "value": 22654831,
+      "shares": 260730,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "20717M103",
+      "name": "CONFLUENT INC",
+      "ticker": "CFLT",
+      "title_of_class": "CLASS A COM",
+      "value": 209661480,
+      "shares": 6933250,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "22266T109",
+      "name": "COUPANG INC",
+      "ticker": "CPNG",
+      "title_of_class": "CL A",
+      "value": 369815571,
+      "shares": 15676794,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "21873S108",
+      "name": "COREWEAVE INC",
+      "ticker": "CRWV",
+      "title_of_class": "COM CL A",
+      "value": 230099400,
+      "shares": 3213230,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 162537770,
+      "shares": 519290,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G0370L116",
+      "name": "GRAB HOLDINGS LIMITED",
+      "ticker": "UNKNOWN",
+      "title_of_class": "W EXP 12/1/202",
+      "value": 1029588,
+      "shares": 3502000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "770700102",
+      "name": "ROBINHOOD MKTS INC",
+      "ticker": "HOOD",
+      "title_of_class": "COM CL A",
+      "value": 146271326,
+      "shares": 1293292,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "58733R102",
+      "name": "MERCADOLIBRE INC",
+      "ticker": "MELI",
+      "title_of_class": "COM",
+      "value": 137936524,
+      "shares": 68480,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 1218108963,
+      "shares": 1845368,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 617752974,
+      "shares": 1277352,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "ticker": "NVDA",
+      "title_of_class": "COM",
+      "value": 1510607666,
+      "shares": 8099773,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "82509L107",
+      "name": "SHOPIFY INC",
+      "ticker": "SHOP",
+      "title_of_class": "CL A SUB VTG",
+      "value": 91786704,
+      "shares": 570210,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "833445109",
+      "name": "SNOWFLAKE INC",
+      "ticker": "SNOW",
+      "title_of_class": "COM SHS",
+      "value": 444775213,
+      "shares": 2027604,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "ticker": "TSMWF",
+      "title_of_class": "SPONSORED ADS",
+      "value": 370510893,
+      "shares": 1219227,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90353T100",
+      "name": "UBER TECHNOLOGIES INC",
+      "ticker": "UBER",
+      "title_of_class": "COM",
+      "value": 456660194,
+      "shares": 5588792,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98954M200",
+      "name": "ZILLOW GROUP INC",
+      "ticker": "Z",
+      "title_of_class": "CL C CAP STK",
+      "value": 149225860,
+      "shares": 2187421,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

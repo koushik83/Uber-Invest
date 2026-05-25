@@ -1,0 +1,210 @@
+{
+  "investor_id": "greenhaven",
+  "cik": "0001741129",
+  "quarter": "2024-Q2",
+  "report_date": "2024-06-30",
+  "filing_date": "2024-08-14",
+  "accession_number": "0001741129-24-000005",
+  "total_value": 215750485,
+  "num_holdings": 18,
+  "holdings": [
+    {
+      "cusip": "02128L106",
+      "name": "ALTA EQUIPMENT GROUP INC",
+      "ticker": "ALTG-PA",
+      "title_of_class": "COMMON STOCK",
+      "value": 13374162,
+      "shares": 1663453,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G17977110",
+      "name": "BURFORD CAP LTD",
+      "ticker": "BUR",
+      "title_of_class": "ORD SHS",
+      "value": 21175217,
+      "shares": 1622622,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M2197Q107",
+      "name": "CELLEBRITE DI LTD",
+      "ticker": "CLBT",
+      "title_of_class": "ORDINARY SHARES",
+      "value": 29457288,
+      "shares": 2465045,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M2197Q115",
+      "name": "CELLEBRITE DI LTD",
+      "ticker": "CLBT",
+      "title_of_class": "*W EXP 08/30/202",
+      "value": 6751355,
+      "shares": 2336109,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "25400W102",
+      "name": "DIGITAL TURBINE INC",
+      "ticker": "APPS",
+      "title_of_class": "COM NEW",
+      "value": 3737995,
+      "shares": 2251804,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "405166109",
+      "name": "HAGERTY INC",
+      "ticker": "HGTY",
+      "title_of_class": "CL A COM",
+      "value": 12264741,
+      "shares": 1179302,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "405166117",
+      "name": "HAGERTY INC",
+      "ticker": "HGTY",
+      "title_of_class": "*W EXP 99/99/999",
+      "value": 3373751,
+      "shares": 1645732,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "46090E953",
+      "name": "INVESCO QQQ TR",
+      "ticker": "QQQ",
+      "title_of_class": "PUT",
+      "value": 271450,
+      "shares": 1220,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G50737124",
+      "name": "JAWS MUSTANG ACQUISITION COR",
+      "ticker": "JWSWF",
+      "title_of_class": "*W EXP 01/30/202",
+      "value": 117082,
+      "shares": 1170817,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "496904202",
+      "name": "KINGSWAY FINL SVCS INC",
+      "ticker": "KFS",
+      "title_of_class": "COM NEW",
+      "value": 4147975,
+      "shares": 503395,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "48251W104",
+      "name": "KKR & CO INC",
+      "ticker": "KKR-PD",
+      "title_of_class": "COM",
+      "value": 33750468,
+      "shares": 320700,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "514766104",
+      "name": "LIFECORE BIOMEDICAL INC",
+      "ticker": "LFCR",
+      "title_of_class": "COM",
+      "value": 11368716,
+      "shares": 2216124,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "546347105",
+      "name": "LOUISIANA PAC CORP",
+      "ticker": "LPX",
+      "title_of_class": "COM",
+      "value": 9107098,
+      "shares": 110617,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "57064P107",
+      "name": "MARKETWISE INC",
+      "ticker": "MKTW",
+      "title_of_class": "COM CL A",
+      "value": 4980242,
+      "shares": 4293312,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "576853105",
+      "name": "MATRIX SVC CO",
+      "ticker": "MTRX",
+      "title_of_class": "COM",
+      "value": 158711,
+      "shares": 15983,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "698884103",
+      "name": "PAR TECHNOLOGY CORP",
+      "ticker": "PAR",
+      "title_of_class": "COM",
+      "value": 61617171,
+      "shares": 1308498,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "761025105",
+      "name": "RESEARCH SOLUTIONS INC.",
+      "ticker": "RSSS",
+      "title_of_class": "COM",
+      "value": 90369,
+      "shares": 35439,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "81720R505",
+      "name": "SENESTECH INC",
+      "ticker": "SNES",
+      "title_of_class": "COM",
+      "value": 6694,
+      "shares": 11622,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "investor_id": "haley",
+  "cik": "0001858353",
+  "quarter": "2021-Q4",
+  "report_date": "2021-12-31",
+  "filing_date": "2022-02-14",
+  "accession_number": "0001858353-22-000002",
+  "total_value": 115530000,
+  "num_holdings": 13,
+  "holdings": [
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 5918000,
+      "shares": 1775,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "23753F107",
+      "name": "DASEKE INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 14565000,
+      "shares": 1450659,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "131193104",
+      "name": "CALLAWAY GOLF CO",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 9544000,
+      "shares": 347800,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "29082A107",
+      "name": "EMBRAER S.A.",
+      "ticker": "EMBJ",
+      "title_of_class": "SPONSORED ADS",
+      "value": 8174000,
+      "shares": 460502,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 22452000,
+      "shares": 7750,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "448947507",
+      "name": "IDT CORP",
+      "ticker": "IDT",
+      "title_of_class": "CL B NEW",
+      "value": 10408000,
+      "shares": 235692,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "499049104",
+      "name": "KNIGHT-SWIFT TRANSN HLDGS IN",
+      "ticker": "KNX",
+      "title_of_class": "CL A",
+      "value": 4848000,
+      "shares": 79556,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "56146T103",
+      "name": "MAMAMANCINI S HLDGS INC",
+      "ticker": "MAMA",
+      "title_of_class": "COM",
+      "value": 3390000,
+      "shares": 1686799,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "L6673X107",
+      "name": "NEOGAMES S A",
+      "ticker": "UNKNOWN",
+      "title_of_class": "SHS",
+      "value": 3676000,
+      "shares": 132314,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "75704L104",
+      "name": "RED VIOLET INC",
+      "ticker": "RDVT",
+      "title_of_class": "COM",
+      "value": 9732000,
+      "shares": 245207,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "871332102",
+      "name": "SYLVAMO CORP",
+      "ticker": "SLVM",
+      "title_of_class": "COMMON STOCK",
+      "value": 8367000,
+      "shares": 300000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98379L100",
+      "name": "XPEL INC",
+      "ticker": "XPEL",
+      "title_of_class": "COM",
+      "value": 11911000,
+      "shares": 174441,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98422X101",
+      "name": "XPONENTIAL FITNESS INC",
+      "ticker": "XPOF",
+      "title_of_class": "COM CL A",
+      "value": 2545000,
+      "shares": 124522,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

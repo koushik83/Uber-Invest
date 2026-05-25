@@ -1,0 +1,177 @@
+{
+  "investor_id": "desai",
+  "cik": "0001609098",
+  "quarter": "2021-Q3",
+  "report_date": "2021-09-30",
+  "filing_date": "2021-11-15",
+  "accession_number": "0001172661-21-002191",
+  "total_value": 3035242000,
+  "num_holdings": 15,
+  "holdings": [
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 98551000,
+      "shares": 30000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "08975P108",
+      "name": "BIGCOMMERCE HLDGS INC",
+      "ticker": "CBSH",
+      "title_of_class": "COM SER 1",
+      "value": 113940000,
+      "shares": 2250000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "20030N101",
+      "name": "COMCAST CORP NEW",
+      "ticker": "CCZ",
+      "title_of_class": "CL A",
+      "value": 195755000,
+      "shares": 3500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "FACEBOOK INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 271512000,
+      "shares": 800000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N3167Y103",
+      "name": "FERRARI N V",
+      "ticker": "RACE",
+      "title_of_class": "COM",
+      "value": 313680000,
+      "shares": 1500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "389375106",
+      "name": "GRAY TELEVISION INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 22382000,
+      "shares": 980792,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "40171V100",
+      "name": "GUIDEWIRE SOFTWARE INC",
+      "ticker": "GWRE",
+      "title_of_class": "COM",
+      "value": 297175000,
+      "shares": 2500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 198165000,
+      "shares": 1500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "45332Y109",
+      "name": "INARI MED INC",
+      "ticker": "IRME",
+      "title_of_class": "COM",
+      "value": 115696000,
+      "shares": 1426584,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "650111107",
+      "name": "NEW YORK TIMES CO",
+      "ticker": "NYT",
+      "title_of_class": "CL A",
+      "value": 418795000,
+      "shares": 8500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G6674U108",
+      "name": "NOVOCURE LTD",
+      "ticker": "NVCR",
+      "title_of_class": "ORD SHS",
+      "value": 81319000,
+      "shares": 700000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "70614W100",
+      "name": "PELOTON INTERACTIVE INC",
+      "ticker": "PTON",
+      "title_of_class": "CL A COM",
+      "value": 156690000,
+      "shares": 1800000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "74967X103",
+      "name": "RH",
+      "ticker": "RH",
+      "title_of_class": "COM",
+      "value": 266764000,
+      "shares": 400000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "82509L107",
+      "name": "SHOPIFY INC",
+      "ticker": "SHOP",
+      "title_of_class": "CL A",
+      "value": 305051000,
+      "shares": 225000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "934550203",
+      "name": "WARNER MUSIC GROUP CORP",
+      "ticker": "WMG",
+      "title_of_class": "COM CL A",
+      "value": 179767000,
+      "shares": 4206049,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

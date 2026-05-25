@@ -1,0 +1,221 @@
+{
+  "investor_id": "sarma",
+  "cik": "0001503174",
+  "quarter": "2023-Q3",
+  "report_date": "2023-09-30",
+  "filing_date": "2023-11-14",
+  "accession_number": "0000902664-23-005493",
+  "total_value": 6929766521,
+  "num_holdings": 19,
+  "holdings": [
+    {
+      "cusip": "053774105",
+      "name": "AVIS BUDGET GROUP",
+      "ticker": "CAR",
+      "title_of_class": "COM",
+      "value": 3132155187,
+      "shares": 17430882,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "20030N101",
+      "name": "COMCAST CORP NEW",
+      "ticker": "CCZ",
+      "title_of_class": "CL A",
+      "value": 42995124,
+      "shares": 969699,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "23804L103",
+      "name": "DATADOG INC",
+      "ticker": "DDOG",
+      "title_of_class": "CL A COM",
+      "value": 133318140,
+      "shares": 1463587,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "536797103",
+      "name": "LITHIA MTRS INC",
+      "ticker": "LAD",
+      "title_of_class": "COM",
+      "value": 107017846,
+      "shares": 362367,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 513464774,
+      "shares": 1710352,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "552953101",
+      "name": "MGM RESORTS INTERNATIONAL",
+      "ticker": "MGM",
+      "title_of_class": "COM",
+      "value": 10291697,
+      "shares": 279970,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "64110L106",
+      "name": "NETFLIX INC",
+      "ticker": "NFLX",
+      "title_of_class": "COM",
+      "value": 883534157,
+      "shares": 2339868,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "ticker": "NVDA",
+      "title_of_class": "COM",
+      "value": 98034566,
+      "shares": 225372,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "722304102",
+      "name": "PDD HOLDINGS INC",
+      "ticker": "PDD",
+      "title_of_class": "SPONSORED ADS",
+      "value": 420770610,
+      "shares": 4290513,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "72703H101",
+      "name": "PLANET FITNESS INC",
+      "ticker": "PLNT",
+      "title_of_class": "CL A",
+      "value": 342135572,
+      "shares": 6956803,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "81141R100",
+      "name": "SEA LTD",
+      "ticker": "SE",
+      "title_of_class": "SPONSORED ADS",
+      "value": 3879203,
+      "shares": 88264,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "82509L107",
+      "name": "SHOPIFY INC",
+      "ticker": "SHOP",
+      "title_of_class": "CL A",
+      "value": 221882,
+      "shares": 4066,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83304A106",
+      "name": "SNAP INC",
+      "ticker": "SNAP",
+      "title_of_class": "CL A",
+      "value": 469221244,
+      "shares": 52662317,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "L8681T102",
+      "name": "SPOTIFY TECHNOLOGY S A",
+      "ticker": "SPOT",
+      "title_of_class": "SHS",
+      "value": 262148202,
+      "shares": 1695216,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N82405106",
+      "name": "STELLANTIS N.V",
+      "ticker": "STLA",
+      "title_of_class": "SHS",
+      "value": 161988804,
+      "shares": 8467789,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "049468101",
+      "name": "ATLASSIAN CORPORATION",
+      "ticker": "TEAM",
+      "title_of_class": "CL A",
+      "value": 217114330,
+      "shares": 1077437,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "896945201",
+      "name": "TRIPADVISOR INC",
+      "ticker": "TRIP",
+      "title_of_class": "COM",
+      "value": 21453724,
+      "shares": 1293952,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "ticker": "TSMWF",
+      "title_of_class": "SPONSORED ADS",
+      "value": 66741546,
+      "shares": 768027,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "88025U109",
+      "name": "10X GENOMICS INC",
+      "ticker": "TXG",
+      "title_of_class": "CL A COM",
+      "value": 43279913,
+      "shares": 1049210,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

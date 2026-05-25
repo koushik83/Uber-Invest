@@ -1,0 +1,144 @@
+{
+  "investor_id": "hong",
+  "cik": "0001766908",
+  "quarter": "2026-Q1",
+  "report_date": "2026-03-31",
+  "filing_date": "2026-05-14",
+  "accession_number": "0001172661-26-001956",
+  "total_value": 267608814,
+  "num_holdings": 12,
+  "holdings": [
+    {
+      "cusip": "01609W102",
+      "name": "ALIBABA GROUP HLDG LTD",
+      "ticker": "BBAAY",
+      "title_of_class": "SPONSORED ADS",
+      "value": 36416145,
+      "shares": 290261,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 38842147,
+      "shares": 186499,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "10576N102",
+      "name": "BRAZE INC",
+      "ticker": "BRZE",
+      "title_of_class": "COM CL A",
+      "value": 26256657,
+      "shares": 1112099,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "21037T109",
+      "name": "CONSTELLATION ENERGY CORP",
+      "ticker": "CEG",
+      "title_of_class": "COM",
+      "value": 6469385,
+      "shares": 23167,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "22160N109",
+      "name": "COSTAR GROUP INC",
+      "ticker": "CSGP",
+      "title_of_class": "COM",
+      "value": 13678528,
+      "shares": 339081,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "22266T109",
+      "name": "COUPANG INC",
+      "ticker": "CPNG",
+      "title_of_class": "CL A",
+      "value": 17110774,
+      "shares": 906291,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "36165L108",
+      "name": "GDS HLDGS LTD",
+      "ticker": "GDHLF",
+      "title_of_class": "SPONSORED ADS",
+      "value": 8935597,
+      "shares": 221782,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "461202103",
+      "name": "INTUIT",
+      "ticker": "INTU",
+      "title_of_class": "COM",
+      "value": 17701205,
+      "shares": 40939,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "531229755",
+      "name": "LIBERTY MEDIA CORP DEL",
+      "ticker": "FWONB",
+      "title_of_class": "COM LBTY ONE S C",
+      "value": 17252939,
+      "shares": 202928,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "679295105",
+      "name": "OKTA INC",
+      "ticker": "OKTA",
+      "title_of_class": "CL A",
+      "value": 44473984,
+      "shares": 565036,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "74275K108",
+      "name": "PROCORE TECHNOLOGIES INC",
+      "ticker": "PCOR",
+      "title_of_class": "COM",
+      "value": 12355092,
+      "shares": 216756,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98980G102",
+      "name": "ZSCALER INC",
+      "ticker": "ZS",
+      "title_of_class": "COM",
+      "value": 28116361,
+      "shares": 200416,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

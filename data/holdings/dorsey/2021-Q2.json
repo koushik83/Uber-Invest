@@ -1,0 +1,111 @@
+{
+  "investor_id": "dorsey",
+  "cik": "0001671657",
+  "quarter": "2021-Q2",
+  "report_date": "2021-06-30",
+  "filing_date": "2021-08-16",
+  "accession_number": "0001398344-21-016218",
+  "total_value": 1326181000,
+  "num_holdings": 9,
+  "holdings": [
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 61949000,
+      "shares": 24717,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G27358103",
+      "name": "DESPEGAR COM CORP",
+      "ticker": "UNKNOWN",
+      "title_of_class": "ORD SHS",
+      "value": 43862000,
+      "shares": 3320397,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "254687106",
+      "name": "DISNEY WALT CO",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 124721000,
+      "shares": 709571,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "278642103",
+      "name": "EBAY INC.",
+      "ticker": "EBAY",
+      "title_of_class": "COM",
+      "value": 160323000,
+      "shares": 2283476,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "FACEBOOK INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 235238000,
+      "shares": 676536,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "70450Y103",
+      "name": "PAYPAL HLDGS INC",
+      "ticker": "PYPL",
+      "title_of_class": "COM",
+      "value": 159988000,
+      "shares": 548880,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83200N103",
+      "name": "SMARTSHEET INC",
+      "ticker": "SMRT",
+      "title_of_class": "COM CL A",
+      "value": 231583000,
+      "shares": 3202198,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "91688F104",
+      "name": "UPWORK INC",
+      "ticker": "UPWK",
+      "title_of_class": "COM",
+      "value": 125404000,
+      "shares": 2151378,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M98068105",
+      "name": "WIX COM LTD",
+      "ticker": "WIX",
+      "title_of_class": "SHS",
+      "value": 183113000,
+      "shares": 630815,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

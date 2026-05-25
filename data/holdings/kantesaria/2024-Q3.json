@@ -1,0 +1,100 @@
+{
+  "investor_id": "kantesaria",
+  "cik": "0001697868",
+  "quarter": "2024-Q3",
+  "report_date": "2024-09-30",
+  "filing_date": "2024-11-14",
+  "accession_number": "0001697868-24-000008",
+  "total_value": 4500146048,
+  "num_holdings": 8,
+  "holdings": [
+    {
+      "cusip": "N07059210",
+      "name": "ASML HOLDING N V",
+      "ticker": "ASMLF",
+      "title_of_class": "N Y REGISTRY SHS",
+      "value": 104678698,
+      "shares": 125627,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "29109X106",
+      "name": "ASPEN TECHNOLOGY INC",
+      "ticker": "ASPU",
+      "title_of_class": "COM",
+      "value": 70567728,
+      "shares": 295485,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "303250104",
+      "name": "FAIR ISAAC CORP",
+      "ticker": "FICO",
+      "title_of_class": "COM",
+      "value": 1571905371,
+      "shares": 808793,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "461202103",
+      "name": "INTUIT",
+      "ticker": "INTU",
+      "title_of_class": "COM",
+      "value": 276271101,
+      "shares": 444881,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "MASTERCARD INCORPORATED",
+      "ticker": "MA",
+      "title_of_class": "CL A",
+      "value": 733180413,
+      "shares": 1484772,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "615369105",
+      "name": "MOODYS CORP",
+      "ticker": "MCO",
+      "title_of_class": "COM",
+      "value": 611482638,
+      "shares": 1288444,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78409V104",
+      "name": "S&P GLOBAL INC",
+      "ticker": "SPGI",
+      "title_of_class": "COM",
+      "value": 881301025,
+      "shares": 1705898,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "ticker": "V",
+      "title_of_class": "COM CL A",
+      "value": 250759074,
+      "shares": 912017,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

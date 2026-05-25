@@ -1,0 +1,78 @@
+{
+  "investor_id": "hong",
+  "cik": "0001766908",
+  "quarter": "2023-Q2",
+  "report_date": "2023-06-30",
+  "filing_date": "2023-08-14",
+  "accession_number": "0001172661-23-003069",
+  "total_value": 734009326,
+  "num_holdings": 6,
+  "holdings": [
+    {
+      "cusip": "09352U108",
+      "name": "BLEND LABS INC",
+      "ticker": "BLND",
+      "title_of_class": "CL A",
+      "value": 10647799,
+      "shares": 11241342,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "22266T109",
+      "name": "COUPANG INC",
+      "ticker": "CPNG",
+      "title_of_class": "CL A",
+      "value": 164929432,
+      "shares": 9478703,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 104478847,
+      "shares": 717821,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "44891N208",
+      "name": "IAC INC",
+      "ticker": "IAC",
+      "title_of_class": "COM NEW",
+      "value": 262591857,
+      "shares": 4181399,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "461202103",
+      "name": "INTUIT",
+      "ticker": "INTU",
+      "title_of_class": "COM",
+      "value": 84667097,
+      "shares": 184786,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "81141R100",
+      "name": "SEA LTD",
+      "ticker": "SE",
+      "title_of_class": "SPONSORD ADS",
+      "value": 106694294,
+      "shares": 1838289,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

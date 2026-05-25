@@ -1,0 +1,155 @@
+{
+  "investor_id": "gerstner",
+  "cik": "0001541617",
+  "quarter": "2026-Q1",
+  "report_date": "2026-03-31",
+  "filing_date": "2026-05-15",
+  "accession_number": "0001541617-26-000006",
+  "total_value": 5699287719,
+  "num_holdings": 13,
+  "holdings": [
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 435192245,
+      "shares": 2089558,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "042068205",
+      "name": "ARM HOLDINGS PLC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "SPONSORED ADS",
+      "value": 259511763,
+      "shares": 1715440,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "11135F101",
+      "name": "BROADCOM INC",
+      "ticker": "AVGO",
+      "title_of_class": "COM",
+      "value": 20766265,
+      "shares": 67094,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "05464C101",
+      "name": "AXON ENTERPRISE INC",
+      "ticker": "AXON",
+      "title_of_class": "COM",
+      "value": 63272864,
+      "shares": 148986,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "21873S108",
+      "name": "COREWEAVE INC",
+      "ticker": "CRWV",
+      "title_of_class": "COM CL A",
+      "value": 348543341,
+      "shares": 4499075,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G0370L116",
+      "name": "GRAB HOLDINGS LIMITED",
+      "ticker": "UNKNOWN",
+      "title_of_class": "W EXP 12/1/202",
+      "value": 262650,
+      "shares": 3502000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "770700102",
+      "name": "ROBINHOOD MKTS INC",
+      "ticker": "HOOD",
+      "title_of_class": "COM CL A",
+      "value": 62348586,
+      "shares": 899691,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 1117583294,
+      "shares": 1953373,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 438145057,
+      "shares": 1183632,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "ticker": "NVDA",
+      "title_of_class": "COM",
+      "value": 1628205202,
+      "shares": 9336039,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "833445109",
+      "name": "SNOWFLAKE INC",
+      "ticker": "SNOW",
+      "title_of_class": "COM SHS",
+      "value": 290517025,
+      "shares": 1926250,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "ticker": "TSMWF",
+      "title_of_class": "SPONSORED ADS",
+      "value": 461529866,
+      "shares": 1365675,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90353T100",
+      "name": "UBER TECHNOLOGIES INC",
+      "ticker": "UBER",
+      "title_of_class": "COM",
+      "value": 573409561,
+      "shares": 7971772,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

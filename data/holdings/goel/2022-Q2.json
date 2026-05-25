@@ -1,0 +1,232 @@
+{
+  "investor_id": "goel",
+  "cik": "0001410830",
+  "quarter": "2022-Q2",
+  "report_date": "2022-06-30",
+  "filing_date": "2022-08-15",
+  "accession_number": "0001172661-22-002012",
+  "total_value": 4412443000,
+  "num_holdings": 20,
+  "holdings": [
+    {
+      "cusip": "00653A107",
+      "name": "ADAPTIMMUNE THERAPEUTICS PLC",
+      "ticker": "ADTI",
+      "title_of_class": "SPONDS ADR",
+      "value": 66256000,
+      "shares": 38974185,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "00650F109",
+      "name": "ADAPTIVE BIOTECHNOLOGIES COR",
+      "ticker": "ADPT",
+      "title_of_class": "COM",
+      "value": 93622000,
+      "shares": 11572590,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "H0036K147",
+      "name": "ADC THERAPEUTICS SA",
+      "ticker": "ADCT",
+      "title_of_class": "SHS",
+      "value": 3180000,
+      "shares": 400000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "021369103",
+      "name": "ALTAIR ENGR INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM CL A",
+      "value": 488250000,
+      "shares": 9300000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "038222105",
+      "name": "APPLIED MATLS INC",
+      "ticker": "AMAT",
+      "title_of_class": "COM",
+      "value": 292319000,
+      "shares": 3213000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "05153U107",
+      "name": "AURA BIOSCIENCES INC",
+      "ticker": "AURA",
+      "title_of_class": "COM",
+      "value": 58279000,
+      "shares": 4112870,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "22788C105",
+      "name": "CROWDSTRIKE HLDGS INC",
+      "ticker": "CRWD",
+      "title_of_class": "CL A",
+      "value": 505680000,
+      "shares": 3000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G39387108",
+      "name": "GLOBALFOUNDRIES INC",
+      "ticker": "GFS",
+      "title_of_class": "ORDINARY SHARES",
+      "value": 507974000,
+      "shares": 12592309,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "45250K107",
+      "name": "IMAGO BIOSCIENCES INC",
+      "ticker": "NAGE",
+      "title_of_class": "COM",
+      "value": 4834000,
+      "shares": 361000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "595112103",
+      "name": "MICRON TECHNOLOGY INC",
+      "ticker": "MU",
+      "title_of_class": "COM",
+      "value": 221120000,
+      "shares": 4000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "64110L106",
+      "name": "NETFLIX INC",
+      "ticker": "NFLX",
+      "title_of_class": "COM",
+      "value": 349740000,
+      "shares": 2000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "L7579L106",
+      "name": "PERIMETER SOLUTIONS SA",
+      "ticker": "PRM",
+      "title_of_class": "COMMON STOCK",
+      "value": 80894000,
+      "shares": 7462500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "747525103",
+      "name": "QUALCOMM INC",
+      "ticker": "QCOM",
+      "title_of_class": "COM",
+      "value": 426314000,
+      "shares": 3337360,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE INC",
+      "ticker": "CRM",
+      "title_of_class": "COM",
+      "value": 52235000,
+      "shares": 316500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "893641100",
+      "name": "TRANSDIGM GROUP INC",
+      "ticker": "TDG",
+      "title_of_class": "COM",
+      "value": 587600000,
+      "shares": 1094900,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90138F102",
+      "name": "TWILIO INC",
+      "ticker": "TWLO",
+      "title_of_class": "CL A",
+      "value": 248710000,
+      "shares": 2967549,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92332V107",
+      "name": "VENTYX BIOSCIENCES INC",
+      "ticker": "VTYX",
+      "title_of_class": "COM",
+      "value": 4097000,
+      "shares": 335000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "977852102",
+      "name": "WOLFSPEED INC",
+      "ticker": "WOLF",
+      "title_of_class": "COM",
+      "value": 6345000,
+      "shares": 100000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98138H101",
+      "name": "WORKDAY INC",
+      "ticker": "WDAY",
+      "title_of_class": "CL A",
+      "value": 156475000,
+      "shares": 1121043,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98943L107",
+      "name": "ZENTALIS PHARMACEUTICALS INC",
+      "ticker": "ZNTL",
+      "title_of_class": "COM",
+      "value": 258519000,
+      "shares": 9199973,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

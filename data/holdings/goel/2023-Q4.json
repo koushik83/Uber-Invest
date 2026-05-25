@@ -1,0 +1,221 @@
+{
+  "investor_id": "goel",
+  "cik": "0001410830",
+  "quarter": "2023-Q4",
+  "report_date": "2023-12-31",
+  "filing_date": "2024-02-13",
+  "accession_number": "0001172661-24-000852",
+  "total_value": 9715816917,
+  "num_holdings": 19,
+  "holdings": [
+    {
+      "cusip": "00653A107",
+      "name": "ADAPTIMMUNE THERAPEUTICS PLC",
+      "ticker": "ADTI",
+      "title_of_class": "SPONDS ADR",
+      "value": 30906529,
+      "shares": 38974185,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "00650F109",
+      "name": "ADAPTIVE BIOTECHNOLOGIES COR",
+      "ticker": "ADPT",
+      "title_of_class": "COM",
+      "value": 56705691,
+      "shares": 11572590,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "021369103",
+      "name": "ALTAIR ENGR INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM CL A",
+      "value": 1029421592,
+      "shares": 12233174,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 1114605706,
+      "shares": 7335828,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "038222105",
+      "name": "APPLIED MATLS INC",
+      "ticker": "AMAT",
+      "title_of_class": "COM",
+      "value": 1143031089,
+      "shares": 7052700,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N07059210",
+      "name": "ASML HOLDING N V",
+      "ticker": "ASMLF",
+      "title_of_class": "N Y REGISTRY SHS",
+      "value": 376340624,
+      "shares": 497200,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "05153U107",
+      "name": "AURA BIOSCIENCES INC",
+      "ticker": "AURA",
+      "title_of_class": "COM",
+      "value": 61336628,
+      "shares": 6922870,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "052769106",
+      "name": "AUTODESK INC",
+      "ticker": "ADSK",
+      "title_of_class": "COM",
+      "value": 100800720,
+      "shares": 414000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G39387108",
+      "name": "GLOBALFOUNDRIES INC",
+      "ticker": "GFS",
+      "title_of_class": "ORDINARY SHARES",
+      "value": 1033108800,
+      "shares": 17048000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "573874104",
+      "name": "MARVELL TECHNOLOGY INC",
+      "ticker": "MRVL",
+      "title_of_class": "COM",
+      "value": 907997205,
+      "shares": 15055500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "60770K107",
+      "name": "MODERNA INC",
+      "ticker": "MRNA",
+      "title_of_class": "COM",
+      "value": 45150300,
+      "shares": 454000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "ticker": "NVDA",
+      "title_of_class": "COM",
+      "value": 1638441313,
+      "shares": 3308512,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "L7579L106",
+      "name": "PERIMETER SOLUTIONS SA",
+      "ticker": "PRM",
+      "title_of_class": "COMMON STOCK",
+      "value": 34327500,
+      "shares": 7462500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "871607107",
+      "name": "SYNOPSYS INC",
+      "ticker": "SNPS",
+      "title_of_class": "COM",
+      "value": 369568929,
+      "shares": 717735,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "893641100",
+      "name": "TRANSDIGM GROUP INC",
+      "ticker": "TDG",
+      "title_of_class": "COM",
+      "value": 1107600840,
+      "shares": 1094900,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "922475108",
+      "name": "VEEVA SYS INC",
+      "ticker": "VEEV",
+      "title_of_class": "CL A COM",
+      "value": 13059017,
+      "shares": 67832,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98138H101",
+      "name": "WORKDAY INC",
+      "ticker": "WDAY",
+      "title_of_class": "CL A",
+      "value": 437843031,
+      "shares": 1586043,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98943L107",
+      "name": "ZENTALIS PHARMACEUTICALS INC",
+      "ticker": "ZNTL",
+      "title_of_class": "COM",
+      "value": 211493591,
+      "shares": 13959973,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98980G102",
+      "name": "ZSCALER INC",
+      "ticker": "ZS",
+      "title_of_class": "COM",
+      "value": 4077812,
+      "shares": 18405,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

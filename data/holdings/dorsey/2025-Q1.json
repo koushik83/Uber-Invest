@@ -1,0 +1,133 @@
+{
+  "investor_id": "dorsey",
+  "cik": "0001671657",
+  "quarter": "2025-Q1",
+  "report_date": "2025-03-31",
+  "filing_date": "2025-05-15",
+  "accession_number": "0001398344-25-009457",
+  "total_value": 943610993,
+  "num_holdings": 11,
+  "holdings": [
+    {
+      "cusip": "N00985106",
+      "name": "AERCAP HOLDINGS NV",
+      "ticker": "AER",
+      "title_of_class": "SHS",
+      "value": 116324836,
+      "shares": 1138542,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 99792069,
+      "shares": 638751,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N07059210",
+      "name": "ASML HOLDING N V",
+      "ticker": "ASMLF",
+      "title_of_class": "N Y REGISTRY SHS",
+      "value": 46762462,
+      "shares": 70571,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "053332102",
+      "name": "AUTOZONE INC",
+      "ticker": "AZO",
+      "title_of_class": "COM",
+      "value": 143143200,
+      "shares": 37543,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "09857L108",
+      "name": "BOOKING HOLDINGS INC",
+      "ticker": "BKNG",
+      "title_of_class": "COM",
+      "value": 73567746,
+      "shares": 15969,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "235851102",
+      "name": "DANAHER CORPORATION",
+      "ticker": "DAN",
+      "title_of_class": "COM",
+      "value": 141717320,
+      "shares": 691304,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 142393773,
+      "shares": 247057,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "70450Y103",
+      "name": "PAYPAL HLDGS INC",
+      "ticker": "PYPL",
+      "title_of_class": "COM",
+      "value": 55999573,
+      "shares": 858231,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "81686C104",
+      "name": "SEMRUSH HLDGS INC",
+      "ticker": "SEMR",
+      "title_of_class": "CL A COM",
+      "value": 21055319,
+      "shares": 2256733,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "85209W109",
+      "name": "SPROUT SOCIAL INC",
+      "ticker": "SPT",
+      "title_of_class": "COM CL A",
+      "value": 50674064,
+      "shares": 2304414,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M98068105",
+      "name": "WIX COM LTD",
+      "ticker": "WIX",
+      "title_of_class": "SHS",
+      "value": 52180631,
+      "shares": 319382,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

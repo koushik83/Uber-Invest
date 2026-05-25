@@ -1,0 +1,144 @@
+{
+  "investor_id": "gaonkar",
+  "cik": "0001960830",
+  "quarter": "2024-Q4",
+  "report_date": "2024-12-31",
+  "filing_date": "2025-02-14",
+  "accession_number": "0000919574-25-001210",
+  "total_value": 1940735938,
+  "num_holdings": 12,
+  "holdings": [
+    {
+      "cusip": "09260D107",
+      "name": "BLACKSTONE INC",
+      "ticker": "BX",
+      "title_of_class": "COM",
+      "value": 165838384,
+      "shares": 961828,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "144285103",
+      "name": "CARPENTER TECHNOLOGY CORP",
+      "ticker": "CRS",
+      "title_of_class": "COM",
+      "value": 244733530,
+      "shares": 1442069,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "36266G107",
+      "name": "GE HEALTHCARE TECHNOLOGIES I",
+      "ticker": "GEHC",
+      "title_of_class": "COMMON STOCK",
+      "value": 175201380,
+      "shares": 2241000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "40171V100",
+      "name": "GUIDEWIRE SOFTWARE INC",
+      "ticker": "GWRE",
+      "title_of_class": "COM",
+      "value": 136708602,
+      "shares": 810942,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 109491880,
+      "shares": 443000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "50212V100",
+      "name": "LPL FINL HLDGS INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 231583748,
+      "shares": 709270,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "58155Q103",
+      "name": "MCKESSON CORP",
+      "ticker": "MCK",
+      "title_of_class": "COM",
+      "value": 290016371,
+      "shares": 508881,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 159871749,
+      "shares": 273047,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 146377500,
+      "shares": 250000,
+      "share_type": "SH",
+      "put_call": "CALL",
+      "sector": null
+    },
+    {
+      "cusip": "G6683N103",
+      "name": "NU HLDGS LTD",
+      "ticker": "NU",
+      "title_of_class": "ORD SHS CL A",
+      "value": 74090079,
+      "shares": 7151552,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "ticker": "NVDA",
+      "title_of_class": "COM",
+      "value": 139677715,
+      "shares": 1040120,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "ticker": "NVDA",
+      "title_of_class": "COM",
+      "value": 67145000,
+      "shares": 500000,
+      "share_type": "SH",
+      "put_call": "CALL",
+      "sector": null
+    }
+  ]
+}

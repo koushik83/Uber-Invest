@@ -1,0 +1,188 @@
+{
+  "investor_id": "huber",
+  "cik": "0001911378",
+  "quarter": "2022-Q4",
+  "report_date": "2022-12-31",
+  "filing_date": "2023-02-14",
+  "accession_number": "0001398344-23-003152",
+  "total_value": 94179320,
+  "num_holdings": 16,
+  "holdings": [
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 557224,
+      "shares": 6280,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 6032462,
+      "shares": 68372,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 11648196,
+      "shares": 138669,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 2688000,
+      "shares": 32000,
+      "share_type": "SH",
+      "put_call": "CALL",
+      "sector": null
+    },
+    {
+      "cusip": "060505104",
+      "name": "BANK AMERICA CORP",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 5920631,
+      "shares": 178763,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "17243V102",
+      "name": "CINEMARK HLDGS INC",
+      "ticker": "CNK",
+      "title_of_class": "COM",
+      "value": 2846733,
+      "shares": 328722,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "217204106",
+      "name": "COPART INC",
+      "ticker": "CPRT",
+      "title_of_class": "COM",
+      "value": 8043569,
+      "shares": 132100,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "339750101",
+      "name": "FLOOR & DECOR HLDGS INC",
+      "ticker": "FND",
+      "title_of_class": "CL A",
+      "value": 9031777,
+      "shares": 129711,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "38141G104",
+      "name": "GOLDMAN SACHS GROUP INC",
+      "ticker": "GSCE",
+      "title_of_class": "COM",
+      "value": 6382747,
+      "shares": 18588,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "46625H100",
+      "name": "JPMORGAN CHASE & CO",
+      "ticker": "VYLD",
+      "title_of_class": "COM",
+      "value": 7282703,
+      "shares": 54308,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 2413539,
+      "shares": 20056,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 10647528,
+      "shares": 44398,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "62944T105",
+      "name": "NVR INC",
+      "ticker": "NVR",
+      "title_of_class": "COM",
+      "value": 6545251,
+      "shares": 1419,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "745867101",
+      "name": "PULTE GROUP INC",
+      "ticker": "PHM",
+      "title_of_class": "COM",
+      "value": 1246429,
+      "shares": 27376,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "902973304",
+      "name": "US BANCORP DEL",
+      "ticker": "USB-PQ",
+      "title_of_class": "COM NEW",
+      "value": 589607,
+      "shares": 13520,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "ticker": "V",
+      "title_of_class": "COM CL A",
+      "value": 12302924,
+      "shares": 59217,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

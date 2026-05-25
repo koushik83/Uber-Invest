@@ -1,0 +1,67 @@
+{
+  "investor_id": "sosin",
+  "cik": "0001697591",
+  "quarter": "2022-Q2",
+  "report_date": "2022-06-30",
+  "filing_date": "2022-08-15",
+  "accession_number": "0001420506-22-001677",
+  "total_value": 659483000,
+  "num_holdings": 5,
+  "holdings": [
+    {
+      "cusip": "14161W105",
+      "name": "CARDLYTICS INC",
+      "ticker": "CDLX",
+      "title_of_class": "COM",
+      "value": 120834000,
+      "shares": 5416116,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "146869102",
+      "name": "CARVANA CO",
+      "ticker": "CVNA",
+      "title_of_class": "CL A",
+      "value": 151914000,
+      "shares": 6727803,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43283X105",
+      "name": "HILTON GRAND VACATIONS INC",
+      "ticker": "HGV",
+      "title_of_class": "COM",
+      "value": 276092000,
+      "shares": 7727165,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "702149105",
+      "name": "PARTY CITY HOLDCO INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 25816000,
+      "shares": 19557248,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "981419104",
+      "name": "WORLD ACCEP CORPORATION",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 84827000,
+      "shares": 755768,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

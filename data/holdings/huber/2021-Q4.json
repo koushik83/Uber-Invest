@@ -1,0 +1,144 @@
+{
+  "investor_id": "huber",
+  "cik": "0001911378",
+  "quarter": "2021-Q4",
+  "report_date": "2021-12-31",
+  "filing_date": "2022-02-16",
+  "accession_number": "0001398344-22-003528",
+  "total_value": 126488000,
+  "num_holdings": 12,
+  "holdings": [
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 19899000,
+      "shares": 5968,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 11337000,
+      "shares": 3400,
+      "share_type": "SH",
+      "put_call": "CALL",
+      "sector": null
+    },
+    {
+      "cusip": "217204106",
+      "name": "COPART INC",
+      "ticker": "CPRT",
+      "title_of_class": "COM",
+      "value": 5778000,
+      "shares": 38107,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "29786A106",
+      "name": "ETSY INC",
+      "ticker": "ETSY",
+      "title_of_class": "COM",
+      "value": 9712000,
+      "shares": 44357,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "MASTERCARD INCORPORATED",
+      "ticker": "MA",
+      "title_of_class": "CL A",
+      "value": 3417000,
+      "shares": 9510,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 14259000,
+      "shares": 42394,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 10915000,
+      "shares": 32454,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "64110L106",
+      "name": "NETFLIX INC",
+      "ticker": "NFLX",
+      "title_of_class": "COM",
+      "value": 24236000,
+      "shares": 40230,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "62944T105",
+      "name": "NVR INC",
+      "ticker": "NVR",
+      "title_of_class": "COM",
+      "value": 1324000,
+      "shares": 224,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "L8681T102",
+      "name": "SPOTIFY TECHNOLOGY S A",
+      "ticker": "SPOT",
+      "title_of_class": "SHS",
+      "value": 15297000,
+      "shares": 65363,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90138F102",
+      "name": "TWILIO INC",
+      "ticker": "TWLO",
+      "title_of_class": "CL A",
+      "value": 5391000,
+      "shares": 20472,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "94419L101",
+      "name": "WAYFAIR INC",
+      "ticker": "W",
+      "title_of_class": "CL A",
+      "value": 4923000,
+      "shares": 25914,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

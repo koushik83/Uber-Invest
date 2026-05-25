@@ -1,0 +1,221 @@
+{
+  "investor_id": "ferguson",
+  "cik": "0001582090",
+  "quarter": "2026-Q1",
+  "report_date": "2026-03-31",
+  "filing_date": "2026-05-15",
+  "accession_number": "0000902664-26-002506",
+  "total_value": 4151193255,
+  "num_holdings": 19,
+  "holdings": [
+    {
+      "cusip": "00971T101",
+      "name": "Akamai Technologies Inc",
+      "ticker": "AKAM",
+      "title_of_class": "COM",
+      "value": 26989750,
+      "shares": 235000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G11448100",
+      "name": "Bitdeer Technologies Group",
+      "ticker": "BTDR",
+      "title_of_class": "CL A ORD SHS",
+      "value": 83342750,
+      "shares": 9635000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "146869102",
+      "name": "Carvana Co",
+      "ticker": "CVNA",
+      "title_of_class": "CL A",
+      "value": 248360200,
+      "shares": 790000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "19247G107",
+      "name": "Coherent Corp",
+      "ticker": "COHR",
+      "title_of_class": "COM",
+      "value": 229872650,
+      "shares": 965000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "253393102",
+      "name": "Dicks Sporting Goods Inc",
+      "ticker": "DKS",
+      "title_of_class": "COM",
+      "value": 318255450,
+      "shares": 1605000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "278768106",
+      "name": "Echostar Corp",
+      "ticker": "SATS",
+      "title_of_class": "CL A",
+      "value": 351795350,
+      "shares": 3005000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "36165L108",
+      "name": "GDS Hldgs Ltd",
+      "ticker": "GDHLF",
+      "title_of_class": "Sponsored ADS",
+      "value": 349918650,
+      "shares": 8685000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "375916103",
+      "name": "Gildan Activewear Inc",
+      "ticker": "GIL",
+      "title_of_class": "COM",
+      "value": 230391000,
+      "shares": 4140000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G4705a100",
+      "name": "Icon PLC",
+      "ticker": "ICLR",
+      "title_of_class": "SHS",
+      "value": 232939300,
+      "shares": 2105000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "46137V357",
+      "name": "Invesco Exchange Traded FD T",
+      "ticker": "IVZ",
+      "title_of_class": "S&P500 EQL WGT",
+      "value": 37712280,
+      "shares": 196500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "682189105",
+      "name": "On Semiconductor Corp",
+      "ticker": "ON",
+      "title_of_class": "COM",
+      "value": 120434400,
+      "shares": 1945000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "71377A103",
+      "name": "Performance Food Group Co",
+      "ticker": "PFGC",
+      "title_of_class": "COM",
+      "value": 286961000,
+      "shares": 3350000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "741623102",
+      "name": "Primo Brands Corporation",
+      "ticker": "PRMB",
+      "title_of_class": "CLASS A COM SHS",
+      "value": 321898850,
+      "shares": 17095000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83001C108",
+      "name": "Six Flags Entertainment Corp",
+      "ticker": "FUN",
+      "title_of_class": "COM",
+      "value": 89282500,
+      "shares": 5030000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83601L102",
+      "name": "Sotera Health Co",
+      "ticker": "SHC",
+      "title_of_class": "COM",
+      "value": 166989300,
+      "shares": 11645000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "85208T107",
+      "name": "Sprinklr Inc",
+      "ticker": "CXM",
+      "title_of_class": "CL A",
+      "value": 34470000,
+      "shares": 5745000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "87422Q109",
+      "name": "Talen Energy Corp",
+      "ticker": "TLN",
+      "title_of_class": "COM",
+      "value": 494008425,
+      "shares": 1547500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90138F102",
+      "name": "Twilio Inc",
+      "ticker": "TWLO",
+      "title_of_class": "CL A",
+      "value": 288756900,
+      "shares": 2295000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G48833118",
+      "name": "Weatherford Intl PLC",
+      "ticker": "WFRD",
+      "title_of_class": "ORD SHS",
+      "value": 238814500,
+      "shares": 2525000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

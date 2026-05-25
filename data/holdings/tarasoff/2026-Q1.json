@@ -1,0 +1,111 @@
+{
+  "investor_id": "tarasoff",
+  "cik": "0001766504",
+  "quarter": "2026-Q1",
+  "report_date": "2026-03-31",
+  "filing_date": "2026-05-11",
+  "accession_number": "0001420506-26-000887",
+  "total_value": 344294052,
+  "num_holdings": 9,
+  "holdings": [
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 28766064,
+      "shares": 100035,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 65090623,
+      "shares": 312530,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "084670108",
+      "name": "BERKSHIRE HATHAWAY INC DEL",
+      "ticker": "BRK-A",
+      "title_of_class": "CL A",
+      "value": 45242820,
+      "shares": 63,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "11271J107",
+      "name": "BROOKFIELD CORP",
+      "ticker": "BKFDF",
+      "title_of_class": "CL A LTD VT SH",
+      "value": 56364269,
+      "shares": 1392742,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "46436E718",
+      "name": "ISHARES TR",
+      "ticker": "UNKNOWN",
+      "title_of_class": "0-3 MNTH TREASRY",
+      "value": 38552780,
+      "shares": 383000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "570535104",
+      "name": "MARKEL GROUP INC",
+      "ticker": "MKL",
+      "title_of_class": "COM",
+      "value": 43171849,
+      "shares": 22555,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "64110L106",
+      "name": "NETFLIX INC.",
+      "ticker": "NFLX",
+      "title_of_class": "COM",
+      "value": 26872002,
+      "shares": 279480,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "88160R101",
+      "name": "TESLA INC",
+      "ticker": "TSLA",
+      "title_of_class": "COM",
+      "value": 20347736,
+      "shares": 54735,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "898202106",
+      "name": "TRUPANION INC",
+      "ticker": "TRUP",
+      "title_of_class": "COM",
+      "value": 19885909,
+      "shares": 776490,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

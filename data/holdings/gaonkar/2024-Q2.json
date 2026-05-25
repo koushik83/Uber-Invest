@@ -1,0 +1,155 @@
+{
+  "investor_id": "gaonkar",
+  "cik": "0001960830",
+  "quarter": "2024-Q2",
+  "report_date": "2024-06-30",
+  "filing_date": "2024-08-14",
+  "accession_number": "0000919574-24-004550",
+  "total_value": 1709631617,
+  "num_holdings": 13,
+  "holdings": [
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "ticker": "AAPL",
+      "title_of_class": "COM",
+      "value": 100503230,
+      "shares": 477178,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "09260D107",
+      "name": "BLACKSTONE INC",
+      "ticker": "BX",
+      "title_of_class": "COM",
+      "value": 127843308,
+      "shares": 1032660,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "21874C102",
+      "name": "CORE & MAIN INC",
+      "ticker": "CNM",
+      "title_of_class": "CL A",
+      "value": 101561903,
+      "shares": 2075233,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "36266G107",
+      "name": "GE HEALTHCARE TECHNOLOGIES I",
+      "ticker": "GEHC",
+      "title_of_class": "COMMON STOCK",
+      "value": 89643298,
+      "shares": 1150453,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "36828A101",
+      "name": "GE VERNOVA INC",
+      "ticker": "GEV",
+      "title_of_class": "COM",
+      "value": 211529114,
+      "shares": 1233334,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "40171V100",
+      "name": "GUIDEWIRE SOFTWARE INC",
+      "ticker": "GWRE",
+      "title_of_class": "COM",
+      "value": 111617129,
+      "shares": 809465,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "50212V100",
+      "name": "LPL FINL HLDGS INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 152732691,
+      "shares": 546841,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "58155Q103",
+      "name": "MCKESSON CORP",
+      "ticker": "MCK",
+      "title_of_class": "COM",
+      "value": 281298194,
+      "shares": 481642,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 87349226,
+      "shares": 195434,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G6683N103",
+      "name": "NU HLDGS LTD",
+      "ticker": "NU",
+      "title_of_class": "ORD SHS CL A",
+      "value": 97709603,
+      "shares": 7580264,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "ticker": "NVDA",
+      "title_of_class": "COM",
+      "value": 105948645,
+      "shares": 857606,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "747525103",
+      "name": "QUALCOMM INC",
+      "ticker": "QCOM",
+      "title_of_class": "COM",
+      "value": 124310230,
+      "shares": 624110,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "871607107",
+      "name": "SYNOPSYS INC",
+      "ticker": "SNPS",
+      "title_of_class": "COM",
+      "value": 117585046,
+      "shares": 197602,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "investor_id": "kacher",
+  "cik": "0001569049",
+  "quarter": "2023-Q2",
+  "report_date": "2023-06-30",
+  "filing_date": "2023-08-14",
+  "accession_number": "0000935836-23-000575",
+  "total_value": 377340166,
+  "num_holdings": 21,
+  "holdings": [
+    {
+      "cusip": "007903107",
+      "name": "ADVANCED MICRO DEVICES INC",
+      "ticker": "AMD",
+      "title_of_class": "COM",
+      "value": 19340893,
+      "shares": 169791,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 20683921,
+      "shares": 172798,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 14778913,
+      "shares": 113370,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "03213A104",
+      "name": "AMPLITUDE INC",
+      "ticker": "AMPL",
+      "title_of_class": "COM CL A",
+      "value": 7764889,
+      "shares": 705899,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "052769106",
+      "name": "AUTODESK INC",
+      "ticker": "ADSK",
+      "title_of_class": "COM",
+      "value": 7360845,
+      "shares": 35975,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G1355U121",
+      "name": "BRIDGETOWN HOLDINGS LTD",
+      "ticker": "BBIO",
+      "title_of_class": "*W EXP 09/30/202",
+      "value": 141857,
+      "shares": 572005,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M2197Q115",
+      "name": "CELLEBRITE DI LTD",
+      "ticker": "CLBT",
+      "title_of_class": "*W EXP 08/30/202",
+      "value": 2050000,
+      "shares": 1666667,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M2197Q107",
+      "name": "CELLEBRITE DI LTD",
+      "ticker": "CLBT",
+      "title_of_class": "ORDINARY SHARES",
+      "value": 15283829,
+      "shares": 2122754,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "37637K108",
+      "name": "GITLAB INC",
+      "ticker": "GTLB",
+      "title_of_class": "CLASS A COM",
+      "value": 41546348,
+      "shares": 812881,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "45569U101",
+      "name": "INDIE SEMICONDUCTOR INC",
+      "ticker": "INDI",
+      "title_of_class": "CLASS A COM",
+      "value": 21376220,
+      "shares": 2274066,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M6191J100",
+      "name": "JFROG LTD",
+      "ticker": "FROG",
+      "title_of_class": "ORD SHS",
+      "value": 15668699,
+      "shares": 565657,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 28927010,
+      "shares": 100798,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 21072615,
+      "shares": 61880,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "64081V117",
+      "name": "NERDY INC",
+      "ticker": "NRDY",
+      "title_of_class": "*W EXP 08/16/202",
+      "value": 732875,
+      "shares": 1300000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "64081V109",
+      "name": "NERDY INC",
+      "ticker": "NRDY",
+      "title_of_class": "CL A COM",
+      "value": 14280219,
+      "shares": 3424513,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "64110L106",
+      "name": "NETFLIX INC",
+      "ticker": "NFLX",
+      "title_of_class": "COM",
+      "value": 18971904,
+      "shares": 43070,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "ticker": "NVDA",
+      "title_of_class": "COM",
+      "value": 42171710,
+      "shares": 99692,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "697435105",
+      "name": "PALO ALTO NETWORKS INC",
+      "ticker": "PANW",
+      "title_of_class": "COM",
+      "value": 11038032,
+      "shares": 43200,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE INC",
+      "ticker": "CRM",
+      "title_of_class": "COM",
+      "value": 20808054,
+      "shares": 98495,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "ticker": "TSMWF",
+      "title_of_class": "SPONSORED ADS",
+      "value": 25193467,
+      "shares": 249638,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "88160R101",
+      "name": "TESLA INC",
+      "ticker": "TSLA",
+      "title_of_class": "COM",
+      "value": 28147866,
+      "shares": 107529,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

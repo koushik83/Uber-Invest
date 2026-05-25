@@ -1,0 +1,111 @@
+{
+  "investor_id": "dorsey",
+  "cik": "0001671657",
+  "quarter": "2025-Q3",
+  "report_date": "2025-09-30",
+  "filing_date": "2025-11-14",
+  "accession_number": "0001398344-25-020887",
+  "total_value": 1112595766,
+  "num_holdings": 9,
+  "holdings": [
+    {
+      "cusip": "N00985106",
+      "name": "AERCAP",
+      "ticker": "AER",
+      "title_of_class": "SHS",
+      "value": 152943758,
+      "shares": 1263998,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC CLASS C",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 104560399,
+      "shares": 429318,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N07059210",
+      "name": "ASML HOLDING N.V.",
+      "ticker": "ASMLF",
+      "title_of_class": "N Y REGISTRY SHS",
+      "value": 167698358,
+      "shares": 173226,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "053332102",
+      "name": "AUTOZONE",
+      "ticker": "AZO",
+      "title_of_class": "COM",
+      "value": 128183791,
+      "shares": 29878,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "09857L108",
+      "name": "BOOKING HOLDINGS",
+      "ticker": "BKNG",
+      "title_of_class": "COM",
+      "value": 91652608,
+      "shares": 16975,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "235851102",
+      "name": "DANAHER CORP",
+      "ticker": "DAN",
+      "title_of_class": "COM",
+      "value": 170672121,
+      "shares": 860850,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "194014502",
+      "name": "ENOVIS CORPORATION",
+      "ticker": "ENOV",
+      "title_of_class": "COM",
+      "value": 72795429,
+      "shares": 2399322,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 141165461,
+      "shares": 192224,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G7709Q104",
+      "name": "ROYALTY PHARMA PLC",
+      "ticker": "RPRX",
+      "title_of_class": "SHS CLASS A",
+      "value": 82923841,
+      "shares": 2350449,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

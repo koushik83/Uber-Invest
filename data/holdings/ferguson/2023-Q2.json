@@ -1,0 +1,188 @@
+{
+  "investor_id": "ferguson",
+  "cik": "0001582090",
+  "quarter": "2023-Q2",
+  "report_date": "2023-06-30",
+  "filing_date": "2023-08-14",
+  "accession_number": "0000902664-23-004438",
+  "total_value": 2394352533,
+  "num_holdings": 16,
+  "holdings": [
+    {
+      "cusip": "148806102",
+      "name": "CATALENT INC",
+      "ticker": "CLST",
+      "title_of_class": "COM",
+      "value": 28704320,
+      "shares": 662000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "24790A101",
+      "name": "DENBURY INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 101786800,
+      "shares": 1180000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N14506104",
+      "name": "ELASTIC N V",
+      "ticker": "ESTC",
+      "title_of_class": "ORD SHS",
+      "value": 58528736,
+      "shares": 912800,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "Y2573F102",
+      "name": "FLEX LTD",
+      "ticker": "FLEX",
+      "title_of_class": "ORD",
+      "value": 124449100,
+      "shares": 4502500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "344419106",
+      "name": "FOMENTO ECONOMICO MEXICANO S",
+      "ticker": "UNKNOWN",
+      "title_of_class": "SPON ADR UNITS",
+      "value": 89082108,
+      "shares": 803700,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "459506101",
+      "name": "INTERNATIONAL FLAVORS&FRAGRA",
+      "ticker": "IFF",
+      "title_of_class": "COM",
+      "value": 530374946,
+      "shares": 6663839,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "46137V357",
+      "name": "INVESCO EXCHANGE TRADED FD T",
+      "ticker": "IVZ",
+      "title_of_class": "S&P500 EQL WGT",
+      "value": 187050000,
+      "shares": 1250000,
+      "share_type": "SH",
+      "put_call": "PUT",
+      "sector": null
+    },
+    {
+      "cusip": "679295105",
+      "name": "OKTA INC",
+      "ticker": "OKTA",
+      "title_of_class": "CL A",
+      "value": 85300500,
+      "shares": 1230000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "680665205",
+      "name": "OLIN CORP",
+      "ticker": "OLN",
+      "title_of_class": "COM PAR $1",
+      "value": 40341150,
+      "shares": 785000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "683712103",
+      "name": "OPENDOOR TECHNOLOGIES INC",
+      "ticker": "OPENW",
+      "title_of_class": "COM",
+      "value": 1949700,
+      "shares": 485000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "77634L105",
+      "name": "R1 RCM INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 94242600,
+      "shares": 5108000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "74935Q107",
+      "name": "RB GLOBAL INC",
+      "ticker": "RBA",
+      "title_of_class": "COM",
+      "value": 59250000,
+      "shares": 987500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE INC",
+      "ticker": "CRM",
+      "title_of_class": "COM",
+      "value": 89658744,
+      "shares": 424400,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78462F103",
+      "name": "SPDR S&P 500 ETF TR",
+      "ticker": "SPY",
+      "title_of_class": "TR UNIT",
+      "value": 8732616,
+      "shares": 19700,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "84790A105",
+      "name": "SPECTRUM BRANDS HLDGS INC NE",
+      "ticker": "SPB",
+      "title_of_class": "COM",
+      "value": 61854625,
+      "shares": 792500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "912008109",
+      "name": "US FOODS HLDG CORP",
+      "ticker": "USFD",
+      "title_of_class": "COM",
+      "value": 833046588,
+      "shares": 18932877,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

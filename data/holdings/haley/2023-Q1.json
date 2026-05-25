@@ -1,0 +1,122 @@
+{
+  "investor_id": "haley",
+  "cik": "0001858353",
+  "quarter": "2023-Q1",
+  "report_date": "2023-03-31",
+  "filing_date": "2023-05-15",
+  "accession_number": "0001858353-23-000004",
+  "total_value": 105802101,
+  "num_holdings": 10,
+  "holdings": [
+    {
+      "cusip": "03990B101",
+      "name": "ARES MANAGEMENT CORPORATION",
+      "ticker": "ARES-PB",
+      "title_of_class": "CL A COM STK",
+      "value": 11879186,
+      "shares": 142368,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "05969A105",
+      "name": "BANCORP INC DEL",
+      "ticker": "DELL",
+      "title_of_class": "COM",
+      "value": 15665625,
+      "shares": 562500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "234264109",
+      "name": "DAKTRONICS INC",
+      "ticker": "DAKT",
+      "title_of_class": "COM",
+      "value": 15560085,
+      "shares": 2744283,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G46188101",
+      "name": "HORIZON THERAPEUTICS PUB L",
+      "ticker": "UNKNOWN",
+      "title_of_class": "SHS",
+      "value": 4856730,
+      "shares": 44500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "448947507",
+      "name": "IDT CORP",
+      "ticker": "IDT",
+      "title_of_class": "CL B NEW",
+      "value": 4677821,
+      "shares": 137260,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "46005L101",
+      "name": "INTERNATIONAL MNY EXPRESS IN",
+      "ticker": "IMXI",
+      "title_of_class": "COM",
+      "value": 8080251,
+      "shares": 313431,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "47973J102",
+      "name": "JOINT CORP",
+      "ticker": "JYNT",
+      "title_of_class": "COM",
+      "value": 5078032,
+      "shares": 301725,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "48251W104",
+      "name": "KKR & CO INC",
+      "ticker": "KKR-PD",
+      "title_of_class": "COM",
+      "value": 7009319,
+      "shares": 133460,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "59100U108",
+      "name": "PATHWARD FINANCIAL INC",
+      "ticker": "CASH",
+      "title_of_class": "COM",
+      "value": 16268436,
+      "shares": 392105,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "131193104",
+      "name": "TOPGOLF CALLAWAY BRANDS CORP",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 16726616,
+      "shares": 773664,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

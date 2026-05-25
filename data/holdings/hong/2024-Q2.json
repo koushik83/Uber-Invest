@@ -1,0 +1,122 @@
+{
+  "investor_id": "hong",
+  "cik": "0001766908",
+  "quarter": "2024-Q2",
+  "report_date": "2024-06-30",
+  "filing_date": "2024-08-14",
+  "accession_number": "0001172661-24-003348",
+  "total_value": 693332860,
+  "num_holdings": 10,
+  "holdings": [
+    {
+      "cusip": "09352U108",
+      "name": "BLEND LABS INC",
+      "ticker": "BLND",
+      "title_of_class": "CL A",
+      "value": 15850100,
+      "shares": 6716144,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "22266T109",
+      "name": "COUPANG INC",
+      "ticker": "CPNG",
+      "title_of_class": "CL A",
+      "value": 67259116,
+      "shares": 3210459,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 100027462,
+      "shares": 458421,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "44891N208",
+      "name": "IAC INC",
+      "ticker": "IAC",
+      "title_of_class": "COM NEW",
+      "value": 109878945,
+      "shares": 2345335,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "461202103",
+      "name": "INTUIT",
+      "ticker": "INTU",
+      "title_of_class": "COM",
+      "value": 82267576,
+      "shares": 125177,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M7S64H106",
+      "name": "MONDAY COM LTD",
+      "ticker": "MNDY",
+      "title_of_class": "SHS",
+      "value": 99823430,
+      "shares": 414618,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "63947X101",
+      "name": "NCINO INC",
+      "ticker": "NCNO",
+      "title_of_class": "COM",
+      "value": 38662680,
+      "shares": 1229338,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "74275K108",
+      "name": "PROCORE TECHNOLOGIES INC",
+      "ticker": "PCOR",
+      "title_of_class": "COM",
+      "value": 16074008,
+      "shares": 242407,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "81141R100",
+      "name": "SEA LTD",
+      "ticker": "SE",
+      "title_of_class": "SPONSORD ADS",
+      "value": 60621082,
+      "shares": 848797,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "82452J109",
+      "name": "SHIFT4 PMTS INC",
+      "ticker": "FOUR-PA",
+      "title_of_class": "CL A",
+      "value": 102868461,
+      "shares": 1402433,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "investor_id": "haley",
+  "cik": "0001858353",
+  "quarter": "2023-Q4",
+  "report_date": "2023-12-31",
+  "filing_date": "2024-02-14",
+  "accession_number": "0001858353-24-000002",
+  "total_value": 156405662,
+  "num_holdings": 15,
+  "holdings": [
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 3520188,
+      "shares": 25200,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 7878393,
+      "shares": 51852,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "234264109",
+      "name": "DAKTRONICS INC",
+      "ticker": "DAKT",
+      "title_of_class": "COM",
+      "value": 12453363,
+      "shares": 1468557,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "33768G107",
+      "name": "FIRSTCASH HOLDINGS INC",
+      "ticker": "FCFS",
+      "title_of_class": "COM",
+      "value": 26690496,
+      "shares": 246245,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "39854F101",
+      "name": "GRINDR INC",
+      "ticker": "GRND",
+      "title_of_class": "COM",
+      "value": 14026533,
+      "shares": 1597555,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 9581940,
+      "shares": 52622,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "448947507",
+      "name": "IDT CORP",
+      "ticker": "IDT",
+      "title_of_class": "CL B NEW",
+      "value": 6598665,
+      "shares": 193566,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "464287655",
+      "name": "ISHARES TR",
+      "ticker": "UNKNOWN",
+      "title_of_class": "RUSSELL 2000 ETF",
+      "value": 17401557,
+      "shares": 86700,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "48251W104",
+      "name": "KKR & CO INC",
+      "ticker": "KKR-PD",
+      "title_of_class": "COM",
+      "value": 4677711,
+      "shares": 56460,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "571903202",
+      "name": "MARRIOTT INTL INC NEW",
+      "ticker": "MAR",
+      "title_of_class": "CL A",
+      "value": 8614482,
+      "shares": 38200,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "MASTERCARD INCORPORATED",
+      "ticker": "MA",
+      "title_of_class": "CL A",
+      "value": 1791342,
+      "shares": 4200,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "57667L107",
+      "name": "MATCH GROUP INC NEW",
+      "ticker": "MTCH",
+      "title_of_class": "COM",
+      "value": 14428450,
+      "shares": 395300,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 8084860,
+      "shares": 21500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "94106B101",
+      "name": "WASTE CONNECTIONS INC",
+      "ticker": "WCN",
+      "title_of_class": "COM",
+      "value": 12180432,
+      "shares": 81600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "971378104",
+      "name": "WILLSCOT MOBIL MINI HLDNG CO",
+      "ticker": "WSC",
+      "title_of_class": "COM CL A",
+      "value": 8477250,
+      "shares": 190500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

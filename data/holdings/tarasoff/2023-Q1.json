@@ -1,0 +1,144 @@
+{
+  "investor_id": "tarasoff",
+  "cik": "0001766504",
+  "quarter": "2023-Q1",
+  "report_date": "2023-03-31",
+  "filing_date": "2023-05-15",
+  "accession_number": "0001420506-23-001048",
+  "total_value": 250569579,
+  "num_holdings": 12,
+  "holdings": [
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 29526745,
+      "shares": 284650,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 57275338,
+      "shares": 554510,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "113004105",
+      "name": "BROOKFIELD ASSET MANAGMT LTD",
+      "ticker": "BAM",
+      "title_of_class": "CL A LMT VTG SHS",
+      "value": 7065001,
+      "shares": 215923,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "11271J107",
+      "name": "BROOKFIELD CORP",
+      "ticker": "BKFDF",
+      "title_of_class": "CL A LTD VT SH",
+      "value": 30751924,
+      "shares": 943600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G17977110",
+      "name": "BURFORD CAP LTD",
+      "ticker": "BUR",
+      "title_of_class": "ORD SHS",
+      "value": 8884144,
+      "shares": 803268,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "570535104",
+      "name": "MARKEL CORP",
+      "ticker": "MKL",
+      "title_of_class": "COM",
+      "value": 7958264,
+      "shares": 6230,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 26197821,
+      "shares": 90870,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M7S64H106",
+      "name": "MONDAY COM LTD",
+      "ticker": "MNDY",
+      "title_of_class": "SHS",
+      "value": 16314184,
+      "shares": 114285,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE INC",
+      "ticker": "CRM",
+      "title_of_class": "COM",
+      "value": 23892689,
+      "shares": 119595,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "82509L107",
+      "name": "SHOPIFY INC",
+      "ticker": "SHOP",
+      "title_of_class": "CL A",
+      "value": 16442941,
+      "shares": 342990,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "L8681T102",
+      "name": "SPOTIFY TECHNOLOGY S A",
+      "ticker": "SPOT",
+      "title_of_class": "SHS",
+      "value": 20441856,
+      "shares": 152985,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "898202106",
+      "name": "TRUPANION INC",
+      "ticker": "TRUP",
+      "title_of_class": "COM",
+      "value": 5818672,
+      "shares": 135665,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

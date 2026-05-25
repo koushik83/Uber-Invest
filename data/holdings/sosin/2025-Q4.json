@@ -1,0 +1,67 @@
+{
+  "investor_id": "sosin",
+  "cik": "0001697591",
+  "quarter": "2025-Q4",
+  "report_date": "2025-12-31",
+  "filing_date": "2026-02-17",
+  "accession_number": "0001697591-26-000002",
+  "total_value": 2337079892,
+  "num_holdings": 5,
+  "holdings": [
+    {
+      "cusip": "14040H105",
+      "name": "CAPITAL ONE FINANCIAL CORP",
+      "ticker": "COF-PN",
+      "title_of_class": "COM",
+      "value": 141568535,
+      "shares": 584125,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "14161w105",
+      "name": "CARDLYTICS, INC.",
+      "ticker": "CDLX",
+      "title_of_class": "COM",
+      "value": 5977777,
+      "shares": 5198067,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "146869102",
+      "name": "CARVANA CO CL A",
+      "ticker": "CVNA",
+      "title_of_class": "COM",
+      "value": 1945596604,
+      "shares": 4610200,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43283x105",
+      "name": "HILTON GRAND VACATIONS",
+      "ticker": "HGV",
+      "title_of_class": "COM",
+      "value": 237952755,
+      "shares": 5317380,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "51819L107",
+      "name": "LATHAM GROUP",
+      "ticker": "SWIM",
+      "title_of_class": "COM",
+      "value": 5984221,
+      "shares": 942397,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

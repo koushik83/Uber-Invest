@@ -1,0 +1,221 @@
+{
+  "investor_id": "haley",
+  "cik": "0001858353",
+  "quarter": "2025-Q2",
+  "report_date": "2025-06-30",
+  "filing_date": "2025-08-14",
+  "accession_number": "0001858353-25-000007",
+  "total_value": 367900334,
+  "num_holdings": 19,
+  "holdings": [
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 18209370,
+      "shares": 83000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "03990B101",
+      "name": "ARES MANAGEMENT CORPORATION",
+      "ticker": "ARES-PB",
+      "title_of_class": "CL A COM STK",
+      "value": 13740302,
+      "shares": 79332,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "046433108",
+      "name": "ASTRONICS CORP",
+      "ticker": "ATROB",
+      "title_of_class": "COM",
+      "value": 2519303,
+      "shares": 75248,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "234264109",
+      "name": "DAKTRONICS INC",
+      "ticker": "DAKT",
+      "title_of_class": "COM",
+      "value": 75200817,
+      "shares": 4973599,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "252131107",
+      "name": "DEXCOM INC",
+      "ticker": "DXCM",
+      "title_of_class": "COM",
+      "value": 21639191,
+      "shares": 247900,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "25862V105",
+      "name": "DOUBLEVERIFY HLDGS INC",
+      "ticker": "DV",
+      "title_of_class": "COM",
+      "value": 5529918,
+      "shares": 369400,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "25960R105",
+      "name": "DOUGLAS DYNAMICS INC",
+      "ticker": "PLOW",
+      "title_of_class": "COM",
+      "value": 7863863,
+      "shares": 266843,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "448947507",
+      "name": "IDT CORP",
+      "ticker": "IDT",
+      "title_of_class": "CL B NEW",
+      "value": 6048370,
+      "shares": 88530,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "45828L108",
+      "name": "INTEGRAL AD SCIENCE HLDNG CO",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 14958748,
+      "shares": 1800090,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "47973J102",
+      "name": "JOINT CORP",
+      "ticker": "JYNT",
+      "title_of_class": "COM",
+      "value": 6714861,
+      "shares": 581877,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 12252294,
+      "shares": 16600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 21040443,
+      "shares": 42300,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "639027101",
+      "name": "NATURES SUNSHINE PRODS INC",
+      "ticker": "NATR",
+      "title_of_class": "COM",
+      "value": 6655500,
+      "shares": 450000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "63001N106",
+      "name": "NCR ATLEOS CORPORATION",
+      "ticker": "NATL",
+      "title_of_class": "COM SHS",
+      "value": 43169513,
+      "shares": 1513127,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "76134H101",
+      "name": "RESOLUTE HLDGS MGMT INC",
+      "ticker": "RHLD",
+      "title_of_class": "COM",
+      "value": 7178686,
+      "shares": 225249,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "749527107",
+      "name": "REV GROUP INC",
+      "ticker": "TRVI",
+      "title_of_class": "COM",
+      "value": 76422735,
+      "shares": 1605857,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M8216R109",
+      "name": "RISKIFIED LTD",
+      "ticker": "RSKD",
+      "title_of_class": "SHS CL A",
+      "value": 3777650,
+      "shares": 757044,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M8740S227",
+      "name": "TAT TECHNOLOGIES LTD",
+      "ticker": "TATT",
+      "title_of_class": "ORD NEW",
+      "value": 3750007,
+      "shares": 122790,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "896215209",
+      "name": "TRIMAS CORP",
+      "ticker": "TRS",
+      "title_of_class": "COM NEW",
+      "value": 21228763,
+      "shares": 742005,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "investor_id": "gaonkar",
+  "cik": "0001960830",
+  "quarter": "2023-Q4",
+  "report_date": "2023-12-31",
+  "filing_date": "2024-02-14",
+  "accession_number": "0000919574-24-001147",
+  "total_value": 1432224527,
+  "num_holdings": 15,
+  "holdings": [
+    {
+      "cusip": "09260D107",
+      "name": "BLACKSTONE INC",
+      "ticker": "BX",
+      "title_of_class": "COM",
+      "value": 121440868,
+      "shares": 927596,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "36266G107",
+      "name": "GE HEALTHCARE TECHNOLOGIES I",
+      "ticker": "GEHC",
+      "title_of_class": "COMMON STOCK",
+      "value": 71563835,
+      "shares": 925554,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "369604301",
+      "name": "GENERAL ELECTRIC CO",
+      "ticker": "GE",
+      "title_of_class": "COM NEW",
+      "value": 117814742,
+      "shares": 923096,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "369604301",
+      "name": "GENERAL ELECTRIC CO",
+      "ticker": "GE",
+      "title_of_class": "COM NEW",
+      "value": 16591900,
+      "shares": 130000,
+      "share_type": "SH",
+      "put_call": "CALL",
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 57697584,
+      "shares": 316863,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "46120E602",
+      "name": "INTUITIVE SURGICAL INC",
+      "ticker": "ISRG",
+      "title_of_class": "COM NEW",
+      "value": 56115788,
+      "shares": 166338,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "50212V100",
+      "name": "LPL FINL HLDGS INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 131250017,
+      "shares": 576619,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "58155Q103",
+      "name": "MCKESSON CORP",
+      "ticker": "MCK",
+      "title_of_class": "COM",
+      "value": 154185303,
+      "shares": 333028,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 102017643,
+      "shares": 288218,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 170819178,
+      "shares": 454258,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G6683N103",
+      "name": "NU HLDGS LTD",
+      "ticker": "NU",
+      "title_of_class": "ORD SHS CL A",
+      "value": 82889398,
+      "shares": 9950708,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "ticker": "NVDA",
+      "title_of_class": "COM",
+      "value": 78425020,
+      "shares": 158364,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "697435105",
+      "name": "PALO ALTO NETWORKS INC",
+      "ticker": "PANW",
+      "title_of_class": "COM",
+      "value": 88152607,
+      "shares": 298944,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "69370C100",
+      "name": "PTC INC",
+      "ticker": "PTCT",
+      "title_of_class": "COM",
+      "value": 92386753,
+      "shares": 528045,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "871607107",
+      "name": "SYNOPSYS INC",
+      "ticker": "SNPS",
+      "title_of_class": "COM",
+      "value": 90873891,
+      "shares": 176485,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

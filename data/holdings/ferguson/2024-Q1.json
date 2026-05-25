@@ -1,0 +1,144 @@
+{
+  "investor_id": "ferguson",
+  "cik": "0001582090",
+  "quarter": "2024-Q1",
+  "report_date": "2024-03-31",
+  "filing_date": "2024-05-15",
+  "accession_number": "0000902664-24-003602",
+  "total_value": 2337221874,
+  "num_holdings": 12,
+  "holdings": [
+    {
+      "cusip": "009158106",
+      "name": "AIR PRODS & CHEMS INC",
+      "ticker": "APD",
+      "title_of_class": "COM",
+      "value": 111686470,
+      "shares": 461000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "459506101",
+      "name": "INTERNATIONAL FLAVORS&FRAGRA",
+      "ticker": "IFF",
+      "title_of_class": "COM",
+      "value": 282920686,
+      "shares": 3290158,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "46137V357",
+      "name": "INVESCO EXCHANGE TRADED FD T",
+      "ticker": "IVZ",
+      "title_of_class": "S&P500 EQL WGT",
+      "value": 176144800,
+      "shares": 1040000,
+      "share_type": "SH",
+      "put_call": "PUT",
+      "sector": null
+    },
+    {
+      "cusip": "65290E101",
+      "name": "NEXTRACKER INC",
+      "ticker": "NXTT",
+      "title_of_class": "CLASS A COM",
+      "value": 133106685,
+      "shares": 2365500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "679295105",
+      "name": "OKTA INC",
+      "ticker": "OKTA",
+      "title_of_class": "CL A",
+      "value": 49788658,
+      "shares": 475900,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE INC",
+      "ticker": "CRM",
+      "title_of_class": "COM",
+      "value": 100985654,
+      "shares": 335300,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G7997R103",
+      "name": "SEAGATE TECHNOLOGY HLDNGS PL",
+      "ticker": "STX",
+      "title_of_class": "ORD SHS",
+      "value": 80488250,
+      "shares": 865000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83601L102",
+      "name": "SOTERA HEALTH CO",
+      "ticker": "SHC",
+      "title_of_class": "COM",
+      "value": 94999100,
+      "shares": 7910000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "85208T107",
+      "name": "SPRINKLR INC",
+      "ticker": "CXM",
+      "title_of_class": "CL A",
+      "value": 77239650,
+      "shares": 6295000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90138F102",
+      "name": "TWILIO INC",
+      "ticker": "TWLO",
+      "title_of_class": "CL A",
+      "value": 201489250,
+      "shares": 3295000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "912008109",
+      "name": "US FOODS HLDG CORP",
+      "ticker": "USFD",
+      "title_of_class": "COM",
+      "value": 859897371,
+      "shares": 15932877,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98980F104",
+      "name": "ZOOMINFO TECHNOLOGIES INC",
+      "ticker": "GTM",
+      "title_of_class": "COMMON STOCK",
+      "value": 168475300,
+      "shares": 10510000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "investor_id": "ferguson",
+  "cik": "0001582090",
+  "quarter": "2022-Q1",
+  "report_date": "2022-03-31",
+  "filing_date": "2022-05-13",
+  "accession_number": "0000902664-22-002932",
+  "total_value": 3916722000,
+  "num_holdings": 18,
+  "holdings": [
+    {
+      "cusip": "03966V107",
+      "name": "ARCONIC CORPORATION",
+      "ticker": "POCI",
+      "title_of_class": "COM",
+      "value": 11529000,
+      "shares": 450000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "07831C103",
+      "name": "BELLRING BRANDS INC",
+      "ticker": "BRBR",
+      "title_of_class": "COMMON STOCK",
+      "value": 26481000,
+      "shares": 1147346,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "146869102",
+      "name": "CARVANA CO",
+      "ticker": "CVNA",
+      "title_of_class": "CL A",
+      "value": 60241000,
+      "shares": 505000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "20464U100",
+      "name": "COMPASS INC",
+      "ticker": "CMPX",
+      "title_of_class": "CL A",
+      "value": 34270000,
+      "shares": 4360000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "28414H103",
+      "name": "ELANCO ANIMAL HEALTH INC",
+      "ticker": "ELAN",
+      "title_of_class": "COM",
+      "value": 726228000,
+      "shares": 27835500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "26886C115",
+      "name": "EQRX INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "*W EXP 12/17/202",
+      "value": 174000,
+      "shares": 200000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "459506101",
+      "name": "INTERNATIONAL FLAVORS&FRAGRA",
+      "ticker": "IFF",
+      "title_of_class": "COM",
+      "value": 844956000,
+      "shares": 6433839,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "60878Y108",
+      "name": "MOMENTIVE GLOBAL INC",
+      "ticker": "CGTL",
+      "title_of_class": "COM",
+      "value": 93007000,
+      "shares": 5720000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "680665205",
+      "name": "OLIN CORP",
+      "ticker": "OLN",
+      "title_of_class": "COM PAR $1",
+      "value": 624746000,
+      "shares": 11950000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "683712103",
+      "name": "OPENDOOR TECHNOLOGIES INC",
+      "ticker": "OPENW",
+      "title_of_class": "COM",
+      "value": 24566000,
+      "shares": 2840000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "69526K105",
+      "name": "PACTIV EVERGREEN INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 33953000,
+      "shares": 3375000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "737446104",
+      "name": "POST HLDGS INC",
+      "ticker": "POST",
+      "title_of_class": "COM",
+      "value": 62680000,
+      "shares": 905000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE COM INC",
+      "ticker": "CRM",
+      "title_of_class": "COM",
+      "value": 53738000,
+      "shares": 253100,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90353T100",
+      "name": "UBER TECHNOLOGIES INC",
+      "ticker": "UBER",
+      "title_of_class": "COM",
+      "value": 130410000,
+      "shares": 3655000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "912008109",
+      "name": "US FOODS HLDG CORP",
+      "ticker": "USFD",
+      "title_of_class": "COM",
+      "value": 721926000,
+      "shares": 19184852,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98936J101",
+      "name": "ZENDESK INC",
+      "ticker": "ZTEK",
+      "title_of_class": "COM",
+      "value": 215319000,
+      "shares": 1790000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G5509L101",
+      "name": "LIVANOVA PLC",
+      "ticker": "LIVN",
+      "title_of_class": "SHS",
+      "value": 143980000,
+      "shares": 1759500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "Y2573F102",
+      "name": "FLEX LTD",
+      "ticker": "FLEX",
+      "title_of_class": "ORD",
+      "value": 108518000,
+      "shares": 5850000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

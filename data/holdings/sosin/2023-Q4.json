@@ -1,0 +1,67 @@
+{
+  "investor_id": "sosin",
+  "cik": "0001697591",
+  "quarter": "2023-Q4",
+  "report_date": "2023-12-31",
+  "filing_date": "2024-02-14",
+  "accession_number": "0001420506-24-000370",
+  "total_value": 826690750,
+  "num_holdings": 5,
+  "holdings": [
+    {
+      "cusip": "14040H105",
+      "name": "CAPITAL ONE FINL CORP",
+      "ticker": "COF-PN",
+      "title_of_class": "COM",
+      "value": 69947275,
+      "shares": 533460,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "14161W105",
+      "name": "CARDLYTICS INC",
+      "ticker": "CDLX",
+      "title_of_class": "COM",
+      "value": 49882428,
+      "shares": 5416116,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "146869102",
+      "name": "CARVANA CO",
+      "ticker": "CVNA",
+      "title_of_class": "CL A",
+      "value": 361463891,
+      "shares": 6827803,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43283X105",
+      "name": "HILTON GRAND VACATIONS INC",
+      "ticker": "HGV",
+      "title_of_class": "COM",
+      "value": 271975206,
+      "shares": 6768920,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "981419104",
+      "name": "WORLD ACCEP CORPORATION",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 73421950,
+      "shares": 562491,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

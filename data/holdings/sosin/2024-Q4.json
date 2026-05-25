@@ -1,0 +1,56 @@
+{
+  "investor_id": "sosin",
+  "cik": "0001697591",
+  "quarter": "2024-Q4",
+  "report_date": "2024-12-31",
+  "filing_date": "2025-02-14",
+  "accession_number": "0001420506-25-000470",
+  "total_value": 1717289539,
+  "num_holdings": 4,
+  "holdings": [
+    {
+      "cusip": "14040H105",
+      "name": "CAPITAL ONE FINL CORP",
+      "ticker": "COF-PN",
+      "title_of_class": "COM",
+      "value": 143795286,
+      "shares": 806389,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "14161W105",
+      "name": "CARDLYTICS INC",
+      "ticker": "CDLX",
+      "title_of_class": "COM",
+      "value": 23628656,
+      "shares": 6368910,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "146869102",
+      "name": "CARVANA CO",
+      "ticker": "CVNA",
+      "title_of_class": "CL A",
+      "value": 1296988798,
+      "shares": 6377797,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43283X105",
+      "name": "HILTON GRAND VACATIONS INC",
+      "ticker": "HGV",
+      "title_of_class": "COM",
+      "value": 252876799,
+      "shares": 6492344,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

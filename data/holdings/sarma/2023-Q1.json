@@ -1,0 +1,243 @@
+{
+  "investor_id": "sarma",
+  "cik": "0001503174",
+  "quarter": "2023-Q1",
+  "report_date": "2023-03-31",
+  "filing_date": "2023-05-15",
+  "accession_number": "0000902664-23-003082",
+  "total_value": 6970938207,
+  "num_holdings": 21,
+  "holdings": [
+    {
+      "cusip": "88025U109",
+      "name": "10X GENOMICS INC",
+      "ticker": "TXG",
+      "title_of_class": "CL A COM",
+      "value": 167672772,
+      "shares": 3005427,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "009066101",
+      "name": "AIRBNB INC",
+      "ticker": "ABNB",
+      "title_of_class": "COM CL A",
+      "value": 33410108,
+      "shares": 268570,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "053774105",
+      "name": "AVIS BUDGET GROUP",
+      "ticker": "CAR",
+      "title_of_class": "COM",
+      "value": 3590335814,
+      "shares": 18430882,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "20030N101",
+      "name": "COMCAST CORP NEW",
+      "ticker": "CCZ",
+      "title_of_class": "CL A",
+      "value": 36761289,
+      "shares": 969699,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "169656105",
+      "name": "CHIPOTLE MEXICAN GRILL INC",
+      "ticker": "CMG",
+      "title_of_class": "COM",
+      "value": 136213920,
+      "shares": 79737,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "23804L103",
+      "name": "DATADOG INC",
+      "ticker": "DDOG",
+      "title_of_class": "CL A COM",
+      "value": 95013340,
+      "shares": 1307643,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "536797103",
+      "name": "LITHIA MTRS INC",
+      "ticker": "LAD",
+      "title_of_class": "COM",
+      "value": 63064034,
+      "shares": 275473,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 545276901,
+      "shares": 2572789,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "552953101",
+      "name": "MGM RESORTS INTERNATIONAL",
+      "ticker": "MGM",
+      "title_of_class": "COM",
+      "value": 12436267,
+      "shares": 279970,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "57667L107",
+      "name": "MATCH GROUP INC NEW",
+      "ticker": "MTCH",
+      "title_of_class": "COM",
+      "value": 14998589,
+      "shares": 390690,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "64110L106",
+      "name": "NETFLIX INC",
+      "ticker": "NFLX",
+      "title_of_class": "COM",
+      "value": 876727360,
+      "shares": 2537708,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "654106103",
+      "name": "NIKE INC",
+      "ticker": "NKE",
+      "title_of_class": "CL B",
+      "value": 14590113,
+      "shares": 118967,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "722304102",
+      "name": "PDD HOLDINGS INC",
+      "ticker": "PDD",
+      "title_of_class": "SPONSORED ADS",
+      "value": 7915080,
+      "shares": 104283,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "72352L106",
+      "name": "PINTEREST INC",
+      "ticker": "PINS",
+      "title_of_class": "CL A",
+      "value": 156303814,
+      "shares": 5731713,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "72703H101",
+      "name": "PLANET FITNESS INC",
+      "ticker": "PLNT",
+      "title_of_class": "CL A",
+      "value": 540334889,
+      "shares": 6956803,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "771049103",
+      "name": "ROBLOX CORP",
+      "ticker": "RBLX",
+      "title_of_class": "CL A",
+      "value": 22135108,
+      "shares": 492110,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "81141R100",
+      "name": "SEA LTD",
+      "ticker": "SE",
+      "title_of_class": "SPONSORD ADS",
+      "value": 7639249,
+      "shares": 88264,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "82509L107",
+      "name": "SHOPIFY INC",
+      "ticker": "SHOP",
+      "title_of_class": "CL A",
+      "value": 194924,
+      "shares": 4066,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "L8681T102",
+      "name": "SPOTIFY TECHNOLOGY S A",
+      "ticker": "SPOT",
+      "title_of_class": "SHS",
+      "value": 294683276,
+      "shares": 2205383,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N82405106",
+      "name": "STELLANTIS N.V.",
+      "ticker": "STLA",
+      "title_of_class": "SHS",
+      "value": 154029082,
+      "shares": 8467789,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90138F102",
+      "name": "TWILIO INC",
+      "ticker": "TWLO",
+      "title_of_class": "CL A",
+      "value": 201202278,
+      "shares": 3019695,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

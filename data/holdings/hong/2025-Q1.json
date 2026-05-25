@@ -1,0 +1,122 @@
+{
+  "investor_id": "hong",
+  "cik": "0001766908",
+  "quarter": "2025-Q1",
+  "report_date": "2025-03-31",
+  "filing_date": "2025-05-15",
+  "accession_number": "0001172661-25-002068",
+  "total_value": 727737175,
+  "num_holdings": 10,
+  "holdings": [
+    {
+      "cusip": "09352U108",
+      "name": "BLEND LABS INC",
+      "ticker": "BLND",
+      "title_of_class": "CL A",
+      "value": 29851981,
+      "shares": 8911039,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "10576N102",
+      "name": "BRAZE INC",
+      "ticker": "BRZE",
+      "title_of_class": "COM CL A",
+      "value": 85631767,
+      "shares": 2373386,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "22160N109",
+      "name": "COSTAR GROUP INC",
+      "ticker": "CSGP",
+      "title_of_class": "COM",
+      "value": 90979967,
+      "shares": 1148302,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 40870711,
+      "shares": 179612,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "461202103",
+      "name": "INTUIT",
+      "ticker": "INTU",
+      "title_of_class": "COM",
+      "value": 102497035,
+      "shares": 166936,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M7S64H106",
+      "name": "MONDAY COM LTD",
+      "ticker": "MNDY",
+      "title_of_class": "SHS",
+      "value": 92087367,
+      "shares": 378711,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "63947X101",
+      "name": "NCINO INC",
+      "ticker": "NCNO",
+      "title_of_class": "COM",
+      "value": 100318187,
+      "shares": 3651918,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "74275K108",
+      "name": "PROCORE TECHNOLOGIES INC",
+      "ticker": "PCOR",
+      "title_of_class": "COM",
+      "value": 94892593,
+      "shares": 1437331,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "82452J109",
+      "name": "SHIFT4 PMTS INC",
+      "ticker": "FOUR-PA",
+      "title_of_class": "CL A",
+      "value": 73446995,
+      "shares": 898874,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92538J106",
+      "name": "VERTEX INC",
+      "ticker": "VERX",
+      "title_of_class": "CL A",
+      "value": 17160572,
+      "shares": 490162,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

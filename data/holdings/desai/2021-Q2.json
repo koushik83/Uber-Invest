@@ -1,0 +1,210 @@
+{
+  "investor_id": "desai",
+  "cik": "0001609098",
+  "quarter": "2021-Q2",
+  "report_date": "2021-06-30",
+  "filing_date": "2021-08-16",
+  "accession_number": "0001172661-21-001742",
+  "total_value": 3516220000,
+  "num_holdings": 18,
+  "holdings": [
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 103205000,
+      "shares": 30000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "20030N101",
+      "name": "COMCAST CORP NEW",
+      "ticker": "CCZ",
+      "title_of_class": "CL A",
+      "value": 199570000,
+      "shares": 3500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "23292E108",
+      "name": "DIDI GLOBAL INC",
+      "ticker": "DIDIY",
+      "title_of_class": "SPONSORED ADS",
+      "value": 60095000,
+      "shares": 4250000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "25809K105",
+      "name": "DOORDASH INC",
+      "ticker": "DASH",
+      "title_of_class": "CL A",
+      "value": 329911000,
+      "shares": 1850000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "FACEBOOK INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 295554000,
+      "shares": 850000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "FACEBOOK INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 173855000,
+      "shares": 500000,
+      "share_type": "SH",
+      "put_call": "CALL",
+      "sector": null
+    },
+    {
+      "cusip": "N3167Y103",
+      "name": "FERRARI N V",
+      "ticker": "RACE",
+      "title_of_class": "COM",
+      "value": 257563000,
+      "shares": 1250000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "35969L108",
+      "name": "FULL TRUCK ALLIANCE CO LTD",
+      "ticker": "YMM",
+      "title_of_class": "SPONSORED ADS",
+      "value": 30570000,
+      "shares": 1500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "389375106",
+      "name": "GRAY TELEVISION INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 35035000,
+      "shares": 1497237,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "40171V100",
+      "name": "GUIDEWIRE SOFTWARE INC",
+      "ticker": "GWRE",
+      "title_of_class": "COM",
+      "value": 281800000,
+      "shares": 2500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 180930000,
+      "shares": 1500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "45332Y109",
+      "name": "INARI MED INC",
+      "ticker": "IRME",
+      "title_of_class": "COM",
+      "value": 137588000,
+      "shares": 1475000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 270900000,
+      "shares": 1000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "650111107",
+      "name": "NEW YORK TIMES CO",
+      "ticker": "NYT",
+      "title_of_class": "CL A",
+      "value": 410401000,
+      "shares": 9423665,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G6674U108",
+      "name": "NOVOCURE LTD",
+      "ticker": "NVCR",
+      "title_of_class": "ORD SHS",
+      "value": 155274000,
+      "shares": 700000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "70614W100",
+      "name": "PELOTON INTERACTIVE INC",
+      "ticker": "PTON",
+      "title_of_class": "CL A COM",
+      "value": 223236000,
+      "shares": 1800000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "82509L107",
+      "name": "SHOPIFY INC",
+      "ticker": "SHOP",
+      "title_of_class": "CL A",
+      "value": 219147000,
+      "shares": 150000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "934550203",
+      "name": "WARNER MUSIC GROUP CORP",
+      "ticker": "WMG",
+      "title_of_class": "COM CL A",
+      "value": 151586000,
+      "shares": 4206049,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

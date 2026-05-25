@@ -1,0 +1,122 @@
+{
+  "investor_id": "dorsey",
+  "cik": "0001671657",
+  "quarter": "2022-Q2",
+  "report_date": "2022-06-30",
+  "filing_date": "2022-08-15",
+  "accession_number": "0001398344-22-015545",
+  "total_value": 801082000,
+  "num_holdings": 10,
+  "holdings": [
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 61942000,
+      "shares": 28317,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "254687106",
+      "name": "DISNEY WALT CO",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 69871000,
+      "shares": 740164,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 122001000,
+      "shares": 756594,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "70450Y103",
+      "name": "PAYPAL HLDGS INC",
+      "ticker": "PYPL",
+      "title_of_class": "COM",
+      "value": 51655000,
+      "shares": 739616,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "73739W104",
+      "name": "POSHMARK INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM CL A",
+      "value": 47929000,
+      "shares": 4740775,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "77543R102",
+      "name": "ROKU INC",
+      "ticker": "ROKU",
+      "title_of_class": "COM CL A",
+      "value": 116770000,
+      "shares": 1421597,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "81686C104",
+      "name": "SEMRUSH HLDGS INC",
+      "ticker": "SEMR",
+      "title_of_class": "CL A COM",
+      "value": 44585000,
+      "shares": 3448221,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83200N103",
+      "name": "SMARTSHEET INC",
+      "ticker": "SMRT",
+      "title_of_class": "COM CL A",
+      "value": 108058000,
+      "shares": 3438052,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "91688F104",
+      "name": "UPWORK INC",
+      "ticker": "UPWK",
+      "title_of_class": "COM",
+      "value": 55156000,
+      "shares": 2667136,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M98068105",
+      "name": "WIX COM LTD",
+      "ticker": "WIX",
+      "title_of_class": "SHS",
+      "value": 123115000,
+      "shares": 1878181,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

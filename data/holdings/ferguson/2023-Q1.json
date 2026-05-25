@@ -1,0 +1,199 @@
+{
+  "investor_id": "ferguson",
+  "cik": "0001582090",
+  "quarter": "2023-Q1",
+  "report_date": "2023-03-31",
+  "filing_date": "2023-05-15",
+  "accession_number": "0000902664-23-003081",
+  "total_value": 2258214092,
+  "num_holdings": 17,
+  "holdings": [
+    {
+      "cusip": "03966V107",
+      "name": "ARCONIC CORPORATION",
+      "ticker": "POCI",
+      "title_of_class": "COM",
+      "value": 22082906,
+      "shares": 841895,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE INC",
+      "ticker": "CRM",
+      "title_of_class": "COM",
+      "value": 107301838,
+      "shares": 537100,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N14506104",
+      "name": "ELASTIC N V",
+      "ticker": "ESTC",
+      "title_of_class": "ORD SHS",
+      "value": 13322790,
+      "shares": 230100,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "Y2573F102",
+      "name": "FLEX LTD",
+      "ticker": "FLEX",
+      "title_of_class": "ORD",
+      "value": 144847950,
+      "shares": 6295000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "344419106",
+      "name": "FOMENTO ECONOMICO MEXICANO S",
+      "ticker": "UNKNOWN",
+      "title_of_class": "SPON ADR UNITS",
+      "value": 114703950,
+      "shares": 1205000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "459506101",
+      "name": "INTERNATIONAL FLAVORS&FRAGRA",
+      "ticker": "IFF",
+      "title_of_class": "COM",
+      "value": 614710206,
+      "shares": 6684539,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G5509L101",
+      "name": "LIVANOVA PLC",
+      "ticker": "LIVN",
+      "title_of_class": "SHS",
+      "value": 6188360,
+      "shares": 142000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "65290E101",
+      "name": "NEXTRACKER INC",
+      "ticker": "NXTT",
+      "title_of_class": "CLASS A COM",
+      "value": 12691000,
+      "shares": 350000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "679295105",
+      "name": "OKTA INC",
+      "ticker": "OKTA",
+      "title_of_class": "CL A",
+      "value": 52304560,
+      "shares": 606500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "680665205",
+      "name": "OLIN CORP",
+      "ticker": "OLN",
+      "title_of_class": "COM PAR $1",
+      "value": 102952500,
+      "shares": 1855000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "683712103",
+      "name": "OPENDOOR TECHNOLOGIES INC",
+      "ticker": "OPENW",
+      "title_of_class": "COM",
+      "value": 853600,
+      "shares": 485000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "767744105",
+      "name": "RITCHIE BROS AUCTIONEERS",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 55586375,
+      "shares": 987500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "77634L105",
+      "name": "R1 RCM INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 111525000,
+      "shares": 7435000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "84790A105",
+      "name": "SPECTRUM BRANDS HLDGS INC NE",
+      "ticker": "SPB",
+      "title_of_class": "COM",
+      "value": 100170994,
+      "shares": 1512700,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78462F103",
+      "name": "SPDR S&P 500 ETF TR",
+      "ticker": "SPY",
+      "title_of_class": "TR UNIT",
+      "value": 3397937,
+      "shares": 8300,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90353T100",
+      "name": "UBER TECHNOLOGIES INC",
+      "ticker": "UBER",
+      "title_of_class": "COM",
+      "value": 96193650,
+      "shares": 3034500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "912008109",
+      "name": "US FOODS HLDG CORP",
+      "ticker": "USFD",
+      "title_of_class": "COM",
+      "value": 699380476,
+      "shares": 18932877,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

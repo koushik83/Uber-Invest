@@ -1,0 +1,122 @@
+{
+  "investor_id": "kantesaria",
+  "cik": "0001697868",
+  "quarter": "2022-Q3",
+  "report_date": "2022-09-30",
+  "filing_date": "2022-11-14",
+  "accession_number": "0001697868-22-000005",
+  "total_value": 2107497000,
+  "num_holdings": 10,
+  "holdings": [
+    {
+      "cusip": "00724F101",
+      "name": "ADOBE SYSTEMS INCORPORATED",
+      "ticker": "ADBE",
+      "title_of_class": "COM",
+      "value": 67783000,
+      "shares": 246305,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 184676000,
+      "shares": 1634300,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "29109X106",
+      "name": "ASPEN TECHNOLOGY INC",
+      "ticker": "ASPU",
+      "title_of_class": "COM",
+      "value": 41801000,
+      "shares": 175485,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "052769106",
+      "name": "AUTODESK INC",
+      "ticker": "ADSK",
+      "title_of_class": "COM",
+      "value": 41850000,
+      "shares": 224034,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "303250104",
+      "name": "FAIR ISAAC CORP",
+      "ticker": "FICO",
+      "title_of_class": "COM",
+      "value": 396785000,
+      "shares": 963048,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "461202103",
+      "name": "INTUIT",
+      "ticker": "INTU",
+      "title_of_class": "COM",
+      "value": 76717000,
+      "shares": 198071,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "MASTERCARD INCORPORATED",
+      "ticker": "MA",
+      "title_of_class": "CL A",
+      "value": 447670000,
+      "shares": 1574417,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "615369105",
+      "name": "MOODYS CORP",
+      "ticker": "MCO",
+      "title_of_class": "COM",
+      "value": 281765000,
+      "shares": 1159004,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78409V104",
+      "name": "S&P GLOBAL INC",
+      "ticker": "SPGI",
+      "title_of_class": "COM",
+      "value": 395512000,
+      "shares": 1295275,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "ticker": "V",
+      "title_of_class": "COM CL A",
+      "value": 172938000,
+      "shares": 973477,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

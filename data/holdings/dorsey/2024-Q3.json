@@ -1,0 +1,144 @@
+{
+  "investor_id": "dorsey",
+  "cik": "0001671657",
+  "quarter": "2024-Q3",
+  "report_date": "2024-09-30",
+  "filing_date": "2024-11-14",
+  "accession_number": "0001398344-24-020708",
+  "total_value": 927641584,
+  "num_holdings": 12,
+  "holdings": [
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 75506013,
+      "shares": 451618,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "03831W108",
+      "name": "APPLOVIN CORP",
+      "ticker": "APP",
+      "title_of_class": "COM CL A",
+      "value": 91227818,
+      "shares": 698796,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "053332102",
+      "name": "AUTOZONE INC",
+      "ticker": "AZO",
+      "title_of_class": "COM",
+      "value": 92793878,
+      "shares": 29458,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "235851102",
+      "name": "DANAHER CORPORATION",
+      "ticker": "DAN",
+      "title_of_class": "COM",
+      "value": 82708726,
+      "shares": 297492,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "42704L104",
+      "name": "HERC HLDGS INC",
+      "ticker": "HRI",
+      "title_of_class": "COM",
+      "value": 67926746,
+      "shares": 426060,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 133189042,
+      "shares": 232669,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "70450Y103",
+      "name": "PAYPAL HLDGS INC",
+      "ticker": "PYPL",
+      "title_of_class": "COM",
+      "value": 90711670,
+      "shares": 1162523,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "81686C104",
+      "name": "SEMRUSH HLDGS INC",
+      "ticker": "SEMR",
+      "title_of_class": "CL A COM",
+      "value": 33210107,
+      "shares": 2113947,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83200N103",
+      "name": "SMARTSHEET INC",
+      "ticker": "SMRT",
+      "title_of_class": "COM CL A",
+      "value": 82668313,
+      "shares": 1493286,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "85209W109",
+      "name": "SPROUT SOCIAL INC",
+      "ticker": "SPT",
+      "title_of_class": "COM CL A",
+      "value": 57442146,
+      "shares": 1975994,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "91688F104",
+      "name": "UPWORK INC",
+      "ticker": "UPWK",
+      "title_of_class": "COM",
+      "value": 27662665,
+      "shares": 2647145,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M98068105",
+      "name": "WIX COM LTD",
+      "ticker": "WIX",
+      "title_of_class": "SHS",
+      "value": 92594460,
+      "shares": 553894,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

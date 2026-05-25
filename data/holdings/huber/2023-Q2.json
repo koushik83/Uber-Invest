@@ -1,0 +1,177 @@
+{
+  "investor_id": "huber",
+  "cik": "0001911378",
+  "quarter": "2023-Q2",
+  "report_date": "2023-06-30",
+  "filing_date": "2023-08-14",
+  "accession_number": "0001398344-23-014728",
+  "total_value": 61069531,
+  "num_holdings": 15,
+  "holdings": [
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 519566,
+      "shares": 4295,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 3467350,
+      "shares": 28967,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 11702417,
+      "shares": 89770,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "060505104",
+      "name": "BANK AMERICA CORP",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 2212831,
+      "shares": 77129,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "09225M101",
+      "name": "BLACK STONE MINERALS L P",
+      "ticker": "BSMLP",
+      "title_of_class": "COM UNIT",
+      "value": 438753,
+      "shares": 27508,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "17243V102",
+      "name": "CINEMARK HLDGS INC",
+      "ticker": "CNK",
+      "title_of_class": "COM",
+      "value": 2583818,
+      "shares": 156595,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "217204106",
+      "name": "COPART INC",
+      "ticker": "CPRT",
+      "title_of_class": "COM",
+      "value": 6734217,
+      "shares": 73832,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "31946M103",
+      "name": "FIRST CTZNS BANCSHARES INC N",
+      "ticker": "FCNCN",
+      "title_of_class": "CL A",
+      "value": 1431047,
+      "shares": 1115,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "339750101",
+      "name": "FLOOR & DECOR HLDGS INC",
+      "ticker": "FND",
+      "title_of_class": "CL A",
+      "value": 7056285,
+      "shares": 67875,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "38141G104",
+      "name": "GOLDMAN SACHS GROUP INC",
+      "ticker": "GSCE",
+      "title_of_class": "COM",
+      "value": 2948338,
+      "shares": 9141,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "46625H100",
+      "name": "JPMORGAN CHASE & CO",
+      "ticker": "VYLD",
+      "title_of_class": "COM",
+      "value": 4675751,
+      "shares": 32149,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 7737409,
+      "shares": 22721,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "62944T105",
+      "name": "NVR INC",
+      "ticker": "NVR",
+      "title_of_class": "COM",
+      "value": 2876831,
+      "shares": 453,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "745867101",
+      "name": "PULTE GROUP INC",
+      "ticker": "PHM",
+      "title_of_class": "COM",
+      "value": 859296,
+      "shares": 11062,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "ticker": "V",
+      "title_of_class": "COM CL A",
+      "value": 5825622,
+      "shares": 24531,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

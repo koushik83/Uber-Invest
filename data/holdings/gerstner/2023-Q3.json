@@ -1,0 +1,133 @@
+{
+  "investor_id": "gerstner",
+  "cik": "0001541617",
+  "quarter": "2023-Q3",
+  "report_date": "2023-09-30",
+  "filing_date": "2023-11-14",
+  "accession_number": "0001541617-23-000010",
+  "total_value": 5268115790,
+  "num_holdings": 11,
+  "holdings": [
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 159500006,
+      "shares": 1254720,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "20717M103",
+      "name": "CONFLUENT INC",
+      "ticker": "CFLT",
+      "title_of_class": "CLASS A COM",
+      "value": 491879632,
+      "shares": 16611943,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G0370L116",
+      "name": "GRAB HOLDINGS LIMITED",
+      "ticker": "UNKNOWN",
+      "title_of_class": "W EXP 12/1/202",
+      "value": 1208190,
+      "shares": 3502000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "58733R102",
+      "name": "MERCADOLIBRE INC",
+      "ticker": "MELI",
+      "title_of_class": "COM",
+      "value": 3778282,
+      "shares": 2980,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 721939304,
+      "shares": 2404781,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 521922120,
+      "shares": 1652960,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "ticker": "NVDA",
+      "title_of_class": "COM",
+      "value": 335903628,
+      "shares": 772210,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "722304102",
+      "name": "PDD HOLDINGS INC",
+      "ticker": "PDD",
+      "title_of_class": "SPONSORED ADS",
+      "value": 63380679,
+      "shares": 646280,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "833445109",
+      "name": "SNOWFLAKE INC",
+      "ticker": "SNOW",
+      "title_of_class": "CL A",
+      "value": 2352678472,
+      "shares": 15400134,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90353T100",
+      "name": "UBER TECHNOLOGIES INC",
+      "ticker": "UBER",
+      "title_of_class": "COM",
+      "value": 613350234,
+      "shares": 13336600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "21240E105",
+      "name": "CONTROLADORA VUELA COMP DE A",
+      "ticker": "UNKNOWN",
+      "title_of_class": "SPON ADR RP 10",
+      "value": 2575243,
+      "shares": 379270,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

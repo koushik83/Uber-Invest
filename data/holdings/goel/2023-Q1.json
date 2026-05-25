@@ -1,0 +1,199 @@
+{
+  "investor_id": "goel",
+  "cik": "0001410830",
+  "quarter": "2023-Q1",
+  "report_date": "2023-03-31",
+  "filing_date": "2023-05-15",
+  "accession_number": "0001172661-23-002292",
+  "total_value": 7362176099,
+  "num_holdings": 17,
+  "holdings": [
+    {
+      "cusip": "00653A107",
+      "name": "ADAPTIMMUNE THERAPEUTICS PLC",
+      "ticker": "ADTI",
+      "title_of_class": "SPONDS ADR",
+      "value": 42481862,
+      "shares": 38974185,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "00650F109",
+      "name": "ADAPTIVE BIOTECHNOLOGIES COR",
+      "ticker": "ADPT",
+      "title_of_class": "COM",
+      "value": 102185970,
+      "shares": 11572590,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "021369103",
+      "name": "ALTAIR ENGR INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM CL A",
+      "value": 805771562,
+      "shares": 11174200,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 757717674,
+      "shares": 7335828,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "038222105",
+      "name": "APPLIED MATLS INC",
+      "ticker": "AMAT",
+      "title_of_class": "COM",
+      "value": 773546491,
+      "shares": 6297700,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N07059210",
+      "name": "ASML HOLDING N V",
+      "ticker": "ASMLF",
+      "title_of_class": "N Y REGISTRY SHS",
+      "value": 338449012,
+      "shares": 497200,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "05153U107",
+      "name": "AURA BIOSCIENCES INC",
+      "ticker": "AURA",
+      "title_of_class": "COM",
+      "value": 49767434,
+      "shares": 5362870,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G39387108",
+      "name": "GLOBALFOUNDRIES INC",
+      "ticker": "GFS",
+      "title_of_class": "ORDINARY SHARES",
+      "value": 1288268640,
+      "shares": 17848000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "ticker": "NVDA",
+      "title_of_class": "COM",
+      "value": 1504013442,
+      "shares": 5414600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "L7579L106",
+      "name": "PERIMETER SOLUTIONS SA",
+      "ticker": "PRM",
+      "title_of_class": "COMMON STOCK",
+      "value": 60297000,
+      "shares": 7462500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "81369Y506",
+      "name": "SELECT SECTOR SPDR TR",
+      "ticker": "UNKNOWN",
+      "title_of_class": "ENERGY",
+      "value": 106188060,
+      "shares": 1282000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "871607107",
+      "name": "SYNOPSYS INC",
+      "ticker": "SNPS",
+      "title_of_class": "COM",
+      "value": 235510144,
+      "shares": 609735,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "893641100",
+      "name": "TRANSDIGM GROUP INC",
+      "ticker": "TDG",
+      "title_of_class": "COM",
+      "value": 806996045,
+      "shares": 1094900,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92332V107",
+      "name": "VENTYX BIOSCIENCES INC",
+      "ticker": "VTYX",
+      "title_of_class": "COM",
+      "value": 3011650,
+      "shares": 89900,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98138H101",
+      "name": "WORKDAY INC",
+      "ticker": "WDAY",
+      "title_of_class": "CL A",
+      "value": 327581321,
+      "shares": 1586043,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98943L107",
+      "name": "ZENTALIS PHARMACEUTICALS INC",
+      "ticker": "ZNTL",
+      "title_of_class": "COM",
+      "value": 158239536,
+      "shares": 9199973,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98980G102",
+      "name": "ZSCALER INC",
+      "ticker": "ZS",
+      "title_of_class": "COM",
+      "value": 2150256,
+      "shares": 18405,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

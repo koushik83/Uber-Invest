@@ -1,0 +1,232 @@
+{
+  "investor_id": "gerstner",
+  "cik": "0001541617",
+  "quarter": "2024-Q2",
+  "report_date": "2024-06-30",
+  "filing_date": "2024-08-14",
+  "accession_number": "0001541617-24-000007",
+  "total_value": 6731598776,
+  "num_holdings": 20,
+  "holdings": [
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "ticker": "AAPL",
+      "title_of_class": "COM",
+      "value": 57155950,
+      "shares": 271370,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "04626A103",
+      "name": "AMAZON COM INC",
+      "ticker": "ALAB",
+      "title_of_class": "COM",
+      "value": 24204000,
+      "shares": 400000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "ASTERA LABS INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 277184273,
+      "shares": 1434330,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "032095101",
+      "name": "AMPHENOL CORP NEW",
+      "ticker": "APH",
+      "title_of_class": "CL A",
+      "value": 136444461,
+      "shares": 2025300,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "20717M103",
+      "name": "CONFLUENT INC",
+      "ticker": "CFLT",
+      "title_of_class": "CLASS A COM",
+      "value": 380613883,
+      "shares": 12889058,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "22266T109",
+      "name": "COUPANG INC",
+      "ticker": "CPNG",
+      "title_of_class": "CL A",
+      "value": 110945858,
+      "shares": 5295745,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE INC",
+      "ticker": "CRM",
+      "title_of_class": "COM",
+      "value": 93478989,
+      "shares": 363590,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "24703L202",
+      "name": "DELL TECHNOLOGIES INC",
+      "ticker": "DELL",
+      "title_of_class": "CL C",
+      "value": 68119266,
+      "shares": 493940,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 122865640,
+      "shares": 674530,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G0370L116",
+      "name": "GRAB HOLDINGS LIMITED",
+      "ticker": "UNKNOWN",
+      "title_of_class": "W EXP 12/1/202",
+      "value": 561896,
+      "shares": 3502000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "79589L106",
+      "name": "SAMSARA INC",
+      "ticker": "IOT",
+      "title_of_class": "COM CL A",
+      "value": 27487743,
+      "shares": 815660,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "58733R102",
+      "name": "MERCADOLIBRE INC",
+      "ticker": "MELI",
+      "title_of_class": "COM",
+      "value": 85160988,
+      "shares": 51820,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 1156005530,
+      "shares": 2292661,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 726579798,
+      "shares": 1625640,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "ticker": "NVDA",
+      "title_of_class": "COM",
+      "value": 956299667,
+      "shares": 7740810,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "722304102",
+      "name": "PDD HOLDINGS INC",
+      "ticker": "PDD",
+      "title_of_class": "SPONSORED ADS",
+      "value": 227900896,
+      "shares": 1714185,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "781154109",
+      "name": "RUBRIK INC.",
+      "ticker": "RBRK",
+      "title_of_class": "CL A",
+      "value": 5365500,
+      "shares": 175000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "833445109",
+      "name": "SNOWFLAKE INC",
+      "ticker": "SNOW",
+      "title_of_class": "CL A",
+      "value": 1290210277,
+      "shares": 9550746,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90353T100",
+      "name": "UBER TECHNOLOGIES INC",
+      "ticker": "UBER",
+      "title_of_class": "COM",
+      "value": 982274561,
+      "shares": 13515060,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "94845U105",
+      "name": "WEBTOON ENTMT INC",
+      "ticker": "WBTN",
+      "title_of_class": "COM",
+      "value": 2739600,
+      "shares": 120000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

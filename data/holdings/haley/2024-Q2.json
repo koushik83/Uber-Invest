@@ -1,0 +1,155 @@
+{
+  "investor_id": "haley",
+  "cik": "0001858353",
+  "quarter": "2024-Q2",
+  "report_date": "2024-06-30",
+  "filing_date": "2024-08-14",
+  "accession_number": "0001858353-24-000005",
+  "total_value": 157508914,
+  "num_holdings": 13,
+  "holdings": [
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 14098410,
+      "shares": 77400,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 10020399,
+      "shares": 51852,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "03831W108",
+      "name": "APPLOVIN CORP",
+      "ticker": "APP",
+      "title_of_class": "COM CL A",
+      "value": 8530050,
+      "shares": 102500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "052800109",
+      "name": "AUTOLIV INC",
+      "ticker": "ALV",
+      "title_of_class": "COM",
+      "value": 14529242,
+      "shares": 135800,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "234264109",
+      "name": "DAKTRONICS INC",
+      "ticker": "DAKT",
+      "title_of_class": "COM",
+      "value": 10442370,
+      "shares": 748557,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "448947507",
+      "name": "IDT CORP",
+      "ticker": "IDT",
+      "title_of_class": "CL B NEW",
+      "value": 5127508,
+      "shares": 142748,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "MASTERCARD INCORPORATED",
+      "ticker": "MA",
+      "title_of_class": "CL A",
+      "value": 5735080,
+      "shares": 13000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 6525470,
+      "shares": 14600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "59100U108",
+      "name": "PATHWARD FINANCIAL INC",
+      "ticker": "CASH",
+      "title_of_class": "COM",
+      "value": 19557607,
+      "shares": 345724,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "749360400",
+      "name": "RCM TECHNOLOGIES INC",
+      "ticker": "RCMT",
+      "title_of_class": "COM NEW",
+      "value": 1217156,
+      "shares": 65019,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "749527107",
+      "name": "REV GROUP INC",
+      "ticker": "TRVI",
+      "title_of_class": "COM",
+      "value": 60727095,
+      "shares": 2439819,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "774515100",
+      "name": "ROCKY BRANDS INC",
+      "ticker": "RCKY",
+      "title_of_class": "COM",
+      "value": 739865,
+      "shares": 20018,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "971378104",
+      "name": "WILLSCOT MOBIL MINI HLDNG CO",
+      "ticker": "WSC",
+      "title_of_class": "COM CL A",
+      "value": 258662,
+      "shares": 6872,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

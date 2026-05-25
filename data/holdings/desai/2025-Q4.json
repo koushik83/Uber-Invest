@@ -1,0 +1,188 @@
+{
+  "investor_id": "desai",
+  "cik": "0001609098",
+  "quarter": "2025-Q4",
+  "report_date": "2025-12-31",
+  "filing_date": "2026-02-17",
+  "accession_number": "0001172661-26-000954",
+  "total_value": 5017608933,
+  "num_holdings": 16,
+  "holdings": [
+    {
+      "cusip": "N00985106",
+      "name": "AERCAP HOLDINGS NV",
+      "ticker": "AER",
+      "title_of_class": "SHS",
+      "value": 68286000,
+      "shares": 475000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "253393102",
+      "name": "DICKS SPORTING GOODS INC",
+      "ticker": "DKS",
+      "title_of_class": "COM",
+      "value": 98985000,
+      "shares": 500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "278768106",
+      "name": "ECHOSTAR CORP",
+      "ticker": "SATS",
+      "title_of_class": "CL A",
+      "value": 760900000,
+      "shares": 7000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "294429105",
+      "name": "EQUIFAX INC",
+      "ticker": "EFX",
+      "title_of_class": "COM",
+      "value": 216980000,
+      "shares": 1000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "40171V100",
+      "name": "GUIDEWIRE SOFTWARE INC",
+      "ticker": "GWRE",
+      "title_of_class": "COM",
+      "value": 502525000,
+      "shares": 2500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "40412C101",
+      "name": "HCA HEALTHCARE INC",
+      "ticker": "HCA",
+      "title_of_class": "COM",
+      "value": 466860000,
+      "shares": 1000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "531229755",
+      "name": "LIBERTY MEDIA CORP DEL",
+      "ticker": "FWONB",
+      "title_of_class": "COM LBTY ONE S C",
+      "value": 354636000,
+      "shares": 3600000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "531229771",
+      "name": "LIBERTY MEDIA CORP DEL",
+      "ticker": "FWONB",
+      "title_of_class": "COM LBTY ONE S A",
+      "value": 72643595,
+      "shares": 812750,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "650111107",
+      "name": "NEW YORK TIMES CO",
+      "ticker": "NYT",
+      "title_of_class": "CL A",
+      "value": 531680838,
+      "shares": 7658900,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "808513105",
+      "name": "SCHWAB CHARLES CORP",
+      "ticker": "SCHW-PJ",
+      "title_of_class": "COM",
+      "value": 224797500,
+      "shares": 2250000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "88023U101",
+      "name": "SOMNIGROUP INTERNATIONAL INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 267840000,
+      "shares": 3000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83601L102",
+      "name": "SOTERA HEALTH CO",
+      "ticker": "SHC",
+      "title_of_class": "COM",
+      "value": 458640000,
+      "shares": 26000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "893641100",
+      "name": "TRANSDIGM GROUP INC",
+      "ticker": "TDG",
+      "title_of_class": "COM",
+      "value": 265970000,
+      "shares": 200000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92537N108",
+      "name": "VERTIV HOLDINGS CO",
+      "ticker": "VRT",
+      "title_of_class": "COM CL A",
+      "value": 243015000,
+      "shares": 1500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "934550203",
+      "name": "WARNER MUSIC GROUP CORP",
+      "ticker": "WMG",
+      "title_of_class": "COM CL A",
+      "value": 245360000,
+      "shares": 8000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "974155103",
+      "name": "WINGSTOP INC",
+      "ticker": "WING",
+      "title_of_class": "COM",
+      "value": 238490000,
+      "shares": 1000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

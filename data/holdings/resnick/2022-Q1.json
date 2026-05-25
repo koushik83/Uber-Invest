@@ -1,0 +1,243 @@
+{
+  "investor_id": "resnick",
+  "cik": "0001525234",
+  "quarter": "2022-Q1",
+  "report_date": "2022-03-31",
+  "filing_date": "2022-05-16",
+  "accession_number": "0001172661-22-001449",
+  "total_value": 1859497000,
+  "num_holdings": 21,
+  "holdings": [
+    {
+      "cusip": "03945R102",
+      "name": "ARCHER AVIATION INC",
+      "ticker": "ACHR-WT",
+      "title_of_class": "COM CL A",
+      "value": 3608000,
+      "shares": 750000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M22465104",
+      "name": "CHECK POINT SOFTWARE TECH LT",
+      "ticker": "CHKP",
+      "title_of_class": "ORD",
+      "value": 122589000,
+      "shares": 886658,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "212873103",
+      "name": "CONX CORP",
+      "ticker": "CGNX",
+      "title_of_class": "COM CL A",
+      "value": 39400000,
+      "shares": 4000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "212873111",
+      "name": "CONX CORP",
+      "ticker": "CGNX",
+      "title_of_class": "*W EXP 10/30/202",
+      "value": 433000,
+      "shares": 1000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "25470M109",
+      "name": "DISH NETWORK CORPORATION",
+      "ticker": "UNKNOWN",
+      "title_of_class": "CL A",
+      "value": 133264000,
+      "shares": 4210543,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "25809K105",
+      "name": "DOORDASH INC",
+      "ticker": "DASH",
+      "title_of_class": "CL A",
+      "value": 57304000,
+      "shares": 488985,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N14506104",
+      "name": "ELASTIC N V",
+      "ticker": "ESTC",
+      "title_of_class": "ORD SHS",
+      "value": 143835000,
+      "shares": 1617037,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "29260Y109",
+      "name": "ENDEAVOR GROUP HLDGS INC",
+      "ticker": "EDVR",
+      "title_of_class": "CL A COM",
+      "value": 110245000,
+      "shares": 3734594,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "35137L105",
+      "name": "FOX CORP",
+      "ticker": "FOX",
+      "title_of_class": "CL A COM",
+      "value": 81799000,
+      "shares": 2073474,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "48553T106",
+      "name": "KANZHUN LIMITED",
+      "ticker": "BZ",
+      "title_of_class": "SPONSORED ADS",
+      "value": 143172000,
+      "shares": 5747554,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G54085124",
+      "name": "LEAD EDGE GROWTH OPRTUNTS LT",
+      "ticker": "UNKNOWN",
+      "title_of_class": "UNIT 04/01/2026",
+      "value": 14790000,
+      "shares": 1500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "50202M102",
+      "name": "LI AUTO INC",
+      "ticker": "LAAOF",
+      "title_of_class": "SPONSORED ADS",
+      "value": 147862000,
+      "shares": 5728865,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "573874104",
+      "name": "MARVELL TECHNOLOGY INC",
+      "ticker": "MRVL",
+      "title_of_class": "COM",
+      "value": 166362000,
+      "shares": 2319929,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M7S64H106",
+      "name": "MONDAY COM LTD",
+      "ticker": "MNDY",
+      "title_of_class": "SHS",
+      "value": 61919000,
+      "shares": 391717,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "69608A108",
+      "name": "PALANTIR TECHNOLOGIES INC",
+      "ticker": "PLTR",
+      "title_of_class": "CL A",
+      "value": 59875000,
+      "shares": 4360914,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "697435105",
+      "name": "PALO ALTO NETWORKS INC",
+      "ticker": "PANW",
+      "title_of_class": "COM",
+      "value": 135343000,
+      "shares": 217415,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "70450Y103",
+      "name": "PAYPAL HLDGS INC",
+      "ticker": "PYPL",
+      "title_of_class": "COM",
+      "value": 76735000,
+      "shares": 663513,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83001A102",
+      "name": "SIX FLAGS ENTMT CORP NEW",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 69712000,
+      "shares": 1602578,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "833445109",
+      "name": "SNOWFLAKE INC",
+      "ticker": "SNOW",
+      "title_of_class": "CL A",
+      "value": 24150000,
+      "shares": 105400,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "880770102",
+      "name": "TERADYNE INC",
+      "ticker": "TER",
+      "title_of_class": "COM",
+      "value": 110072000,
+      "shares": 931000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "88160R101",
+      "name": "TESLA INC",
+      "ticker": "TSLA",
+      "title_of_class": "COM",
+      "value": 157028000,
+      "shares": 145720,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

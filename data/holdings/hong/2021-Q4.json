@@ -1,0 +1,56 @@
+{
+  "investor_id": "hong",
+  "cik": "0001766908",
+  "quarter": "2021-Q4",
+  "report_date": "2021-12-31",
+  "filing_date": "2022-01-31",
+  "accession_number": "0001606587-22-000190",
+  "total_value": 810920000,
+  "num_holdings": 4,
+  "holdings": [
+    {
+      "cusip": "00183L102",
+      "name": "ANGI HOMESERVICES INC",
+      "ticker": "ANGI",
+      "title_of_class": "COM CL A NEW",
+      "value": 41462000,
+      "shares": 4501823,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "44891N208",
+      "name": "IAC INTERACTIVECORP",
+      "ticker": "IAC",
+      "title_of_class": "COM NEW",
+      "value": 489872000,
+      "shares": 3747774,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "81141R100",
+      "name": "SEA LTD",
+      "ticker": "SE",
+      "title_of_class": "SPONSORD ADS",
+      "value": 208012000,
+      "shares": 929663,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "852234103",
+      "name": "SQUARE INC",
+      "ticker": "BSQKZ",
+      "title_of_class": "CL A",
+      "value": 71574000,
+      "shares": 443240,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "investor_id": "morfit",
+  "cik": "0001418814",
+  "quarter": "2025-Q4",
+  "report_date": "2025-12-31",
+  "filing_date": "2026-02-17",
+  "accession_number": "0001418814-26-000001",
+  "total_value": 7025028860,
+  "num_holdings": 16,
+  "holdings": [
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 783472326,
+      "shares": 3394300,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "09290D101",
+      "name": "BLACKROCK INC",
+      "ticker": "BLK",
+      "title_of_class": "COM",
+      "value": 743886300,
+      "shares": 695000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "12504L109",
+      "name": "CBRE GROUP INC",
+      "ticker": "CBRE",
+      "title_of_class": "CL A",
+      "value": 37719887,
+      "shares": 234591,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "254687106",
+      "name": "DISNEY WALT CO",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 350176210,
+      "shares": 3077931,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "45765U103",
+      "name": "INSIGHT ENTERPRISES INC",
+      "ticker": "NSIT",
+      "title_of_class": "COM",
+      "value": 99115750,
+      "shares": 1216592,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "530909100",
+      "name": "LIBERTY LIVE HOLDINGS INC",
+      "ticker": "LLYVK",
+      "title_of_class": "COM SER A",
+      "value": 146644499,
+      "shares": 1799319,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "530909308",
+      "name": "LIBERTY LIVE HOLDINGS INC",
+      "ticker": "LLYVK",
+      "title_of_class": "COM SHS SER C",
+      "value": 299707642,
+      "shares": 3603988,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "538034109",
+      "name": "LIVE NATION ENTERTAINMENT IN",
+      "ticker": "LYV",
+      "title_of_class": "COM",
+      "value": 117286905,
+      "shares": 823066,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 691757158,
+      "shares": 1047974,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "60937P106",
+      "name": "MONGODB INC",
+      "ticker": "MDB",
+      "title_of_class": "CL A",
+      "value": 590419892,
+      "shares": 1406800,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "771049103",
+      "name": "ROBLOX CORP",
+      "ticker": "RBLX",
+      "title_of_class": "CL A",
+      "value": 484220776,
+      "shares": 5975821,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "77311W101",
+      "name": "ROCKET COS INC",
+      "ticker": "RCKTW",
+      "title_of_class": "COM CL A",
+      "value": 762409423,
+      "shares": 39380652,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE INC",
+      "ticker": "CRM",
+      "title_of_class": "COM",
+      "value": 793275379,
+      "shares": 2994509,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "829073105",
+      "name": "SIMPSON MFG INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 237706769,
+      "shares": 1472142,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "888787108",
+      "name": "TOAST INC",
+      "ticker": "TOST",
+      "title_of_class": "CL A",
+      "value": 284622486,
+      "shares": 8015277,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "ticker": "V",
+      "title_of_class": "COM CL A",
+      "value": 602607458,
+      "shares": 1718250,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "investor_id": "ferguson",
+  "cik": "0001582090",
+  "quarter": "2021-Q4",
+  "report_date": "2021-12-31",
+  "filing_date": "2022-02-11",
+  "accession_number": "0000902664-22-001546",
+  "total_value": 4250279000,
+  "num_holdings": 20,
+  "holdings": [
+    {
+      "cusip": "26886C115",
+      "name": "EQRX INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "*W EXP 12/17/202",
+      "value": 213000,
+      "shares": 200000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "146869102",
+      "name": "CARVANA CO",
+      "ticker": "CVNA",
+      "title_of_class": "CL A",
+      "value": 85762000,
+      "shares": 370000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "380799205",
+      "name": "GOLDEN ARROW MERGER CORP",
+      "ticker": "NVGLF",
+      "title_of_class": "UNIT 07/31/2026",
+      "value": 3679000,
+      "shares": 375000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "459506101",
+      "name": "INTERNATIONAL FLAVORS&FRAGRA",
+      "ticker": "IFF",
+      "title_of_class": "COM",
+      "value": 1031152000,
+      "shares": 6844689,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "24790A101",
+      "name": "DENBURY INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 59786000,
+      "shares": 780600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "680665205",
+      "name": "OLIN CORP",
+      "ticker": "OLN",
+      "title_of_class": "COM PAR $1",
+      "value": 687364000,
+      "shares": 11950000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "70614W100",
+      "name": "PELOTON INTERACTIVE INC",
+      "ticker": "PTON",
+      "title_of_class": "CL A COM",
+      "value": 58825000,
+      "shares": 1645000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "737446104",
+      "name": "POST HLDGS INC",
+      "ticker": "POST",
+      "title_of_class": "COM",
+      "value": 163684000,
+      "shares": 1452000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "912008109",
+      "name": "US FOODS HLDG CORP",
+      "ticker": "USFD",
+      "title_of_class": "COM",
+      "value": 703909000,
+      "shares": 20209852,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "28414H103",
+      "name": "ELANCO ANIMAL HEALTH INC",
+      "ticker": "ELAN",
+      "title_of_class": "COM",
+      "value": 789971000,
+      "shares": 27835500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "29248N209",
+      "name": "EMPOWERMENT & INCLUSION CAPI",
+      "ticker": "UNKNOWN",
+      "title_of_class": "UNIT 99/99/9999",
+      "value": 1982000,
+      "shares": 200000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "48242W106",
+      "name": "KBR INC",
+      "ticker": "KBR",
+      "title_of_class": "COM",
+      "value": 95302000,
+      "shares": 2001300,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "68626A207",
+      "name": "ORION ACQUISITION CORP",
+      "ticker": "ORN",
+      "title_of_class": "UNIT 02/19/2026",
+      "value": 4925000,
+      "shares": 500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "69526K105",
+      "name": "PACTIV EVERGREEN INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 42795000,
+      "shares": 3375000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "81663L101",
+      "name": "SEMA4 HOLDINGS CORP",
+      "ticker": "SE",
+      "title_of_class": "COM CL A",
+      "value": 2230000,
+      "shares": 500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "81663L119",
+      "name": "SEMA4 HOLDINGS CORP",
+      "ticker": "SE",
+      "title_of_class": "*W EXP 07/22/202",
+      "value": 1132000,
+      "shares": 1155000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "896818101",
+      "name": "TRIUMPH GROUP INC NEW",
+      "ticker": "TFIN-P",
+      "title_of_class": "COM",
+      "value": 18584000,
+      "shares": 1002900,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90353T100",
+      "name": "UBER TECHNOLOGIES INC",
+      "ticker": "UBER",
+      "title_of_class": "COM",
+      "value": 196023000,
+      "shares": 4675000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G5509L101",
+      "name": "LIVANOVA PLC",
+      "ticker": "LIVN",
+      "title_of_class": "SHS",
+      "value": 151647000,
+      "shares": 1734500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "Y2573F102",
+      "name": "FLEX LTD",
+      "ticker": "FLEX",
+      "title_of_class": "ORD",
+      "value": 151314000,
+      "shares": 8255000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

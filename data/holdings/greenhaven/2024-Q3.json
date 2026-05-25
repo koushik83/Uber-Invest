@@ -1,0 +1,177 @@
+{
+  "investor_id": "greenhaven",
+  "cik": "0001741129",
+  "quarter": "2024-Q3",
+  "report_date": "2024-09-30",
+  "filing_date": "2024-11-13",
+  "accession_number": "0001741129-24-000006",
+  "total_value": 235053651,
+  "num_holdings": 15,
+  "holdings": [
+    {
+      "cusip": "02128L106",
+      "name": "ALTA EQUIPMENT GROUP INC",
+      "ticker": "ALTG-PA",
+      "title_of_class": "COMMON STOCK",
+      "value": 12092005,
+      "shares": 1794066,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G17977110",
+      "name": "BURFORD CAP LTD",
+      "ticker": "BUR",
+      "title_of_class": "ORD SHS",
+      "value": 21515968,
+      "shares": 1622622,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M2197Q107",
+      "name": "CELLEBRITE DI LTD",
+      "ticker": "CLBT",
+      "title_of_class": "ORDINARY SHARES",
+      "value": 35135161,
+      "shares": 2086411,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "25400W102",
+      "name": "DIGITAL TURBINE INC",
+      "ticker": "APPS",
+      "title_of_class": "COM NEW",
+      "value": 7177823,
+      "shares": 2338053,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "405166109",
+      "name": "HAGERTY INC",
+      "ticker": "HGTY",
+      "title_of_class": "CL A COM",
+      "value": 15340916,
+      "shares": 1508448,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G50737124",
+      "name": "JAWS MUSTANG ACQUISITION COR",
+      "ticker": "JWSWF",
+      "title_of_class": "*W EXP 01/30/202",
+      "value": 27046,
+      "shares": 1170817,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "496904202",
+      "name": "KINGSWAY FINL SVCS INC",
+      "ticker": "KFS",
+      "title_of_class": "COM NEW",
+      "value": 4216929,
+      "shares": 509291,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "48251W104",
+      "name": "KKR & CO INC",
+      "ticker": "KKR-PD",
+      "title_of_class": "COM",
+      "value": 36392646,
+      "shares": 278700,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "514766104",
+      "name": "LIFECORE BIOMEDICAL INC",
+      "ticker": "LFCR",
+      "title_of_class": "COM",
+      "value": 10987905,
+      "shares": 2228784,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "546347105",
+      "name": "LOUISIANA PAC CORP",
+      "ticker": "LPX",
+      "title_of_class": "COM",
+      "value": 15164433,
+      "shares": 141117,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "57064P107",
+      "name": "MARKETWISE INC",
+      "ticker": "MKTW",
+      "title_of_class": "COM CL A",
+      "value": 2354208,
+      "shares": 3522682,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "576853105",
+      "name": "MATRIX SVC CO",
+      "ticker": "MTRX",
+      "title_of_class": "COM",
+      "value": 180848,
+      "shares": 15685,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "698884103",
+      "name": "PAR TECHNOLOGY CORP",
+      "ticker": "PAR",
+      "title_of_class": "COM",
+      "value": 62515478,
+      "shares": 1200374,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "761025105",
+      "name": "RESEARCH SOLUTIONS INC.",
+      "ticker": "RSSS",
+      "title_of_class": "COM",
+      "value": 99170,
+      "shares": 36326,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78574H104",
+      "name": "SABLE OFFSHORE CORP",
+      "ticker": "SOC",
+      "title_of_class": "COM SRS",
+      "value": 11853115,
+      "shares": 501613,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

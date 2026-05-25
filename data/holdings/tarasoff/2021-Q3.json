@@ -1,0 +1,111 @@
+{
+  "investor_id": "tarasoff",
+  "cik": "0001766504",
+  "quarter": "2021-Q3",
+  "report_date": "2021-09-30",
+  "filing_date": "2021-11-15",
+  "accession_number": "0001420506-21-001584",
+  "total_value": 305913000,
+  "num_holdings": 9,
+  "holdings": [
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 23963000,
+      "shares": 8963,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 31001000,
+      "shares": 9437,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "112585104",
+      "name": "BROOKFIELD ASSET MGMT INC",
+      "ticker": "BAM",
+      "title_of_class": "CL A LTD VT SH",
+      "value": 46604000,
+      "shares": 870936,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "443573100",
+      "name": "HUBSPOT INC",
+      "ticker": "HUBS",
+      "title_of_class": "COM",
+      "value": 19751000,
+      "shares": 29213,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "64110L106",
+      "name": "NETFLIX INC",
+      "ticker": "NFLX",
+      "title_of_class": "COM",
+      "value": 26497000,
+      "shares": 43413,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE COM INC",
+      "ticker": "CRM",
+      "title_of_class": "COM",
+      "value": 67804000,
+      "shares": 249997,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "L8681T102",
+      "name": "SPOTIFY TECHNOLOGY S A",
+      "ticker": "SPOT",
+      "title_of_class": "SHS",
+      "value": 32375000,
+      "shares": 143673,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "898202106",
+      "name": "TRUPANION INC",
+      "ticker": "TRUP",
+      "title_of_class": "COM",
+      "value": 32014000,
+      "shares": 412175,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90184L102",
+      "name": "TWITTER INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 25904000,
+      "shares": 428950,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

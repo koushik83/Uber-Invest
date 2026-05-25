@@ -1,0 +1,166 @@
+{
+  "investor_id": "desai",
+  "cik": "0001609098",
+  "quarter": "2024-Q2",
+  "report_date": "2024-06-30",
+  "filing_date": "2024-08-14",
+  "accession_number": "0001172661-24-003518",
+  "total_value": 3658647081,
+  "num_holdings": 14,
+  "holdings": [
+    {
+      "cusip": "060505104",
+      "name": "BANK AMERICA CORP",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 258505000,
+      "shares": 6500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "20030N101",
+      "name": "COMCAST CORP NEW",
+      "ticker": "CCZ",
+      "title_of_class": "CL A",
+      "value": 372020000,
+      "shares": 9500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "21036P108",
+      "name": "CONSTELLATION BRANDS INC",
+      "ticker": "STZ",
+      "title_of_class": "CL A",
+      "value": 334464000,
+      "shares": 1300000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "278768106",
+      "name": "ECHOSTAR CORP",
+      "ticker": "SATS",
+      "title_of_class": "CL A",
+      "value": 36907752,
+      "shares": 2072305,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "389375106",
+      "name": "GRAY TELEVISION INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 21278728,
+      "shares": 4092063,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "40171V100",
+      "name": "GUIDEWIRE SOFTWARE INC",
+      "ticker": "GWRE",
+      "title_of_class": "COM",
+      "value": 448142500,
+      "shares": 3250000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "40412C101",
+      "name": "HCA HEALTHCARE INC",
+      "ticker": "HCA",
+      "title_of_class": "COM",
+      "value": 369472000,
+      "shares": 1150000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 327300000,
+      "shares": 1500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 378165000,
+      "shares": 750000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "650111107",
+      "name": "NEW YORK TIMES CO",
+      "ticker": "NYT",
+      "title_of_class": "CL A",
+      "value": 320062500,
+      "shares": 6250000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "808513105",
+      "name": "SCHWAB CHARLES CORP",
+      "ticker": "SCHW-PJ",
+      "title_of_class": "COM",
+      "value": 221070000,
+      "shares": 3000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83601L102",
+      "name": "SOTERA HEALTH CO",
+      "ticker": "SHC",
+      "title_of_class": "COM",
+      "value": 29073951,
+      "shares": 2449364,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "88023U101",
+      "name": "TEMPUR SEALY INTL INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 331380000,
+      "shares": 7000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "893641100",
+      "name": "TRANSDIGM GROUP INC",
+      "ticker": "TDG",
+      "title_of_class": "COM",
+      "value": 210805650,
+      "shares": 165000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

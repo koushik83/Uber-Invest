@@ -1,0 +1,155 @@
+{
+  "investor_id": "haley",
+  "cik": "0001858353",
+  "quarter": "2024-Q4",
+  "report_date": "2024-12-31",
+  "filing_date": "2025-02-14",
+  "accession_number": "0001858353-25-000002",
+  "total_value": 280736995,
+  "num_holdings": 13,
+  "holdings": [
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 22740212,
+      "shares": 103652,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "120076104",
+      "name": "BUILD-A-BEAR WORKSHOP INC",
+      "ticker": "BBW",
+      "title_of_class": "COM",
+      "value": 5630692,
+      "shares": 122300,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "234264109",
+      "name": "DAKTRONICS INC",
+      "ticker": "DAKT",
+      "title_of_class": "COM",
+      "value": 51833305,
+      "shares": 3074336,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "25862V105",
+      "name": "DOUBLEVERIFY HLDGS INC",
+      "ticker": "DV",
+      "title_of_class": "COM",
+      "value": 24266725,
+      "shares": 1263234,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "349853101",
+      "name": "FORWARD AIR CORP",
+      "ticker": "FWRD",
+      "title_of_class": "COM",
+      "value": 22321644,
+      "shares": 692144,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "448947507",
+      "name": "IDT CORP",
+      "ticker": "IDT",
+      "title_of_class": "CL B NEW",
+      "value": 4701391,
+      "shares": 98935,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "45828L108",
+      "name": "INTEGRAL AD SCIENCE HLDNG CO",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 60552,
+      "shares": 5800,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "MASTERCARD INCORPORATED",
+      "ticker": "MA",
+      "title_of_class": "CL A",
+      "value": 6845410,
+      "shares": 13000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 10773384,
+      "shares": 18400,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 26048700,
+      "shares": 61800,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "64082B102",
+      "name": "NERDWALLET INC",
+      "ticker": "NRDS",
+      "title_of_class": "COM CL A",
+      "value": 10760844,
+      "shares": 809086,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "749527107",
+      "name": "REV GROUP INC",
+      "ticker": "TRVI",
+      "title_of_class": "COM",
+      "value": 79584712,
+      "shares": 2497167,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "968223206",
+      "name": "WILEY JOHN & SONS INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "CL A",
+      "value": 15169424,
+      "shares": 347047,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

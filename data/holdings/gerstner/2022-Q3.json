@@ -1,0 +1,199 @@
+{
+  "investor_id": "gerstner",
+  "cik": "0001541617",
+  "quarter": "2022-Q3",
+  "report_date": "2022-09-30",
+  "filing_date": "2022-11-14",
+  "accession_number": "0001541617-22-000020",
+  "total_value": 4676285000,
+  "num_holdings": 17,
+  "holdings": [
+    {
+      "cusip": "20717M103",
+      "name": "CONFLUENT INC",
+      "ticker": "CFLT",
+      "title_of_class": "CLASS A COM",
+      "value": 326037000,
+      "shares": 13716310,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G0370L108",
+      "name": "GRAB HOLDINGS LIMITED",
+      "ticker": "UNKNOWN",
+      "title_of_class": "CLASS A ORD",
+      "value": 7140000,
+      "shares": 2714995,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G0370L116",
+      "name": "GRAB HOLDINGS LIMITED",
+      "ticker": "UNKNOWN",
+      "title_of_class": "W EXP 12/1/202",
+      "value": 1751000,
+      "shares": 3502000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "37637K108",
+      "name": "GITLAB INC",
+      "ticker": "GTLB",
+      "title_of_class": "CLASS A COM",
+      "value": 31306000,
+      "shares": 611206,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "60937P106",
+      "name": "MONGODB INC",
+      "ticker": "MDB",
+      "title_of_class": "CL A",
+      "value": 18389000,
+      "shares": 92610,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90138Q108",
+      "name": "23ANDME HOLDING CO",
+      "ticker": "UNKNOWN",
+      "title_of_class": "CLASS A COM",
+      "value": 4725000,
+      "shares": 1652021,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 318438000,
+      "shares": 2346976,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 357067000,
+      "shares": 1533135,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "679295105",
+      "name": "OKTA INC",
+      "ticker": "OKTA",
+      "title_of_class": "CL A",
+      "value": 14218000,
+      "shares": 250000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "683712103",
+      "name": "OPENDOOR TECHNOLOGIES INC",
+      "ticker": "OPENW",
+      "title_of_class": "COM",
+      "value": 40666000,
+      "shares": 13076000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "683712103",
+      "name": "OPENDOOR TECHNOLOGIES INC",
+      "ticker": "OPENW",
+      "title_of_class": "CALL",
+      "value": 34210000,
+      "shares": 11000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "722304102",
+      "name": "PINDUODUO INC",
+      "ticker": "PDD",
+      "title_of_class": "SPONSORED ADS",
+      "value": 68838000,
+      "shares": 1100000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90364P105",
+      "name": "UIPATH INC",
+      "ticker": "PATH",
+      "title_of_class": "CL A",
+      "value": 3037000,
+      "shares": 240864,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "771049103",
+      "name": "ROBLOX CORP",
+      "ticker": "RBLX",
+      "title_of_class": "CL A",
+      "value": 102144000,
+      "shares": 2850000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "833445109",
+      "name": "SNOWFLAKE INC",
+      "ticker": "SNOW",
+      "title_of_class": "CL A",
+      "value": 2889625000,
+      "shares": 17001796,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "88160R101",
+      "name": "TESLA INC",
+      "ticker": "TSLA",
+      "title_of_class": "COM",
+      "value": 45888000,
+      "shares": 173000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90353T100",
+      "name": "UBER TECHNOLOGIES INC",
+      "ticker": "UBER",
+      "title_of_class": "COM",
+      "value": 412806000,
+      "shares": 15577600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

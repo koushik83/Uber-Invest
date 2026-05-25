@@ -1,0 +1,188 @@
+{
+  "investor_id": "greenhaven",
+  "cik": "0001741129",
+  "quarter": "2025-Q4",
+  "report_date": "2025-12-31",
+  "filing_date": "2026-02-13",
+  "accession_number": "0001420506-26-000339",
+  "total_value": 593983603,
+  "num_holdings": 16,
+  "holdings": [
+    {
+      "cusip": "M0854Q105",
+      "name": "ALLOT LTD",
+      "ticker": "ALLT",
+      "title_of_class": "SHS",
+      "value": 8424222,
+      "shares": 856991,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "00217D100",
+      "name": "AST SPACEMOBILE CL A",
+      "ticker": "ASTS",
+      "title_of_class": "COM CL A",
+      "value": 19989156,
+      "shares": 275219,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G17977110",
+      "name": "BURFORD CAP LTD",
+      "ticker": "BUR",
+      "title_of_class": "ORD SHS",
+      "value": 16638583,
+      "shares": 1865312,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M2197Q107",
+      "name": "CELLEBRITE DI LTD",
+      "ticker": "CLBT",
+      "title_of_class": "ORDINARY SHARES",
+      "value": 28846864,
+      "shares": 1599937,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "405166109",
+      "name": "HAGERTY INC",
+      "ticker": "HGTY",
+      "title_of_class": "CL A COM",
+      "value": 35167830,
+      "shares": 2616654,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "464287432",
+      "name": "ISHARES TR",
+      "ticker": "UNKNOWN",
+      "title_of_class": "20 YR TR BD ETF",
+      "value": 363152140,
+      "shares": 4166500,
+      "share_type": "SH",
+      "put_call": "PUT",
+      "sector": null
+    },
+    {
+      "cusip": "496904202",
+      "name": "KINGSWAY FINL SVCS INC",
+      "ticker": "KFS",
+      "title_of_class": "COM NEW",
+      "value": 25346915,
+      "shares": 1884529,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "48251W104",
+      "name": "KKR & CO INC",
+      "ticker": "KKR-PD",
+      "title_of_class": "COM",
+      "value": 21720826,
+      "shares": 190100,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "514766104",
+      "name": "LIFECORE BIOMEDICAL INC",
+      "ticker": "LFCR",
+      "title_of_class": "COM",
+      "value": 30123447,
+      "shares": 3682573,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "546347105",
+      "name": "LOUISIANA PAC CORP",
+      "ticker": "LPX",
+      "title_of_class": "COM",
+      "value": 8182845,
+      "shares": 101323,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "576853105",
+      "name": "MATRIX SVC CO",
+      "ticker": "MTRX",
+      "title_of_class": "COM",
+      "value": 163437,
+      "shares": 13969,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "65345N106",
+      "name": "NEXTNAV INC",
+      "ticker": "NXNVW",
+      "title_of_class": "COMMON STOCK",
+      "value": 1031680,
+      "shares": 62000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "698884103",
+      "name": "PAR TECHNOLOGY CORP",
+      "ticker": "PAR",
+      "title_of_class": "COM",
+      "value": 32176115,
+      "shares": 886883,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "72352L106",
+      "name": "PINTEREST INC",
+      "ticker": "PINS",
+      "title_of_class": "CL A",
+      "value": 2847900,
+      "shares": 110000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "74836W203",
+      "name": "QUEST RESOURCE HLDG CORP",
+      "ticker": "QRHC",
+      "title_of_class": "COM NEW",
+      "value": 58521,
+      "shares": 31463,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "761025105",
+      "name": "RESEARCH SOLUTIONS INC",
+      "ticker": "RSSS",
+      "title_of_class": "COM",
+      "value": 113122,
+      "shares": 38477,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "investor_id": "huber",
+  "cik": "0001911378",
+  "quarter": "2022-Q3",
+  "report_date": "2022-09-30",
+  "filing_date": "2022-11-14",
+  "accession_number": "0001398344-22-021951",
+  "total_value": 97389000,
+  "num_holdings": 17,
+  "holdings": [
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 610000,
+      "shares": 6340,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 6527000,
+      "shares": 68240,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 15781000,
+      "shares": 139652,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 4859000,
+      "shares": 43000,
+      "share_type": "SH",
+      "put_call": "CALL",
+      "sector": null
+    },
+    {
+      "cusip": "060505104",
+      "name": "BK OF AMERICA CORP",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 3891000,
+      "shares": 128857,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "217204106",
+      "name": "COPART INC",
+      "ticker": "CPRT",
+      "title_of_class": "COM",
+      "value": 7551000,
+      "shares": 70968,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "29786A106",
+      "name": "ETSY INC",
+      "ticker": "ETSY",
+      "title_of_class": "COM",
+      "value": 1717000,
+      "shares": 17150,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "339750101",
+      "name": "FLOOR & DECOR HLDGS INC",
+      "ticker": "FND",
+      "title_of_class": "CL A",
+      "value": 8447000,
+      "shares": 120223,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "38141G104",
+      "name": "GOLDMAN SACHS GROUP INC",
+      "ticker": "GSCE",
+      "title_of_class": "COM",
+      "value": 5718000,
+      "shares": 19512,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "46625H100",
+      "name": "JPMORGAN CHASE & CO",
+      "ticker": "VYLD",
+      "title_of_class": "COM",
+      "value": 5666000,
+      "shares": 54216,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "MASTERCARD INCORPORATED",
+      "ticker": "MA",
+      "title_of_class": "CL A",
+      "value": 3714000,
+      "shares": 11773,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 3934000,
+      "shares": 28997,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 10343000,
+      "shares": 44410,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "62944T105",
+      "name": "NVR INC",
+      "ticker": "NVR",
+      "title_of_class": "COM",
+      "value": 5658000,
+      "shares": 1419,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "745867101",
+      "name": "PULTE GROUP INC",
+      "ticker": "PHM",
+      "title_of_class": "COM",
+      "value": 1027000,
+      "shares": 27395,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "L8681T102",
+      "name": "SPOTIFY TECHNOLOGY S A",
+      "ticker": "SPOT",
+      "title_of_class": "SHS",
+      "value": 1447000,
+      "shares": 16762,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "ticker": "V",
+      "title_of_class": "COM CL A",
+      "value": 10499000,
+      "shares": 59102,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "investor_id": "hong",
+  "cik": "0001766908",
+  "quarter": "2023-Q1",
+  "report_date": "2023-03-31",
+  "filing_date": "2023-05-12",
+  "accession_number": "0001172661-23-002059",
+  "total_value": 758949432,
+  "num_holdings": 7,
+  "holdings": [
+    {
+      "cusip": "09352U108",
+      "name": "BLEND LABS INC",
+      "ticker": "BLND",
+      "title_of_class": "CL A",
+      "value": 10346594,
+      "shares": 10386061,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "461202103",
+      "name": "INTUIT",
+      "ticker": "INTU",
+      "title_of_class": "COM",
+      "value": 92907851,
+      "shares": 208393,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "44891N208",
+      "name": "IAC INC",
+      "ticker": "IAC",
+      "title_of_class": "COM NEW",
+      "value": 220321422,
+      "shares": 4269795,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "22266T109",
+      "name": "COUPANG INC",
+      "ticker": "CPNG",
+      "title_of_class": "CL A",
+      "value": 143843984,
+      "shares": 8990248,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 93497250,
+      "shares": 663713,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "833445109",
+      "name": "SNOWFLAKE INC",
+      "ticker": "SNOW",
+      "title_of_class": "CL A",
+      "value": 38514796,
+      "shares": 249626,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "81141R100",
+      "name": "SEA LTD",
+      "ticker": "SE",
+      "title_of_class": "SPONSORD ADS",
+      "value": 159517535,
+      "shares": 1843068,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "investor_id": "gaonkar",
+  "cik": "0001960830",
+  "quarter": "2026-Q1",
+  "report_date": "2026-03-31",
+  "filing_date": "2026-05-15",
+  "accession_number": "0000919574-26-003167",
+  "total_value": 2994808547,
+  "num_holdings": 14,
+  "holdings": [
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 427097248,
+      "shares": 1488870,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "144285103",
+      "name": "CARPENTER TECHNOLOGY CORP",
+      "ticker": "CRS",
+      "title_of_class": "COM",
+      "value": 471758529,
+      "shares": 1196901,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "219350105",
+      "name": "CORNING INC",
+      "ticker": "GLW",
+      "title_of_class": "COM",
+      "value": 116732285,
+      "shares": 858515,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "316841105",
+      "name": "FIGMA INC",
+      "ticker": "FIG",
+      "title_of_class": "CLASS A COM STK",
+      "value": 39479267,
+      "shares": 1867515,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "46120E602",
+      "name": "INTUITIVE SURGICAL INC",
+      "ticker": "ISRG",
+      "title_of_class": "COM NEW",
+      "value": 153524422,
+      "shares": 333032,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "50212V100",
+      "name": "LPL FINL HLDGS INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 307098996,
+      "shares": 1020839,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "58155Q103",
+      "name": "MCKESSON CORP",
+      "ticker": "MCK",
+      "title_of_class": "COM",
+      "value": 301778724,
+      "shares": 348732,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "58507V107",
+      "name": "MEDLINE INC",
+      "ticker": "MDLN",
+      "title_of_class": "COM CL A",
+      "value": 270344843,
+      "shares": 6075165,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G63755105",
+      "name": "NIQ GLOBAL INTELLIGENCE PLC",
+      "ticker": "NIQ",
+      "title_of_class": "ORDINARY SHARES",
+      "value": 66605460,
+      "shares": 5858000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G6683N103",
+      "name": "NU HLDGS LTD",
+      "ticker": "NU",
+      "title_of_class": "ORD SHS CL A",
+      "value": 141775282,
+      "shares": 9866060,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "ticker": "NVDA",
+      "title_of_class": "COM",
+      "value": 175807931,
+      "shares": 1008073,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "82509L107",
+      "name": "SHOPIFY INC",
+      "ticker": "SHOP",
+      "title_of_class": "CL A SUB VTG SHS",
+      "value": 61176248,
+      "shares": 515733,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MANUFAC",
+      "ticker": "TSMWF",
+      "title_of_class": "SPONSORED ADS",
+      "value": 374473270,
+      "shares": 1108073,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "ticker": "V",
+      "title_of_class": "COM CL A",
+      "value": 87156042,
+      "shares": 288367,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

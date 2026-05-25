@@ -1,0 +1,177 @@
+{
+  "investor_id": "haley",
+  "cik": "0001858353",
+  "quarter": "2025-Q1",
+  "report_date": "2025-03-31",
+  "filing_date": "2025-05-15",
+  "accession_number": "0001858353-25-000004",
+  "total_value": 252328709,
+  "num_holdings": 15,
+  "holdings": [
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 15791580,
+      "shares": 83000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G0457F107",
+      "name": "ARCOS DORADOS HOLDINGS INC",
+      "ticker": "ARCO",
+      "title_of_class": "SHS CLASS -A -",
+      "value": 9032842,
+      "shares": 1120700,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "03990B101",
+      "name": "ARES MANAGEMENT CORPORATION",
+      "ticker": "ARES-PB",
+      "title_of_class": "CL A COM STK",
+      "value": 2453079,
+      "shares": 16732,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "01741R102",
+      "name": "ATI INC",
+      "ticker": "ATI",
+      "title_of_class": "COM",
+      "value": 11254089,
+      "shares": 216300,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "234264109",
+      "name": "DAKTRONICS INC",
+      "ticker": "DAKT",
+      "title_of_class": "COM",
+      "value": 72758436,
+      "shares": 5973599,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "25862V105",
+      "name": "DOUBLEVERIFY HLDGS INC",
+      "ticker": "DV",
+      "title_of_class": "COM",
+      "value": 4458427,
+      "shares": 333465,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "448947507",
+      "name": "IDT CORP",
+      "ticker": "IDT",
+      "title_of_class": "CL B NEW",
+      "value": 6981239,
+      "shares": 136060,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "45828L108",
+      "name": "INTEGRAL AD SCIENCE HLDNG CO",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 9785267,
+      "shares": 1214053,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "47973J102",
+      "name": "JOINT CORP",
+      "ticker": "JYNT",
+      "title_of_class": "COM",
+      "value": 5034669,
+      "shares": 403096,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 15878997,
+      "shares": 42300,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "76134H101",
+      "name": "RESOLUTE HLDGS MGMT INC",
+      "ticker": "RHLD",
+      "title_of_class": "COM",
+      "value": 5175770,
+      "shares": 165149,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "749527107",
+      "name": "REV GROUP INC",
+      "ticker": "TRVI",
+      "title_of_class": "COM",
+      "value": 72768543,
+      "shares": 2302802,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M8216R109",
+      "name": "RISKIFIED LTD",
+      "ticker": "RSKD",
+      "title_of_class": "SHS CL A",
+      "value": 3497543,
+      "shares": 757044,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "880345103",
+      "name": "TENNANT CO",
+      "ticker": "TNC",
+      "title_of_class": "COM",
+      "value": 73051,
+      "shares": 916,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "896215209",
+      "name": "TRIMAS CORP",
+      "ticker": "TRS",
+      "title_of_class": "COM NEW",
+      "value": 17385177,
+      "shares": 742005,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

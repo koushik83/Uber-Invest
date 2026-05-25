@@ -1,0 +1,111 @@
+{
+  "investor_id": "haley",
+  "cik": "0001858353",
+  "quarter": "2026-Q1",
+  "report_date": "2026-03-31",
+  "filing_date": "2026-05-15",
+  "accession_number": "0001858353-26-000003",
+  "total_value": 377796993,
+  "num_holdings": 9,
+  "holdings": [
+    {
+      "cusip": "10950A106",
+      "name": "BRIGHTSPRING HEALTH SVCS INC",
+      "ticker": "BTSGU",
+      "title_of_class": "COM",
+      "value": 60651074,
+      "shares": 1423400,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "109696104",
+      "name": "BRINKS CO",
+      "ticker": "BCO",
+      "title_of_class": "COM",
+      "value": 11575471,
+      "shares": 111700,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "141788109",
+      "name": "CARGURUS INC",
+      "ticker": "CARG",
+      "title_of_class": "COM CL A",
+      "value": 54049131,
+      "shares": 1587346,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "234264109",
+      "name": "DAKTRONICS INC",
+      "ticker": "DAKT",
+      "title_of_class": "COM",
+      "value": 65910850,
+      "shares": 3371399,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "448947507",
+      "name": "IDT CORP",
+      "ticker": "IDT",
+      "title_of_class": "CL B NEW",
+      "value": 4763191,
+      "shares": 97010,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "63001N106",
+      "name": "NCR ATLEOS CORPORATION",
+      "ticker": "NATL",
+      "title_of_class": "COM SHS",
+      "value": 68023543,
+      "shares": 1560889,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "888787108",
+      "name": "TOAST INC",
+      "ticker": "TOST",
+      "title_of_class": "CL A",
+      "value": 19625353,
+      "shares": 740300,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "896215209",
+      "name": "TRIMAS CORP",
+      "ticker": "TRS",
+      "title_of_class": "COM NEW",
+      "value": 8030721,
+      "shares": 223448,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98379L100",
+      "name": "XPEL INC",
+      "ticker": "XPEL",
+      "title_of_class": "COM",
+      "value": 85167659,
+      "shares": 1924258,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

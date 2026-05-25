@@ -1,0 +1,166 @@
+{
+  "investor_id": "ferguson",
+  "cik": "0001582090",
+  "quarter": "2024-Q4",
+  "report_date": "2024-12-31",
+  "filing_date": "2025-02-14",
+  "accession_number": "0000902664-25-001012",
+  "total_value": 1815019547,
+  "num_holdings": 14,
+  "holdings": [
+    {
+      "cusip": "00404A109",
+      "name": "ACADIA HEALTHCARE COMPANY IN",
+      "ticker": "ACAD",
+      "title_of_class": "COM",
+      "value": 52734500,
+      "shares": 1330000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "19247G107",
+      "name": "COHERENT CORP",
+      "ticker": "COHR",
+      "title_of_class": "COM",
+      "value": 107186995,
+      "shares": 1131500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "126650100",
+      "name": "CVS HEALTH CORP",
+      "ticker": "CVS",
+      "title_of_class": "COM",
+      "value": 28056250,
+      "shares": 625000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "65290E101",
+      "name": "NEXTRACKER INC",
+      "ticker": "NXTT",
+      "title_of_class": "CLASS A COM",
+      "value": 108768075,
+      "shares": 2977500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "679295105",
+      "name": "OKTA INC",
+      "ticker": "OKTA",
+      "title_of_class": "CL A",
+      "value": 105592000,
+      "shares": 1340000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83601L102",
+      "name": "SOTERA HEALTH CO",
+      "ticker": "SHC",
+      "title_of_class": "COM",
+      "value": 108208800,
+      "shares": 7910000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "85208T107",
+      "name": "SPRINKLR INC",
+      "ticker": "CXM",
+      "title_of_class": "CL A",
+      "value": 48545250,
+      "shares": 5745000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "87165B103",
+      "name": "SYNCHRONY FINANCIAL",
+      "ticker": "SYF-PB",
+      "title_of_class": "COM",
+      "value": 142837500,
+      "shares": 2197500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "87422Q109",
+      "name": "TALEN ENERGY CORP",
+      "ticker": "TLN",
+      "title_of_class": "COM",
+      "value": 183337700,
+      "shares": 910000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90138F102",
+      "name": "TWILIO INC",
+      "ticker": "TWLO",
+      "title_of_class": "CL A",
+      "value": 356123600,
+      "shares": 3295000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "912008109",
+      "name": "US FOODS HLDG CORP",
+      "ticker": "USFD",
+      "title_of_class": "COM",
+      "value": 244205200,
+      "shares": 3620000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "934423104",
+      "name": "WARNER BROS DISCOVERY INC",
+      "ticker": "WBD",
+      "title_of_class": "COM SER A",
+      "value": 64846950,
+      "shares": 6135000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "958102105",
+      "name": "WESTERN DIGITAL CORP",
+      "ticker": "WDC",
+      "title_of_class": "COM",
+      "value": 176975877,
+      "shares": 2967900,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98980F104",
+      "name": "ZOOMINFO TECHNOLOGIES INC",
+      "ticker": "GTM",
+      "title_of_class": "COMMON STOCK",
+      "value": 87600850,
+      "shares": 8335000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

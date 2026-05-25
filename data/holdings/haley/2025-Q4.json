@@ -1,0 +1,155 @@
+{
+  "investor_id": "haley",
+  "cik": "0001858353",
+  "quarter": "2025-Q4",
+  "report_date": "2025-12-31",
+  "filing_date": "2026-02-13",
+  "accession_number": "0001858353-26-000002",
+  "total_value": 464792147,
+  "num_holdings": 13,
+  "holdings": [
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 19158060,
+      "shares": 83000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "03990B101",
+      "name": "ARES MANAGEMENT CORPORATION",
+      "ticker": "ARES-PB",
+      "title_of_class": "CL A COM STK",
+      "value": 16259978,
+      "shares": 100600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "10950A106",
+      "name": "BRIGHTSPRING HEALTH SVCS INC",
+      "ticker": "BTSGU",
+      "title_of_class": "COM",
+      "value": 46344375,
+      "shares": 1237500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "141788109",
+      "name": "CARGURUS INC",
+      "ticker": "CARG",
+      "title_of_class": "COM CL A",
+      "value": 48840412,
+      "shares": 1273544,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "234264109",
+      "name": "DAKTRONICS INC",
+      "ticker": "DAKT",
+      "title_of_class": "COM",
+      "value": 73805344,
+      "shares": 3733199,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "303250104",
+      "name": "FAIR ISAAC CORP",
+      "ticker": "FICO",
+      "title_of_class": "COM",
+      "value": 19966222,
+      "shares": 11810,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30260D103",
+      "name": "FIGS INC",
+      "ticker": "FIGS",
+      "title_of_class": "CL A",
+      "value": 9946816,
+      "shares": 875600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 10957494,
+      "shares": 16600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 8705160,
+      "shares": 18000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "63001N106",
+      "name": "NCR ATLEOS CORPORATION",
+      "ticker": "NATL",
+      "title_of_class": "COM SHS",
+      "value": 74348075,
+      "shares": 1950881,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "76118Y104",
+      "name": "RESIDEO TECHNOLOGIES INC",
+      "ticker": "REZI",
+      "title_of_class": "COM",
+      "value": 44486504,
+      "shares": 1266700,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "896215209",
+      "name": "TRIMAS CORP",
+      "ticker": "TRS",
+      "title_of_class": "COM NEW",
+      "value": 19971644,
+      "shares": 563375,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98379L100",
+      "name": "XPEL INC",
+      "ticker": "XPEL",
+      "title_of_class": "COM",
+      "value": 72002063,
+      "shares": 1442638,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

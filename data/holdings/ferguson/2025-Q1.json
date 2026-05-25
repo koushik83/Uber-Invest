@@ -1,0 +1,188 @@
+{
+  "investor_id": "ferguson",
+  "cik": "0001582090",
+  "quarter": "2025-Q1",
+  "report_date": "2025-03-31",
+  "filing_date": "2025-05-15",
+  "accession_number": "0000902664-25-002381",
+  "total_value": 2494347250,
+  "num_holdings": 16,
+  "holdings": [
+    {
+      "cusip": "00404A109",
+      "name": "ACADIA HEALTHCARE COMPANY IN",
+      "ticker": "ACAD",
+      "title_of_class": "COM",
+      "value": 110213200,
+      "shares": 3635000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "19247G107",
+      "name": "COHERENT CORP",
+      "ticker": "COHR",
+      "title_of_class": "COM",
+      "value": 180208500,
+      "shares": 2775000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "126650100",
+      "name": "CVS HEALTH CORP",
+      "ticker": "CVS",
+      "title_of_class": "COM",
+      "value": 212057500,
+      "shares": 3130000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "36165L108",
+      "name": "GDS HLDGS LTD",
+      "ticker": "GDHLF",
+      "title_of_class": "SPONSORED ADS",
+      "value": 106765950,
+      "shares": 4215000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "63947X101",
+      "name": "NCINO INC",
+      "ticker": "NCNO",
+      "title_of_class": "COM",
+      "value": 135427100,
+      "shares": 4930000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "65290E101",
+      "name": "NEXTRACKER INC",
+      "ticker": "NXTT",
+      "title_of_class": "CLASS A COM",
+      "value": 125471850,
+      "shares": 2977500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G7997R103",
+      "name": "SEAGATE TECHNOLOGY HLDNGS PL",
+      "ticker": "STX",
+      "title_of_class": "ORD SHS",
+      "value": 126575500,
+      "shares": 1490000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83601L102",
+      "name": "SOTERA HEALTH CO",
+      "ticker": "SHC",
+      "title_of_class": "COM",
+      "value": 92230600,
+      "shares": 7910000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "85208T107",
+      "name": "SPRINKLR INC",
+      "ticker": "CXM",
+      "title_of_class": "CL A",
+      "value": 47970750,
+      "shares": 5745000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "87165B103",
+      "name": "SYNCHRONY FINANCIAL",
+      "ticker": "SYF-PB",
+      "title_of_class": "COM",
+      "value": 116335650,
+      "shares": 2197500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "87422Q109",
+      "name": "TALEN ENERGY CORP",
+      "ticker": "TLN",
+      "title_of_class": "COM",
+      "value": 346427450,
+      "shares": 1735000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90138F102",
+      "name": "TWILIO INC",
+      "ticker": "TWLO",
+      "title_of_class": "CL A",
+      "value": 322613450,
+      "shares": 3295000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "912008109",
+      "name": "US FOODS HLDG CORP",
+      "ticker": "USFD",
+      "title_of_class": "COM",
+      "value": 207835500,
+      "shares": 3175000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "934423104",
+      "name": "WARNER BROS DISCOVERY INC",
+      "ticker": "WBD",
+      "title_of_class": "COM SER A",
+      "value": 121570900,
+      "shares": 11330000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "958102105",
+      "name": "WESTERN DIGITAL CORP",
+      "ticker": "WDC",
+      "title_of_class": "COM",
+      "value": 74593350,
+      "shares": 1845000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98980F104",
+      "name": "ZOOMINFO TECHNOLOGIES INC",
+      "ticker": "GTM",
+      "title_of_class": "COMMON STOCK",
+      "value": 168050000,
+      "shares": 16805000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

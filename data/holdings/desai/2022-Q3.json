@@ -1,0 +1,144 @@
+{
+  "investor_id": "desai",
+  "cik": "0001609098",
+  "quarter": "2022-Q3",
+  "report_date": "2022-09-30",
+  "filing_date": "2022-11-14",
+  "accession_number": "0001172661-22-002544",
+  "total_value": 1947311000,
+  "num_holdings": 12,
+  "holdings": [
+    {
+      "cusip": "08975P108",
+      "name": "BIGCOMMERCE HLDGS INC",
+      "ticker": "CBSH",
+      "title_of_class": "COM SER 1",
+      "value": 81446000,
+      "shares": 5503085,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "20030N101",
+      "name": "COMCAST CORP NEW",
+      "ticker": "CCZ",
+      "title_of_class": "CL A",
+      "value": 322630000,
+      "shares": 11000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "25809K105",
+      "name": "DOORDASH INC",
+      "ticker": "DASH",
+      "title_of_class": "CL A",
+      "value": 123625000,
+      "shares": 2500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N3167Y103",
+      "name": "FERRARI N V",
+      "ticker": "RACE",
+      "title_of_class": "COM",
+      "value": 231250000,
+      "shares": 1250000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "33829M101",
+      "name": "FIVE BELOW INC",
+      "ticker": "FIVE",
+      "title_of_class": "COM",
+      "value": 196180000,
+      "shares": 1425000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "389375106",
+      "name": "GRAY TELEVISION INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 65723000,
+      "shares": 4589563,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "40171V100",
+      "name": "GUIDEWIRE SOFTWARE INC",
+      "ticker": "GWRE",
+      "title_of_class": "COM",
+      "value": 153950000,
+      "shares": 2500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 120620000,
+      "shares": 1000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "650111107",
+      "name": "NEW YORK TIMES CO",
+      "ticker": "NYT",
+      "title_of_class": "CL A",
+      "value": 244375000,
+      "shares": 8500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "70614W100",
+      "name": "PELOTON INTERACTIVE INC",
+      "ticker": "PTON",
+      "title_of_class": "CL A COM",
+      "value": 69300000,
+      "shares": 10000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "74967X103",
+      "name": "RH",
+      "ticker": "RH",
+      "title_of_class": "COM",
+      "value": 233767000,
+      "shares": 950000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "934550203",
+      "name": "WARNER MUSIC GROUP CORP",
+      "ticker": "WMG",
+      "title_of_class": "COM CL A",
+      "value": 104445000,
+      "shares": 4500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

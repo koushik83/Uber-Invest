@@ -1,0 +1,78 @@
+{
+  "investor_id": "sosin",
+  "cik": "0001697591",
+  "quarter": "2022-Q1",
+  "report_date": "2022-03-31",
+  "filing_date": "2022-05-16",
+  "accession_number": "0001420506-22-000950",
+  "total_value": 1494153000,
+  "num_holdings": 6,
+  "holdings": [
+    {
+      "cusip": "14161W105",
+      "name": "CARDLYTICS INC",
+      "ticker": "CDLX",
+      "title_of_class": "COM",
+      "value": 297778000,
+      "shares": 5416116,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "146869102",
+      "name": "CARVANA CO",
+      "ticker": "CVNA",
+      "title_of_class": "CL A",
+      "value": 496593000,
+      "shares": 4162903,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G4412G101",
+      "name": "HERBALIFE NUTRITION LTD",
+      "ticker": "HLF",
+      "title_of_class": "COM SHS",
+      "value": 88280000,
+      "shares": 2907762,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43283X105",
+      "name": "HILTON GRAND VACATIONS INC",
+      "ticker": "HGV",
+      "title_of_class": "COM",
+      "value": 401890000,
+      "shares": 7727165,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "702149105",
+      "name": "PARTY CITY HOLDCO INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 64625000,
+      "shares": 18051623,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "981419104",
+      "name": "WORLD ACCEP CORPORATION",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 144987000,
+      "shares": 755768,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

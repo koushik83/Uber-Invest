@@ -199,6 +199,11 @@
     "name": "AGF INVTS TR",
     "sector": null
   },
+  "001176213": {
+    "ticker": "MNDY",
+    "name": "monday.com Ltd.",
+    "sector": null
+  },
   "001228105": {
     "ticker": "UNKNOWN",
     "name": "AG MTG INVT TR INC",
@@ -2554,6 +2559,11 @@
     "name": "Alcoa Corp",
     "sector": null
   },
+  "01407X112": {
+    "ticker": "ALDFW",
+    "name": "Aldel Financial II Inc.",
+    "sector": null
+  },
   "01438T106": {
     "ticker": "ALDX",
     "name": "Aldeyra Therapeutics, Inc.",
@@ -3235,6 +3245,16 @@
     "sector": null
   },
   "02079K305": {
+    "ticker": "GOOG",
+    "name": "Alphabet Inc.",
+    "sector": null
+  },
+  "02079k107": {
+    "ticker": "GOOG",
+    "name": "Alphabet Inc.",
+    "sector": null
+  },
+  "02079k305": {
     "ticker": "GOOG",
     "name": "Alphabet Inc.",
     "sector": null
@@ -4619,6 +4639,11 @@
     "name": "Anterix Inc.",
     "sector": null
   },
+  "03676b102": {
+    "ticker": "AM",
+    "name": "Antero Midstream Corp",
+    "sector": null
+  },
   "037326105": {
     "ticker": "ANTX",
     "name": "AN2 Therapeutics, Inc.",
@@ -4732,6 +4757,11 @@
   "03768F102": {
     "ticker": "TRAD-UN",
     "name": "APEX Tech Acquisition Inc.",
+    "sector": null
+  },
+  "03768e105": {
+    "ticker": "APOS",
+    "name": "Apollo Global Management, Inc.",
     "sector": null
   },
   "03769M106": {
@@ -7809,6 +7839,11 @@
     "name": "BigBear.ai Holdings, Inc.",
     "sector": null
   },
+  "08975B959": {
+    "ticker": "BBAI-WT",
+    "name": "BigBear.ai Holdings, Inc.",
+    "sector": null
+  },
   "08975P108": {
     "ticker": "CBSH",
     "name": "COMMERCE BANCSHARES INC /MO/",
@@ -10554,6 +10589,16 @@
     "name": "CBD Life Sciences Inc.",
     "sector": null
   },
+  "125842104": {
+    "ticker": "CBDL",
+    "name": "CBD Life Sciences Inc.",
+    "sector": null
+  },
+  "125842112": {
+    "ticker": "CBDL",
+    "name": "CBD Life Sciences Inc.",
+    "sector": null
+  },
   "125842203": {
     "ticker": "CBDL",
     "name": "CBD Life Sciences Inc.",
@@ -11517,6 +11562,11 @@
   "14161Y200": {
     "ticker": "CRDL",
     "name": "Cardiol Therapeutics Inc.",
+    "sector": null
+  },
+  "14161w105": {
+    "ticker": "CDLX",
+    "name": "Cardlytics, Inc.",
     "sector": null
   },
   "14167L103": {
@@ -13354,6 +13404,11 @@
     "name": "CBD Life Sciences Inc.",
     "sector": null
   },
+  "18978W117": {
+    "ticker": "CBDL",
+    "name": "CBD Life Sciences Inc.",
+    "sector": null
+  },
   "18978W208": {
     "ticker": "CBDL",
     "name": "CBD Life Sciences Inc.",
@@ -13870,6 +13925,11 @@
     "sector": null
   },
   "20030N101": {
+    "ticker": "CCZ",
+    "name": "COMCAST CORP",
+    "sector": null
+  },
+  "20030n101": {
     "ticker": "CCZ",
     "name": "COMCAST CORP",
     "sector": null
@@ -16430,6 +16490,11 @@
     "sector": null
   },
   "25400W102": {
+    "ticker": "APPS",
+    "name": "Digital Turbine, Inc.",
+    "sector": null
+  },
+  "25400W902": {
     "ticker": "APPS",
     "name": "Digital Turbine, Inc.",
     "sector": null
@@ -21194,6 +21259,11 @@
     "name": "Meta Platforms, Inc.",
     "sector": null
   },
+  "30303m102": {
+    "ticker": "UNKNOWN",
+    "name": "FACEBOOK INC",
+    "sector": null
+  },
   "303075105": {
     "ticker": "FDS",
     "name": "FACTSET RESEARCH SYSTEMS INC",
@@ -22024,6 +22094,11 @@
     "name": "Fidelity National Financial, Inc.",
     "sector": null
   },
+  "31620r303": {
+    "ticker": "FNF",
+    "name": "Fidelity National Financial, Inc.",
+    "sector": null
+  },
   "31624J729": {
     "ticker": "UNKNOWN",
     "name": "FIDELITY GREENWOOD STREET TR",
@@ -22240,6 +22315,11 @@
     "sector": null
   },
   "31847R102": {
+    "ticker": "FAF",
+    "name": "First American Financial Corp",
+    "sector": null
+  },
+  "31847r102": {
     "ticker": "FAF",
     "name": "First American Financial Corp",
     "sector": null
@@ -26379,6 +26459,11 @@
     "name": "GLADSTONE LAND Corp",
     "sector": null
   },
+  "37714P111": {
+    "ticker": "UNKNOWN",
+    "name": "GLASS HOUSES ACQUISITION COR",
+    "sector": null
+  },
   "377320106": {
     "ticker": "LSRCF",
     "name": "Lasertec Corporation/ADR",
@@ -27169,6 +27254,11 @@
     "name": "NV Gold Corp",
     "sector": null
   },
+  "380799205": {
+    "ticker": "NVGLF",
+    "name": "NV Gold Corp",
+    "sector": null
+  },
   "381013101": {
     "ticker": "NVGLF",
     "name": "NV Gold Corp",
@@ -27792,6 +27882,11 @@
   "387437205": {
     "ticker": "GRTUF",
     "name": "GRANITE REAL ESTATE INVESTMENT TRUST",
+    "sector": null
+  },
+  "38747R108": {
+    "ticker": "BAR",
+    "name": "GraniteShares Gold Trust",
     "sector": null
   },
   "38747R264": {
@@ -28689,6 +28784,11 @@
     "name": "HCA Healthcare, Inc.",
     "sector": null
   },
+  "40412c101": {
+    "ticker": "HCA",
+    "name": "HCA Healthcare, Inc.",
+    "sector": null
+  },
   "404139107": {
     "ticker": "UNKNOWN",
     "name": "HC2 HLDGS INC",
@@ -28795,6 +28895,16 @@
     "sector": null
   },
   "405166109": {
+    "ticker": "HGTY",
+    "name": "Hagerty, Inc.",
+    "sector": null
+  },
+  "405166117": {
+    "ticker": "HGTY",
+    "name": "Hagerty, Inc.",
+    "sector": null
+  },
+  "405166909": {
     "ticker": "HGTY",
     "name": "Hagerty, Inc.",
     "sector": null
@@ -29794,6 +29904,11 @@
     "name": "Hilton Grand Vacations Inc.",
     "sector": null
   },
+  "43283x105": {
+    "ticker": "HGV",
+    "name": "Hilton Grand Vacations Inc.",
+    "sector": null
+  },
   "43289P106": {
     "ticker": "HIMX",
     "name": "Himax Technologies, Inc.",
@@ -30192,6 +30307,11 @@
   "443761101": {
     "ticker": "UNKNOWN",
     "name": "HUDSON EXECUTIVE INVT CORP",
+    "sector": null
+  },
+  "443761119": {
+    "ticker": "UNKNOWN",
+    "name": "HUDSON EXECUTIVE INVES III",
     "sector": null
   },
   "44376L107": {
@@ -32634,6 +32754,11 @@
     "name": "INTERNATIONAL BUSINESS MACHINES CORP",
     "sector": null
   },
+  "459200951": {
+    "ticker": "IBM",
+    "name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "sector": null
+  },
   "459506101": {
     "ticker": "IFF",
     "name": "INTERNATIONAL FLAVORS & FRAGRANCES INC",
@@ -32785,6 +32910,11 @@
     "sector": null
   },
   "46090E103": {
+    "ticker": "QQQ",
+    "name": "INVESCO QQQ TRUST, SERIES 1",
+    "sector": null
+  },
+  "46090E953": {
     "ticker": "QQQ",
     "name": "INVESCO QQQ TRUST, SERIES 1",
     "sector": null
@@ -33510,6 +33640,11 @@
     "sector": null
   },
   "46137V886": {
+    "ticker": "IVZ",
+    "name": "Invesco Ltd.",
+    "sector": null
+  },
+  "46137V957": {
     "ticker": "IVZ",
     "name": "Invesco Ltd.",
     "sector": null
@@ -37130,6 +37265,11 @@
     "sector": null
   },
   "46625H365": {
+    "ticker": "VYLD",
+    "name": "JPMORGAN CHASE & CO",
+    "sector": null
+  },
+  "46625h100": {
     "ticker": "VYLD",
     "name": "JPMORGAN CHASE & CO",
     "sector": null
@@ -42134,6 +42274,11 @@
     "name": "MARKETWISE, INC.",
     "sector": null
   },
+  "57064P115": {
+    "ticker": "MKTW",
+    "name": "MARKETWISE, INC.",
+    "sector": null
+  },
   "57064P206": {
     "ticker": "MKTW",
     "name": "MARKETWISE, INC.",
@@ -42285,6 +42430,11 @@
     "sector": null
   },
   "57636Q104": {
+    "ticker": "MA",
+    "name": "Mastercard Inc",
+    "sector": null
+  },
+  "57636q104": {
     "ticker": "MA",
     "name": "Mastercard Inc",
     "sector": null
@@ -42807,6 +42957,11 @@
   "59001K100": {
     "ticker": "UNKNOWN",
     "name": "MERITOR INC",
+    "sector": null
+  },
+  "590106100": {
+    "ticker": "MDLN",
+    "name": "Medline Inc.",
     "sector": null
   },
   "590328209": {
@@ -43595,6 +43750,11 @@
     "sector": null
   },
   "60938K106": {
+    "ticker": "UNKNOWN",
+    "name": "MONEYLION INC",
+    "sector": null
+  },
+  "60938K114": {
     "ticker": "UNKNOWN",
     "name": "MONEYLION INC",
     "sector": null
@@ -44795,6 +44955,11 @@
     "sector": null
   },
   "64081V109": {
+    "ticker": "NRDY",
+    "name": "Nerdy Inc.",
+    "sector": null
+  },
+  "64081V117": {
     "ticker": "NRDY",
     "name": "Nerdy Inc.",
     "sector": null
@@ -49129,6 +49294,11 @@
     "name": "PAR TECHNOLOGY CORP",
     "sector": null
   },
+  "698884903": {
+    "ticker": "PAR",
+    "name": "PAR TECHNOLOGY CORP",
+    "sector": null
+  },
   "698884AC7": {
     "ticker": "PAR",
     "name": "PAR TECHNOLOGY CORP",
@@ -50885,6 +51055,11 @@
     "sector": null
   },
   "74164M108": {
+    "ticker": "PRI",
+    "name": "Primerica, Inc.",
+    "sector": null
+  },
+  "74164m108": {
     "ticker": "PRI",
     "name": "Primerica, Inc.",
     "sector": null
@@ -53287,6 +53462,11 @@
   "75508B104": {
     "ticker": "RYN",
     "name": "RAYONIER INC",
+    "sector": null
+  },
+  "755130000": {
+    "ticker": "WTBA",
+    "name": "WEST BANCORPORATION INC",
     "sector": null
   },
   "75513E101": {
@@ -55854,6 +56034,11 @@
     "name": "Sable Offshore Corp.",
     "sector": null
   },
+  "78574H904": {
+    "ticker": "SOC",
+    "name": "Sable Offshore Corp.",
+    "sector": null
+  },
   "78577G103": {
     "ticker": "UNKNOWN",
     "name": "SACKS PARENTE GOLF INC",
@@ -56805,6 +56990,11 @@
     "sector": null
   },
   "81663L101": {
+    "ticker": "SE",
+    "name": "Sea Ltd",
+    "sector": null
+  },
+  "81663L119": {
     "ticker": "SE",
     "name": "Sea Ltd",
     "sector": null
@@ -59215,6 +59405,11 @@
     "sector": null
   },
   "85225A107": {
+    "ticker": "UNKNOWN",
+    "name": "SQUARESPACE INC",
+    "sector": null
+  },
+  "85225a107": {
     "ticker": "UNKNOWN",
     "name": "SQUARESPACE INC",
     "sector": null
@@ -62309,6 +62504,11 @@
     "name": "TIDAL TR II",
     "sector": null
   },
+  "88636J337": {
+    "ticker": "UNKNOWN",
+    "name": "TIDAL TR II",
+    "sector": null
+  },
   "88636J378": {
     "ticker": "UNKNOWN",
     "name": "TIDAL TR II",
@@ -63869,6 +64069,11 @@
     "name": "TWC TECH HLDGS II CORP",
     "sector": null
   },
+  "90117G113": {
+    "ticker": "UNKNOWN",
+    "name": "TWC TECH HLDGS II CORP",
+    "sector": null
+  },
   "90117G204": {
     "ticker": "UNKNOWN",
     "name": "TWC TECH HLDGS II CORP",
@@ -64704,6 +64909,11 @@
     "name": "UNITEDHEALTH GROUP INC",
     "sector": null
   },
+  "91324p102": {
+    "ticker": "UNH",
+    "name": "UNITEDHEALTH GROUP INC",
+    "sector": null
+  },
   "913259107": {
     "ticker": "UTL",
     "name": "UNITIL CORP",
@@ -64815,6 +65025,11 @@
     "sector": null
   },
   "91532B101": {
+    "ticker": "EHTH",
+    "name": "eHealth, Inc.",
+    "sector": null
+  },
+  "91532B119": {
     "ticker": "EHTH",
     "name": "eHealth, Inc.",
     "sector": null
@@ -65195,6 +65410,11 @@
     "sector": null
   },
   "92047W101": {
+    "ticker": "VVV",
+    "name": "VALVOLINE INC",
+    "sector": null
+  },
+  "92047w101": {
     "ticker": "VVV",
     "name": "VALVOLINE INC",
     "sector": null
@@ -69784,6 +70004,11 @@
     "name": "zSpace, Inc.",
     "sector": null
   },
+  "98980f104": {
+    "ticker": "GTM",
+    "name": "ZoomInfo Technologies Inc.",
+    "sector": null
+  },
   "989817101": {
     "ticker": "ZUMZ",
     "name": "Zumiez Inc",
@@ -70489,6 +70714,11 @@
     "name": "APOLLO STRATEGIC GROWTH CAPT",
     "sector": null
   },
+  "G0411R114": {
+    "ticker": "UNKNOWN",
+    "name": "APOLLO STRATEGIC GROWTH CAPT",
+    "sector": null
+  },
   "G0412A102": {
     "ticker": "UNKNOWN",
     "name": "APOLLO STRATEGIC GRWT CPTL I",
@@ -70620,6 +70850,11 @@
     "sector": null
   },
   "G05155109": {
+    "ticker": "CDAUF",
+    "name": "Compass Digital Acquisition Corp.",
+    "sector": null
+  },
+  "G05155117": {
     "ticker": "CDAUF",
     "name": "Compass Digital Acquisition Corp.",
     "sector": null
@@ -71242,6 +71477,11 @@
   "G1180K116": {
     "ticker": "TULP",
     "name": "BLOOMIA HOLDINGS, INC.",
+    "sector": null
+  },
+  "G1192N126": {
+    "ticker": "UNKNOWN",
+    "name": "CC NEUBERGER PRINCIPAL HOLDN",
     "sector": null
   },
   "G1194L118": {
@@ -74325,6 +74565,11 @@
     "sector": null
   },
   "G4705A100": {
+    "ticker": "ICLR",
+    "name": "ICON PLC",
+    "sector": null
+  },
+  "G4705a100": {
     "ticker": "ICLR",
     "name": "ICON PLC",
     "sector": null
@@ -77914,6 +78159,16 @@
     "name": "Skycorp Solar Group Ltd",
     "sector": null
   },
+  "G82220107": {
+    "ticker": "SKAI",
+    "name": "Sky Acquisition Group",
+    "sector": null
+  },
+  "G82220115": {
+    "ticker": "SKAI",
+    "name": "Sky Acquisition Group",
+    "sector": null
+  },
   "G82220123": {
     "ticker": "SKAI",
     "name": "Sky Acquisition Group",
@@ -78745,6 +79000,11 @@
     "sector": null
   },
   "G8990Y103": {
+    "ticker": "UNKNOWN",
+    "name": "TPG PACE TECH OPPORTUNITIES",
+    "sector": null
+  },
+  "G8990Y129": {
     "ticker": "UNKNOWN",
     "name": "TPG PACE TECH OPPORTUNITIES",
     "sector": null
@@ -79659,6 +79919,11 @@
     "name": "Zura Bio Ltd",
     "sector": null
   },
+  "GIR25Q113": {
+    "ticker": "IBACR",
+    "name": "IB Acquisition Corp.",
+    "sector": null
+  },
   "H00263105": {
     "ticker": "ACIU",
     "name": "AC Immune SA",
@@ -80085,6 +80350,11 @@
     "sector": null
   },
   "M2197Q107": {
+    "ticker": "CLBT",
+    "name": "Cellebrite DI Ltd.",
+    "sector": null
+  },
+  "M2197Q115": {
     "ticker": "CLBT",
     "name": "Cellebrite DI Ltd.",
     "sector": null
@@ -81657,6 +81927,16 @@
   "Y989DF109": {
     "ticker": "UNKNOWN",
     "name": "ZhongAn Online P&C Insurance C",
+    "sector": null
+  },
+  "g0403h108": {
+    "ticker": "AON",
+    "name": "Aon plc",
+    "sector": null
+  },
+  "g0684d107": {
+    "ticker": "ATH-PE",
+    "name": "Athene Holding Ltd.",
     "sector": null
   }
 }

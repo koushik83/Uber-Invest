@@ -1,0 +1,111 @@
+{
+  "investor_id": "kantesaria",
+  "cik": "0001697868",
+  "quarter": "2025-Q2",
+  "report_date": "2025-06-30",
+  "filing_date": "2025-08-14",
+  "accession_number": "0001697868-25-000005",
+  "total_value": 4527265517,
+  "num_holdings": 9,
+  "holdings": [
+    {
+      "cusip": "N07059210",
+      "name": "ASML HOLDING N V",
+      "ticker": "ASMLF",
+      "title_of_class": "N Y REGISTRY SHS",
+      "value": 100676222,
+      "shares": 125627,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "294429105",
+      "name": "EQUIFAX INC",
+      "ticker": "EFX",
+      "title_of_class": "COM",
+      "value": 37349280,
+      "shares": 144000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "303250104",
+      "name": "FAIR ISAAC CORP",
+      "ticker": "FICO",
+      "title_of_class": "COM",
+      "value": 1404644679,
+      "shares": 768422,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "461202103",
+      "name": "INTUIT",
+      "ticker": "INTU",
+      "title_of_class": "COM",
+      "value": 207392431,
+      "shares": 263312,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "MASTERCARD INCORPORATED",
+      "ticker": "MA",
+      "title_of_class": "CL A",
+      "value": 834352778,
+      "shares": 1484772,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "615369105",
+      "name": "MOODYS CORP",
+      "ticker": "MCO",
+      "title_of_class": "COM",
+      "value": 659161489,
+      "shares": 1314144,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "55354G100",
+      "name": "MSCI INC",
+      "ticker": "MSCI",
+      "title_of_class": "COM",
+      "value": 34431378,
+      "shares": 59700,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78409V104",
+      "name": "S&P GLOBAL INC",
+      "ticker": "SPGI",
+      "title_of_class": "COM",
+      "value": 925445624,
+      "shares": 1755098,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "ticker": "V",
+      "title_of_class": "COM CL A",
+      "value": 323811636,
+      "shares": 912017,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

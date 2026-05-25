@@ -1,0 +1,221 @@
+{
+  "investor_id": "ferguson",
+  "cik": "0001582090",
+  "quarter": "2025-Q3",
+  "report_date": "2025-09-30",
+  "filing_date": "2025-11-14",
+  "accession_number": "0000902664-25-005023",
+  "total_value": 3539979592,
+  "num_holdings": 19,
+  "holdings": [
+    {
+      "cusip": "00404A109",
+      "name": "Acadia Healthcare Company IN",
+      "ticker": "ACAD",
+      "title_of_class": "COM",
+      "value": 104363400,
+      "shares": 4215000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "000899104",
+      "name": "ADMA Biologics Inc",
+      "ticker": "ADMA",
+      "title_of_class": "COM",
+      "value": 131353600,
+      "shares": 8960000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "19247G107",
+      "name": "Coherent Corp",
+      "ticker": "COHR",
+      "title_of_class": "COM",
+      "value": 219210200,
+      "shares": 2035000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "20717M103",
+      "name": "Confluent Inc",
+      "ticker": "CFLT",
+      "title_of_class": "CLASS A COM",
+      "value": 22869000,
+      "shares": 1155000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "126650100",
+      "name": "CVS Health Corp",
+      "ticker": "CVS",
+      "title_of_class": "COM",
+      "value": 237478500,
+      "shares": 3150000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "253393102",
+      "name": "Dicks Sporting Goods Inc",
+      "ticker": "DKS",
+      "title_of_class": "COM",
+      "value": 224131092,
+      "shares": 1008600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "349381103",
+      "name": "Figure Technology Solutio",
+      "ticker": "FGRS",
+      "title_of_class": "COM CL A",
+      "value": 33096700,
+      "shares": 910000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "36165L108",
+      "name": "GDS Hldgs Ltd",
+      "ticker": "GDHLF",
+      "title_of_class": "Sponsored ADS",
+      "value": 248260500,
+      "shares": 6415000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "49177J102",
+      "name": "Kenvue Inc",
+      "ticker": "KVUE",
+      "title_of_class": "COM",
+      "value": 495501900,
+      "shares": 30530000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "71377A103",
+      "name": "Performance Food Group Co",
+      "ticker": "PFGC",
+      "title_of_class": "COM",
+      "value": 348534000,
+      "shares": 3350000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83001C108",
+      "name": "Six Flags Entertainment Corp",
+      "ticker": "FUN",
+      "title_of_class": "COM",
+      "value": 114281600,
+      "shares": 5030000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "88023U101",
+      "name": "Somnigroup International Inc",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 216306450,
+      "shares": 2565000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83601L102",
+      "name": "Sotera Health Co",
+      "ticker": "SHC",
+      "title_of_class": "COM",
+      "value": 124424300,
+      "shares": 7910000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "85208T107",
+      "name": "Sprinklr Inc",
+      "ticker": "CXM",
+      "title_of_class": "CL A",
+      "value": 44351400,
+      "shares": 5745000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "87165B103",
+      "name": "Synchrony Financial",
+      "ticker": "SYF-PB",
+      "title_of_class": "COM",
+      "value": 155954750,
+      "shares": 2195000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "87422Q109",
+      "name": "Talen Energy Corp",
+      "ticker": "TLN",
+      "title_of_class": "COM",
+      "value": 246720400,
+      "shares": 580000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90138F102",
+      "name": "Twilio Inc",
+      "ticker": "TWLO",
+      "title_of_class": "CL A",
+      "value": 329796550,
+      "shares": 3295000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "934423104",
+      "name": "Warner Bros Discovery Inc",
+      "ticker": "WBD",
+      "title_of_class": "COM SER A",
+      "value": 75385800,
+      "shares": 3860000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98980F104",
+      "name": "ZoomInfo Technologies Inc",
+      "ticker": "GTM",
+      "title_of_class": "COMMON STOCK",
+      "value": 167959450,
+      "shares": 15395000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

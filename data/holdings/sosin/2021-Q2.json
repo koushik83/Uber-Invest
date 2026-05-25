@@ -1,0 +1,78 @@
+{
+  "investor_id": "sosin",
+  "cik": "0001697591",
+  "quarter": "2021-Q2",
+  "report_date": "2021-06-30",
+  "filing_date": "2021-08-13",
+  "accession_number": "0001420506-21-001105",
+  "total_value": 2350982000,
+  "num_holdings": 6,
+  "holdings": [
+    {
+      "cusip": "04650Y100",
+      "name": "AT HOME GROUP INC",
+      "ticker": "ATHM",
+      "title_of_class": "COM",
+      "value": 408141000,
+      "shares": 11078735,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "14161W105",
+      "name": "CARDLYTICS INC",
+      "ticker": "CDLX",
+      "title_of_class": "COM",
+      "value": 569785000,
+      "shares": 4488972,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "146869102",
+      "name": "CARVANA CO",
+      "ticker": "CVNA",
+      "title_of_class": "CL A",
+      "value": 997524000,
+      "shares": 3305028,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G4412G101",
+      "name": "HERBALIFE NUTRITION LTD",
+      "ticker": "HLF",
+      "title_of_class": "COM SHS",
+      "value": 105273000,
+      "shares": 1996462,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "702149105",
+      "name": "PARTY CITY HOLDCO INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 149155000,
+      "shares": 15986623,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "981419104",
+      "name": "WORLD ACCEP CORPORATION",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 121104000,
+      "shares": 755768,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

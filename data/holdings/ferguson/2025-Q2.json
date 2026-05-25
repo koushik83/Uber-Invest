@@ -1,0 +1,221 @@
+{
+  "investor_id": "ferguson",
+  "cik": "0001582090",
+  "quarter": "2025-Q2",
+  "report_date": "2025-06-30",
+  "filing_date": "2025-08-14",
+  "accession_number": "0000902664-25-003631",
+  "total_value": 3203364868,
+  "num_holdings": 19,
+  "holdings": [
+    {
+      "cusip": "00404A109",
+      "name": "ACADIA HEALTHCARE COMPANY IN",
+      "ticker": "ACAD",
+      "title_of_class": "COM",
+      "value": 95638350,
+      "shares": 4215000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "19247G107",
+      "name": "COHERENT CORP",
+      "ticker": "COHR",
+      "title_of_class": "COM",
+      "value": 202729725,
+      "shares": 2272500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "126650100",
+      "name": "CVS HEALTH CORP",
+      "ticker": "CVS",
+      "title_of_class": "COM",
+      "value": 208319600,
+      "shares": 3020000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "253393102",
+      "name": "DICKS SPORTING GOODS INC",
+      "ticker": "DKS",
+      "title_of_class": "COM",
+      "value": 129090806,
+      "shares": 652600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "36165L108",
+      "name": "GDS HLDGS LTD",
+      "ticker": "GDHLF",
+      "title_of_class": "SPONSORED ADS",
+      "value": 210305856,
+      "shares": 6879485,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "806407102",
+      "name": "HENRY SCHEIN INC",
+      "ticker": "HSIC",
+      "title_of_class": "COM",
+      "value": 120795480,
+      "shares": 1653600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "49177J102",
+      "name": "KENVUE INC",
+      "ticker": "KVUE",
+      "title_of_class": "COM",
+      "value": 212648800,
+      "shares": 10160000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "63947X101",
+      "name": "NCINO INC",
+      "ticker": "NCNO",
+      "title_of_class": "COM",
+      "value": 125658022,
+      "shares": 4492600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "65290E101",
+      "name": "NEXTRACKER INC",
+      "ticker": "NXTT",
+      "title_of_class": "CLASS A COM",
+      "value": 40777500,
+      "shares": 750000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G7997R103",
+      "name": "SEAGATE TECHNOLOGY HLDNGS PL",
+      "ticker": "STX",
+      "title_of_class": "ORD SHS",
+      "value": 219742425,
+      "shares": 1522500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83001C108",
+      "name": "SIX FLAGS ENTERTAINMENT CORP",
+      "ticker": "FUN",
+      "title_of_class": "COM",
+      "value": 148498400,
+      "shares": 4880000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83601L102",
+      "name": "SOTERA HEALTH CO",
+      "ticker": "SHC",
+      "title_of_class": "COM",
+      "value": 87959200,
+      "shares": 7910000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "85208T107",
+      "name": "SPRINKLR INC",
+      "ticker": "CXM",
+      "title_of_class": "CL A",
+      "value": 48602700,
+      "shares": 5745000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "87165B103",
+      "name": "SYNCHRONY FINANCIAL",
+      "ticker": "SYF-PB",
+      "title_of_class": "COM",
+      "value": 146661150,
+      "shares": 2197500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "87422Q109",
+      "name": "TALEN ENERGY CORP",
+      "ticker": "TLN",
+      "title_of_class": "COM",
+      "value": 393877042,
+      "shares": 1354600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90138F102",
+      "name": "TWILIO INC",
+      "ticker": "TWLO",
+      "title_of_class": "CL A",
+      "value": 409766200,
+      "shares": 3295000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "912008109",
+      "name": "US FOODS HLDG CORP",
+      "ticker": "USFD",
+      "title_of_class": "COM",
+      "value": 114744900,
+      "shares": 1490000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92840M102",
+      "name": "VISTRA CORP",
+      "ticker": "VST",
+      "title_of_class": "COM",
+      "value": 134736712,
+      "shares": 695200,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98980F104",
+      "name": "ZOOMINFO TECHNOLOGIES INC",
+      "ticker": "GTM",
+      "title_of_class": "COMMON STOCK",
+      "value": 152812000,
+      "shares": 15100000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

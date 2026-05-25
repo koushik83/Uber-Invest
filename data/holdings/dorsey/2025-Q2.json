@@ -1,0 +1,122 @@
+{
+  "investor_id": "dorsey",
+  "cik": "0001671657",
+  "quarter": "2025-Q2",
+  "report_date": "2025-06-30",
+  "filing_date": "2025-08-14",
+  "accession_number": "0001398344-25-015394",
+  "total_value": 1115187507,
+  "num_holdings": 10,
+  "holdings": [
+    {
+      "cusip": "N00985106",
+      "name": "AERCAP HOLDINGS NV",
+      "ticker": "AER",
+      "title_of_class": "SHS",
+      "value": 159250806,
+      "shares": 1361118,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 117430406,
+      "shares": 661990,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N07059210",
+      "name": "ASML HOLDING N V",
+      "ticker": "ASMLF",
+      "title_of_class": "N Y REGISTRY SHS",
+      "value": 112185785,
+      "shares": 139989,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "053332102",
+      "name": "AUTOZONE INC",
+      "ticker": "AZO",
+      "title_of_class": "COM",
+      "value": 132404107,
+      "shares": 35667,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "09857L108",
+      "name": "BOOKING HOLDINGS INC",
+      "ticker": "BKNG",
+      "title_of_class": "COM",
+      "value": 105885200,
+      "shares": 18290,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "235851102",
+      "name": "DANAHER CORPORATION",
+      "ticker": "DAN",
+      "title_of_class": "COM",
+      "value": 183118000,
+      "shares": 926992,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "194014502",
+      "name": "ENOVIS CORPORATION",
+      "ticker": "ENOV",
+      "title_of_class": "COM",
+      "value": 80067725,
+      "shares": 2553180,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 180911764,
+      "shares": 245108,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "81686C104",
+      "name": "SEMRUSH HLDGS INC",
+      "ticker": "SEMR",
+      "title_of_class": "CL A COM",
+      "value": 20675431,
+      "shares": 2284578,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M98068105",
+      "name": "WIX COM LTD",
+      "ticker": "WIX",
+      "title_of_class": "SHS",
+      "value": 23258283,
+      "shares": 146777,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

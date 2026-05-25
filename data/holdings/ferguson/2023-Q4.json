@@ -1,0 +1,155 @@
+{
+  "investor_id": "ferguson",
+  "cik": "0001582090",
+  "quarter": "2023-Q4",
+  "report_date": "2023-12-31",
+  "filing_date": "2024-02-14",
+  "accession_number": "0000902664-24-001712",
+  "total_value": 2137051030,
+  "num_holdings": 13,
+  "holdings": [
+    {
+      "cusip": "090572207",
+      "name": "BIO RAD LABS INC",
+      "ticker": "BIOA",
+      "title_of_class": "CL A",
+      "value": 50596863,
+      "shares": 156700,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "Y2573F102",
+      "name": "FLEX LTD",
+      "ticker": "FLEX",
+      "title_of_class": "ORD",
+      "value": 255559400,
+      "shares": 8390000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "344419106",
+      "name": "FOMENTO ECONOMICO MEXICANO S",
+      "ticker": "UNKNOWN",
+      "title_of_class": "SPON ADR UNITS",
+      "value": 42689625,
+      "shares": 327500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "34965K107",
+      "name": "FORTREA HLDGS INC",
+      "ticker": "FTRE",
+      "title_of_class": "COMMON STOCK",
+      "value": 31933500,
+      "shares": 915000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "459506101",
+      "name": "INTERNATIONAL FLAVORS&FRAGRA",
+      "ticker": "IFF",
+      "title_of_class": "COM",
+      "value": 387631810,
+      "shares": 4787351,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "46137V357",
+      "name": "INVESCO EXCHANGE TRADED FD T",
+      "ticker": "IVZ",
+      "title_of_class": "S&P500 EQL WGT",
+      "value": 159378000,
+      "shares": 1010000,
+      "share_type": "SH",
+      "put_call": "PUT",
+      "sector": null
+    },
+    {
+      "cusip": "65290E101",
+      "name": "NEXTRACKER INC",
+      "ticker": "NXTT",
+      "title_of_class": "CLASS A COM",
+      "value": 26704500,
+      "shares": 570000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "679295105",
+      "name": "OKTA INC",
+      "ticker": "OKTA",
+      "title_of_class": "CL A",
+      "value": 79983255,
+      "shares": 883500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "77634L105",
+      "name": "R1 RCM INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 101524850,
+      "shares": 9605000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE INC",
+      "ticker": "CRM",
+      "title_of_class": "COM",
+      "value": 128622832,
+      "shares": 488800,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G7997R103",
+      "name": "SEAGATE TECHNOLOGY HLDNGS PL",
+      "ticker": "STX",
+      "title_of_class": "ORD SHS",
+      "value": 73845050,
+      "shares": 865000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "912008109",
+      "name": "US FOODS HLDG CORP",
+      "ticker": "USFD",
+      "title_of_class": "COM",
+      "value": 723511945,
+      "shares": 15932877,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98980F104",
+      "name": "ZOOMINFO TECHNOLOGIES INC",
+      "ticker": "GTM",
+      "title_of_class": "COMMON STOCK",
+      "value": 75069400,
+      "shares": 4060000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

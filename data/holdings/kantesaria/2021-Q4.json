@@ -1,0 +1,111 @@
+{
+  "investor_id": "kantesaria",
+  "cik": "0001697868",
+  "quarter": "2021-Q4",
+  "report_date": "2021-12-31",
+  "filing_date": "2022-02-14",
+  "accession_number": "0001697868-22-000002",
+  "total_value": 2644052000,
+  "num_holdings": 9,
+  "holdings": [
+    {
+      "cusip": "00724F101",
+      "name": "ADOBE SYSTEMS INCORPORATED",
+      "ticker": "ADBE",
+      "title_of_class": "COM",
+      "value": 139670000,
+      "shares": 246305,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 272466000,
+      "shares": 81715,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "052769106",
+      "name": "AUTODESK INC",
+      "ticker": "ADSK",
+      "title_of_class": "COM",
+      "value": 71312000,
+      "shares": 253608,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "303250104",
+      "name": "FAIR ISAAC CORP",
+      "ticker": "FICO",
+      "title_of_class": "COM",
+      "value": 387910000,
+      "shares": 894482,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "461202103",
+      "name": "INTUIT",
+      "ticker": "INTU",
+      "title_of_class": "COM",
+      "value": 126117000,
+      "shares": 196071,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "MASTERCARD INCORPORATED",
+      "ticker": "MA",
+      "title_of_class": "CL A",
+      "value": 517672000,
+      "shares": 1440698,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "615369105",
+      "name": "MOODYS CORP",
+      "ticker": "MCO",
+      "title_of_class": "COM",
+      "value": 401412000,
+      "shares": 1027734,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78409V104",
+      "name": "S&P GLOBAL INC",
+      "ticker": "SPGI",
+      "title_of_class": "COM",
+      "value": 525217000,
+      "shares": 1112913,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "ticker": "V",
+      "title_of_class": "COM CL A",
+      "value": 202276000,
+      "shares": 933397,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

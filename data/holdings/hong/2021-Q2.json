@@ -1,0 +1,78 @@
+{
+  "investor_id": "hong",
+  "cik": "0001766908",
+  "quarter": "2021-Q2",
+  "report_date": "2021-06-30",
+  "filing_date": "2021-08-13",
+  "accession_number": "0001085146-21-002477",
+  "total_value": 1052480000,
+  "num_holdings": 6,
+  "holdings": [
+    {
+      "cusip": "00183L102",
+      "name": "ANGI INC",
+      "ticker": "ANGI",
+      "title_of_class": "COM CL A NEW",
+      "value": 54339000,
+      "shares": 4019123,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "44891N208",
+      "name": "IAC INTERACTIVECORP NEW",
+      "ticker": "IAC",
+      "title_of_class": "COM NEW",
+      "value": 292417000,
+      "shares": 1896715,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "57667L107",
+      "name": "MATCH GROUP INC NEW",
+      "ticker": "MTCH",
+      "title_of_class": "COM",
+      "value": 62075000,
+      "shares": 384962,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "81141R100",
+      "name": "SEA LTD",
+      "ticker": "SE",
+      "title_of_class": "SPONSORD ADS",
+      "value": 348097000,
+      "shares": 1267927,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "852234103",
+      "name": "SQUARE INC",
+      "ticker": "BSQKZ",
+      "title_of_class": "CL A",
+      "value": 162219000,
+      "shares": 665840,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92719V100",
+      "name": "VIMEO INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COMMON STOCK",
+      "value": 133333000,
+      "shares": 2721086,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "investor_id": "hong",
+  "cik": "0001766908",
+  "quarter": "2025-Q4",
+  "report_date": "2025-12-31",
+  "filing_date": "2026-02-13",
+  "accession_number": "0001172661-26-000731",
+  "total_value": 531108073,
+  "num_holdings": 11,
+  "holdings": [
+    {
+      "cusip": "01609W102",
+      "name": "ALIBABA GROUP HLDG LTD",
+      "ticker": "BBAAY",
+      "title_of_class": "SPONSORED ADS",
+      "value": 55429960,
+      "shares": 378155,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 27337859,
+      "shares": 118438,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "09352U108",
+      "name": "BLEND LABS INC",
+      "ticker": "BLND",
+      "title_of_class": "CL A",
+      "value": 27433261,
+      "shares": 9024099,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "10576N102",
+      "name": "BRAZE INC",
+      "ticker": "BRZE",
+      "title_of_class": "COM CL A",
+      "value": 50509341,
+      "shares": 1473005,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "22160N109",
+      "name": "COSTAR GROUP INC",
+      "ticker": "CSGP",
+      "title_of_class": "COM",
+      "value": 64386133,
+      "shares": 957557,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "461202103",
+      "name": "INTUIT",
+      "ticker": "INTU",
+      "title_of_class": "COM",
+      "value": 33598605,
+      "shares": 50721,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "531229755",
+      "name": "LIBERTY MEDIA CORP DEL",
+      "ticker": "FWONB",
+      "title_of_class": "COM LBTY ONE S C",
+      "value": 36628875,
+      "shares": 371829,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M7S64H106",
+      "name": "MONDAY COM LTD",
+      "ticker": "MNDY",
+      "title_of_class": "SHS",
+      "value": 37474190,
+      "shares": 253959,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "679295105",
+      "name": "OKTA INC",
+      "ticker": "OKTA",
+      "title_of_class": "CL A",
+      "value": 76391143,
+      "shares": 883441,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "74275K108",
+      "name": "PROCORE TECHNOLOGIES INC",
+      "ticker": "PCOR",
+      "title_of_class": "COM",
+      "value": 49574929,
+      "shares": 681536,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "82452J109",
+      "name": "SHIFT4 PMTS INC",
+      "ticker": "FOUR-PA",
+      "title_of_class": "CL A",
+      "value": 72343777,
+      "shares": 1148861,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

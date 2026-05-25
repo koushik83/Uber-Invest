@@ -1,0 +1,177 @@
+{
+  "investor_id": "haley",
+  "cik": "0001858353",
+  "quarter": "2022-Q4",
+  "report_date": "2022-12-31",
+  "filing_date": "2023-02-14",
+  "accession_number": "0001858353-23-000002",
+  "total_value": 134918947,
+  "num_holdings": 15,
+  "holdings": [
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 6384000,
+      "shares": 76000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "05969A105",
+      "name": "BANCORP INC DEL",
+      "ticker": "DELL",
+      "title_of_class": "COM",
+      "value": 7858422,
+      "shares": 276900,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "234264109",
+      "name": "DAKTRONICS INC",
+      "ticker": "DAKT",
+      "title_of_class": "COM",
+      "value": 4459915,
+      "shares": 1581530,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "254687106",
+      "name": "DISNEY WALT CO",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 6827030,
+      "shares": 78580,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "448947507",
+      "name": "IDT CORP",
+      "ticker": "IDT",
+      "title_of_class": "CL B NEW",
+      "value": 7674691,
+      "shares": 272442,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "459200951",
+      "name": "INTERNATIONAL BUSINESS MACHS",
+      "ticker": "IBM",
+      "title_of_class": "PUT",
+      "value": 8768340,
+      "shares": 63000,
+      "share_type": "SH",
+      "put_call": "PUT",
+      "sector": null
+    },
+    {
+      "cusip": "46005L101",
+      "name": "INTERNATIONAL MNY EXPRESS IN",
+      "ticker": "IMXI",
+      "title_of_class": "COM",
+      "value": 7880844,
+      "shares": 323383,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "47973J102",
+      "name": "JOINT CORP",
+      "ticker": "JYNT",
+      "title_of_class": "COM",
+      "value": 1564152,
+      "shares": 111885,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "48251W104",
+      "name": "KKR & CO INC",
+      "ticker": "KKR-PD",
+      "title_of_class": "COM",
+      "value": 12314437,
+      "shares": 265283,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "L6673X107",
+      "name": "NEOGAMES S A",
+      "ticker": "UNKNOWN",
+      "title_of_class": "SHS",
+      "value": 9555424,
+      "shares": 783874,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "59100U108",
+      "name": "PATHWARD FINANCIAL INC",
+      "ticker": "CASH",
+      "title_of_class": "COM",
+      "value": 32467363,
+      "shares": 754178,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "75513E101",
+      "name": "RAYTHEON TECHNOLOGIES CORP",
+      "ticker": "WTBA",
+      "title_of_class": "COM",
+      "value": 8970072,
+      "shares": 88883,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "131193104",
+      "name": "TOPGOLF CALLAWAY BRANDS CORP",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 12256139,
+      "shares": 620564,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98379L100",
+      "name": "XPEL INC",
+      "ticker": "XPEL",
+      "title_of_class": "COM",
+      "value": 1133572,
+      "shares": 18874,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98422X101",
+      "name": "XPONENTIAL FITNESS INC",
+      "ticker": "XPOF",
+      "title_of_class": "COM CL A",
+      "value": 6804546,
+      "shares": 296753,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

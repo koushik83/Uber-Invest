@@ -1,0 +1,56 @@
+{
+  "investor_id": "hong",
+  "cik": "0001766908",
+  "quarter": "2022-Q1",
+  "report_date": "2022-03-31",
+  "filing_date": "2022-05-16",
+  "accession_number": "0001606587-22-001169",
+  "total_value": 726834000,
+  "num_holdings": 4,
+  "holdings": [
+    {
+      "cusip": "44891N208",
+      "name": "IAC INTERACTIVECORP",
+      "ticker": "IAC",
+      "title_of_class": "COM NEW",
+      "value": 332551000,
+      "shares": 3316227,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "81141R100",
+      "name": "SEA LTD",
+      "ticker": "SE",
+      "title_of_class": "SPONSORD ADS",
+      "value": 226949000,
+      "shares": 1894553,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "09352U108",
+      "name": "BLEND LABS INC",
+      "ticker": "BLND",
+      "title_of_class": "CL A",
+      "value": 42865000,
+      "shares": 7520104,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "22266T109",
+      "name": "COUPANG INC",
+      "ticker": "CPNG",
+      "title_of_class": "CL A",
+      "value": 124469000,
+      "shares": 7040110,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

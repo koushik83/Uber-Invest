@@ -1,0 +1,155 @@
+{
+  "investor_id": "desai",
+  "cik": "0001609098",
+  "quarter": "2021-Q4",
+  "report_date": "2021-12-31",
+  "filing_date": "2022-02-14",
+  "accession_number": "0001172661-22-000572",
+  "total_value": 2162886000,
+  "num_holdings": 13,
+  "holdings": [
+    {
+      "cusip": "08975P108",
+      "name": "BIGCOMMERCE HLDGS INC",
+      "ticker": "CBSH",
+      "title_of_class": "COM SER 1",
+      "value": 106110000,
+      "shares": 3000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "20030N101",
+      "name": "COMCAST CORP NEW",
+      "ticker": "CCZ",
+      "title_of_class": "CL A",
+      "value": 327145000,
+      "shares": 6500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "23292E108",
+      "name": "DIDI GLOBAL INC",
+      "ticker": "DIDIY",
+      "title_of_class": "SPONSORED ADS",
+      "value": 12187000,
+      "shares": 2447220,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N3167Y103",
+      "name": "FERRARI N V",
+      "ticker": "RACE",
+      "title_of_class": "COM",
+      "value": 129410000,
+      "shares": 500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "389375106",
+      "name": "GRAY TELEVISION INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 18464000,
+      "shares": 915863,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "40171V100",
+      "name": "GUIDEWIRE SOFTWARE INC",
+      "ticker": "GWRE",
+      "title_of_class": "COM",
+      "value": 283825000,
+      "shares": 2500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 168175000,
+      "shares": 500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "650111107",
+      "name": "NEW YORK TIMES CO",
+      "ticker": "NYT",
+      "title_of_class": "CL A",
+      "value": 410550000,
+      "shares": 8500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G6674U108",
+      "name": "NOVOCURE LTD",
+      "ticker": "NVCR",
+      "title_of_class": "ORD SHS",
+      "value": 19441000,
+      "shares": 258937,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "70614W100",
+      "name": "PELOTON INTERACTIVE INC",
+      "ticker": "PTON",
+      "title_of_class": "CL A COM",
+      "value": 64368000,
+      "shares": 1800000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "74967X103",
+      "name": "RH",
+      "ticker": "RH",
+      "title_of_class": "COM",
+      "value": 294767000,
+      "shares": 550000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "82509L107",
+      "name": "SHOPIFY INC",
+      "ticker": "SHOP",
+      "title_of_class": "CL A",
+      "value": 199722000,
+      "shares": 145000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "934550203",
+      "name": "WARNER MUSIC GROUP CORP",
+      "ticker": "WMG",
+      "title_of_class": "COM CL A",
+      "value": 128722000,
+      "shares": 2981049,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

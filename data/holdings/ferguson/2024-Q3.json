@@ -1,0 +1,166 @@
+{
+  "investor_id": "ferguson",
+  "cik": "0001582090",
+  "quarter": "2024-Q3",
+  "report_date": "2024-09-30",
+  "filing_date": "2024-11-14",
+  "accession_number": "0000902664-24-006591",
+  "total_value": 1906150205,
+  "num_holdings": 14,
+  "holdings": [
+    {
+      "cusip": "009158106",
+      "name": "AIR PRODS & CHEMS INC",
+      "ticker": "APD",
+      "title_of_class": "COM",
+      "value": 163012650,
+      "shares": 547500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "19247G107",
+      "name": "COHERENT CORP",
+      "ticker": "COHR",
+      "title_of_class": "COM",
+      "value": 73217385,
+      "shares": 823500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "126650100",
+      "name": "CVS HEALTH CORP",
+      "ticker": "CVS",
+      "title_of_class": "COM",
+      "value": 221337600,
+      "shares": 3520000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "36165L108",
+      "name": "GDS HLDGS LTD",
+      "ticker": "GDHLF",
+      "title_of_class": "SPONSORED ADS",
+      "value": 57630000,
+      "shares": 2825000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "457985208",
+      "name": "INTEGRA LIFESCIENCES HLDGS C",
+      "ticker": "IART",
+      "title_of_class": "COM NEW",
+      "value": 44153100,
+      "shares": 2430000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "615394202",
+      "name": "MOOG INC",
+      "ticker": "MOG-B",
+      "title_of_class": "CL A",
+      "value": 72525180,
+      "shares": 359000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "65290E101",
+      "name": "NEXTRACKER INC",
+      "ticker": "NXTT",
+      "title_of_class": "CLASS A COM",
+      "value": 107005400,
+      "shares": 2855000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83601L102",
+      "name": "SOTERA HEALTH CO",
+      "ticker": "SHC",
+      "title_of_class": "COM",
+      "value": 132097000,
+      "shares": 7910000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "85208T107",
+      "name": "SPRINKLR INC",
+      "ticker": "CXM",
+      "title_of_class": "CL A",
+      "value": 51752350,
+      "shares": 6695000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "87422Q109",
+      "name": "TALEN ENERGY CORP",
+      "ticker": "TLN",
+      "title_of_class": "COM",
+      "value": 167723840,
+      "shares": 941000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90138F102",
+      "name": "TWILIO INC",
+      "ticker": "TWLO",
+      "title_of_class": "CL A",
+      "value": 214899900,
+      "shares": 3295000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "912008109",
+      "name": "US FOODS HLDG CORP",
+      "ticker": "USFD",
+      "title_of_class": "COM",
+      "value": 296737500,
+      "shares": 4825000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "958102105",
+      "name": "WESTERN DIGITAL CORP.",
+      "ticker": "WDC",
+      "title_of_class": "COM",
+      "value": 138628700,
+      "shares": 2030000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98980f104",
+      "name": "ZOOMINFO TECHNOLOGIES INC",
+      "ticker": "GTM",
+      "title_of_class": "COMMON STOCK",
+      "value": 165429600,
+      "shares": 16030000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

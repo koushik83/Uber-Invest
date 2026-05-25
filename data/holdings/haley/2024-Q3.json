@@ -1,0 +1,166 @@
+{
+  "investor_id": "haley",
+  "cik": "0001858353",
+  "quarter": "2024-Q3",
+  "report_date": "2024-09-30",
+  "filing_date": "2024-11-14",
+  "accession_number": "0001858353-24-000007",
+  "total_value": 195567840,
+  "num_holdings": 14,
+  "holdings": [
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 9661583,
+      "shares": 51852,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "03748R747",
+      "name": "APARTMENT INVT & MGMT CO",
+      "ticker": "AIV",
+      "title_of_class": "CL A",
+      "value": 6536327,
+      "shares": 723045,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "234264109",
+      "name": "DAKTRONICS INC",
+      "ticker": "DAKT",
+      "title_of_class": "COM",
+      "value": 9663871,
+      "shares": 748557,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "349853101",
+      "name": "FORWARD AIR CORP",
+      "ticker": "FWRD",
+      "title_of_class": "COM",
+      "value": 28217057,
+      "shares": 797092,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "448947507",
+      "name": "IDT CROP",
+      "ticker": "IDT",
+      "title_of_class": "CL B NEW",
+      "value": 11797927,
+      "shares": 309089,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "MASTERCARD INCORPORATED",
+      "ticker": "MA",
+      "title_of_class": "CL A",
+      "value": 6419400,
+      "shares": 13000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 10532896,
+      "shares": 18400,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 6282380,
+      "shares": 14600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "600551204",
+      "name": "MILLER INDS INC TENN",
+      "ticker": "MLR",
+      "title_of_class": "COM NEW",
+      "value": 6100,
+      "shares": 100,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "59100U108",
+      "name": "PATHWARD FINANCIAL INC",
+      "ticker": "CASH",
+      "title_of_class": "COM",
+      "value": 10373736,
+      "shares": 157154,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "L7579L106",
+      "name": "PERIMETER SOLUTIONS SA",
+      "ticker": "PRM",
+      "title_of_class": "COMMON STOCK",
+      "value": 12819908,
+      "shares": 953153,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "749527107",
+      "name": "REV GROUP INC",
+      "ticker": "TRVI",
+      "title_of_class": "COM",
+      "value": 70070506,
+      "shares": 2497167,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92645B103",
+      "name": "VICTORY CAP HLDGS INC",
+      "ticker": "VCTR",
+      "title_of_class": "COM CL A",
+      "value": 7024720,
+      "shares": 126800,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "968223206",
+      "name": "WILEY JOHN & SONS INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "CL A",
+      "value": 6161429,
+      "shares": 127698,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

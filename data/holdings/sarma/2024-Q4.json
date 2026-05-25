@@ -1,0 +1,232 @@
+{
+  "investor_id": "sarma",
+  "cik": "0001503174",
+  "quarter": "2024-Q4",
+  "report_date": "2024-12-31",
+  "filing_date": "2025-02-14",
+  "accession_number": "0001172661-25-000874",
+  "total_value": 7037691281,
+  "num_holdings": 20,
+  "holdings": [
+    {
+      "cusip": "049468101",
+      "name": "ATLASSIAN CORPORATION",
+      "ticker": "TEAM",
+      "title_of_class": "CL A",
+      "value": 317755711,
+      "shares": 1305595,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "053774105",
+      "name": "AVIS BUDGET GROUP",
+      "ticker": "CAR",
+      "title_of_class": "COM",
+      "value": 1380920398,
+      "shares": 17130882,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "122017106",
+      "name": "BURLINGTON STORES INC",
+      "ticker": "BURL",
+      "title_of_class": "COM",
+      "value": 362146210,
+      "shares": 1270421,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "20030N101",
+      "name": "COMCAST CORP NEW",
+      "ticker": "CCZ",
+      "title_of_class": "CL A",
+      "value": 36392803,
+      "shares": 969699,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "243537107",
+      "name": "DECKERS OUTDOOR CORP",
+      "ticker": "DECK",
+      "title_of_class": "COM",
+      "value": 33569558,
+      "shares": 165294,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M5216V106",
+      "name": "GLOBAL E ONLINE LTD",
+      "ticker": "GLBE",
+      "title_of_class": "SHS",
+      "value": 8907857,
+      "shares": 163357,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "444859102",
+      "name": "HUMANA INC",
+      "ticker": "HUM",
+      "title_of_class": "COM",
+      "value": 31280667,
+      "shares": 123293,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 495334434,
+      "shares": 845988,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "64110L106",
+      "name": "NETFLIX INC",
+      "ticker": "NFLX",
+      "title_of_class": "COM",
+      "value": 1813349539,
+      "shares": 2034454,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "ticker": "NVDA",
+      "title_of_class": "COM",
+      "value": 72548158,
+      "shares": 540235,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "722304102",
+      "name": "PDD HOLDINGS INC",
+      "ticker": "PDD",
+      "title_of_class": "SPONSORED ADS",
+      "value": 394204313,
+      "shares": 4064381,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "72703H101",
+      "name": "PLANET FITNESS INC",
+      "ticker": "PLNT",
+      "title_of_class": "CL A",
+      "value": 464903054,
+      "shares": 4702165,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83304A106",
+      "name": "SNAP INC",
+      "ticker": "SNAP",
+      "title_of_class": "CL A",
+      "value": 793997949,
+      "shares": 73723115,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "L8681T102",
+      "name": "SPOTIFY TECHNOLOGY S A",
+      "ticker": "SPOT",
+      "title_of_class": "SHS",
+      "value": 178137768,
+      "shares": 398180,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "ticker": "TSMWF",
+      "title_of_class": "SPONSORED ADS",
+      "value": 151677652,
+      "shares": 768027,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "896945201",
+      "name": "TRIPADVISOR INC",
+      "ticker": "TRIP",
+      "title_of_class": "COM",
+      "value": 19111671,
+      "shares": 1293952,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "910047109",
+      "name": "UNITED AIRLS HLDGS INC",
+      "ticker": "UTHR",
+      "title_of_class": "COM",
+      "value": 281698072,
+      "shares": 2901113,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "91324P102",
+      "name": "UNITEDHEALTH GROUP INC",
+      "ticker": "UNH",
+      "title_of_class": "COM",
+      "value": 147700497,
+      "shares": 291979,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "926400102",
+      "name": "VICTORIAS SECRET AND CO",
+      "ticker": "VSCO",
+      "title_of_class": "COMMON STOCK",
+      "value": 37010510,
+      "shares": 893542,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "958102105",
+      "name": "WESTERN DIGITAL CORP",
+      "ticker": "WDC",
+      "title_of_class": "COM",
+      "value": 17044460,
+      "shares": 285837,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

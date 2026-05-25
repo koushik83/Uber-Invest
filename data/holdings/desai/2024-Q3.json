@@ -1,0 +1,177 @@
+{
+  "investor_id": "desai",
+  "cik": "0001609098",
+  "quarter": "2024-Q3",
+  "report_date": "2024-09-30",
+  "filing_date": "2024-11-14",
+  "accession_number": "0001172661-24-005304",
+  "total_value": 4061692789,
+  "num_holdings": 15,
+  "holdings": [
+    {
+      "cusip": "N00985106",
+      "name": "AERCAP HOLDINGS NV",
+      "ticker": "AER",
+      "title_of_class": "SHS",
+      "value": 94720000,
+      "shares": 1000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 331700000,
+      "shares": 2000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "060505104",
+      "name": "BANK AMERICA CORP",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 238080000,
+      "shares": 6000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "20030N101",
+      "name": "COMCAST CORP NEW",
+      "ticker": "CCZ",
+      "title_of_class": "CL A",
+      "value": 334160000,
+      "shares": 8000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "21036P108",
+      "name": "CONSTELLATION BRANDS INC",
+      "ticker": "STZ",
+      "title_of_class": "CL A",
+      "value": 327472452,
+      "shares": 1270800,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "278768106",
+      "name": "ECHOSTAR CORP",
+      "ticker": "SATS",
+      "title_of_class": "CL A",
+      "value": 74460000,
+      "shares": 3000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "40171V100",
+      "name": "GUIDEWIRE SOFTWARE INC",
+      "ticker": "GWRE",
+      "title_of_class": "COM",
+      "value": 420762000,
+      "shares": 2300000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "40412C101",
+      "name": "HCA HEALTHCARE INC",
+      "ticker": "HCA",
+      "title_of_class": "COM",
+      "value": 467394500,
+      "shares": 1150000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 345750000,
+      "shares": 1500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "650111107",
+      "name": "NEW YORK TIMES CO",
+      "ticker": "NYT",
+      "title_of_class": "CL A",
+      "value": 278350000,
+      "shares": 5000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "808513105",
+      "name": "SCHWAB CHARLES CORP",
+      "ticker": "SCHW-PJ",
+      "title_of_class": "COM",
+      "value": 194430000,
+      "shares": 3000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83601L102",
+      "name": "SOTERA HEALTH CO",
+      "ticker": "SHC",
+      "title_of_class": "COM",
+      "value": 334167000,
+      "shares": 20010000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "88023U101",
+      "name": "TEMPUR SEALY INTL INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 382200000,
+      "shares": 7000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "893641100",
+      "name": "TRANSDIGM GROUP INC",
+      "ticker": "TDG",
+      "title_of_class": "COM",
+      "value": 235476450,
+      "shares": 165000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "934550203",
+      "name": "WARNER MUSIC GROUP CORP",
+      "ticker": "WMG",
+      "title_of_class": "COM CL A",
+      "value": 2570387,
+      "shares": 82121,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "investor_id": "sarma",
+  "cik": "0001503174",
+  "quarter": "2022-Q4",
+  "report_date": "2022-12-31",
+  "filing_date": "2023-02-13",
+  "accession_number": "0000902664-23-001577",
+  "total_value": 5530384131,
+  "num_holdings": 21,
+  "holdings": [
+    {
+      "cusip": "88025U109",
+      "name": "10X GENOMICS INC",
+      "ticker": "TXG",
+      "title_of_class": "CL A COM",
+      "value": 109517760,
+      "shares": 3005427,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "68269G107",
+      "name": "1LIFE HEALTHCARE INC",
+      "ticker": "GEHC",
+      "title_of_class": "COM",
+      "value": 2836372,
+      "shares": 169741,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "009066101",
+      "name": "AIRBNB INC",
+      "ticker": "ABNB",
+      "title_of_class": "COM CL A",
+      "value": 22962735,
+      "shares": 268570,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "053774105",
+      "name": "AVIS BUDGET GROUP",
+      "ticker": "CAR",
+      "title_of_class": "COM",
+      "value": 3021374486,
+      "shares": 18430882,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "122017106",
+      "name": "BURLINGTON STORES INC",
+      "ticker": "BURL",
+      "title_of_class": "COM",
+      "value": 25027883,
+      "shares": 123436,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "20030N101",
+      "name": "COMCAST CORP NEW",
+      "ticker": "CCZ",
+      "title_of_class": "CL A",
+      "value": 33910374,
+      "shares": 969699,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "29786A106",
+      "name": "ETSY INC",
+      "ticker": "ETSY",
+      "title_of_class": "COM",
+      "value": 106080282,
+      "shares": 885626,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "536797103",
+      "name": "LITHIA MTRS INC",
+      "ticker": "LAD",
+      "title_of_class": "COM",
+      "value": 25149852,
+      "shares": 122838,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "MASTERCARD INCORPORATED",
+      "ticker": "MA",
+      "title_of_class": "CL A",
+      "value": 12152120,
+      "shares": 34947,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "57667L107",
+      "name": "MATCH GROUP INC NEW",
+      "ticker": "MTCH",
+      "title_of_class": "COM",
+      "value": 16209728,
+      "shares": 390690,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 645370905,
+      "shares": 5362896,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "552953101",
+      "name": "MGM RESORTS INTERNATIONAL",
+      "ticker": "MGM",
+      "title_of_class": "COM",
+      "value": 9387394,
+      "shares": 279970,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "64110L106",
+      "name": "NETFLIX INC",
+      "ticker": "NFLX",
+      "title_of_class": "COM",
+      "value": 532753209,
+      "shares": 1806678,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "654106103",
+      "name": "NIKE INC",
+      "ticker": "NKE",
+      "title_of_class": "CL B",
+      "value": 13920329,
+      "shares": 118967,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "72352L106",
+      "name": "PINTEREST INC",
+      "ticker": "PINS",
+      "title_of_class": "CL A",
+      "value": 230608089,
+      "shares": 9497862,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "72703H101",
+      "name": "PLANET FITNESS INC",
+      "ticker": "PLNT",
+      "title_of_class": "CL A",
+      "value": 548196076,
+      "shares": 6956803,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "81141R100",
+      "name": "SEA LTD",
+      "ticker": "SE",
+      "title_of_class": "SPONSORD ADS",
+      "value": 4592376,
+      "shares": 88264,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "82509L107",
+      "name": "SHOPIFY INC",
+      "ticker": "SHOP",
+      "title_of_class": "CL A",
+      "value": 141131,
+      "shares": 4066,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N82405106",
+      "name": "STELLANTIS N.V",
+      "ticker": "STLA",
+      "title_of_class": "SHS",
+      "value": 120188644,
+      "shares": 8463989,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90138F102",
+      "name": "TWILIO INC",
+      "ticker": "TWLO",
+      "title_of_class": "CL A",
+      "value": 29669417,
+      "shares": 605993,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98980F104",
+      "name": "ZOOMINFO TECHNOLOGIES INC",
+      "ticker": "GTM",
+      "title_of_class": "COMMON STOCK",
+      "value": 20334969,
+      "shares": 675356,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

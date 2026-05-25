@@ -1,0 +1,188 @@
+{
+  "investor_id": "haley",
+  "cik": "0001858353",
+  "quarter": "2022-Q2",
+  "report_date": "2022-06-30",
+  "filing_date": "2022-08-16",
+  "accession_number": "0001858353-22-000006",
+  "total_value": 476014000,
+  "num_holdings": 16,
+  "holdings": [
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 17979000,
+      "shares": 8250,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "12008R107",
+      "name": "BUILDERS FIRSTSOURCE INC",
+      "ticker": "BLDR",
+      "title_of_class": "COM",
+      "value": 2954000,
+      "shares": 55000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "131193104",
+      "name": "CALLAWAY GOLF CO",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 13844000,
+      "shares": 678612,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "23753F107",
+      "name": "DASEKE INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 14241000,
+      "shares": 2228664,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "29978A104",
+      "name": "EVERBRIDGE INC",
+      "ticker": "ENBFF",
+      "title_of_class": "COM",
+      "value": 11853000,
+      "shares": 425000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "353469109",
+      "name": "FRANKLIN COVEY CO",
+      "ticker": "FC",
+      "title_of_class": "COM",
+      "value": 8107000,
+      "shares": 175558,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "361008105",
+      "name": "FUNKO INC",
+      "ticker": "FNKO",
+      "title_of_class": "COM CL A",
+      "value": 16950000,
+      "shares": 759421,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "418056107",
+      "name": "HASBRO INC",
+      "ticker": "HAS",
+      "title_of_class": "COM",
+      "value": 257278000,
+      "shares": 3142133,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "448947507",
+      "name": "IDT CORP",
+      "ticker": "IDT",
+      "title_of_class": "CL B NEW",
+      "value": 83000000,
+      "shares": 330018,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "47973J102",
+      "name": "JOINT CORP",
+      "ticker": "JYNT",
+      "title_of_class": "COM",
+      "value": 1707000,
+      "shares": 111500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "53635B107",
+      "name": "LIQUIDITY SVCS INC",
+      "ticker": "LQDT",
+      "title_of_class": "COM",
+      "value": 797000,
+      "shares": 59300,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "56146T103",
+      "name": "MAMAMANCINI S HLDGS INC",
+      "ticker": "MAMA",
+      "title_of_class": "COM",
+      "value": 2362000,
+      "shares": 1686799,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "L6673X107",
+      "name": "NEOGAMES S A",
+      "ticker": "UNKNOWN",
+      "title_of_class": "SHS",
+      "value": 16418000,
+      "shares": 1224314,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "746228303",
+      "name": "PURE CYCLE CORP",
+      "ticker": "PCYO",
+      "title_of_class": "COM NEW",
+      "value": 3062000,
+      "shares": 290547,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98379L100",
+      "name": "XPEL INC",
+      "ticker": "XPEL",
+      "title_of_class": "COM",
+      "value": 16940000,
+      "shares": 368833,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98422X101",
+      "name": "XPONENTIAL FITNESS INC",
+      "ticker": "XPOF",
+      "title_of_class": "COM CL A",
+      "value": 8522000,
+      "shares": 678509,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

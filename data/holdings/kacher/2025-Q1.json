@@ -1,0 +1,243 @@
+{
+  "investor_id": "kacher",
+  "cik": "0001569049",
+  "quarter": "2025-Q1",
+  "report_date": "2025-03-31",
+  "filing_date": "2025-05-15",
+  "accession_number": "0000935836-25-000378",
+  "total_value": 358111761,
+  "num_holdings": 21,
+  "holdings": [
+    {
+      "cusip": "007903107",
+      "name": "ADVANCED MICRO DEVICES INC",
+      "ticker": "AMD",
+      "title_of_class": "COM",
+      "value": 26267536,
+      "shares": 255670,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 16334011,
+      "shares": 85851,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "03662Q105",
+      "name": "ANSYS INC",
+      "ticker": "UIS",
+      "title_of_class": "COM",
+      "value": 1696445,
+      "shares": 5359,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "ticker": "AAPL",
+      "title_of_class": "COM",
+      "value": 1414302,
+      "shares": 6367,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N07059210",
+      "name": "ASML HOLDING N V",
+      "ticker": "ASMLF",
+      "title_of_class": "N Y REGISTRY SHS",
+      "value": 4645699,
+      "shares": 7011,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "090043100",
+      "name": "BILL HOLDINGS INC",
+      "ticker": "BILL",
+      "title_of_class": "COM",
+      "value": 30406852,
+      "shares": 662603,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "09239B109",
+      "name": "BLACKLINE INC",
+      "ticker": "BL",
+      "title_of_class": "COM",
+      "value": 18447439,
+      "shares": 380988,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "11135F101",
+      "name": "BROADCOM INC",
+      "ticker": "AVGO",
+      "title_of_class": "COM",
+      "value": 20426795,
+      "shares": 122002,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "127387108",
+      "name": "CADENCE DESIGN SYSTEM INC",
+      "ticker": "CDNS",
+      "title_of_class": "COM",
+      "value": 1503345,
+      "shares": 5911,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M2197Q107",
+      "name": "CELLEBRITE DI LTD",
+      "ticker": "CLBT",
+      "title_of_class": "ORDINARY SHARES",
+      "value": 10837180,
+      "shares": 557755,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "21037T109",
+      "name": "CONSTELLATION ENERGY CORP",
+      "ticker": "CEG",
+      "title_of_class": "COM",
+      "value": 1026498,
+      "shares": 5091,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "37637K108",
+      "name": "GITLAB INC",
+      "ticker": "GTLB",
+      "title_of_class": "CLASS A COM",
+      "value": 19472899,
+      "shares": 414317,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "M6191J100",
+      "name": "JFROG LTD",
+      "ticker": "FROG",
+      "title_of_class": "ORD SHS",
+      "value": 20510080,
+      "shares": 640940,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 13795177,
+      "shares": 23935,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "63947X101",
+      "name": "NCINO INC",
+      "ticker": "NCNO",
+      "title_of_class": "COM",
+      "value": 10096241,
+      "shares": 367537,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "ticker": "NVDA",
+      "title_of_class": "COM",
+      "value": 34867472,
+      "shares": 321715,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N6596X109",
+      "name": "NXP SEMICONDUCTORS N V",
+      "ticker": "NXPI",
+      "title_of_class": "COM",
+      "value": 3805001,
+      "shares": 20020,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "75734B100",
+      "name": "REDDIT INC",
+      "ticker": "RDDT",
+      "title_of_class": "CL A",
+      "value": 18520095,
+      "shares": 176550,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "871607107",
+      "name": "SYNOPSYS INC",
+      "ticker": "SNPS",
+      "title_of_class": "COM",
+      "value": 1576024,
+      "shares": 3675,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "ticker": "TSMWF",
+      "title_of_class": "SPONSORED ADS",
+      "value": 53077670,
+      "shares": 319745,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "ticker": "TSMWF",
+      "title_of_class": "SPONSORED ADS",
+      "value": 49385000,
+      "shares": 297500,
+      "share_type": "SH",
+      "put_call": "PUT",
+      "sector": null
+    }
+  ]
+}

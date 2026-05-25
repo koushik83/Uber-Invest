@@ -1,0 +1,188 @@
+{
+  "investor_id": "haley",
+  "cik": "0001858353",
+  "quarter": "2023-Q2",
+  "report_date": "2023-06-30",
+  "filing_date": "2023-08-14",
+  "accession_number": "0001858353-23-000005",
+  "total_value": 121670279,
+  "num_holdings": 16,
+  "holdings": [
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 3016440,
+      "shares": 25200,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 5064747,
+      "shares": 38852,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "03990B101",
+      "name": "ARES MANAGEMENT CORPORATION",
+      "ticker": "ARES-PB",
+      "title_of_class": "CL A COM STK",
+      "value": 4756607,
+      "shares": 49368,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "05969A105",
+      "name": "BANCORP INC DEL",
+      "ticker": "DELL",
+      "title_of_class": "COM",
+      "value": 9035398,
+      "shares": 276735,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "104833306",
+      "name": "BRAGG GAMING GROUP INC",
+      "ticker": "BRAG",
+      "title_of_class": "COM NEW",
+      "value": 470324,
+      "shares": 153200,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "234264109",
+      "name": "DAKTRONICS INC",
+      "ticker": "DAKT",
+      "title_of_class": "COM",
+      "value": 13094931,
+      "shares": 2046083,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G27907107",
+      "name": "DOLE PLC",
+      "ticker": "DOLE",
+      "title_of_class": "ORD SHS",
+      "value": 6073846,
+      "shares": 449249,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "36262G101",
+      "name": "GXO LOGISTICS INCORPORATED",
+      "ticker": "GXO",
+      "title_of_class": "COMMON STOCK",
+      "value": 3580740,
+      "shares": 57000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 12764735,
+      "shares": 87700,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "47973J102",
+      "name": "JOINT CORP",
+      "ticker": "JYNT",
+      "title_of_class": "COM",
+      "value": 8977203,
+      "shares": 664978,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "47973J102",
+      "name": "KKR & CO INC",
+      "ticker": "JYNT",
+      "title_of_class": "COM",
+      "value": 3161760,
+      "shares": 56460,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "571903202",
+      "name": "MARRIOTT INTL INC NEW",
+      "ticker": "MAR",
+      "title_of_class": "CL A",
+      "value": 16330041,
+      "shares": 88900,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "59100U108",
+      "name": "PATHWARD FINANCIAL INC",
+      "ticker": "CASH",
+      "title_of_class": "COM",
+      "value": 15414932,
+      "shares": 332505,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "131193104",
+      "name": "TOPGOLF CALLAWAY BRANDS CORP",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 13120135,
+      "shares": 660964,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "94106B101",
+      "name": "WASTE CONNECTIONS INC",
+      "ticker": "WCN",
+      "title_of_class": "COM",
+      "value": 5188359,
+      "shares": 36300,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "971378104",
+      "name": "WILLSCOT MOBIL MINI HLDNG CO",
+      "ticker": "WSC",
+      "title_of_class": "COM CL A",
+      "value": 1620081,
+      "shares": 33900,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}
