@@ -1,91 +1,5 @@
 [
   {
-    "id": "burry",
-    "name": "Michael Burry",
-    "fund": "Scion Asset Management",
-    "avatar": "MB",
-    "cik": "0001649339",
-    "latest_quarter": "2025-Q3",
-    "total_value": 1381198076,
-    "num_holdings": 8,
-    "num_new": 7,
-    "top_holdings": [
-      {
-        "ticker": "PLTR",
-        "value": 912100000,
-        "weight": 66.0,
-        "put_call": "PUT"
-      },
-      {
-        "ticker": "NVDA",
-        "value": 186580000,
-        "weight": 13.5,
-        "put_call": "PUT"
-      },
-      {
-        "ticker": "PFE",
-        "value": 152880000,
-        "weight": 11.1,
-        "put_call": "CALL"
-      },
-      {
-        "ticker": "HAL",
-        "value": 61500000,
-        "weight": 4.5,
-        "put_call": "CALL"
-      },
-      {
-        "ticker": "MOH",
-        "value": 23920000,
-        "weight": 1.7,
-        "put_call": null
-      }
-    ]
-  },
-  {
-    "id": "buffett",
-    "name": "Warren Buffett",
-    "fund": "Berkshire Hathaway",
-    "avatar": "WB",
-    "cik": "0001067983",
-    "latest_quarter": "2026-Q1",
-    "total_value": 263095703570,
-    "num_holdings": 90,
-    "num_new": 3,
-    "top_holdings": [
-      {
-        "ticker": "AXP",
-        "value": 45087984892,
-        "weight": 17.1,
-        "put_call": null
-      },
-      {
-        "ticker": "KO",
-        "value": 21501063540,
-        "weight": 8.2,
-        "put_call": null
-      },
-      {
-        "ticker": "AAPL",
-        "value": 20471924668,
-        "weight": 7.8,
-        "put_call": null
-      },
-      {
-        "ticker": "OXY-WT",
-        "value": 17221193015,
-        "weight": 6.5,
-        "put_call": null
-      },
-      {
-        "ticker": "AAPL",
-        "value": 15618994925,
-        "weight": 5.9,
-        "put_call": null
-      }
-    ]
-  },
-  {
     "id": "druckenmiller",
     "name": "Stanley Druckenmiller",
     "fund": "Duquesne Family Office",
@@ -148,6 +62,49 @@
     ]
   },
   {
+    "id": "hohn",
+    "name": "Chris Hohn",
+    "fund": "TCI Fund Management",
+    "avatar": "CH",
+    "cik": "0001647251",
+    "latest_quarter": "2026-Q1",
+    "total_value": 45170870798,
+    "num_holdings": 10,
+    "num_new": 1,
+    "top_holdings": [
+      {
+        "ticker": "GE",
+        "value": 13482035005,
+        "weight": 29.8,
+        "put_call": null
+      },
+      {
+        "ticker": "V",
+        "value": 9208688518,
+        "weight": 20.4,
+        "put_call": null
+      },
+      {
+        "ticker": "MCO",
+        "value": 6253219279,
+        "weight": 13.8,
+        "put_call": null
+      },
+      {
+        "ticker": "SPGI",
+        "value": 5969778755,
+        "weight": 13.2,
+        "put_call": null
+      },
+      {
+        "ticker": "CP",
+        "value": 3659637907,
+        "weight": 8.1,
+        "put_call": null
+      }
+    ]
+  },
+  {
     "id": "ackman",
     "name": "Bill Ackman",
     "fund": "Pershing Square",
@@ -186,92 +143,6 @@
         "ticker": "QSR",
         "value": 1673501194,
         "weight": 12.2,
-        "put_call": null
-      }
-    ]
-  },
-  {
-    "id": "klarman",
-    "name": "Seth Klarman",
-    "fund": "Baupost Group",
-    "avatar": "SK",
-    "cik": "0001061768",
-    "latest_quarter": "2026-Q1",
-    "total_value": 5115380000,
-    "num_holdings": 22,
-    "num_new": 6,
-    "top_holdings": [
-      {
-        "ticker": "AMZN",
-        "value": 649543000,
-        "weight": 12.7,
-        "put_call": null
-      },
-      {
-        "ticker": "QSR",
-        "value": 597208000,
-        "weight": 11.7,
-        "put_call": null
-      },
-      {
-        "ticker": "WCC",
-        "value": 393159000,
-        "weight": 7.7,
-        "put_call": null
-      },
-      {
-        "ticker": "UNP",
-        "value": 373876000,
-        "weight": 7.3,
-        "put_call": null
-      },
-      {
-        "ticker": "ELV",
-        "value": 373301000,
-        "weight": 7.3,
-        "put_call": null
-      }
-    ]
-  },
-  {
-    "id": "coleman",
-    "name": "Chase Coleman",
-    "fund": "Tiger Global",
-    "avatar": "CC",
-    "cik": "0001167483",
-    "latest_quarter": "2026-Q1",
-    "total_value": 22845413829,
-    "num_holdings": 54,
-    "num_new": 7,
-    "top_holdings": [
-      {
-        "ticker": "GOOG",
-        "value": 3057165959,
-        "weight": 13.4,
-        "put_call": null
-      },
-      {
-        "ticker": "NVDA",
-        "value": 2094849549,
-        "weight": 9.2,
-        "put_call": null
-      },
-      {
-        "ticker": "AMZN",
-        "value": 2082700000,
-        "weight": 9.1,
-        "put_call": null
-      },
-      {
-        "ticker": "TSMWF",
-        "value": 1880716758,
-        "weight": 8.2,
-        "put_call": null
-      },
-      {
-        "ticker": "META",
-        "value": 1766087500,
-        "weight": 7.7,
         "put_call": null
       }
     ]
@@ -320,403 +191,281 @@
     ]
   },
   {
-    "id": "dalio",
-    "name": "Ray Dalio",
-    "fund": "Bridgewater Associates",
-    "avatar": "RD",
-    "cik": "0001350694",
+    "id": "coatue",
+    "name": "Philippe Laffont",
+    "fund": "Coatue Management",
+    "avatar": "PL",
+    "cik": "0001135730",
     "latest_quarter": "2026-Q1",
-    "total_value": 22404547213,
-    "num_holdings": 993,
-    "num_new": 215,
+    "total_value": 29056031305,
+    "num_holdings": 198,
+    "num_new": 26,
     "top_holdings": [
-      {
-        "ticker": "SPY",
-        "value": 2838644353,
-        "weight": 12.7,
-        "put_call": null
-      },
-      {
-        "ticker": "UNKNOWN",
-        "value": 1750004460,
-        "weight": 7.8,
-        "put_call": null
-      },
       {
         "ticker": "AMZN",
-        "value": 914036840,
-        "weight": 4.1,
+        "value": 1375122252,
+        "weight": 4.7,
         "put_call": null
       },
       {
-        "ticker": "NVDA",
-        "value": 818459723,
-        "weight": 3.7,
-        "put_call": null
-      },
-      {
-        "ticker": "GOOG",
-        "value": 574451135,
-        "weight": 2.6,
-        "put_call": null
-      }
-    ]
-  },
-  {
-    "id": "smith",
-    "name": "Terry Smith",
-    "fund": "Fundsmith",
-    "avatar": "TS",
-    "cik": "0001828937",
-    "latest_quarter": null,
-    "total_value": null,
-    "num_holdings": null,
-    "num_new": null,
-    "top_holdings": []
-  },
-  {
-    "id": "einhorn",
-    "name": "David Einhorn",
-    "fund": "Greenlight Capital",
-    "avatar": "DE",
-    "cik": "0001079114",
-    "latest_quarter": "2023-Q4",
-    "total_value": 2047998727,
-    "num_holdings": 116,
-    "num_new": 7,
-    "top_holdings": [
-      {
-        "ticker": "GRBK-PA",
-        "value": 406697887,
-        "weight": 19.9,
-        "put_call": null
-      },
-      {
-        "ticker": "GRBK-PA",
-        "value": 142325469,
-        "weight": 6.9,
-        "put_call": null
-      },
-      {
-        "ticker": "CEHCF",
-        "value": 107345230,
-        "weight": 5.2,
-        "put_call": null
-      },
-      {
-        "ticker": "BHFAO",
-        "value": 86746358,
+        "ticker": "META",
+        "value": 1226109490,
         "weight": 4.2,
         "put_call": null
       },
       {
-        "ticker": "KD",
-        "value": 69716381,
-        "weight": 3.4,
+        "ticker": "TSMWF",
+        "value": 1166961289,
+        "weight": 4.0,
+        "put_call": null
+      },
+      {
+        "ticker": "GEV",
+        "value": 1097082543,
+        "weight": 3.8,
+        "put_call": null
+      },
+      {
+        "ticker": "LRCX",
+        "value": 1025723331,
+        "weight": 3.5,
         "put_call": null
       }
     ]
   },
   {
-    "id": "pabrai",
-    "name": "Mohnish Pabrai",
-    "fund": "Dalal Street LLC",
-    "avatar": "MP",
-    "cik": "0001549575",
+    "id": "gerstner",
+    "name": "Brad Gerstner",
+    "fund": "Altimeter Capital",
+    "avatar": "BG",
+    "cik": "0001541617",
     "latest_quarter": "2026-Q1",
-    "total_value": 422885142,
-    "num_holdings": 3,
-    "num_new": 0,
+    "total_value": 5699287719,
+    "num_holdings": 13,
+    "num_new": 2,
     "top_holdings": [
       {
-        "ticker": "HCC",
-        "value": 168678908,
-        "weight": 39.9,
+        "ticker": "NVDA",
+        "value": 1628205202,
+        "weight": 28.6,
         "put_call": null
       },
       {
-        "ticker": "RIG",
-        "value": 135203415,
-        "weight": 32.0,
+        "ticker": "META",
+        "value": 1117583294,
+        "weight": 19.6,
         "put_call": null
       },
       {
-        "ticker": "ATGL",
-        "value": 119002819,
-        "weight": 28.1,
-        "put_call": null
-      }
-    ]
-  },
-  {
-    "id": "hohn",
-    "name": "Chris Hohn",
-    "fund": "TCI Fund Management",
-    "avatar": "CH",
-    "cik": "0001647251",
-    "latest_quarter": "2026-Q1",
-    "total_value": 45170870798,
-    "num_holdings": 10,
-    "num_new": 1,
-    "top_holdings": [
-      {
-        "ticker": "GE",
-        "value": 13482035005,
-        "weight": 29.8,
+        "ticker": "UBER",
+        "value": 573409561,
+        "weight": 10.1,
         "put_call": null
       },
       {
-        "ticker": "V",
-        "value": 9208688518,
-        "weight": 20.4,
-        "put_call": null
-      },
-      {
-        "ticker": "MCO",
-        "value": 6253219279,
-        "weight": 13.8,
-        "put_call": null
-      },
-      {
-        "ticker": "SPGI",
-        "value": 5969778755,
-        "weight": 13.2,
-        "put_call": null
-      },
-      {
-        "ticker": "CP",
-        "value": 3659637907,
+        "ticker": "TSMWF",
+        "value": 461529866,
         "weight": 8.1,
         "put_call": null
-      }
-    ]
-  },
-  {
-    "id": "marks",
-    "name": "Howard Marks",
-    "fund": "Oaktree Capital",
-    "avatar": "HM",
-    "cik": "0000949509",
-    "latest_quarter": "2026-Q1",
-    "total_value": 6284997721,
-    "num_holdings": 142,
-    "num_new": 30,
-    "top_holdings": [
-      {
-        "ticker": "TRMD",
-        "value": 675076008,
-        "weight": 10.7,
-        "put_call": null
       },
       {
-        "ticker": "EXE",
-        "value": 574970225,
-        "weight": 9.1,
-        "put_call": null
-      },
-      {
-        "ticker": "QQQ",
-        "value": 328992600,
-        "weight": 5.2,
-        "put_call": "PUT"
-      },
-      {
-        "ticker": "AU",
-        "value": 313800237,
-        "weight": 5.0,
-        "put_call": null
-      },
-      {
-        "ticker": "GTX",
-        "value": 265187806,
-        "weight": 4.2,
+        "ticker": "MSFT",
+        "value": 438145057,
+        "weight": 7.7,
         "put_call": null
       }
     ]
   },
   {
-    "id": "griffin",
-    "name": "Ken Griffin",
-    "fund": "Citadel Advisors",
-    "avatar": "KG",
-    "cik": "0001423053",
+    "id": "sacerdote",
+    "name": "Alex Sacerdote",
+    "fund": "Whale Rock Capital",
+    "avatar": "AS",
+    "cik": "0001387322",
     "latest_quarter": "2026-Q1",
-    "total_value": 618473172395,
-    "num_holdings": 15589,
-    "num_new": 2452,
+    "total_value": 7742272930,
+    "num_holdings": 35,
+    "num_new": 11,
     "top_holdings": [
       {
-        "ticker": "SPY",
-        "value": 24160261068,
-        "weight": 3.9,
-        "put_call": "PUT"
-      },
-      {
-        "ticker": "QQQ",
-        "value": 20542586534,
-        "weight": 3.3,
-        "put_call": "PUT"
-      },
-      {
-        "ticker": "SPY",
-        "value": 17502600420,
-        "weight": 2.8,
-        "put_call": "CALL"
-      },
-      {
-        "ticker": "TSLA",
-        "value": 13516867175,
-        "weight": 2.2,
-        "put_call": "CALL"
-      },
-      {
-        "ticker": "NVDA",
-        "value": 11657645920,
-        "weight": 1.9,
-        "put_call": "CALL"
-      }
-    ]
-  },
-  {
-    "id": "robbins",
-    "name": "Larry Robbins",
-    "fund": "Glenview Capital",
-    "avatar": "LR",
-    "cik": "0001138995",
-    "latest_quarter": "2026-Q1",
-    "total_value": 3983379688,
-    "num_holdings": 44,
-    "num_new": 9,
-    "top_holdings": [
-      {
-        "ticker": "CVS",
-        "value": 588694104,
-        "weight": 14.8,
+        "ticker": "GOOG",
+        "value": 768308847,
+        "weight": 9.9,
         "put_call": null
       },
       {
-        "ticker": "GTLL",
-        "value": 428054382,
-        "weight": 10.7,
+        "ticker": "SNDK",
+        "value": 508009605,
+        "weight": 6.6,
         "put_call": null
       },
       {
-        "ticker": "THC",
-        "value": 287755198,
-        "weight": 7.2,
-        "put_call": null
-      },
-      {
-        "ticker": "AMZN",
-        "value": 220614163,
+        "ticker": "CLS",
+        "value": 427646858,
         "weight": 5.5,
         "put_call": null
       },
       {
-        "ticker": "TEVJF",
-        "value": 200605826,
-        "weight": 5.0,
+        "ticker": "AMZN",
+        "value": 378934561,
+        "weight": 4.9,
+        "put_call": null
+      },
+      {
+        "ticker": "TTMI",
+        "value": 342388435,
+        "weight": 4.4,
         "put_call": null
       }
     ]
   },
   {
-    "id": "singer",
-    "name": "Paul Singer",
-    "fund": "Elliott Management",
-    "avatar": "PS",
-    "cik": "0001791786",
+    "id": "sarma",
+    "name": "Karthik Sarma",
+    "fund": "SRS Investment Management",
+    "avatar": "KS",
+    "cik": "0001503174",
     "latest_quarter": "2026-Q1",
-    "total_value": 20114693048,
-    "num_holdings": 33,
-    "num_new": 9,
+    "total_value": 9465975502,
+    "num_holdings": 29,
+    "num_new": 3,
     "top_holdings": [
       {
-        "ticker": "TFPM",
-        "value": 4625045543,
-        "weight": 23.0,
+        "ticker": "CAR",
+        "value": 2542294140,
+        "weight": 26.9,
         "put_call": null
       },
       {
-        "ticker": "PSX",
-        "value": 3507147180,
-        "weight": 17.4,
+        "ticker": "NFLX",
+        "value": 1459992560,
+        "weight": 15.4,
         "put_call": null
       },
       {
-        "ticker": "SU",
-        "value": 3482066588,
-        "weight": 17.3,
+        "ticker": "TPR",
+        "value": 712865707,
+        "weight": 7.5,
         "put_call": null
       },
       {
-        "ticker": "UNKNOWN",
-        "value": 1212975000,
-        "weight": 6.0,
-        "put_call": "PUT"
+        "ticker": "NVDA",
+        "value": 436091560,
+        "weight": 4.6,
+        "put_call": null
       },
       {
-        "ticker": "LUV",
-        "value": 1140099220,
-        "weight": 5.7,
+        "ticker": "META",
+        "value": 411778553,
+        "weight": 4.4,
         "put_call": null
       }
     ]
   },
   {
-    "id": "soros",
-    "name": "George Soros",
-    "fund": "Soros Fund Management",
-    "avatar": "GS",
-    "cik": "0001029160",
+    "id": "goel",
+    "name": "David Goel",
+    "fund": "Matrix Capital",
+    "avatar": "DG",
+    "cik": "0001410830",
     "latest_quarter": "2026-Q1",
-    "total_value": 9119078018,
-    "num_holdings": 263,
-    "num_new": 117,
+    "total_value": 46314000,
+    "num_holdings": 1,
+    "num_new": 0,
     "top_holdings": [
       {
-        "ticker": "SPY",
-        "value": 772864056,
-        "weight": 8.5,
-        "put_call": "PUT"
+        "ticker": "AURA",
+        "value": 46314000,
+        "weight": 100.0,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "coleman",
+    "name": "Chase Coleman",
+    "fund": "Tiger Global",
+    "avatar": "CC",
+    "cik": "0001167483",
+    "latest_quarter": "2026-Q1",
+    "total_value": 22845413829,
+    "num_holdings": 54,
+    "num_new": 7,
+    "top_holdings": [
+      {
+        "ticker": "GOOG",
+        "value": 3057165959,
+        "weight": 13.4,
+        "put_call": null
+      },
+      {
+        "ticker": "NVDA",
+        "value": 2094849549,
+        "weight": 9.2,
+        "put_call": null
       },
       {
         "ticker": "AMZN",
-        "value": 405249475,
-        "weight": 4.4,
+        "value": 2082700000,
+        "weight": 9.1,
         "put_call": null
       },
       {
-        "ticker": "UNKNOWN",
-        "value": 303138984,
-        "weight": 3.3,
-        "put_call": "PUT"
+        "ticker": "TSMWF",
+        "value": 1880716758,
+        "weight": 8.2,
+        "put_call": null
       },
       {
-        "ticker": "CRWV",
-        "value": 220022547,
-        "weight": 2.4,
-        "put_call": "PUT"
-      },
-      {
-        "ticker": "GTLL",
-        "value": 218206755,
-        "weight": 2.4,
+        "ticker": "META",
+        "value": 1766087500,
+        "weight": 7.7,
         "put_call": null
       }
     ]
   },
   {
-    "id": "peltz",
-    "name": "Nelson Peltz",
-    "fund": "Trian Fund Management",
-    "avatar": "NP",
-    "cik": "0001345471",
-    "latest_quarter": null,
-    "total_value": null,
-    "num_holdings": null,
-    "num_new": null,
-    "top_holdings": []
+    "id": "mandel",
+    "name": "Stephen Mandel",
+    "fund": "Lone Pine Capital",
+    "avatar": "SM",
+    "cik": "0001061165",
+    "latest_quarter": "2026-Q1",
+    "total_value": 12543849391,
+    "num_holdings": 36,
+    "num_new": 11,
+    "top_holdings": [
+      {
+        "ticker": "VST",
+        "value": 930179653,
+        "weight": 7.4,
+        "put_call": null
+      },
+      {
+        "ticker": "ASMLF",
+        "value": 865339133,
+        "weight": 6.9,
+        "put_call": null
+      },
+      {
+        "ticker": "CRS",
+        "value": 716541051,
+        "weight": 5.7,
+        "put_call": null
+      },
+      {
+        "ticker": "UNKNOWN",
+        "value": 616691573,
+        "weight": 4.9,
+        "put_call": null
+      },
+      {
+        "ticker": "APP",
+        "value": 583039354,
+        "weight": 4.6,
+        "put_call": null
+      }
+    ]
   },
   {
     "id": "viking",
@@ -762,138 +511,9 @@
     ]
   },
   {
-    "id": "coatue",
-    "name": "Philippe Laffont",
-    "fund": "Coatue Management",
-    "avatar": "PL",
-    "cik": "0001135730",
-    "latest_quarter": "2026-Q1",
-    "total_value": 29056031305,
-    "num_holdings": 198,
-    "num_new": 26,
-    "top_holdings": [
-      {
-        "ticker": "AMZN",
-        "value": 1375122252,
-        "weight": 4.7,
-        "put_call": null
-      },
-      {
-        "ticker": "META",
-        "value": 1226109490,
-        "weight": 4.2,
-        "put_call": null
-      },
-      {
-        "ticker": "TSMWF",
-        "value": 1166961289,
-        "weight": 4.0,
-        "put_call": null
-      },
-      {
-        "ticker": "GEV",
-        "value": 1097082543,
-        "weight": 3.8,
-        "put_call": null
-      },
-      {
-        "ticker": "LRCX",
-        "value": 1025723331,
-        "weight": 3.5,
-        "put_call": null
-      }
-    ]
-  },
-  {
-    "id": "ainslie",
-    "name": "Lee Ainslie",
-    "fund": "Maverick Capital",
-    "avatar": "LA",
-    "cik": "0000934639",
-    "latest_quarter": "2026-Q1",
-    "total_value": 8670232588,
-    "num_holdings": 241,
-    "num_new": 142,
-    "top_holdings": [
-      {
-        "ticker": "NVDA",
-        "value": 553705699,
-        "weight": 6.4,
-        "put_call": null
-      },
-      {
-        "ticker": "AMZN",
-        "value": 482772984,
-        "weight": 5.6,
-        "put_call": null
-      },
-      {
-        "ticker": "TSMWF",
-        "value": 418165136,
-        "weight": 4.8,
-        "put_call": null
-      },
-      {
-        "ticker": "ASMLF",
-        "value": 341272093,
-        "weight": 3.9,
-        "put_call": null
-      },
-      {
-        "ticker": "NU",
-        "value": 322524749,
-        "weight": 3.7,
-        "put_call": null
-      }
-    ]
-  },
-  {
-    "id": "mandel",
-    "name": "Steve Mandel",
-    "fund": "Lone Pine Capital",
-    "avatar": "SM",
-    "cik": "0001061165",
-    "latest_quarter": "2026-Q1",
-    "total_value": 12543849391,
-    "num_holdings": 36,
-    "num_new": 11,
-    "top_holdings": [
-      {
-        "ticker": "VST",
-        "value": 930179653,
-        "weight": 7.4,
-        "put_call": null
-      },
-      {
-        "ticker": "ASMLF",
-        "value": 865339133,
-        "weight": 6.9,
-        "put_call": null
-      },
-      {
-        "ticker": "CRS",
-        "value": 716541051,
-        "weight": 5.7,
-        "put_call": null
-      },
-      {
-        "ticker": "UNKNOWN",
-        "value": 616691573,
-        "weight": 4.9,
-        "put_call": null
-      },
-      {
-        "ticker": "APP",
-        "value": 583039354,
-        "weight": 4.6,
-        "put_call": null
-      }
-    ]
-  },
-  {
     "id": "sundheim",
-    "name": "Daniel Sundheim",
-    "fund": "D1 Capital Partners",
+    "name": "Dan Sundheim",
+    "fund": "D1 Capital",
     "avatar": "DS",
     "cik": "0001747057",
     "latest_quarter": "2026-Q1",
@@ -934,333 +554,431 @@
     ]
   },
   {
-    "id": "cohen",
-    "name": "Steve Cohen",
-    "fund": "Point72 Asset Management",
-    "avatar": "SC",
-    "cik": "0001603466",
+    "id": "kacher",
+    "name": "Glen Kacher",
+    "fund": "Light Street Capital",
+    "avatar": "GK",
+    "cik": "0001569049",
     "latest_quarter": "2026-Q1",
-    "total_value": 78051184236,
-    "num_holdings": 3704,
-    "num_new": 877,
+    "total_value": 534227142,
+    "num_holdings": 24,
+    "num_new": 6,
     "top_holdings": [
+      {
+        "ticker": "TSMWF",
+        "value": 76912351,
+        "weight": 14.4,
+        "put_call": null
+      },
       {
         "ticker": "NVDA",
-        "value": 1322763658,
-        "weight": 1.7,
+        "value": 47474122,
+        "weight": 8.9,
         "put_call": null
       },
       {
-        "ticker": "AMZN",
-        "value": 1032807598,
-        "weight": 1.3,
+        "ticker": "AVGO",
+        "value": 46364598,
+        "weight": 8.7,
         "put_call": null
       },
       {
-        "ticker": "ANET",
-        "value": 803663980,
-        "weight": 1.0,
+        "ticker": "AMD",
+        "value": 44602231,
+        "weight": 8.3,
         "put_call": null
       },
       {
-        "ticker": "SPY",
-        "value": 800178336,
-        "weight": 1.0,
-        "put_call": "CALL"
-      },
-      {
-        "ticker": "SPY",
-        "value": 796146228,
-        "weight": 1.0,
-        "put_call": "PUT"
+        "ticker": "CHYM",
+        "value": 38913729,
+        "weight": 7.3,
+        "put_call": null
       }
     ]
   },
   {
-    "id": "englander",
-    "name": "Israel Englander",
-    "fund": "Millennium Management",
-    "avatar": "IE",
-    "cik": "0001273087",
-    "latest_quarter": null,
-    "total_value": null,
-    "num_holdings": null,
-    "num_new": null,
-    "top_holdings": []
-  },
-  {
-    "id": "tudor",
-    "name": "Paul Tudor Jones",
-    "fund": "Tudor Investment Corp",
-    "avatar": "PT",
-    "cik": "0000923093",
+    "id": "resnick",
+    "name": "Josh Resnick",
+    "fund": "Jericho Capital",
+    "avatar": "JR",
+    "cik": "0001525234",
     "latest_quarter": "2026-Q1",
-    "total_value": 53874158257,
-    "num_holdings": 3515,
-    "num_new": 1027,
+    "total_value": 6764675328,
+    "num_holdings": 23,
+    "num_new": 6,
     "top_holdings": [
       {
-        "ticker": "UNKNOWN",
-        "value": 5103269600,
+        "ticker": "FFIV",
+        "value": 764702952,
+        "weight": 11.3,
+        "put_call": null
+      },
+      {
+        "ticker": "APP",
+        "value": 667535152,
+        "weight": 9.9,
+        "put_call": null
+      },
+      {
+        "ticker": "CIEN",
+        "value": 642975655,
         "weight": 9.5,
-        "put_call": "PUT"
+        "put_call": null
+      },
+      {
+        "ticker": "LYV",
+        "value": 598965181,
+        "weight": 8.9,
+        "put_call": null
+      },
+      {
+        "ticker": "FWONB",
+        "value": 446218628,
+        "weight": 6.6,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "gaonkar",
+    "name": "Mala Gaonkar",
+    "fund": "SurgoCap Partners",
+    "avatar": "MG",
+    "cik": "0001960830",
+    "latest_quarter": "2026-Q1",
+    "total_value": 2994808547,
+    "num_holdings": 14,
+    "num_new": 3,
+    "top_holdings": [
+      {
+        "ticker": "CRS",
+        "value": 471758529,
+        "weight": 15.8,
+        "put_call": null
+      },
+      {
+        "ticker": "GOOG",
+        "value": 427097248,
+        "weight": 14.3,
+        "put_call": null
+      },
+      {
+        "ticker": "TSMWF",
+        "value": 374473270,
+        "weight": 12.5,
+        "put_call": null
       },
       {
         "ticker": "UNKNOWN",
-        "value": 2975504000,
-        "weight": 5.5,
-        "put_call": "CALL"
-      },
-      {
-        "ticker": "QQQ",
-        "value": 2112305646,
-        "weight": 3.9,
-        "put_call": "PUT"
-      },
-      {
-        "ticker": "QQQ",
-        "value": 1319260326,
-        "weight": 2.4,
-        "put_call": "CALL"
-      },
-      {
-        "ticker": "SPY",
-        "value": 1112081400,
-        "weight": 2.1,
-        "put_call": "CALL"
-      }
-    ]
-  },
-  {
-    "id": "simons",
-    "name": "James Simons",
-    "fund": "Renaissance Technologies",
-    "avatar": "JS",
-    "cik": "0001037389",
-    "latest_quarter": "2026-Q1",
-    "total_value": 63929893013,
-    "num_holdings": 3213,
-    "num_new": 639,
-    "top_holdings": [
-      {
-        "ticker": "UTHR",
-        "value": 1059666527,
-        "weight": 1.7,
-        "put_call": null
-      },
-      {
-        "ticker": "PLTR",
-        "value": 1021901255,
-        "weight": 1.6,
-        "put_call": null
-      },
-      {
-        "ticker": "AAPL",
-        "value": 780569445,
-        "weight": 1.2,
-        "put_call": null
-      },
-      {
-        "ticker": "KGCRF",
-        "value": 779676525,
-        "weight": 1.2,
-        "put_call": null
-      },
-      {
-        "ticker": "MU",
-        "value": 730739401,
-        "weight": 1.1,
-        "put_call": null
-      }
-    ]
-  },
-  {
-    "id": "icahn",
-    "name": "Carl Icahn",
-    "fund": "Icahn Capital Management",
-    "avatar": "CI",
-    "cik": "0000921669",
-    "latest_quarter": "2026-Q1",
-    "total_value": 8553640766,
-    "num_holdings": 18,
-    "num_new": 0,
-    "top_holdings": [
-      {
-        "ticker": "CVI",
-        "value": 2273750454,
-        "weight": 26.6,
-        "put_call": null
-      },
-      {
-        "ticker": "IEP",
-        "value": 2078524989,
-        "weight": 24.3,
-        "put_call": null
-      },
-      {
-        "ticker": "IEP",
-        "value": 886243062,
-        "weight": 10.4,
-        "put_call": null
-      },
-      {
-        "ticker": "IEP",
-        "value": 570179949,
-        "weight": 6.7,
-        "put_call": null
-      },
-      {
-        "ticker": "UAN",
-        "value": 492999640,
-        "weight": 5.8,
-        "put_call": null
-      }
-    ]
-  },
-  {
-    "id": "starboard",
-    "name": "Jeff Smith",
-    "fund": "Starboard Value",
-    "avatar": "JF",
-    "cik": "0001517137",
-    "latest_quarter": "2026-Q1",
-    "total_value": 4574765019,
-    "num_holdings": 26,
-    "num_new": 7,
-    "top_holdings": [
-      {
-        "ticker": "QRVO",
-        "value": 581341415,
-        "weight": 12.7,
-        "put_call": null
-      },
-      {
-        "ticker": "KVUE",
-        "value": 470783576,
+        "value": 307098996,
         "weight": 10.3,
         "put_call": null
       },
       {
-        "ticker": "UNKNOWN",
-        "value": 393744200,
-        "weight": 8.6,
-        "put_call": null
-      },
-      {
-        "ticker": "AGQPF",
-        "value": 351143039,
-        "weight": 7.7,
-        "put_call": null
-      },
-      {
-        "ticker": "MTCH",
-        "value": 349952089,
-        "weight": 7.6,
+        "ticker": "MCK",
+        "value": 301778724,
+        "weight": 10.1,
         "put_call": null
       }
     ]
   },
   {
-    "id": "jana",
-    "name": "Barry Rosenstein",
-    "fund": "JANA Partners",
-    "avatar": "BR",
-    "cik": "0001998597",
+    "id": "desai",
+    "name": "Anand Desai",
+    "fund": "Darsana Capital",
+    "avatar": "AD",
+    "cik": "0001609098",
     "latest_quarter": "2026-Q1",
-    "total_value": 1605976760,
-    "num_holdings": 10,
-    "num_new": 0,
-    "top_holdings": [
-      {
-        "ticker": "MRCY",
-        "value": 299472284,
-        "weight": 18.6,
-        "put_call": null
-      },
-      {
-        "ticker": "COO",
-        "value": 254908797,
-        "weight": 15.9,
-        "put_call": null
-      },
-      {
-        "ticker": "FISV",
-        "value": 247506759,
-        "weight": 15.4,
-        "put_call": null
-      },
-      {
-        "ticker": "SPY",
-        "value": 223499096,
-        "weight": 13.9,
-        "put_call": null
-      },
-      {
-        "ticker": "LW",
-        "value": 211664915,
-        "weight": 13.2,
-        "put_call": null
-      }
-    ]
-  },
-  {
-    "id": "ubben",
-    "name": "Jeffrey Ubben",
-    "fund": "Inclusive Capital",
-    "avatar": "JU",
-    "cik": "0001817187",
-    "latest_quarter": "2025-Q3",
-    "total_value": 0,
-    "num_holdings": 1,
-    "num_new": 0,
-    "top_holdings": [
-      {
-        "ticker": "UNKNOWN",
-        "value": 0,
-        "weight": 0.0,
-        "put_call": null
-      }
-    ]
-  },
-  {
-    "id": "lilu",
-    "name": "Li Lu",
-    "fund": "Himalaya Capital",
-    "avatar": "LL",
-    "cik": "0001709323",
-    "latest_quarter": "2026-Q1",
-    "total_value": 3201226867,
+    "total_value": 4696789130,
     "num_holdings": 14,
-    "num_new": 5,
+    "num_new": 0,
     "top_holdings": [
       {
-        "ticker": "GOOG",
-        "value": 731351348,
-        "weight": 22.8,
+        "ticker": "SATS",
+        "value": 819490000,
+        "weight": 17.4,
         "put_call": null
       },
       {
-        "ticker": "GOOG",
-        "value": 703179918,
-        "weight": 22.0,
+        "ticker": "GWRE",
+        "value": 598240000,
+        "weight": 12.7,
         "put_call": null
       },
       {
-        "ticker": "PDD",
-        "value": 470845440,
-        "weight": 14.7,
+        "ticker": "NYT",
+        "value": 421892612,
+        "weight": 9.0,
+        "put_call": null
+      },
+      {
+        "ticker": "SHC",
+        "value": 372840000,
+        "weight": 7.9,
+        "put_call": null
+      },
+      {
+        "ticker": "FWONB",
+        "value": 365586000,
+        "weight": 7.8,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "hong",
+    "name": "Dennis Hong",
+    "fund": "ShawSpring Partners",
+    "avatar": "DH",
+    "cik": "0001766908",
+    "latest_quarter": "2026-Q1",
+    "total_value": 267608814,
+    "num_holdings": 12,
+    "num_new": 4,
+    "top_holdings": [
+      {
+        "ticker": "OKTA",
+        "value": 44473984,
+        "weight": 16.6,
+        "put_call": null
+      },
+      {
+        "ticker": "AMZN",
+        "value": 38842147,
+        "weight": 14.5,
+        "put_call": null
+      },
+      {
+        "ticker": "BBAAY",
+        "value": 36416145,
+        "weight": 13.6,
+        "put_call": null
+      },
+      {
+        "ticker": "ZS",
+        "value": 28116361,
+        "weight": 10.5,
+        "put_call": null
+      },
+      {
+        "ticker": "BRZE",
+        "value": 26256657,
+        "weight": 9.8,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "haley",
+    "name": "Connor Haley",
+    "fund": "Alta Fox Capital",
+    "avatar": "CH2",
+    "cik": "0001858353",
+    "latest_quarter": "2026-Q1",
+    "total_value": 377796993,
+    "num_holdings": 9,
+    "num_new": 3,
+    "top_holdings": [
+      {
+        "ticker": "XPEL",
+        "value": 85167659,
+        "weight": 22.5,
+        "put_call": null
+      },
+      {
+        "ticker": "NATL",
+        "value": 68023543,
+        "weight": 18.0,
+        "put_call": null
+      },
+      {
+        "ticker": "DAKT",
+        "value": 65910850,
+        "weight": 17.4,
+        "put_call": null
+      },
+      {
+        "ticker": "BTSGU",
+        "value": 60651074,
+        "weight": 16.1,
+        "put_call": null
+      },
+      {
+        "ticker": "CARG",
+        "value": 54049131,
+        "weight": 14.3,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "tarasoff",
+    "name": "Josh Tarasoff",
+    "fund": "Greenlea Lane Capital",
+    "avatar": "JT",
+    "cik": "0001766504",
+    "latest_quarter": "2026-Q1",
+    "total_value": 344294052,
+    "num_holdings": 9,
+    "num_new": 2,
+    "top_holdings": [
+      {
+        "ticker": "AMZN",
+        "value": 65090623,
+        "weight": 18.9,
+        "put_call": null
+      },
+      {
+        "ticker": "BKFDF",
+        "value": 56364269,
+        "weight": 16.4,
         "put_call": null
       },
       {
         "ticker": "BRK-A",
-        "value": 430201321,
-        "weight": 13.4,
+        "value": 45242820,
+        "weight": 13.1,
         "put_call": null
       },
       {
-        "ticker": "EWBC",
-        "value": 296403233,
-        "weight": 9.3,
+        "ticker": "MKL",
+        "value": 43171849,
+        "weight": 12.5,
+        "put_call": null
+      },
+      {
+        "ticker": "UNKNOWN",
+        "value": 38552780,
+        "weight": 11.2,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "kantesaria",
+    "name": "Dev Kantesaria",
+    "fund": "Valley Forge Capital",
+    "avatar": "DK",
+    "cik": "0001697868",
+    "latest_quarter": "2026-Q1",
+    "total_value": 3375637687,
+    "num_holdings": 7,
+    "num_new": 0,
+    "top_holdings": [
+      {
+        "ticker": "FICO",
+        "value": 821303359,
+        "weight": 24.3,
+        "put_call": null
+      },
+      {
+        "ticker": "SPGI",
+        "value": 747779195,
+        "weight": 22.2,
+        "put_call": null
+      },
+      {
+        "ticker": "MA",
+        "value": 743242251,
+        "weight": 22.0,
+        "put_call": null
+      },
+      {
+        "ticker": "MCO",
+        "value": 574623265,
+        "weight": 17.0,
+        "put_call": null
+      },
+      {
+        "ticker": "ASMLF",
+        "value": 225971559,
+        "weight": 6.7,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "sosin",
+    "name": "Cliff Sosin",
+    "fund": "CAS Investment Partners",
+    "avatar": "CS",
+    "cik": "0001697591",
+    "latest_quarter": "2026-Q1",
+    "total_value": 1748117080,
+    "num_holdings": 5,
+    "num_new": 2,
+    "top_holdings": [
+      {
+        "ticker": "CVNA",
+        "value": 1427691065,
+        "weight": 81.7,
+        "put_call": null
+      },
+      {
+        "ticker": "HGV",
+        "value": 204984536,
+        "weight": 11.7,
+        "put_call": null
+      },
+      {
+        "ticker": "COF-PN",
+        "value": 104997222,
+        "weight": 6.0,
+        "put_call": null
+      },
+      {
+        "ticker": "CDLX",
+        "value": 5457970,
+        "weight": 0.3,
+        "put_call": null
+      },
+      {
+        "ticker": "SWIM",
+        "value": 4986287,
+        "weight": 0.3,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "dorsey",
+    "name": "Pat Dorsey",
+    "fund": "Dorsey Asset Management",
+    "avatar": "PD",
+    "cik": "0001671657",
+    "latest_quarter": "2026-Q1",
+    "total_value": 1255861264,
+    "num_holdings": 11,
+    "num_new": 4,
+    "top_holdings": [
+      {
+        "ticker": "ASMLF",
+        "value": 185305845,
+        "weight": 14.8,
+        "put_call": null
+      },
+      {
+        "ticker": "AER",
+        "value": 154120221,
+        "weight": 12.3,
+        "put_call": null
+      },
+      {
+        "ticker": "SUNB",
+        "value": 143523190,
+        "weight": 11.4,
+        "put_call": null
+      },
+      {
+        "ticker": "APP",
+        "value": 126146896,
+        "weight": 10.0,
+        "put_call": null
+      },
+      {
+        "ticker": "DAN",
+        "value": 110013504,
+        "weight": 8.8,
         "put_call": null
       }
     ]
@@ -1268,7 +986,7 @@
   {
     "id": "akre",
     "name": "Chuck Akre",
-    "fund": "Akre Capital Management",
+    "fund": "Akre Capital",
     "avatar": "CA",
     "cik": "0001112520",
     "latest_quarter": "2026-Q1",
@@ -1352,44 +1070,431 @@
     ]
   },
   {
-    "id": "greenblatt",
-    "name": "Joel Greenblatt",
-    "fund": "Gotham Asset Management",
-    "avatar": "JG",
-    "cik": "0001510387",
+    "id": "greenberg",
+    "name": "Glenn Greenberg",
+    "fund": "Brave Warrior Advisors",
+    "avatar": "GG",
+    "cik": "0001553733",
     "latest_quarter": "2026-Q1",
-    "total_value": 32652425993,
-    "num_holdings": 1749,
-    "num_new": 159,
+    "total_value": 4040158246,
+    "num_holdings": 36,
+    "num_new": 6,
     "top_holdings": [
       {
+        "ticker": "SNX",
+        "value": 515180279,
+        "weight": 12.8,
+        "put_call": null
+      },
+      {
+        "ticker": "OMF",
+        "value": 412049891,
+        "weight": 10.2,
+        "put_call": null
+      },
+      {
+        "ticker": "ICLR",
+        "value": 331627105,
+        "weight": 8.2,
+        "put_call": null
+      },
+      {
+        "ticker": "ELV",
+        "value": 328555667,
+        "weight": 8.1,
+        "put_call": null
+      },
+      {
+        "ticker": "AN",
+        "value": 302209369,
+        "weight": 7.5,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "klarman",
+    "name": "Seth Klarman",
+    "fund": "Baupost Group",
+    "avatar": "SK",
+    "cik": "0001061768",
+    "latest_quarter": "2026-Q1",
+    "total_value": 5115380000,
+    "num_holdings": 22,
+    "num_new": 6,
+    "top_holdings": [
+      {
+        "ticker": "AMZN",
+        "value": 649543000,
+        "weight": 12.7,
+        "put_call": null
+      },
+      {
+        "ticker": "QSR",
+        "value": 597208000,
+        "weight": 11.7,
+        "put_call": null
+      },
+      {
+        "ticker": "WCC",
+        "value": 393159000,
+        "weight": 7.7,
+        "put_call": null
+      },
+      {
+        "ticker": "UNP",
+        "value": 373876000,
+        "weight": 7.3,
+        "put_call": null
+      },
+      {
+        "ticker": "ELV",
+        "value": 373301000,
+        "weight": 7.3,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "einhorn",
+    "name": "David Einhorn",
+    "fund": "Greenlight Capital",
+    "avatar": "DE",
+    "cik": "0001079114",
+    "latest_quarter": "2023-Q4",
+    "total_value": 2047998727,
+    "num_holdings": 116,
+    "num_new": 7,
+    "top_holdings": [
+      {
+        "ticker": "GRBK-PA",
+        "value": 406697887,
+        "weight": 19.9,
+        "put_call": null
+      },
+      {
+        "ticker": "GRBK-PA",
+        "value": 142325469,
+        "weight": 6.9,
+        "put_call": null
+      },
+      {
+        "ticker": "CEHCF",
+        "value": 107345230,
+        "weight": 5.2,
+        "put_call": null
+      },
+      {
+        "ticker": "BHFAO",
+        "value": 86746358,
+        "weight": 4.2,
+        "put_call": null
+      },
+      {
+        "ticker": "KD",
+        "value": 69716381,
+        "weight": 3.4,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "singer",
+    "name": "Paul Singer / Jesse Cohn",
+    "fund": "Elliott Management",
+    "avatar": "PS",
+    "cik": "0001791786",
+    "latest_quarter": "2026-Q1",
+    "total_value": 20114693048,
+    "num_holdings": 33,
+    "num_new": 9,
+    "top_holdings": [
+      {
+        "ticker": "TFPM",
+        "value": 4625045543,
+        "weight": 23.0,
+        "put_call": null
+      },
+      {
+        "ticker": "PSX",
+        "value": 3507147180,
+        "weight": 17.4,
+        "put_call": null
+      },
+      {
+        "ticker": "SU",
+        "value": 3482066588,
+        "weight": 17.3,
+        "put_call": null
+      },
+      {
+        "ticker": "UNKNOWN",
+        "value": 1212975000,
+        "weight": 6.0,
+        "put_call": "PUT"
+      },
+      {
+        "ticker": "LUV",
+        "value": 1140099220,
+        "weight": 5.7,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "morfit",
+    "name": "Mason Morfit",
+    "fund": "ValueAct Capital",
+    "avatar": "MM",
+    "cik": "0001418814",
+    "latest_quarter": "2026-Q1",
+    "total_value": 5712466529,
+    "num_holdings": 18,
+    "num_new": 3,
+    "top_holdings": [
+      {
+        "ticker": "V",
+        "value": 700063400,
+        "weight": 12.3,
+        "put_call": null
+      },
+      {
+        "ticker": "AMZN",
+        "value": 600775642,
+        "weight": 10.5,
+        "put_call": null
+      },
+      {
+        "ticker": "CRM",
+        "value": 558984995,
+        "weight": 9.8,
+        "put_call": null
+      },
+      {
+        "ticker": "BLK",
+        "value": 525189831,
+        "weight": 9.2,
+        "put_call": null
+      },
+      {
+        "ticker": "META",
+        "value": 523884566,
+        "weight": 9.2,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "starboard",
+    "name": "Jeff Smith",
+    "fund": "Starboard Value",
+    "avatar": "JS",
+    "cik": "0001517137",
+    "latest_quarter": "2026-Q1",
+    "total_value": 4574765019,
+    "num_holdings": 26,
+    "num_new": 7,
+    "top_holdings": [
+      {
+        "ticker": "QRVO",
+        "value": 581341415,
+        "weight": 12.7,
+        "put_call": null
+      },
+      {
+        "ticker": "KVUE",
+        "value": 470783576,
+        "weight": 10.3,
+        "put_call": null
+      },
+      {
+        "ticker": "UNKNOWN",
+        "value": 393744200,
+        "weight": 8.6,
+        "put_call": null
+      },
+      {
+        "ticker": "AGQPF",
+        "value": 351143039,
+        "weight": 7.7,
+        "put_call": null
+      },
+      {
+        "ticker": "MTCH",
+        "value": 349952089,
+        "weight": 7.6,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "ferguson",
+    "name": "Scott Ferguson",
+    "fund": "Sachem Head Capital",
+    "avatar": "SF",
+    "cik": "0001582090",
+    "latest_quarter": "2026-Q1",
+    "total_value": 4151193255,
+    "num_holdings": 19,
+    "num_new": 7,
+    "top_holdings": [
+      {
+        "ticker": "TLN",
+        "value": 494008425,
+        "weight": 11.9,
+        "put_call": null
+      },
+      {
+        "ticker": "SATS",
+        "value": 351795350,
+        "weight": 8.5,
+        "put_call": null
+      },
+      {
+        "ticker": "GDHLF",
+        "value": 349918650,
+        "weight": 8.4,
+        "put_call": null
+      },
+      {
+        "ticker": "PRMB",
+        "value": 321898850,
+        "weight": 7.8,
+        "put_call": null
+      },
+      {
+        "ticker": "DKS",
+        "value": 318255450,
+        "weight": 7.7,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "meister",
+    "name": "Keith Meister",
+    "fund": "Corvex Management",
+    "avatar": "KM",
+    "cik": "0001535472",
+    "latest_quarter": "2026-Q1",
+    "total_value": 2515203115,
+    "num_holdings": 25,
+    "num_new": 3,
+    "top_holdings": [
+      {
+        "ticker": "ILMN",
+        "value": 472037482,
+        "weight": 18.8,
+        "put_call": null
+      },
+      {
+        "ticker": "SWX",
+        "value": 375248191,
+        "weight": 14.9,
+        "put_call": null
+      },
+      {
+        "ticker": "UNKNOWN",
+        "value": 208236797,
+        "weight": 8.3,
+        "put_call": null
+      },
+      {
+        "ticker": "WGSWW",
+        "value": 207311729,
+        "weight": 8.2,
+        "put_call": null
+      },
+      {
+        "ticker": "MGM",
+        "value": 197928666,
+        "weight": 7.9,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "jana",
+    "name": "Barry Rosenstein",
+    "fund": "JANA Partners",
+    "avatar": "BR",
+    "cik": "0001998597",
+    "latest_quarter": "2026-Q1",
+    "total_value": 1605976760,
+    "num_holdings": 10,
+    "num_new": 0,
+    "top_holdings": [
+      {
+        "ticker": "MRCY",
+        "value": 299472284,
+        "weight": 18.6,
+        "put_call": null
+      },
+      {
+        "ticker": "COO",
+        "value": 254908797,
+        "weight": 15.9,
+        "put_call": null
+      },
+      {
+        "ticker": "FISV",
+        "value": 247506759,
+        "weight": 15.4,
+        "put_call": null
+      },
+      {
         "ticker": "SPY",
-        "value": 5856750029,
-        "weight": 17.9,
+        "value": 223499096,
+        "weight": 13.9,
         "put_call": null
       },
       {
-        "ticker": "AAPL",
-        "value": 729202118,
-        "weight": 2.2,
+        "ticker": "LW",
+        "value": 211664915,
+        "weight": 13.2,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "jain",
+    "name": "Rajiv Jain",
+    "fund": "GQG Partners",
+    "avatar": "RJ",
+    "cik": "0001697233",
+    "latest_quarter": "2026-Q1",
+    "total_value": 63091750614,
+    "num_holdings": 86,
+    "num_new": 10,
+    "top_holdings": [
+      {
+        "ticker": "PM",
+        "value": 8284512197,
+        "weight": 13.1,
         "put_call": null
       },
       {
-        "ticker": "NVDA",
-        "value": 720773051,
-        "weight": 2.2,
+        "ticker": "CB",
+        "value": 4047660035,
+        "weight": 6.4,
         "put_call": null
       },
       {
-        "ticker": "UNKNOWN",
-        "value": 600660112,
-        "weight": 1.8,
+        "ticker": "ENBFF",
+        "value": 3861497183,
+        "weight": 6.1,
         "put_call": null
       },
       {
-        "ticker": "UNKNOWN",
-        "value": 284397183,
-        "weight": 0.9,
+        "ticker": "PBR-A",
+        "value": 3598882238,
+        "weight": 5.7,
+        "put_call": null
+      },
+      {
+        "ticker": "T-PC",
+        "value": 2358426148,
+        "weight": 3.7,
         "put_call": null
       }
     ]
@@ -1397,7 +1502,7 @@
   {
     "id": "baron",
     "name": "Ron Baron",
-    "fund": "Baron Capital Group",
+    "fund": "Baron Capital",
     "avatar": "RB",
     "cik": "0001017918",
     "latest_quarter": "2026-Q1",
@@ -1440,7 +1545,7 @@
   {
     "id": "ark",
     "name": "Cathie Wood",
-    "fund": "ARK Investment Management",
+    "fund": "ARK Invest",
     "avatar": "CW",
     "cik": "0001697748",
     "latest_quarter": "2026-Q1",
@@ -1481,44 +1586,87 @@
     ]
   },
   {
-    "id": "baker",
-    "name": "Felix & Julian Baker",
-    "fund": "Baker Bros Advisors",
-    "avatar": "BB",
-    "cik": "0001263508",
+    "id": "buffett",
+    "name": "Warren Buffett",
+    "fund": "Berkshire Hathaway",
+    "avatar": "WB",
+    "cik": "0001067983",
     "latest_quarter": "2026-Q1",
-    "total_value": 17415689929,
-    "num_holdings": 84,
-    "num_new": 7,
+    "total_value": 263095703570,
+    "num_holdings": 90,
+    "num_new": 3,
     "top_holdings": [
       {
-        "ticker": "INCY",
-        "value": 2893664057,
-        "weight": 16.6,
+        "ticker": "AXP",
+        "value": 45087984892,
+        "weight": 17.1,
         "put_call": null
       },
       {
-        "ticker": "BIIB",
-        "value": 2613054769,
-        "weight": 15.0,
+        "ticker": "KO",
+        "value": 21501063540,
+        "weight": 8.2,
         "put_call": null
       },
       {
-        "ticker": "INSM",
-        "value": 1213500071,
-        "weight": 7.0,
+        "ticker": "AAPL",
+        "value": 20471924668,
+        "weight": 7.8,
         "put_call": null
       },
       {
-        "ticker": "MDGL",
-        "value": 1121116222,
-        "weight": 6.4,
+        "ticker": "OXY-WT",
+        "value": 17221193015,
+        "weight": 6.5,
         "put_call": null
       },
       {
-        "ticker": "ACAD",
-        "value": 954880319,
-        "weight": 5.5,
+        "ticker": "AAPL",
+        "value": 15618994925,
+        "weight": 5.9,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "lilu",
+    "name": "Li Lu",
+    "fund": "Himalaya Capital",
+    "avatar": "LL",
+    "cik": "0001709323",
+    "latest_quarter": "2026-Q1",
+    "total_value": 3201226867,
+    "num_holdings": 14,
+    "num_new": 5,
+    "top_holdings": [
+      {
+        "ticker": "GOOG",
+        "value": 731351348,
+        "weight": 22.8,
+        "put_call": null
+      },
+      {
+        "ticker": "GOOG",
+        "value": 703179918,
+        "weight": 22.0,
+        "put_call": null
+      },
+      {
+        "ticker": "PDD",
+        "value": 470845440,
+        "weight": 14.7,
+        "put_call": null
+      },
+      {
+        "ticker": "BRK-A",
+        "value": 430201321,
+        "weight": 13.4,
+        "put_call": null
+      },
+      {
+        "ticker": "EWBC",
+        "value": 296403233,
+        "weight": 9.3,
         "put_call": null
       }
     ]
@@ -1526,7 +1674,7 @@
   {
     "id": "nygren",
     "name": "Bill Nygren",
-    "fund": "Harris Associates",
+    "fund": "Oakmark",
     "avatar": "BN",
     "cik": "0000813917",
     "latest_quarter": "2026-Q1",
@@ -1562,6 +1710,350 @@
         "ticker": "ABNB",
         "value": 2369344353,
         "weight": 3.2,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "gayner",
+    "name": "Tom Gayner",
+    "fund": "Markel Group",
+    "avatar": "TG",
+    "cik": "0001096343",
+    "latest_quarter": "2026-Q1",
+    "total_value": 11938885174,
+    "num_holdings": 205,
+    "num_new": 4,
+    "top_holdings": [
+      {
+        "ticker": "GOOG",
+        "value": 703561442,
+        "weight": 5.9,
+        "put_call": null
+      },
+      {
+        "ticker": "BRK-A",
+        "value": 529257232,
+        "weight": 4.4,
+        "put_call": null
+      },
+      {
+        "ticker": "DE",
+        "value": 494521070,
+        "weight": 4.1,
+        "put_call": null
+      },
+      {
+        "ticker": "BRK-A",
+        "value": 423702600,
+        "weight": 3.5,
+        "put_call": null
+      },
+      {
+        "ticker": "AMZN",
+        "value": 392032452,
+        "weight": 3.3,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "davis",
+    "name": "Chris Davis",
+    "fund": "Davis Advisors",
+    "avatar": "CD",
+    "cik": "0001036325",
+    "latest_quarter": "2026-Q1",
+    "total_value": 21781443023,
+    "num_holdings": 112,
+    "num_new": 6,
+    "top_holdings": [
+      {
+        "ticker": "COF-PN",
+        "value": 1557906471,
+        "weight": 7.2,
+        "put_call": null
+      },
+      {
+        "ticker": "CTRA",
+        "value": 1304375994,
+        "weight": 6.0,
+        "put_call": null
+      },
+      {
+        "ticker": "USB-PQ",
+        "value": 1156596507,
+        "weight": 5.3,
+        "put_call": null
+      },
+      {
+        "ticker": "VTRS",
+        "value": 1056633206,
+        "weight": 4.9,
+        "put_call": null
+      },
+      {
+        "ticker": "META",
+        "value": 983589944,
+        "weight": 4.5,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "smith",
+    "name": "Terry Smith",
+    "fund": "Fundsmith",
+    "avatar": "TS",
+    "cik": "0001569205",
+    "latest_quarter": "2026-Q1",
+    "total_value": 12827766987,
+    "num_holdings": 34,
+    "num_new": 1,
+    "top_holdings": [
+      {
+        "ticker": "MAR",
+        "value": 1102511105,
+        "weight": 8.6,
+        "put_call": null
+      },
+      {
+        "ticker": "SYK",
+        "value": 1005950683,
+        "weight": 7.8,
+        "put_call": null
+      },
+      {
+        "ticker": "WAT",
+        "value": 956555935,
+        "weight": 7.5,
+        "put_call": null
+      },
+      {
+        "ticker": "V",
+        "value": 938180162,
+        "weight": 7.3,
+        "put_call": null
+      },
+      {
+        "ticker": "GOOG",
+        "value": 850084297,
+        "weight": 6.6,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "rochon",
+    "name": "Fran\u00e7ois Rochon",
+    "fund": "Giverny Capital",
+    "avatar": "FR",
+    "cik": "0001641864",
+    "latest_quarter": "2026-Q1",
+    "total_value": 2731351278,
+    "num_holdings": 51,
+    "num_new": 5,
+    "top_holdings": [
+      {
+        "ticker": "BRK-A",
+        "value": 181437100,
+        "weight": 6.6,
+        "put_call": null
+      },
+      {
+        "ticker": "GOOG",
+        "value": 178113956,
+        "weight": 6.5,
+        "put_call": null
+      },
+      {
+        "ticker": "META",
+        "value": 176113629,
+        "weight": 6.4,
+        "put_call": null
+      },
+      {
+        "ticker": "HEI-A",
+        "value": 155886165,
+        "weight": 5.7,
+        "put_call": null
+      },
+      {
+        "ticker": "SCHW-PJ",
+        "value": 144372640,
+        "weight": 5.3,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "greenhaven",
+    "name": "Scott Miller",
+    "fund": "Greenhaven Road",
+    "avatar": "SMi",
+    "cik": "0001741129",
+    "latest_quarter": "2026-Q1",
+    "total_value": 145360996,
+    "num_holdings": 17,
+    "num_new": 4,
+    "top_holdings": [
+      {
+        "ticker": "HGTY",
+        "value": 24955868,
+        "weight": 17.2,
+        "put_call": null
+      },
+      {
+        "ticker": "CLBT",
+        "value": 21155759,
+        "weight": 14.6,
+        "put_call": null
+      },
+      {
+        "ticker": "KFS",
+        "value": 19314024,
+        "weight": 13.3,
+        "put_call": null
+      },
+      {
+        "ticker": "ASTS",
+        "value": 18663899,
+        "weight": 12.8,
+        "put_call": null
+      },
+      {
+        "ticker": "LFCR",
+        "value": 13159772,
+        "weight": 9.1,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "huber",
+    "name": "John Huber",
+    "fund": "Saber Capital",
+    "avatar": "JH",
+    "cik": "0001911378",
+    "latest_quarter": "2026-Q1",
+    "total_value": 134668533,
+    "num_holdings": 34,
+    "num_new": 9,
+    "top_holdings": [
+      {
+        "ticker": "NRP",
+        "value": 25345476,
+        "weight": 18.8,
+        "put_call": null
+      },
+      {
+        "ticker": "PBI-PB",
+        "value": 12251855,
+        "weight": 9.1,
+        "put_call": null
+      },
+      {
+        "ticker": "FCNCN",
+        "value": 11831944,
+        "weight": 8.8,
+        "put_call": null
+      },
+      {
+        "ticker": "MCS",
+        "value": 8666940,
+        "weight": 6.4,
+        "put_call": null
+      },
+      {
+        "ticker": "BSMLP",
+        "value": 8654672,
+        "weight": 6.4,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "bloomstran",
+    "name": "Christopher Bloomstran",
+    "fund": "Semper Augustus",
+    "avatar": "CB",
+    "cik": "0001115373",
+    "latest_quarter": "2026-Q1",
+    "total_value": 837339668,
+    "num_holdings": 44,
+    "num_new": 6,
+    "top_holdings": [
+      {
+        "ticker": "BRK-A",
+        "value": 121249580,
+        "weight": 14.5,
+        "put_call": null
+      },
+      {
+        "ticker": "BRK-A",
+        "value": 83304240,
+        "weight": 9.9,
+        "put_call": null
+      },
+      {
+        "ticker": "DG",
+        "value": 76964012,
+        "weight": 9.2,
+        "put_call": null
+      },
+      {
+        "ticker": "DECK",
+        "value": 66162393,
+        "weight": 7.9,
+        "put_call": null
+      },
+      {
+        "ticker": "ALK",
+        "value": 62344380,
+        "weight": 7.4,
+        "put_call": null
+      }
+    ]
+  },
+  {
+    "id": "citrone",
+    "name": "Robert Citrone",
+    "fund": "Discovery Capital Management",
+    "avatar": "RC",
+    "cik": "0001389507",
+    "latest_quarter": "2026-Q1",
+    "total_value": 1924698657,
+    "num_holdings": 77,
+    "num_new": 27,
+    "top_holdings": [
+      {
+        "ticker": "SNDK",
+        "value": 116711958,
+        "weight": 6.1,
+        "put_call": null
+      },
+      {
+        "ticker": "AMXOF",
+        "value": 113237783,
+        "weight": 5.9,
+        "put_call": null
+      },
+      {
+        "ticker": "MU",
+        "value": 93260732,
+        "weight": 4.8,
+        "put_call": null
+      },
+      {
+        "ticker": "ON",
+        "value": 87263856,
+        "weight": 4.5,
+        "put_call": null
+      },
+      {
+        "ticker": "METCZ",
+        "value": 85205626,
+        "weight": 4.4,
         "put_call": null
       }
     ]
