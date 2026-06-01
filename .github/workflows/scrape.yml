@@ -2,10 +2,12 @@ name: Scrape 13F Filings
 
 on:
   schedule:
-    # Once daily at 04:00 UTC. Conservative cadence -- 13F filings are
-    # quarterly, so once-a-day still catches anything within ~16h of filing.
+    # Every 3 days at 04:00 UTC. 13F filings are quarterly; only the days
+    # around the Feb/May/Aug/Nov 15th deadlines actually produce new data,
+    # so a 3-day cadence still catches everything within ~3 days of filing
+    # while cutting our SEC load to ~1/3 of the daily schedule.
     # Manual trigger remains available via workflow_dispatch.
-    - cron: '0 4 * * *'
+    - cron: '0 4 */3 * *'
   workflow_dispatch:
 
 jobs:
