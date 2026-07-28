@@ -1935,39 +1935,39 @@
     "fund": "Saber Capital",
     "avatar": "JH",
     "cik": "0001911378",
-    "latest_quarter": "2026-Q1",
-    "total_value": 134668533,
-    "num_holdings": 34,
-    "num_new": 9,
+    "latest_quarter": "2026-Q2",
+    "total_value": 147055894,
+    "num_holdings": 38,
+    "num_new": 6,
     "top_holdings": [
       {
         "ticker": "NRP",
-        "value": 25345476,
-        "weight": 18.8,
+        "value": 20875908,
+        "weight": 14.2,
         "put_call": null
       },
       {
         "ticker": "PBI-PB",
-        "value": 12251855,
-        "weight": 9.1,
+        "value": 16367951,
+        "weight": 11.1,
         "put_call": null
       },
       {
         "ticker": "FCNCN",
-        "value": 11831944,
-        "weight": 8.8,
+        "value": 13170339,
+        "weight": 9.0,
         "put_call": null
       },
       {
-        "ticker": "MCS",
-        "value": 8666940,
-        "weight": 6.4,
+        "ticker": "FND",
+        "value": 11132018,
+        "weight": 7.6,
         "put_call": null
       },
       {
         "ticker": "BSMLP",
-        "value": 8654672,
-        "weight": 6.4,
+        "value": 8618386,
+        "weight": 5.9,
         "put_call": null
       }
     ]

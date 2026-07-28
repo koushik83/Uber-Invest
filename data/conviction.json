@@ -150,7 +150,7 @@
       "John Huber"
     ],
     "holder_count": 17,
-    "total_value": 7340729804,
+    "total_value": 7340738069,
     "any_new": true
   },
   {
@@ -203,7 +203,7 @@
       "John Huber"
     ],
     "holder_count": 16,
-    "total_value": 14679775444,
+    "total_value": 14680611262,
     "any_new": true
   },
   {
@@ -344,7 +344,7 @@
       "Christopher Bloomstran"
     ],
     "holder_count": 9,
-    "total_value": 3370042025,
+    "total_value": 3369693095,
     "any_new": true
   },
   {
@@ -761,7 +761,7 @@
       "Robert Citrone"
     ],
     "holder_count": 5,
-    "total_value": 158760019,
+    "total_value": 160894049,
     "any_new": true
   },
   {
@@ -986,7 +986,7 @@
       "Robert Citrone"
     ],
     "holder_count": 5,
-    "total_value": 119774016,
+    "total_value": 119116781,
     "any_new": true
   },
   {
@@ -1227,7 +1227,7 @@
       "John Huber"
     ],
     "holder_count": 4,
-    "total_value": 2096804924,
+    "total_value": 2098143319,
     "any_new": false
   },
   {
@@ -1297,7 +1297,7 @@
       "John Huber"
     ],
     "holder_count": 4,
-    "total_value": 934941414,
+    "total_value": 935895538,
     "any_new": true
   },
   {
@@ -1423,7 +1423,7 @@
       "John Huber"
     ],
     "holder_count": 4,
-    "total_value": 439969440,
+    "total_value": 438235616,
     "any_new": false
   },
   {
@@ -1829,7 +1829,7 @@
       "John Huber"
     ],
     "holder_count": 4,
-    "total_value": 244027995,
+    "total_value": 244069355,
     "any_new": false
   },
   {
@@ -2362,7 +2362,7 @@
       "John Huber"
     ],
     "holder_count": 3,
-    "total_value": 269619657,
+    "total_value": 269150412,
     "any_new": false
   },
   {
@@ -2596,7 +2596,7 @@
       "John Huber"
     ],
     "holder_count": 3,
-    "total_value": 2904874,
+    "total_value": 2673026,
     "any_new": false
   },
   {
@@ -2648,8 +2648,8 @@
       "John Huber"
     ],
     "holder_count": 3,
-    "total_value": 80418635,
-    "any_new": true
+    "total_value": 87616142,
+    "any_new": false
   },
   {
     "ticker": "PSA-PS",
@@ -3795,7 +3795,7 @@
       "John Huber"
     ],
     "holder_count": 2,
-    "total_value": 239373316,
+    "total_value": 239390489,
     "any_new": false
   },
   {
@@ -4287,8 +4287,8 @@
       "John Huber"
     ],
     "holder_count": 2,
-    "total_value": 3253477,
-    "any_new": true
+    "total_value": 772511,
+    "any_new": false
   },
   {
     "ticker": "AVNT",
@@ -5213,18 +5213,6 @@
     "holder_count": 2,
     "total_value": 11374587,
     "any_new": false
-  },
-  {
-    "ticker": "WDAY",
-    "name": "WORKDAY INC",
-    "sector": null,
-    "holders": [
-      "Bill Nygren",
-      "John Huber"
-    ],
-    "holder_count": 2,
-    "total_value": 2667908,
-    "any_new": true
   },
   {
     "ticker": "BRO",
@@ -10860,6 +10848,17 @@
     "any_new": false
   },
   {
+    "ticker": "WDAY",
+    "name": "WORKDAY INC",
+    "sector": null,
+    "holders": [
+      "Bill Nygren"
+    ],
+    "holder_count": 1,
+    "total_value": 1515777,
+    "any_new": false
+  },
+  {
     "ticker": "ZBH",
     "name": "ZIMMER BIOMET HOLDINGS INC",
     "sector": null,
@@ -11791,7 +11790,7 @@
       "John Huber"
     ],
     "holder_count": 1,
-    "total_value": 8654672,
+    "total_value": 8618386,
     "any_new": false
   },
   {
@@ -11802,7 +11801,7 @@
       "John Huber"
     ],
     "holder_count": 1,
-    "total_value": 604173,
+    "total_value": 366711,
     "any_new": false
   },
   {
@@ -11813,7 +11812,7 @@
       "John Huber"
     ],
     "holder_count": 1,
-    "total_value": 5929271,
+    "total_value": 4468061,
     "any_new": false
   },
   {
@@ -11824,7 +11823,7 @@
       "John Huber"
     ],
     "holder_count": 1,
-    "total_value": 6548958,
+    "total_value": 2538532,
     "any_new": false
   },
   {
@@ -11835,7 +11834,7 @@
       "John Huber"
     ],
     "holder_count": 1,
-    "total_value": 1368964,
+    "total_value": 1284797,
     "any_new": false
   },
   {
@@ -11846,8 +11845,19 @@
       "John Huber"
     ],
     "holder_count": 1,
-    "total_value": 2243632,
+    "total_value": 2365109,
     "any_new": false
+  },
+  {
+    "ticker": "EVC",
+    "name": "ENTRAVISION COMMUNICATIONS C",
+    "sector": null,
+    "holders": [
+      "John Huber"
+    ],
+    "holder_count": 1,
+    "total_value": 3368857,
+    "any_new": true
   },
   {
     "ticker": "FPH",
@@ -11857,8 +11867,19 @@
       "John Huber"
     ],
     "holder_count": 1,
-    "total_value": 1946934,
+    "total_value": 3383314,
     "any_new": false
+  },
+  {
+    "ticker": "GDOT",
+    "name": "GREEN DOT CORP",
+    "sector": null,
+    "holders": [
+      "John Huber"
+    ],
+    "holder_count": 1,
+    "total_value": 6390541,
+    "any_new": true
   },
   {
     "ticker": "GFRWF",
@@ -11868,7 +11889,7 @@
       "John Huber"
     ],
     "holder_count": 1,
-    "total_value": 4238906,
+    "total_value": 3815083,
     "any_new": false
   },
   {
@@ -11879,8 +11900,8 @@
       "John Huber"
     ],
     "holder_count": 1,
-    "total_value": 2589320,
-    "any_new": true
+    "total_value": 2037207,
+    "any_new": false
   },
   {
     "ticker": "LE",
@@ -11890,7 +11911,18 @@
       "John Huber"
     ],
     "holder_count": 1,
-    "total_value": 1041307,
+    "total_value": 907432,
+    "any_new": false
+  },
+  {
+    "ticker": "LWAY",
+    "name": "LIFEWAY FOODS INC",
+    "sector": null,
+    "holders": [
+      "John Huber"
+    ],
+    "holder_count": 1,
+    "total_value": 1176054,
     "any_new": true
   },
   {
@@ -11901,7 +11933,7 @@
       "John Huber"
     ],
     "holder_count": 1,
-    "total_value": 8666940,
+    "total_value": 7333564,
     "any_new": false
   },
   {
@@ -11912,7 +11944,7 @@
       "John Huber"
     ],
     "holder_count": 1,
-    "total_value": 1072037,
+    "total_value": 1032331,
     "any_new": false
   },
   {
@@ -11923,8 +11955,19 @@
       "John Huber"
     ],
     "holder_count": 1,
-    "total_value": 25345476,
-    "any_new": false
+    "total_value": 21263908,
+    "any_new": true
+  },
+  {
+    "ticker": "PRT",
+    "name": "PERMROCK ROYALTY TRUST",
+    "sector": null,
+    "holders": [
+      "John Huber"
+    ],
+    "holder_count": 1,
+    "total_value": 321610,
+    "any_new": true
   },
   {
     "ticker": "PBI-PB",
@@ -11934,18 +11977,7 @@
       "John Huber"
     ],
     "holder_count": 1,
-    "total_value": 12707115,
-    "any_new": false
-  },
-  {
-    "ticker": "PHM",
-    "name": "PULTE GROUP INC",
-    "sector": null,
-    "holders": [
-      "John Huber"
-    ],
-    "holder_count": 1,
-    "total_value": 274763,
+    "total_value": 16402991,
     "any_new": false
   },
   {
@@ -11956,7 +11988,7 @@
       "John Huber"
     ],
     "holder_count": 1,
-    "total_value": 425243,
+    "total_value": 2293849,
     "any_new": false
   },
   {
@@ -11967,8 +11999,19 @@
       "John Huber"
     ],
     "holder_count": 1,
-    "total_value": 3933017,
+    "total_value": 4104310,
     "any_new": false
+  },
+  {
+    "ticker": "TLYS",
+    "name": "TILLYS INC",
+    "sector": null,
+    "holders": [
+      "John Huber"
+    ],
+    "holder_count": 1,
+    "total_value": 86100,
+    "any_new": true
   },
   {
     "ticker": "SIVR",
