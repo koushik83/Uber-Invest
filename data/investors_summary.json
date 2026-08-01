@@ -1720,39 +1720,39 @@
     "fund": "Markel Group",
     "avatar": "TG",
     "cik": "0001096343",
-    "latest_quarter": "2026-Q1",
-    "total_value": 11938885174,
+    "latest_quarter": "2026-Q2",
+    "total_value": 13130490727,
     "num_holdings": 205,
-    "num_new": 4,
+    "num_new": 3,
     "top_holdings": [
       {
         "ticker": "GOOG",
-        "value": 703561442,
-        "weight": 5.9,
-        "put_call": null
-      },
-      {
-        "ticker": "BRK-A",
-        "value": 529257232,
-        "weight": 4.4,
+        "value": 866587757,
+        "weight": 6.6,
         "put_call": null
       },
       {
         "ticker": "DE",
-        "value": 494521070,
-        "weight": 4.1,
+        "value": 556878306,
+        "weight": 4.2,
         "put_call": null
       },
       {
         "ticker": "BRK-A",
-        "value": 423702600,
-        "weight": 3.5,
+        "value": 552660740,
+        "weight": 4.2,
         "put_call": null
       },
       {
         "ticker": "AMZN",
-        "value": 392032452,
-        "weight": 3.3,
+        "value": 448634056,
+        "weight": 3.4,
+        "put_call": null
+      },
+      {
+        "ticker": "BRK-A",
+        "value": 441821500,
+        "weight": 3.4,
         "put_call": null
       }
     ]

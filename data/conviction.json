@@ -33,7 +33,7 @@
       "Christopher Bloomstran"
     ],
     "holder_count": 27,
-    "total_value": 35585915986,
+    "total_value": 35808630499,
     "any_new": true
   },
   {
@@ -66,7 +66,7 @@
       "Robert Citrone"
     ],
     "holder_count": 23,
-    "total_value": 12284663427,
+    "total_value": 12345728381,
     "any_new": false
   },
   {
@@ -96,7 +96,7 @@
       "Fran\u00e7ois Rochon"
     ],
     "holder_count": 20,
-    "total_value": 10478641042,
+    "total_value": 10468481123,
     "any_new": true
   },
   {
@@ -150,7 +150,7 @@
       "John Huber"
     ],
     "holder_count": 17,
-    "total_value": 7340738069,
+    "total_value": 7342270317,
     "any_new": true
   },
   {
@@ -203,7 +203,7 @@
       "John Huber"
     ],
     "holder_count": 16,
-    "total_value": 14680611262,
+    "total_value": 14724925330,
     "any_new": true
   },
   {
@@ -225,7 +225,7 @@
       "Robert Citrone"
     ],
     "holder_count": 12,
-    "total_value": 6043764818,
+    "total_value": 6045420108,
     "any_new": false
   },
   {
@@ -271,6 +271,26 @@
     "any_new": true
   },
   {
+    "ticker": "NFLX",
+    "name": "NETFLIX INC.",
+    "sector": null,
+    "holders": [
+      "Philippe Laffont",
+      "Alex Sacerdote",
+      "Karthik Sarma",
+      "Chase Coleman",
+      "Josh Tarasoff",
+      "Cathie Wood",
+      "Bill Nygren",
+      "Tom Gayner",
+      "John Huber",
+      "Christopher Bloomstran"
+    ],
+    "holder_count": 10,
+    "total_value": 3372549095,
+    "any_new": true
+  },
+  {
     "ticker": "BRK-A",
     "name": "BERKSHIRE HATHAWAY INC DEL",
     "sector": null,
@@ -287,7 +307,7 @@
       "Christopher Bloomstran"
     ],
     "holder_count": 10,
-    "total_value": 4352388281,
+    "total_value": 4419061687,
     "any_new": false
   },
   {
@@ -325,26 +345,7 @@
       "Tom Gayner"
     ],
     "holder_count": 9,
-    "total_value": 18295185953,
-    "any_new": true
-  },
-  {
-    "ticker": "NFLX",
-    "name": "NETFLIX INC.",
-    "sector": null,
-    "holders": [
-      "Philippe Laffont",
-      "Alex Sacerdote",
-      "Karthik Sarma",
-      "Chase Coleman",
-      "Josh Tarasoff",
-      "Cathie Wood",
-      "Bill Nygren",
-      "John Huber",
-      "Christopher Bloomstran"
-    ],
-    "holder_count": 9,
-    "total_value": 3369693095,
+    "total_value": 18298751498,
     "any_new": true
   },
   {
@@ -363,7 +364,7 @@
       "Tom Gayner"
     ],
     "holder_count": 9,
-    "total_value": 2583242977,
+    "total_value": 2582575275,
     "any_new": true
   },
   {
@@ -382,7 +383,7 @@
       "Christopher Bloomstran"
     ],
     "holder_count": 9,
-    "total_value": 2128980494,
+    "total_value": 2131873603,
     "any_new": true
   },
   {
@@ -436,7 +437,7 @@
       "Christopher Bloomstran"
     ],
     "holder_count": 8,
-    "total_value": 59157456429,
+    "total_value": 59201111133,
     "any_new": true
   },
   {
@@ -454,7 +455,7 @@
       "Fran\u00e7ois Rochon"
     ],
     "holder_count": 8,
-    "total_value": 4866296022,
+    "total_value": 4864944695,
     "any_new": false
   },
   {
@@ -488,7 +489,7 @@
       "Chris Davis"
     ],
     "holder_count": 7,
-    "total_value": 3091862533,
+    "total_value": 3105719516,
     "any_new": true
   },
   {
@@ -539,7 +540,7 @@
       "Robert Citrone"
     ],
     "holder_count": 7,
-    "total_value": 1097651055,
+    "total_value": 1106028139,
     "any_new": false
   },
   {
@@ -555,7 +556,7 @@
       "Tom Gayner"
     ],
     "holder_count": 6,
-    "total_value": 1009190467,
+    "total_value": 1040504669,
     "any_new": true
   },
   {
@@ -603,7 +604,7 @@
       "Tom Gayner"
     ],
     "holder_count": 6,
-    "total_value": 6930658819,
+    "total_value": 6928530983,
     "any_new": true
   },
   {
@@ -619,7 +620,7 @@
       "Tom Gayner"
     ],
     "holder_count": 6,
-    "total_value": 4261698022,
+    "total_value": 4289414074,
     "any_new": false
   },
   {
@@ -667,7 +668,7 @@
       "Tom Gayner"
     ],
     "holder_count": 6,
-    "total_value": 3134084061,
+    "total_value": 3138161044,
     "any_new": false
   },
   {
@@ -683,7 +684,7 @@
       "Scott Miller"
     ],
     "holder_count": 6,
-    "total_value": 519895420,
+    "total_value": 518850123,
     "any_new": true
   },
   {
@@ -715,7 +716,7 @@
       "Fran\u00e7ois Rochon"
     ],
     "holder_count": 6,
-    "total_value": 2387379388,
+    "total_value": 2402612677,
     "any_new": false
   },
   {
@@ -806,7 +807,7 @@
       "Tom Gayner"
     ],
     "holder_count": 5,
-    "total_value": 2827892130,
+    "total_value": 2827924905,
     "any_new": true
   },
   {
@@ -836,7 +837,7 @@
       "Tom Gayner"
     ],
     "holder_count": 5,
-    "total_value": 1469801647,
+    "total_value": 1477140815,
     "any_new": false
   },
   {
@@ -881,7 +882,7 @@
       "Tom Gayner"
     ],
     "holder_count": 5,
-    "total_value": 621662653,
+    "total_value": 628638778,
     "any_new": true
   },
   {
@@ -926,7 +927,7 @@
       "Tom Gayner"
     ],
     "holder_count": 5,
-    "total_value": 1284963461,
+    "total_value": 1287201931,
     "any_new": true
   },
   {
@@ -941,7 +942,7 @@
       "Tom Gayner"
     ],
     "holder_count": 5,
-    "total_value": 978205537,
+    "total_value": 972089823,
     "any_new": false
   },
   {
@@ -956,7 +957,7 @@
       "Terry Smith"
     ],
     "holder_count": 5,
-    "total_value": 1552599646,
+    "total_value": 1627844967,
     "any_new": false
   },
   {
@@ -1001,7 +1002,7 @@
       "Fran\u00e7ois Rochon"
     ],
     "holder_count": 5,
-    "total_value": 983919642,
+    "total_value": 994106422,
     "any_new": true
   },
   {
@@ -1016,7 +1017,7 @@
       "Christopher Bloomstran"
     ],
     "holder_count": 5,
-    "total_value": 9149988396,
+    "total_value": 9151771160,
     "any_new": true
   },
   {
@@ -1031,7 +1032,7 @@
       "Christopher Bloomstran"
     ],
     "holder_count": 5,
-    "total_value": 46140728135,
+    "total_value": 46158271534,
     "any_new": false
   },
   {
@@ -1353,7 +1354,7 @@
       "Tom Gayner"
     ],
     "holder_count": 4,
-    "total_value": 498977089,
+    "total_value": 500520904,
     "any_new": true
   },
   {
@@ -1367,7 +1368,7 @@
       "Tom Gayner"
     ],
     "holder_count": 4,
-    "total_value": 815766583,
+    "total_value": 807841926,
     "any_new": false
   },
   {
@@ -1413,20 +1414,6 @@
     "any_new": false
   },
   {
-    "ticker": "UNH",
-    "name": "UNITEDHEALTH GROUP INC",
-    "sector": null,
-    "holders": [
-      "Chase Coleman",
-      "Tom Gayner",
-      "Chris Davis",
-      "John Huber"
-    ],
-    "holder_count": 4,
-    "total_value": 438235616,
-    "any_new": false
-  },
-  {
     "ticker": "CB",
     "name": "CHUBB LTD SWITZ",
     "sector": null,
@@ -1451,7 +1438,7 @@
       "Terry Smith"
     ],
     "holder_count": 4,
-    "total_value": 478491538,
+    "total_value": 501260036,
     "any_new": true
   },
   {
@@ -1465,7 +1452,7 @@
       "Tom Gayner"
     ],
     "holder_count": 4,
-    "total_value": 3340187528,
+    "total_value": 3339201040,
     "any_new": false
   },
   {
@@ -1493,7 +1480,7 @@
       "Tom Gayner"
     ],
     "holder_count": 4,
-    "total_value": 1220862215,
+    "total_value": 1224529967,
     "any_new": true
   },
   {
@@ -1507,7 +1494,7 @@
       "Fran\u00e7ois Rochon"
     ],
     "holder_count": 4,
-    "total_value": 476332251,
+    "total_value": 547836417,
     "any_new": true
   },
   {
@@ -1521,7 +1508,7 @@
       "Fran\u00e7ois Rochon"
     ],
     "holder_count": 4,
-    "total_value": 466330336,
+    "total_value": 469279720,
     "any_new": true
   },
   {
@@ -1535,7 +1522,7 @@
       "Tom Gayner"
     ],
     "holder_count": 4,
-    "total_value": 1128593970,
+    "total_value": 1128137760,
     "any_new": false
   },
   {
@@ -1549,7 +1536,7 @@
       "Tom Gayner"
     ],
     "holder_count": 4,
-    "total_value": 1639477924,
+    "total_value": 1637922576,
     "any_new": false
   },
   {
@@ -1633,7 +1620,7 @@
       "Tom Gayner"
     ],
     "holder_count": 4,
-    "total_value": 378007049,
+    "total_value": 376093432,
     "any_new": true
   },
   {
@@ -1647,7 +1634,7 @@
       "Tom Gayner"
     ],
     "holder_count": 4,
-    "total_value": 790491961,
+    "total_value": 790458930,
     "any_new": false
   },
   {
@@ -1703,7 +1690,7 @@
       "Chris Davis"
     ],
     "holder_count": 4,
-    "total_value": 1137219403,
+    "total_value": 1138164403,
     "any_new": true
   },
   {
@@ -1745,7 +1732,7 @@
       "Christopher Bloomstran"
     ],
     "holder_count": 4,
-    "total_value": 1148445837,
+    "total_value": 1148141809,
     "any_new": false
   },
   {
@@ -1773,7 +1760,7 @@
       "Tom Gayner"
     ],
     "holder_count": 4,
-    "total_value": 329175375,
+    "total_value": 388606334,
     "any_new": false
   },
   {
@@ -1787,7 +1774,7 @@
       "Christopher Bloomstran"
     ],
     "holder_count": 4,
-    "total_value": 49052257,
+    "total_value": 46665673,
     "any_new": false
   },
   {
@@ -1801,7 +1788,7 @@
       "Fran\u00e7ois Rochon"
     ],
     "holder_count": 4,
-    "total_value": 382610642,
+    "total_value": 400385574,
     "any_new": false
   },
   {
@@ -1815,7 +1802,7 @@
       "Terry Smith"
     ],
     "holder_count": 4,
-    "total_value": 1577124933,
+    "total_value": 1580129069,
     "any_new": true
   },
   {
@@ -1829,7 +1816,7 @@
       "John Huber"
     ],
     "holder_count": 4,
-    "total_value": 244069355,
+    "total_value": 246839780,
     "any_new": false
   },
   {
@@ -2145,6 +2132,19 @@
     "any_new": true
   },
   {
+    "ticker": "UNH",
+    "name": "UNITEDHEALTH GROUP INC",
+    "sector": null,
+    "holders": [
+      "Chase Coleman",
+      "Chris Davis",
+      "John Huber"
+    ],
+    "holder_count": 3,
+    "total_value": 433175582,
+    "any_new": false
+  },
+  {
     "ticker": "ZS",
     "name": "ZSCALER INC",
     "sector": null,
@@ -2219,7 +2219,7 @@
       "Tom Gayner"
     ],
     "holder_count": 3,
-    "total_value": 642950181,
+    "total_value": 644160160,
     "any_new": true
   },
   {
@@ -2401,7 +2401,7 @@
       "Terry Smith"
     ],
     "holder_count": 3,
-    "total_value": 1133564440,
+    "total_value": 1139775333,
     "any_new": false
   },
   {
@@ -2479,7 +2479,7 @@
       "Tom Gayner"
     ],
     "holder_count": 3,
-    "total_value": 805497760,
+    "total_value": 801790390,
     "any_new": false
   },
   {
@@ -2518,7 +2518,7 @@
       "Tom Gayner"
     ],
     "holder_count": 3,
-    "total_value": 1943446787,
+    "total_value": 1949267710,
     "any_new": false
   },
   {
@@ -2583,7 +2583,7 @@
       "Chris Davis"
     ],
     "holder_count": 3,
-    "total_value": 246568253,
+    "total_value": 247945153,
     "any_new": false
   },
   {
@@ -2609,7 +2609,7 @@
       "Tom Gayner"
     ],
     "holder_count": 3,
-    "total_value": 182667296,
+    "total_value": 185961015,
     "any_new": false
   },
   {
@@ -2622,7 +2622,7 @@
       "Tom Gayner"
     ],
     "holder_count": 3,
-    "total_value": 874306043,
+    "total_value": 865972483,
     "any_new": false
   },
   {
@@ -2674,7 +2674,7 @@
       "Terry Smith"
     ],
     "holder_count": 3,
-    "total_value": 166424492,
+    "total_value": 149714731,
     "any_new": false
   },
   {
@@ -2700,7 +2700,7 @@
       "Tom Gayner"
     ],
     "holder_count": 3,
-    "total_value": 1011385063,
+    "total_value": 1073742299,
     "any_new": false
   },
   {
@@ -2713,7 +2713,7 @@
       "Tom Gayner"
     ],
     "holder_count": 3,
-    "total_value": 275639115,
+    "total_value": 392783121,
     "any_new": false
   },
   {
@@ -2726,7 +2726,7 @@
       "Chris Davis"
     ],
     "holder_count": 3,
-    "total_value": 82176392,
+    "total_value": 85410902,
     "any_new": false
   },
   {
@@ -2739,7 +2739,7 @@
       "Chris Davis"
     ],
     "holder_count": 3,
-    "total_value": 42122544,
+    "total_value": 44667944,
     "any_new": false
   },
   {
@@ -2847,7 +2847,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 121857496,
+    "total_value": 132308464,
     "any_new": true
   },
   {
@@ -2991,7 +2991,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 1018706450,
+    "total_value": 1019587595,
     "any_new": false
   },
   {
@@ -3003,7 +3003,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 3664318177,
+    "total_value": 3665963357,
     "any_new": false
   },
   {
@@ -3063,7 +3063,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 109777500,
+    "total_value": 117571675,
     "any_new": false
   },
   {
@@ -3423,7 +3423,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 1214130552,
+    "total_value": 1218144987,
     "any_new": false
   },
   {
@@ -3459,7 +3459,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 205776126,
+    "total_value": 204098046,
     "any_new": true
   },
   {
@@ -3471,7 +3471,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 788490535,
+    "total_value": 794515320,
     "any_new": false
   },
   {
@@ -3831,7 +3831,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 171928388,
+    "total_value": 172452750,
     "any_new": false
   },
   {
@@ -4131,7 +4131,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 1226659674,
+    "total_value": 1231388904,
     "any_new": false
   },
   {
@@ -4143,7 +4143,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 463038045,
+    "total_value": 449231459,
     "any_new": false
   },
   {
@@ -4359,7 +4359,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 115215512,
+    "total_value": 116093091,
     "any_new": false
   },
   {
@@ -4515,7 +4515,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 844517051,
+    "total_value": 846289124,
     "any_new": false
   },
   {
@@ -4647,7 +4647,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 223347922,
+    "total_value": 214663939,
     "any_new": false
   },
   {
@@ -4755,7 +4755,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 28664520,
+    "total_value": 36059221,
     "any_new": false
   },
   {
@@ -4899,7 +4899,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 506238959,
+    "total_value": 504645150,
     "any_new": false
   },
   {
@@ -4911,7 +4911,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 211869842,
+    "total_value": 249182939,
     "any_new": false
   },
   {
@@ -4923,8 +4923,8 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 11460870,
-    "any_new": true
+    "total_value": 13906145,
+    "any_new": false
   },
   {
     "ticker": "AME",
@@ -4947,7 +4947,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 47432528,
+    "total_value": 41241857,
     "any_new": false
   },
   {
@@ -5019,7 +5019,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 605042587,
+    "total_value": 593270897,
     "any_new": true
   },
   {
@@ -5043,7 +5043,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 166222476,
+    "total_value": 166810826,
     "any_new": false
   },
   {
@@ -5067,7 +5067,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 102406199,
+    "total_value": 110543393,
     "any_new": false
   },
   {
@@ -5091,7 +5091,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 2085734021,
+    "total_value": 2086797713,
     "any_new": false
   },
   {
@@ -5103,7 +5103,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 1029012724,
+    "total_value": 1023836194,
     "any_new": true
   },
   {
@@ -5115,7 +5115,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 804113656,
+    "total_value": 798847758,
     "any_new": false
   },
   {
@@ -5199,7 +5199,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 787448391,
+    "total_value": 787822016,
     "any_new": false
   },
   {
@@ -5223,19 +5223,19 @@
       "Fran\u00e7ois Rochon"
     ],
     "holder_count": 2,
-    "total_value": 50164031,
+    "total_value": 50149191,
     "any_new": false
   },
   {
     "ticker": "DG",
-    "name": "DOLLAR GEN CORP NEW",
+    "name": "DOLLAR GEN CORP",
     "sector": null,
     "holders": [
       "Tom Gayner",
       "Christopher Bloomstran"
     ],
     "holder_count": 2,
-    "total_value": 180170064,
+    "total_value": 177023379,
     "any_new": false
   },
   {
@@ -5247,7 +5247,7 @@
       "Scott Miller"
     ],
     "holder_count": 2,
-    "total_value": 57683108,
+    "total_value": 60853268,
     "any_new": false
   },
   {
@@ -5259,7 +5259,7 @@
       "Fran\u00e7ois Rochon"
     ],
     "holder_count": 2,
-    "total_value": 105919896,
+    "total_value": 138032666,
     "any_new": false
   },
   {
@@ -5271,7 +5271,7 @@
       "Fran\u00e7ois Rochon"
     ],
     "holder_count": 2,
-    "total_value": 84834082,
+    "total_value": 93932062,
     "any_new": false
   },
   {
@@ -5283,7 +5283,7 @@
       "Terry Smith"
     ],
     "holder_count": 2,
-    "total_value": 219389336,
+    "total_value": 220121618,
     "any_new": false
   },
   {
@@ -5295,7 +5295,7 @@
       "Christopher Bloomstran"
     ],
     "holder_count": 2,
-    "total_value": 78401805,
+    "total_value": 86261911,
     "any_new": false
   },
   {
@@ -5307,8 +5307,20 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 895711409,
+    "total_value": 891019019,
     "any_new": false
+  },
+  {
+    "ticker": "ZTS",
+    "name": "ZOETIS INC",
+    "sector": null,
+    "holders": [
+      "Tom Gayner",
+      "Terry Smith"
+    ],
+    "holder_count": 2,
+    "total_value": 463123022,
+    "any_new": true
   },
   {
     "ticker": "ARE",
@@ -10877,7 +10889,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 2732145,
+    "total_value": 3672435,
     "any_new": false
   },
   {
@@ -10888,7 +10900,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 109456602,
+    "total_value": 115043119,
     "any_new": false
   },
   {
@@ -10899,7 +10911,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 4026510,
+    "total_value": 4284699,
     "any_new": false
   },
   {
@@ -10910,7 +10922,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 35121473,
+    "total_value": 35701564,
     "any_new": false
   },
   {
@@ -10921,7 +10933,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 13232850,
+    "total_value": 17237250,
     "any_new": false
   },
   {
@@ -10932,7 +10944,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 27583245,
+    "total_value": 41757030,
     "any_new": false
   },
   {
@@ -10943,7 +10955,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 17926870,
+    "total_value": 25765350,
     "any_new": false
   },
   {
@@ -10954,7 +10966,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 1973345,
+    "total_value": 1628220,
     "any_new": false
   },
   {
@@ -10965,7 +10977,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 5720184,
+    "total_value": 5020151,
     "any_new": false
   },
   {
@@ -10976,7 +10988,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 72969286,
+    "total_value": 76422723,
     "any_new": false
   },
   {
@@ -10987,8 +10999,8 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 7643680,
-    "any_new": true
+    "total_value": 20916440,
+    "any_new": false
   },
   {
     "ticker": "GD",
@@ -10998,7 +11010,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 134199019,
+    "total_value": 138507840,
     "any_new": false
   },
   {
@@ -11009,7 +11021,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 5497752,
+    "total_value": 5935384,
     "any_new": false
   },
   {
@@ -11020,7 +11032,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 48711350,
+    "total_value": 60167720,
     "any_new": false
   },
   {
@@ -11031,7 +11043,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 15591750,
+    "total_value": 13158750,
     "any_new": false
   },
   {
@@ -11042,7 +11054,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 15295770,
+    "total_value": 18911340,
     "any_new": false
   },
   {
@@ -11053,7 +11065,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 10447250,
+    "total_value": 7696975,
     "any_new": false
   },
   {
@@ -11064,7 +11076,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 85244976,
+    "total_value": 88578926,
     "any_new": false
   },
   {
@@ -11075,7 +11087,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 4903326,
+    "total_value": 7490989,
     "any_new": false
   },
   {
@@ -11086,18 +11098,18 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 46358621,
+    "total_value": 58375945,
     "any_new": false
   },
   {
     "ticker": "LAMR",
-    "name": "LAMAR ADVERTISING CO NEW",
+    "name": "LAMAR ADVERTISING CO",
     "sector": null,
     "holders": [
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 24445380,
+    "total_value": 30104140,
     "any_new": false
   },
   {
@@ -11108,7 +11120,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 13818000,
+    "total_value": 14749500,
     "any_new": false
   },
   {
@@ -11119,7 +11131,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 136584790,
+    "total_value": 141445715,
     "any_new": false
   },
   {
@@ -11130,7 +11142,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 55590512,
+    "total_value": 76687892,
     "any_new": false
   },
   {
@@ -11141,18 +11153,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 43209600,
-    "any_new": false
-  },
-  {
-    "ticker": "SMG",
-    "name": "SCOTTS MIRACLE-GRO CO",
-    "sector": null,
-    "holders": [
-      "Tom Gayner"
-    ],
-    "holder_count": 1,
-    "total_value": 10216081,
+    "total_value": 42499520,
     "any_new": false
   },
   {
@@ -11163,7 +11164,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 13591004,
+    "total_value": 15191372,
     "any_new": false
   },
   {
@@ -11174,8 +11175,19 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 6934500,
+    "total_value": 6720100,
     "any_new": false
+  },
+  {
+    "ticker": "UFPI",
+    "name": "UFP INDUSTRIES INC",
+    "sector": null,
+    "holders": [
+      "Tom Gayner"
+    ],
+    "holder_count": 1,
+    "total_value": 362960,
+    "any_new": true
   },
   {
     "ticker": "URI",
@@ -11185,7 +11197,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 22694644,
+    "total_value": 35289524,
     "any_new": false
   },
   {
@@ -11196,7 +11208,7 @@
       "Tom Gayner"
     ],
     "holder_count": 1,
-    "total_value": 38125718,
+    "total_value": 39199750,
     "any_new": false
   },
   {
@@ -11604,17 +11616,6 @@
     ],
     "holder_count": 1,
     "total_value": 13069985,
-    "any_new": false
-  },
-  {
-    "ticker": "ZTS",
-    "name": "ZOETIS INC",
-    "sector": null,
-    "holders": [
-      "Terry Smith"
-    ],
-    "holder_count": 1,
-    "total_value": 458366249,
     "any_new": false
   },
   {
