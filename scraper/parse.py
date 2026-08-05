@@ -117,20 +117,47 @@ def parse_infotable_xml(xml_text: str) -> list[dict]:
 
     # ------------------------------------------------------------------
     # Value-unit normalisation
-    # SEC 13F requires values in thousands of dollars, but some filers
+    # SEC 13F requires values in thousands of dollars, but many filers
     # (e.g. Scion/Burry) report raw dollars instead.
-    # Heuristic: if the MEDIAN position value < 500,000 the filer is
-    # reporting in thousands and we must multiply by 1000.
-    # Using median (not min) avoids false triggers from tiny option legs.
+    #
+    # Detect units via IMPLIED SHARE PRICE (value / shares) of ordinary stock
+    # positions.  A filing in thousands shows implied prices 1000x too low, so
+    # almost no line clears $5; a filing already in dollars has most lines above
+    # it.  We therefore multiply when FEWER THAN 10% of clean stock lines imply
+    # a price >= $5.
+    #
+    # Why a share-of-lines test and not the median:
+    #   * the median POSITION VALUE (< $500k) failed for large concentrated
+    #     funds (e.g. TCI) -- per-position values in thousands still exceed any
+    #     fixed dollar threshold, leaving the whole filing 1000x too small.
+    #   * a median IMPLIED PRICE (< $1) failed the other way for small funds
+    #     holding many sub-$1 SPAC warrants (e.g. Greenhaven 2022-Q1/Q2, median
+    #     $0.85/$0.54) -- correct filings would be multiplied by 1000 again.
+    # Across the 894-filing corpus the two classes separate cleanly on this
+    # measure: the one genuinely-broken filing scores 0.00, every correct one
+    # scores >= 0.23.
     # ------------------------------------------------------------------
     if holdings:
-        pos_vals = sorted(h["value"] for h in holdings if h["value"] > 0)
-        if pos_vals:
-            mid = len(pos_vals) // 2
-            median_val = pos_vals[mid] if len(pos_vals) % 2 else (pos_vals[mid - 1] + pos_vals[mid]) // 2
-            if median_val < 500_000:
-                for h in holdings:
-                    h["value"] *= 1000
+        implied = [
+            h["value"] / h["shares"]
+            for h in holdings
+            if h.get("share_type") == "SH" and not h.get("put_call")
+            and h["shares"] > 0 and h["value"] > 0
+        ]
+        multiply = False
+        if implied:
+            multiply = sum(1 for px in implied if px >= 5.0) / len(implied) < 0.10
+        else:
+            # Fallback: no clean stock lines (all options/bonds) -- use the
+            # old median-position-value heuristic.
+            pos_vals = sorted(h["value"] for h in holdings if h["value"] > 0)
+            if pos_vals:
+                mid = len(pos_vals) // 2
+                median_val = pos_vals[mid] if len(pos_vals) % 2 else (pos_vals[mid - 1] + pos_vals[mid]) // 2
+                multiply = median_val < 500_000
+        if multiply:
+            for h in holdings:
+                h["value"] *= 1000
 
     return holdings
 
