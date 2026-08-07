@@ -4,6 +4,7 @@
     "name": "ALPHABET INC",
     "sector": null,
     "holders": [
+      "David Tepper",
       "Chris Hohn",
       "Bill Ackman",
       "Dan Loeb",
@@ -32,8 +33,8 @@
       "Fran\u00e7ois Rochon",
       "Christopher Bloomstran"
     ],
-    "holder_count": 27,
-    "total_value": 35808630499,
+    "holder_count": 28,
+    "total_value": 36305672821,
     "any_new": true
   },
   {
@@ -42,6 +43,7 @@
     "sector": null,
     "holders": [
       "Stanley Druckenmiller",
+      "David Tepper",
       "Bill Ackman",
       "Dan Loeb",
       "Philippe Laffont",
@@ -65,8 +67,8 @@
       "Chris Davis",
       "Robert Citrone"
     ],
-    "holder_count": 23,
-    "total_value": 12345728381,
+    "holder_count": 24,
+    "total_value": 13245454781,
     "any_new": false
   },
   {
@@ -74,6 +76,7 @@
     "name": "META PLATFORMS INC",
     "sector": null,
     "holders": [
+      "David Tepper",
       "Bill Ackman",
       "Dan Loeb",
       "Philippe Laffont",
@@ -95,8 +98,8 @@
       "Terry Smith",
       "Fran\u00e7ois Rochon"
     ],
-    "holder_count": 20,
-    "total_value": 10468481123,
+    "holder_count": 21,
+    "total_value": 10718215868,
     "any_new": true
   },
   {
@@ -105,6 +108,7 @@
     "sector": null,
     "holders": [
       "Stanley Druckenmiller",
+      "David Tepper",
       "Dan Loeb",
       "Philippe Laffont",
       "Brad Gerstner",
@@ -122,8 +126,8 @@
       "Chris Davis",
       "Fran\u00e7ois Rochon"
     ],
-    "holder_count": 17,
-    "total_value": 9259263145,
+    "holder_count": 18,
+    "total_value": 9707891770,
     "any_new": true
   },
   {
@@ -131,6 +135,7 @@
     "name": "MICROSOFT CORP",
     "sector": null,
     "holders": [
+      "David Tepper",
       "Chris Hohn",
       "Bill Ackman",
       "Philippe Laffont",
@@ -149,8 +154,8 @@
       "Fran\u00e7ois Rochon",
       "John Huber"
     ],
-    "holder_count": 17,
-    "total_value": 7342270317,
+    "holder_count": 18,
+    "total_value": 7375585617,
     "any_new": true
   },
   {
@@ -158,6 +163,7 @@
     "name": "NVIDIA CORPORATION",
     "sector": null,
     "holders": [
+      "David Tepper",
       "Dan Loeb",
       "Philippe Laffont",
       "Brad Gerstner",
@@ -176,8 +182,8 @@
       "Chris Davis",
       "Robert Citrone"
     ],
-    "holder_count": 17,
-    "total_value": 6987301207,
+    "holder_count": 18,
+    "total_value": 7243930807,
     "any_new": true
   },
   {
@@ -330,6 +336,25 @@
     "any_new": true
   },
   {
+    "ticker": "ASMLF",
+    "name": "ASML HLDG NV",
+    "sector": null,
+    "holders": [
+      "David Tepper",
+      "Dan Loeb",
+      "Philippe Laffont",
+      "Stephen Mandel",
+      "Dan Sundheim",
+      "Glen Kacher",
+      "Dev Kantesaria",
+      "Pat Dorsey",
+      "Ron Baron"
+    ],
+    "holder_count": 9,
+    "total_value": 2083782353,
+    "any_new": true
+  },
+  {
     "ticker": "MCO",
     "name": "MOODYS CORP",
     "sector": null,
@@ -387,21 +412,21 @@
     "any_new": true
   },
   {
-    "ticker": "ASMLF",
-    "name": "ASML HLDG NV",
+    "ticker": "LRCX",
+    "name": "LAM RESEARCH CORP",
     "sector": null,
     "holders": [
+      "David Tepper",
       "Dan Loeb",
       "Philippe Laffont",
-      "Stephen Mandel",
-      "Dan Sundheim",
-      "Glen Kacher",
-      "Dev Kantesaria",
-      "Pat Dorsey",
-      "Ron Baron"
+      "Alex Sacerdote",
+      "Chase Coleman",
+      "Ron Baron",
+      "Chris Davis",
+      "Robert Citrone"
     ],
     "holder_count": 8,
-    "total_value": 2018401268,
+    "total_value": 3370868312,
     "any_new": true
   },
   {
@@ -441,6 +466,24 @@
     "any_new": true
   },
   {
+    "ticker": "AFGB",
+    "name": "AMERICAN INTL GROUP INC",
+    "sector": null,
+    "holders": [
+      "Andreas Halvorsen",
+      "Chuck Akre",
+      "David Einhorn",
+      "Rajiv Jain",
+      "Ron Baron",
+      "Cathie Wood",
+      "Bill Nygren",
+      "Chris Davis"
+    ],
+    "holder_count": 8,
+    "total_value": 5570544491,
+    "any_new": true
+  },
+  {
     "ticker": "SCHW-PJ",
     "name": "SCHWAB CHARLES CORP",
     "sector": null,
@@ -457,23 +500,6 @@
     "holder_count": 8,
     "total_value": 4864944695,
     "any_new": false
-  },
-  {
-    "ticker": "LRCX",
-    "name": "LAM RESEARCH CORP",
-    "sector": null,
-    "holders": [
-      "Dan Loeb",
-      "Philippe Laffont",
-      "Alex Sacerdote",
-      "Chase Coleman",
-      "Ron Baron",
-      "Chris Davis",
-      "Robert Citrone"
-    ],
-    "holder_count": 7,
-    "total_value": 3289143362,
-    "any_new": true
   },
   {
     "ticker": "AMAT",
@@ -510,23 +536,6 @@
     "any_new": true
   },
   {
-    "ticker": "AFGB",
-    "name": "AMERICAN INTL GROUP INC",
-    "sector": null,
-    "holders": [
-      "Andreas Halvorsen",
-      "Chuck Akre",
-      "Rajiv Jain",
-      "Ron Baron",
-      "Cathie Wood",
-      "Bill Nygren",
-      "Chris Davis"
-    ],
-    "holder_count": 7,
-    "total_value": 5533118185,
-    "any_new": true
-  },
-  {
     "ticker": "VYLD",
     "name": "JPMORGAN CHASE & CO",
     "sector": null,
@@ -560,6 +569,22 @@
     "any_new": true
   },
   {
+    "ticker": "MU",
+    "name": "Micron Technology Inc",
+    "sector": null,
+    "holders": [
+      "Stanley Druckenmiller",
+      "David Tepper",
+      "Philippe Laffont",
+      "Ron Baron",
+      "John Huber",
+      "Robert Citrone"
+    ],
+    "holder_count": 6,
+    "total_value": 723397649,
+    "any_new": true
+  },
+  {
     "ticker": "SE",
     "name": "Sea Ltd",
     "sector": null,
@@ -590,6 +615,22 @@
     "holder_count": 6,
     "total_value": 294777749,
     "any_new": false
+  },
+  {
+    "ticker": "UBER",
+    "name": "UBER TECHNOLOGIES INC",
+    "sector": null,
+    "holders": [
+      "David Tepper",
+      "Bill Ackman",
+      "Brad Gerstner",
+      "Chase Coleman",
+      "Pat Dorsey",
+      "Tom Gayner"
+    ],
+    "holder_count": 6,
+    "total_value": 3283437455,
+    "any_new": true
   },
   {
     "ticker": "SPGI",
@@ -751,21 +792,6 @@
     "any_new": true
   },
   {
-    "ticker": "MU",
-    "name": "Micron Technology Inc",
-    "sector": null,
-    "holders": [
-      "Stanley Druckenmiller",
-      "Philippe Laffont",
-      "Ron Baron",
-      "John Huber",
-      "Robert Citrone"
-    ],
-    "holder_count": 5,
-    "total_value": 160894049,
-    "any_new": true
-  },
-  {
     "ticker": "QSR",
     "name": "Restaurant Brands Intl Inc",
     "sector": null,
@@ -779,6 +805,21 @@
     "holder_count": 5,
     "total_value": 2686901625,
     "any_new": false
+  },
+  {
+    "ticker": "SNDK",
+    "name": "Sandisk Corp",
+    "sector": null,
+    "holders": [
+      "Stanley Druckenmiller",
+      "David Tepper",
+      "Alex Sacerdote",
+      "Karthik Sarma",
+      "Robert Citrone"
+    ],
+    "holder_count": 5,
+    "total_value": 849949195,
+    "any_new": true
   },
   {
     "ticker": "TWLO",
@@ -796,18 +837,48 @@
     "any_new": true
   },
   {
-    "ticker": "UBER",
-    "name": "UBER TECHNOLOGIES INC",
+    "ticker": "AMD",
+    "name": "ADVANCED MICRO DEVICES INC",
     "sector": null,
     "holders": [
-      "Bill Ackman",
-      "Brad Gerstner",
-      "Chase Coleman",
-      "Pat Dorsey",
-      "Tom Gayner"
+      "David Tepper",
+      "Alex Sacerdote",
+      "Karthik Sarma",
+      "Glen Kacher",
+      "Cathie Wood"
     ],
     "holder_count": 5,
-    "total_value": 2827924905,
+    "total_value": 949055469,
+    "any_new": true
+  },
+  {
+    "ticker": "BBAAY",
+    "name": "ALIBABA GROUP HLDG LTD",
+    "sector": null,
+    "holders": [
+      "David Tepper",
+      "Dennis Hong",
+      "Ron Baron",
+      "Cathie Wood",
+      "Bill Nygren"
+    ],
+    "holder_count": 5,
+    "total_value": 650812791,
+    "any_new": false
+  },
+  {
+    "ticker": "GLW",
+    "name": "CORNING INC",
+    "sector": null,
+    "holders": [
+      "David Tepper",
+      "Alex Sacerdote",
+      "Stephen Mandel",
+      "Mala Gaonkar",
+      "John Huber"
+    ],
+    "holder_count": 5,
+    "total_value": 1089473653,
     "any_new": true
   },
   {
@@ -822,7 +893,7 @@
       "Robert Citrone"
     ],
     "holder_count": 5,
-    "total_value": 117999787,
+    "total_value": 86889320,
     "any_new": true
   },
   {
@@ -1064,20 +1135,6 @@
     "any_new": false
   },
   {
-    "ticker": "IVZ",
-    "name": "Invesco Exchange Traded Fd T",
-    "sector": null,
-    "holders": [
-      "Stanley Druckenmiller",
-      "David Einhorn",
-      "Scott Ferguson",
-      "Fran\u00e7ois Rochon"
-    ],
-    "holder_count": 4,
-    "total_value": 215840766,
-    "any_new": true
-  },
-  {
     "ticker": "LITE",
     "name": "Lumentum Hldgs Inc",
     "sector": null,
@@ -1106,17 +1163,17 @@
     "any_new": false
   },
   {
-    "ticker": "SNDK",
-    "name": "Sandisk Corp",
+    "ticker": "STUB",
+    "name": "Stubhub Hldgs Inc",
     "sector": null,
     "holders": [
       "Stanley Druckenmiller",
-      "Alex Sacerdote",
-      "Karthik Sarma",
+      "David Einhorn",
+      "Ron Baron",
       "Robert Citrone"
     ],
     "holder_count": 4,
-    "total_value": 671259820,
+    "total_value": 52991150,
     "any_new": true
   },
   {
@@ -1130,8 +1187,22 @@
       "Cathie Wood"
     ],
     "holder_count": 4,
-    "total_value": 80378989,
-    "any_new": true
+    "total_value": 165247321,
+    "any_new": false
+  },
+  {
+    "ticker": "UNH",
+    "name": "UNITEDHEALTH GROUP INC",
+    "sector": null,
+    "holders": [
+      "David Tepper",
+      "Chase Coleman",
+      "Chris Davis",
+      "John Huber"
+    ],
+    "holder_count": 4,
+    "total_value": 457528682,
+    "any_new": false
   },
   {
     "ticker": "HTZWW",
@@ -1218,20 +1289,6 @@
     "any_new": true
   },
   {
-    "ticker": "FCNCN",
-    "name": "FIRST CTZNS BANCSHARES INC D",
-    "sector": null,
-    "holders": [
-      "Philippe Laffont",
-      "David Einhorn",
-      "Bill Nygren",
-      "John Huber"
-    ],
-    "holder_count": 4,
-    "total_value": 2098143319,
-    "any_new": false
-  },
-  {
     "ticker": "ISRG",
     "name": "INTUITIVE SURGICAL INC",
     "sector": null,
@@ -1288,20 +1345,6 @@
     "any_new": false
   },
   {
-    "ticker": "GLW",
-    "name": "CORNING INC",
-    "sector": null,
-    "holders": [
-      "Alex Sacerdote",
-      "Stephen Mandel",
-      "Mala Gaonkar",
-      "John Huber"
-    ],
-    "holder_count": 4,
-    "total_value": 935895538,
-    "any_new": true
-  },
-  {
     "ticker": "FROG",
     "name": "JFROG LTD",
     "sector": null,
@@ -1328,20 +1371,6 @@
     "holder_count": 4,
     "total_value": 681912087,
     "any_new": false
-  },
-  {
-    "ticker": "AMD",
-    "name": "ADVANCED MICRO DEVICES INC",
-    "sector": null,
-    "holders": [
-      "Alex Sacerdote",
-      "Karthik Sarma",
-      "Glen Kacher",
-      "Cathie Wood"
-    ],
-    "holder_count": 4,
-    "total_value": 904016067,
-    "any_new": true
   },
   {
     "ticker": "KMX",
@@ -1537,20 +1566,6 @@
     ],
     "holder_count": 4,
     "total_value": 1637922576,
-    "any_new": false
-  },
-  {
-    "ticker": "BBAAY",
-    "name": "ALIBABA GROUP HLDG LTD",
-    "sector": null,
-    "holders": [
-      "Dennis Hong",
-      "Ron Baron",
-      "Cathie Wood",
-      "Bill Nygren"
-    ],
-    "holder_count": 4,
-    "total_value": 216093891,
     "any_new": false
   },
   {
@@ -1872,6 +1887,19 @@
     "any_new": true
   },
   {
+    "ticker": "IVZ",
+    "name": "Invesco Exchange Traded Fd T",
+    "sector": null,
+    "holders": [
+      "Stanley Druckenmiller",
+      "Scott Ferguson",
+      "Fran\u00e7ois Rochon"
+    ],
+    "holder_count": 3,
+    "total_value": 197453184,
+    "any_new": true
+  },
+  {
     "ticker": "LSCC",
     "name": "Lattice Semiconductor Corp",
     "sector": null,
@@ -1894,21 +1922,8 @@
       "David Einhorn"
     ],
     "holder_count": 3,
-    "total_value": 24985304,
+    "total_value": 25076591,
     "any_new": true
-  },
-  {
-    "ticker": "STUB",
-    "name": "Stubhub Hldgs Inc",
-    "sector": null,
-    "holders": [
-      "Stanley Druckenmiller",
-      "Ron Baron",
-      "Robert Citrone"
-    ],
-    "holder_count": 3,
-    "total_value": 26575982,
-    "any_new": false
   },
   {
     "ticker": "UTHR",
@@ -1922,6 +1937,45 @@
     "holder_count": 3,
     "total_value": 376103445,
     "any_new": false
+  },
+  {
+    "ticker": "JDCMF",
+    "name": "JD.COM INC",
+    "sector": null,
+    "holders": [
+      "David Tepper",
+      "Chase Coleman",
+      "Chris Davis"
+    ],
+    "holder_count": 3,
+    "total_value": 57150737,
+    "any_new": false
+  },
+  {
+    "ticker": "PDD",
+    "name": "PDD HOLDINGS INC",
+    "sector": null,
+    "holders": [
+      "David Tepper",
+      "Ron Baron",
+      "Li Lu"
+    ],
+    "holder_count": 3,
+    "total_value": 569137287,
+    "any_new": false
+  },
+  {
+    "ticker": "QCOM",
+    "name": "QUALCOMM INC",
+    "sector": null,
+    "holders": [
+      "David Tepper",
+      "Philippe Laffont",
+      "Ron Baron"
+    ],
+    "holder_count": 3,
+    "total_value": 243384541,
+    "any_new": true
   },
   {
     "ticker": "GE",
@@ -1974,6 +2028,19 @@
     "holder_count": 3,
     "total_value": 161490645,
     "any_new": true
+  },
+  {
+    "ticker": "FCNCN",
+    "name": "FIRST CTZNS BANCSHARES INC D",
+    "sector": null,
+    "holders": [
+      "Philippe Laffont",
+      "Bill Nygren",
+      "John Huber"
+    ],
+    "holder_count": 3,
+    "total_value": 2062924483,
+    "any_new": false
   },
   {
     "ticker": "GEV",
@@ -2132,19 +2199,6 @@
     "any_new": true
   },
   {
-    "ticker": "UNH",
-    "name": "UNITEDHEALTH GROUP INC",
-    "sector": null,
-    "holders": [
-      "Chase Coleman",
-      "Chris Davis",
-      "John Huber"
-    ],
-    "holder_count": 3,
-    "total_value": 433175582,
-    "any_new": false
-  },
-  {
     "ticker": "ZS",
     "name": "ZSCALER INC",
     "sector": null,
@@ -2181,19 +2235,6 @@
     ],
     "holder_count": 3,
     "total_value": 136914453,
-    "any_new": false
-  },
-  {
-    "ticker": "THC",
-    "name": "TENET HEALTHCARE CORP",
-    "sector": null,
-    "holders": [
-      "Stephen Mandel",
-      "David Einhorn",
-      "Bill Nygren"
-    ],
-    "holder_count": 3,
-    "total_value": 526143242,
     "any_new": false
   },
   {
@@ -2247,6 +2288,19 @@
     "holder_count": 3,
     "total_value": 163899794,
     "any_new": true
+  },
+  {
+    "ticker": "ROIV",
+    "name": "ROIVANT SCIENCES LTD",
+    "sector": null,
+    "holders": [
+      "Andreas Halvorsen",
+      "David Einhorn",
+      "Ron Baron"
+    ],
+    "holder_count": 3,
+    "total_value": 247364241,
+    "any_new": false
   },
   {
     "ticker": "WAT",
@@ -2310,7 +2364,7 @@
       "Scott Ferguson"
     ],
     "holder_count": 3,
-    "total_value": 545507244,
+    "total_value": 569451151,
     "any_new": false
   },
   {
@@ -2338,19 +2392,6 @@
     "holder_count": 3,
     "total_value": 1271478572,
     "any_new": false
-  },
-  {
-    "ticker": "AER",
-    "name": "AERCAP HOLDINGS NV",
-    "sector": null,
-    "holders": [
-      "Pat Dorsey",
-      "David Einhorn",
-      "Bill Nygren"
-    ],
-    "holder_count": 3,
-    "total_value": 982284757,
-    "any_new": true
   },
   {
     "ticker": "CPRT",
@@ -2827,6 +2868,18 @@
     "any_new": true
   },
   {
+    "ticker": "IAU",
+    "name": "Ishares Inc",
+    "sector": null,
+    "holders": [
+      "Stanley Druckenmiller",
+      "David Tepper"
+    ],
+    "holder_count": 2,
+    "total_value": 589452000,
+    "any_new": false
+  },
+  {
     "ticker": "JBL",
     "name": "Jabil Inc",
     "sector": null,
@@ -2983,6 +3036,78 @@
     "any_new": false
   },
   {
+    "ticker": "BAIDF",
+    "name": "BAIDU INC",
+    "sector": null,
+    "holders": [
+      "David Tepper",
+      "Cathie Wood"
+    ],
+    "holder_count": 2,
+    "total_value": 201941040,
+    "any_new": false
+  },
+  {
+    "ticker": "ET-PI",
+    "name": "ENERGY TRANSFER L P",
+    "sector": null,
+    "holders": [
+      "David Tepper",
+      "Glenn Greenberg"
+    ],
+    "holder_count": 2,
+    "total_value": 30708713,
+    "any_new": true
+  },
+  {
+    "ticker": "LHX",
+    "name": "L3HARRIS TECHNOLOGIES INC",
+    "sector": null,
+    "holders": [
+      "David Tepper",
+      "Cathie Wood"
+    ],
+    "holder_count": 2,
+    "total_value": 202842584,
+    "any_new": false
+  },
+  {
+    "ticker": "MPLXP",
+    "name": "MPLX LP",
+    "sector": null,
+    "holders": [
+      "David Tepper",
+      "Glenn Greenberg"
+    ],
+    "holder_count": 2,
+    "total_value": 214354007,
+    "any_new": false
+  },
+  {
+    "ticker": "WTBA",
+    "name": "RTX CORPORATION",
+    "sector": null,
+    "holders": [
+      "David Tepper",
+      "Tom Gayner"
+    ],
+    "holder_count": 2,
+    "total_value": 108471320,
+    "any_new": false
+  },
+  {
+    "ticker": "VST",
+    "name": "VISTRA CORP",
+    "sector": null,
+    "holders": [
+      "David Tepper",
+      "Stephen Mandel"
+    ],
+    "holder_count": 2,
+    "total_value": 1234196823,
+    "any_new": false
+  },
+  {
     "ticker": "CNI",
     "name": "CANADIAN NATL RY CO",
     "sector": null,
@@ -3115,15 +3240,15 @@
     "any_new": false
   },
   {
-    "ticker": "QCOM",
-    "name": "QUALCOMM INC",
+    "ticker": "PTON",
+    "name": "PELOTON INTERACTIVE INC",
     "sector": null,
     "holders": [
       "Philippe Laffont",
-      "Ron Baron"
+      "David Einhorn"
     ],
     "holder_count": 2,
-    "total_value": 179173159,
+    "total_value": 54113803,
     "any_new": true
   },
   {
@@ -3283,18 +3408,6 @@
     "any_new": false
   },
   {
-    "ticker": "JDCMF",
-    "name": "JD.COM INC",
-    "sector": null,
-    "holders": [
-      "Chase Coleman",
-      "Chris Davis"
-    ],
-    "holder_count": 2,
-    "total_value": 18561887,
-    "any_new": false
-  },
-  {
     "ticker": "KLAR",
     "name": "KLARNA GROUP PLC",
     "sector": null,
@@ -3376,6 +3489,18 @@
     ],
     "holder_count": 2,
     "total_value": 1074351646,
+    "any_new": false
+  },
+  {
+    "ticker": "THC",
+    "name": "TENET HEALTHCARE CORP",
+    "sector": null,
+    "holders": [
+      "Stephen Mandel",
+      "Bill Nygren"
+    ],
+    "holder_count": 2,
+    "total_value": 426695389,
     "any_new": false
   },
   {
@@ -3533,18 +3658,6 @@
     "holder_count": 2,
     "total_value": 171957021,
     "any_new": true
-  },
-  {
-    "ticker": "ROIV",
-    "name": "ROIVANT SCIENCES LTD",
-    "sector": null,
-    "holders": [
-      "Andreas Halvorsen",
-      "Ron Baron"
-    ],
-    "holder_count": 2,
-    "total_value": 187735310,
-    "any_new": false
   },
   {
     "ticker": "LAB",
@@ -3751,6 +3864,18 @@
     "any_new": true
   },
   {
+    "ticker": "AER",
+    "name": "AERCAP HOLDINGS NV",
+    "sector": null,
+    "holders": [
+      "Pat Dorsey",
+      "Bill Nygren"
+    ],
+    "holder_count": 2,
+    "total_value": 963704757,
+    "any_new": false
+  },
+  {
     "ticker": "LAD",
     "name": "LITHIA MTRS INC",
     "sector": null,
@@ -3823,6 +3948,30 @@
     "any_new": false
   },
   {
+    "ticker": "SLMBP",
+    "name": "SLM CORP",
+    "sector": null,
+    "holders": [
+      "Glenn Greenberg",
+      "David Einhorn"
+    ],
+    "holder_count": 2,
+    "total_value": 335841714,
+    "any_new": true
+  },
+  {
+    "ticker": "SNX",
+    "name": "TD SYNNEX CORPORATION",
+    "sector": null,
+    "holders": [
+      "Glenn Greenberg",
+      "David Einhorn"
+    ],
+    "holder_count": 2,
+    "total_value": 596081785,
+    "any_new": false
+  },
+  {
     "ticker": "EFSI",
     "name": "EAGLE MATLS INC",
     "sector": null,
@@ -3844,6 +3993,18 @@
     ],
     "holder_count": 2,
     "total_value": 573624127,
+    "any_new": false
+  },
+  {
+    "ticker": "LBTYK",
+    "name": "LIBERTY GLOBAL LTD",
+    "sector": null,
+    "holders": [
+      "Seth Klarman",
+      "David Einhorn"
+    ],
+    "holder_count": 2,
+    "total_value": 217156563,
     "any_new": false
   },
   {
@@ -3883,52 +4044,100 @@
     "any_new": false
   },
   {
-    "ticker": "HRI",
-    "name": "HERC HLDGS INC",
+    "ticker": "CNC",
+    "name": "CENTENE CORP DEL",
     "sector": null,
     "holders": [
       "David Einhorn",
       "Bill Nygren"
     ],
     "holder_count": 2,
-    "total_value": 20638450,
+    "total_value": 550894404,
     "any_new": false
   },
   {
-    "ticker": "KVUE",
-    "name": "KENVUE INC",
+    "ticker": "CNH",
+    "name": "CNH INDL N V",
+    "sector": null,
+    "holders": [
+      "David Einhorn",
+      "Bill Nygren"
+    ],
+    "holder_count": 2,
+    "total_value": 685476649,
+    "any_new": false
+  },
+  {
+    "ticker": "CROX",
+    "name": "CROCS INC",
+    "sector": null,
+    "holders": [
+      "David Einhorn",
+      "Li Lu"
+    ],
+    "holder_count": 2,
+    "total_value": 129198464,
+    "any_new": true
+  },
+  {
+    "ticker": "DECK",
+    "name": "DECKERS OUTDOOR CORP",
+    "sector": null,
+    "holders": [
+      "David Einhorn",
+      "Christopher Bloomstran"
+    ],
+    "holder_count": 2,
+    "total_value": 114345519,
+    "any_new": false
+  },
+  {
+    "ticker": "FLR",
+    "name": "FLUOR CORP",
     "sector": null,
     "holders": [
       "David Einhorn",
       "Jeff Smith"
     ],
     "holder_count": 2,
-    "total_value": 482721746,
+    "total_value": 356111034,
+    "any_new": false
+  },
+  {
+    "ticker": "PSKY",
+    "name": "PARAMOUNT SKYDANCE CORP",
+    "sector": null,
+    "holders": [
+      "David Einhorn",
+      "Christopher Bloomstran"
+    ],
+    "holder_count": 2,
+    "total_value": 41300658,
     "any_new": true
   },
   {
-    "ticker": "SDRL",
-    "name": "SEADRILL 2021 LTD",
+    "ticker": "PENN",
+    "name": "PENN ENTERTAINMENT INC",
     "sector": null,
     "holders": [
       "David Einhorn",
-      "Paul Singer / Jesse Cohn"
+      "Ron Baron"
     ],
     "holder_count": 2,
-    "total_value": 240435614,
-    "any_new": false
+    "total_value": 122294360,
+    "any_new": true
   },
   {
-    "ticker": "TCKRF",
-    "name": "TECK RESOURCES LTD",
+    "ticker": "TRIP",
+    "name": "TRIPADVISOR INC",
     "sector": null,
     "holders": [
       "David Einhorn",
-      "Chris Davis"
+      "Jeff Smith"
     ],
     "holder_count": 2,
-    "total_value": 613362539,
-    "any_new": false
+    "total_value": 131541116,
+    "any_new": true
   },
   {
     "ticker": "VTRS",
@@ -3939,7 +4148,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 1092976196,
+    "total_value": 1081188577,
     "any_new": true
   },
   {
@@ -3951,7 +4160,7 @@
       "Scott Ferguson"
     ],
     "holder_count": 2,
-    "total_value": 283484167,
+    "total_value": 252596792,
     "any_new": true
   },
   {
@@ -4735,18 +4944,6 @@
     "any_new": false
   },
   {
-    "ticker": "PDD",
-    "name": "PDD HOLDINGS INC",
-    "sector": null,
-    "holders": [
-      "Ron Baron",
-      "Li Lu"
-    ],
-    "holder_count": 2,
-    "total_value": 477175287,
-    "any_new": false
-  },
-  {
     "ticker": "TROW",
     "name": "PRICE T ROWE GROUP INC",
     "sector": null,
@@ -5437,17 +5634,6 @@
     "any_new": true
   },
   {
-    "ticker": "IAU",
-    "name": "Ishares Inc",
-    "sector": null,
-    "holders": [
-      "Stanley Druckenmiller"
-    ],
-    "holder_count": 1,
-    "total_value": 294228000,
-    "any_new": false
-  },
-  {
     "ticker": "ISMCF",
     "name": "Ishares S&P Gsci Commodity-",
     "sector": null,
@@ -5577,6 +5763,61 @@
     ],
     "holder_count": 1,
     "total_value": 75648000,
+    "any_new": false
+  },
+  {
+    "ticker": "BALL",
+    "name": "BALL CORP",
+    "sector": null,
+    "holders": [
+      "David Tepper"
+    ],
+    "holder_count": 1,
+    "total_value": 49475070,
+    "any_new": false
+  },
+  {
+    "ticker": "BAR",
+    "name": "KRANESHARES TRUST",
+    "sector": null,
+    "holders": [
+      "David Tepper"
+    ],
+    "holder_count": 1,
+    "total_value": 30704400,
+    "any_new": false
+  },
+  {
+    "ticker": "LYFT",
+    "name": "LYFT INC",
+    "sector": null,
+    "holders": [
+      "David Tepper"
+    ],
+    "holder_count": 1,
+    "total_value": 35910000,
+    "any_new": false
+  },
+  {
+    "ticker": "NRG",
+    "name": "NRG ENERGY INC",
+    "sector": null,
+    "holders": [
+      "David Tepper"
+    ],
+    "holder_count": 1,
+    "total_value": 253471354,
+    "any_new": false
+  },
+  {
+    "ticker": "WHR",
+    "name": "WHIRLPOOL CORP",
+    "sector": null,
+    "holders": [
+      "David Tepper"
+    ],
+    "holder_count": 1,
+    "total_value": 105144000,
     "any_new": false
   },
   {
@@ -5786,17 +6027,6 @@
     ],
     "holder_count": 1,
     "total_value": 2567885,
-    "any_new": true
-  },
-  {
-    "ticker": "PTON",
-    "name": "PELOTON INTERACTIVE INC",
-    "sector": null,
-    "holders": [
-      "Philippe Laffont"
-    ],
-    "holder_count": 1,
-    "total_value": 10725000,
     "any_new": true
   },
   {
@@ -6172,17 +6402,6 @@
     "holder_count": 1,
     "total_value": 287466235,
     "any_new": true
-  },
-  {
-    "ticker": "VST",
-    "name": "VISTRA CORP",
-    "sector": null,
-    "holders": [
-      "Stephen Mandel"
-    ],
-    "holder_count": 1,
-    "total_value": 930179653,
-    "any_new": false
   },
   {
     "ticker": "AS",
@@ -6911,17 +7130,6 @@
     "any_new": false
   },
   {
-    "ticker": "ET-PI",
-    "name": "ENERGY TRANSFER L P",
-    "sector": null,
-    "holders": [
-      "Glenn Greenberg"
-    ],
-    "holder_count": 1,
-    "total_value": 289500,
-    "any_new": true
-  },
-  {
     "ticker": "FGN",
     "name": "F&G ANNUITIES & LIFE INC",
     "sector": null,
@@ -6955,17 +7163,6 @@
     "any_new": true
   },
   {
-    "ticker": "MPLXP",
-    "name": "MPLX LP",
-    "sector": null,
-    "holders": [
-      "Glenn Greenberg"
-    ],
-    "holder_count": 1,
-    "total_value": 185678615,
-    "any_new": false
-  },
-  {
     "ticker": "OMF",
     "name": "ONEMAIN HLDGS INC",
     "sector": null,
@@ -6974,28 +7171,6 @@
     ],
     "holder_count": 1,
     "total_value": 412049891,
-    "any_new": false
-  },
-  {
-    "ticker": "SLMBP",
-    "name": "SLM CORP",
-    "sector": null,
-    "holders": [
-      "Glenn Greenberg"
-    ],
-    "holder_count": 1,
-    "total_value": 290841319,
-    "any_new": false
-  },
-  {
-    "ticker": "SNX",
-    "name": "TD SYNNEX CORPORATION",
-    "sector": null,
-    "holders": [
-      "Glenn Greenberg"
-    ],
-    "holder_count": 1,
-    "total_value": 515180279,
     "any_new": false
   },
   {
@@ -7043,17 +7218,6 @@
     "any_new": false
   },
   {
-    "ticker": "LBTYK",
-    "name": "LIBERTY GLOBAL LTD",
-    "sector": null,
-    "holders": [
-      "Seth Klarman"
-    ],
-    "holder_count": 1,
-    "total_value": 157150000,
-    "any_new": false
-  },
-  {
     "ticker": "TFX",
     "name": "TELEFLEX INCORPORATED",
     "sector": null,
@@ -7076,15 +7240,37 @@
     "any_new": true
   },
   {
-    "ticker": "ALIT",
-    "name": "ALIGHT INC",
+    "ticker": "ACAD",
+    "name": "ACADIA HEALTHCARE COMPANY IN",
     "sector": null,
     "holders": [
       "David Einhorn"
     ],
     "holder_count": 1,
-    "total_value": 78831446,
-    "any_new": true
+    "total_value": 105684932,
+    "any_new": false
+  },
+  {
+    "ticker": "AR",
+    "name": "ANTERO RESOURCES CORP",
+    "sector": null,
+    "holders": [
+      "David Einhorn"
+    ],
+    "holder_count": 1,
+    "total_value": 34313589,
+    "any_new": false
+  },
+  {
+    "ticker": "BKV",
+    "name": "BKV CORP",
+    "sector": null,
+    "holders": [
+      "David Einhorn"
+    ],
+    "holder_count": 1,
+    "total_value": 76876887,
+    "any_new": false
   },
   {
     "ticker": "BHFAO",
@@ -7094,18 +7280,29 @@
       "David Einhorn"
     ],
     "holder_count": 1,
-    "total_value": 161068530,
+    "total_value": 170184948,
     "any_new": false
   },
   {
-    "ticker": "CEHCF",
-    "name": "CONSOL ENERGY INC NEW",
+    "ticker": "CPRI",
+    "name": "CAPRI HOLDINGS LIMITED",
     "sector": null,
     "holders": [
       "David Einhorn"
     ],
     "holder_count": 1,
-    "total_value": 211673655,
+    "total_value": 86872203,
+    "any_new": false
+  },
+  {
+    "ticker": "CNR",
+    "name": "CORE NATURAL RESOURCES INC",
+    "sector": null,
+    "holders": [
+      "David Einhorn"
+    ],
+    "holder_count": 1,
+    "total_value": 194603003,
     "any_new": false
   },
   {
@@ -7116,7 +7313,7 @@
       "David Einhorn"
     ],
     "holder_count": 1,
-    "total_value": 9440533,
+    "total_value": 9202027,
     "any_new": false
   },
   {
@@ -7127,18 +7324,7 @@
       "David Einhorn"
     ],
     "holder_count": 1,
-    "total_value": 37080623,
-    "any_new": false
-  },
-  {
-    "ticker": "FHN-PF",
-    "name": "FIRST HORIZON CORPORATION",
-    "sector": null,
-    "holders": [
-      "David Einhorn"
-    ],
-    "holder_count": 1,
-    "total_value": 19499594,
+    "total_value": 96333508,
     "any_new": false
   },
   {
@@ -7149,7 +7335,7 @@
       "David Einhorn"
     ],
     "holder_count": 1,
-    "total_value": 1921158,
+    "total_value": 1098292,
     "any_new": false
   },
   {
@@ -7160,7 +7346,7 @@
       "David Einhorn"
     ],
     "holder_count": 1,
-    "total_value": 6608796,
+    "total_value": 14482380,
     "any_new": false
   },
   {
@@ -7171,7 +7357,7 @@
       "David Einhorn"
     ],
     "holder_count": 1,
-    "total_value": 9796156,
+    "total_value": 1304272,
     "any_new": false
   },
   {
@@ -7182,7 +7368,7 @@
       "David Einhorn"
     ],
     "holder_count": 1,
-    "total_value": 62514865,
+    "total_value": 90453801,
     "any_new": false
   },
   {
@@ -7193,19 +7379,19 @@
       "David Einhorn"
     ],
     "holder_count": 1,
-    "total_value": 592369623,
+    "total_value": 610172834,
     "any_new": false
   },
   {
-    "ticker": "GPOR",
-    "name": "GULFPORT ENERGY CORP",
+    "ticker": "IMVT",
+    "name": "IMMUNOVANT INC",
     "sector": null,
     "holders": [
       "David Einhorn"
     ],
     "holder_count": 1,
-    "total_value": 29699604,
-    "any_new": false
+    "total_value": 2323036,
+    "any_new": true
   },
   {
     "ticker": "KPLTW",
@@ -7215,52 +7401,96 @@
       "David Einhorn"
     ],
     "holder_count": 1,
-    "total_value": 1940,
+    "total_value": 603,
     "any_new": false
   },
   {
-    "ticker": "KD",
-    "name": "KYNDRYL HLDGS INC",
+    "ticker": "PCG-PX",
+    "name": "PG&E CORP",
     "sector": null,
     "holders": [
       "David Einhorn"
     ],
     "holder_count": 1,
-    "total_value": 132079115,
+    "total_value": 116539209,
     "any_new": false
   },
   {
-    "ticker": "LIVN",
-    "name": "LIVANOVA PLC",
+    "ticker": "REZI",
+    "name": "RESIDEO TECHNOLOGIES INC",
     "sector": null,
     "holders": [
       "David Einhorn"
     ],
     "holder_count": 1,
-    "total_value": 63604811,
-    "any_new": false
+    "total_value": 53091564,
+    "any_new": true
   },
   {
-    "ticker": "NPWR-WT",
-    "name": "NET POWER INC",
+    "ticker": "HSIC",
+    "name": "SCHEIN HENRY INC",
     "sector": null,
     "holders": [
       "David Einhorn"
     ],
     "holder_count": 1,
-    "total_value": 30220311,
+    "total_value": 44168410,
     "any_new": false
   },
   {
-    "ticker": "ACBM",
-    "name": "TALIS BIOMEDICAL CORP",
+    "ticker": "SLDE",
+    "name": "SLIDE INS HLDGS INC",
     "sector": null,
     "holders": [
       "David Einhorn"
     ],
     "holder_count": 1,
-    "total_value": 1110437,
+    "total_value": 30359340,
     "any_new": false
+  },
+  {
+    "ticker": "SPB",
+    "name": "SPECTRUM BRANDS HOLDINGS INC",
+    "sector": null,
+    "holders": [
+      "David Einhorn"
+    ],
+    "holder_count": 1,
+    "total_value": 47931459,
+    "any_new": false
+  },
+  {
+    "ticker": "VSNT",
+    "name": "VERSANT MEDIA GROUP INC",
+    "sector": null,
+    "holders": [
+      "David Einhorn"
+    ],
+    "holder_count": 1,
+    "total_value": 112119327,
+    "any_new": true
+  },
+  {
+    "ticker": "VSCO",
+    "name": "VICTORIAS SECRET AND CO",
+    "sector": null,
+    "holders": [
+      "David Einhorn"
+    ],
+    "holder_count": 1,
+    "total_value": 104629374,
+    "any_new": false
+  },
+  {
+    "ticker": "ZIM",
+    "name": "ZIM INTEGRATED SHIPPING SERV",
+    "sector": null,
+    "holders": [
+      "David Einhorn"
+    ],
+    "holder_count": 1,
+    "total_value": 9341761,
+    "any_new": true
   },
   {
     "ticker": "EMR",
@@ -7315,6 +7545,17 @@
     ],
     "holder_count": 1,
     "total_value": 118280220,
+    "any_new": false
+  },
+  {
+    "ticker": "SDRL",
+    "name": "SEADRILL LTD",
+    "sector": null,
+    "holders": [
+      "Paul Singer / Jesse Cohn"
+    ],
+    "holder_count": 1,
+    "total_value": 214718368,
     "any_new": false
   },
   {
@@ -7439,17 +7680,6 @@
     "any_new": false
   },
   {
-    "ticker": "FLR",
-    "name": "FLUOR CORP",
-    "sector": null,
-    "holders": [
-      "Jeff Smith"
-    ],
-    "holder_count": 1,
-    "total_value": 134647155,
-    "any_new": false
-  },
-  {
     "ticker": "GENVR",
     "name": "GEN DIGITAL INC",
     "sector": null,
@@ -7469,6 +7699,17 @@
     ],
     "holder_count": 1,
     "total_value": 115893326,
+    "any_new": false
+  },
+  {
+    "ticker": "KVUE",
+    "name": "KENVUE INC",
+    "sector": null,
+    "holders": [
+      "Jeff Smith"
+    ],
+    "holder_count": 1,
+    "total_value": 470783576,
     "any_new": false
   },
   {
@@ -7524,17 +7765,6 @@
     ],
     "holder_count": 1,
     "total_value": 62715924,
-    "any_new": false
-  },
-  {
-    "ticker": "TRIP",
-    "name": "TRIPADVISOR INC",
-    "sector": null,
-    "holders": [
-      "Jeff Smith"
-    ],
-    "holder_count": 1,
-    "total_value": 114861457,
     "any_new": false
   },
   {
@@ -8957,17 +9187,6 @@
     "any_new": true
   },
   {
-    "ticker": "PENN",
-    "name": "PENN ENTERTAINMENT INC",
-    "sector": null,
-    "holders": [
-      "Ron Baron"
-    ],
-    "holder_count": 1,
-    "total_value": 31446427,
-    "any_new": true
-  },
-  {
     "ticker": "PWR",
     "name": "QUANTA SVCS INC",
     "sector": null,
@@ -9793,17 +10012,6 @@
     "any_new": false
   },
   {
-    "ticker": "LHX",
-    "name": "L3Harris Technologies Inc",
-    "sector": null,
-    "holders": [
-      "Cathie Wood"
-    ],
-    "holder_count": 1,
-    "total_value": 134502884,
-    "any_new": false
-  },
-  {
     "ticker": "COIN",
     "name": "Coinbase Global Inc",
     "sector": null,
@@ -10123,17 +10331,6 @@
     "any_new": false
   },
   {
-    "ticker": "BAIDF",
-    "name": "Baidu Inc",
-    "sector": null,
-    "holders": [
-      "Cathie Wood"
-    ],
-    "holder_count": 1,
-    "total_value": 124827258,
-    "any_new": false
-  },
-  {
     "ticker": "KMT",
     "name": "Kennametal Inc",
     "sector": null,
@@ -10376,17 +10573,6 @@
     "any_new": false
   },
   {
-    "ticker": "CROX",
-    "name": "CROCS INC",
-    "sector": null,
-    "holders": [
-      "Li Lu"
-    ],
-    "holder_count": 1,
-    "total_value": 73646461,
-    "any_new": false
-  },
-  {
     "ticker": "EWBC",
     "name": "EAST WEST BANCORP INC",
     "sector": null,
@@ -10453,17 +10639,6 @@
     "any_new": false
   },
   {
-    "ticker": "CNC",
-    "name": "CENTENE CORP DEL",
-    "sector": null,
-    "holders": [
-      "Bill Nygren"
-    ],
-    "holder_count": 1,
-    "total_value": 461454945,
-    "any_new": false
-  },
-  {
     "ticker": "CRL",
     "name": "CHARLES RIV LABS INTL INC",
     "sector": null,
@@ -10494,17 +10669,6 @@
     ],
     "holder_count": 1,
     "total_value": 1051384697,
-    "any_new": false
-  },
-  {
-    "ticker": "CNH",
-    "name": "CNH INDL N V",
-    "sector": null,
-    "holders": [
-      "Bill Nygren"
-    ],
-    "holder_count": 1,
-    "total_value": 639398309,
     "any_new": false
   },
   {
@@ -10649,6 +10813,17 @@
     "holder_count": 1,
     "total_value": 150470730,
     "any_new": true
+  },
+  {
+    "ticker": "HRI",
+    "name": "HERC HLDGS INC",
+    "sector": null,
+    "holders": [
+      "Bill Nygren"
+    ],
+    "holder_count": 1,
+    "total_value": 447477,
+    "any_new": false
   },
   {
     "ticker": "KDP",
@@ -11146,17 +11321,6 @@
     "any_new": false
   },
   {
-    "ticker": "WTBA",
-    "name": "RTX CORPORATION",
-    "sector": null,
-    "holders": [
-      "Tom Gayner"
-    ],
-    "holder_count": 1,
-    "total_value": 42499520,
-    "any_new": false
-  },
-  {
     "ticker": "SEIC",
     "name": "SEI INVTS CO",
     "sector": null,
@@ -11506,6 +11670,17 @@
     ],
     "holder_count": 1,
     "total_value": 8016377,
+    "any_new": false
+  },
+  {
+    "ticker": "TCKRF",
+    "name": "Teck Resources Ltd., Class B",
+    "sector": null,
+    "holders": [
+      "Chris Davis"
+    ],
+    "holder_count": 1,
+    "total_value": 547756837,
     "any_new": false
   },
   {
@@ -12048,17 +12223,6 @@
     "any_new": false
   },
   {
-    "ticker": "DECK",
-    "name": "DECKERS OUTDOOR CORP",
-    "sector": null,
-    "holders": [
-      "Christopher Bloomstran"
-    ],
-    "holder_count": 1,
-    "total_value": 66162393,
-    "any_new": false
-  },
-  {
     "ticker": "DLTR",
     "name": "DOLLAR TREE INC",
     "sector": null,
@@ -12133,17 +12297,6 @@
     ],
     "holder_count": 1,
     "total_value": 60331666,
-    "any_new": false
-  },
-  {
-    "ticker": "PSKY",
-    "name": "PARAMOUNT SKYDANCE CORP",
-    "sector": null,
-    "holders": [
-      "Christopher Bloomstran"
-    ],
-    "holder_count": 1,
-    "total_value": 5887416,
     "any_new": false
   },
   {

@@ -47,16 +47,40 @@
     "name": "David Tepper",
     "fund": "Appaloosa Management",
     "avatar": "DT",
-    "cik": "0001047644",
-    "latest_quarter": "2015-Q4",
-    "total_value": 0,
-    "num_holdings": 1,
+    "cik": "0001656456",
+    "latest_quarter": "2026-Q1",
+    "total_value": 5933477986,
+    "num_holdings": 31,
     "num_new": 1,
     "top_holdings": [
       {
-        "ticker": "UNKNOWN",
-        "value": 0,
-        "weight": 0.0,
+        "ticker": "AMZN",
+        "value": 899726400,
+        "weight": 15.2,
+        "put_call": null
+      },
+      {
+        "ticker": "MU",
+        "value": 562503600,
+        "weight": 9.5,
+        "put_call": null
+      },
+      {
+        "ticker": "GOOG",
+        "value": 497042322,
+        "weight": 8.4,
+        "put_call": null
+      },
+      {
+        "ticker": "UBER",
+        "value": 455512550,
+        "weight": 7.7,
+        "put_call": null
+      },
+      {
+        "ticker": "TSMWF",
+        "value": 448628625,
+        "weight": 7.6,
         "put_call": null
       }
     ]
@@ -1160,40 +1184,40 @@
     "name": "David Einhorn",
     "fund": "Greenlight Capital",
     "avatar": "DE",
-    "cik": "0001079114",
-    "latest_quarter": "2023-Q4",
-    "total_value": 2047998727,
-    "num_holdings": 116,
-    "num_new": 7,
+    "cik": "0001489933",
+    "latest_quarter": "2026-Q1",
+    "total_value": 3190735190,
+    "num_holdings": 92,
+    "num_new": 11,
     "top_holdings": [
       {
         "ticker": "GRBK-PA",
-        "value": 406697887,
-        "weight": 19.9,
+        "value": 557009576,
+        "weight": 17.5,
         "put_call": null
       },
       {
-        "ticker": "GRBK-PA",
-        "value": 142325469,
-        "weight": 6.9,
+        "ticker": "FLR",
+        "value": 178358345,
+        "weight": 5.6,
         "put_call": null
       },
       {
-        "ticker": "CEHCF",
-        "value": 107345230,
-        "weight": 5.2,
+        "ticker": "CNR",
+        "value": 163106293,
+        "weight": 5.1,
         "put_call": null
       },
       {
         "ticker": "BHFAO",
-        "value": 86746358,
-        "weight": 4.2,
+        "value": 137347714,
+        "weight": 4.3,
         "put_call": null
       },
       {
-        "ticker": "KD",
-        "value": 69716381,
-        "weight": 3.4,
+        "ticker": "PCG-PX",
+        "value": 98288196,
+        "weight": 3.1,
         "put_call": null
       }
     ]
