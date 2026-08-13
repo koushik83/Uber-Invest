@@ -1486,39 +1486,39 @@
     "fund": "GQG Partners",
     "avatar": "RJ",
     "cik": "0001697233",
-    "latest_quarter": "2026-Q1",
-    "total_value": 63091750614,
-    "num_holdings": 86,
-    "num_new": 10,
+    "latest_quarter": "2026-Q2",
+    "total_value": 53757403317,
+    "num_holdings": 106,
+    "num_new": 29,
     "top_holdings": [
       {
         "ticker": "PM",
-        "value": 8284512197,
-        "weight": 13.1,
+        "value": 8220008114,
+        "weight": 15.3,
         "put_call": null
       },
       {
         "ticker": "CB",
-        "value": 4047660035,
-        "weight": 6.4,
-        "put_call": null
-      },
-      {
-        "ticker": "ENBFF",
-        "value": 3861497183,
-        "weight": 6.1,
+        "value": 4250112612,
+        "weight": 7.9,
         "put_call": null
       },
       {
         "ticker": "PBR-A",
-        "value": 3598882238,
-        "weight": 5.7,
+        "value": 3122083433,
+        "weight": 5.8,
         "put_call": null
       },
       {
-        "ticker": "T-PC",
-        "value": 2358426148,
-        "weight": 3.7,
+        "ticker": "ENBFF",
+        "value": 2646936674,
+        "weight": 4.9,
+        "put_call": null
+      },
+      {
+        "ticker": "XOM",
+        "value": 2307497463,
+        "weight": 4.3,
         "put_call": null
       }
     ]
@@ -1787,39 +1787,39 @@
     "fund": "Davis Advisors",
     "avatar": "CD",
     "cik": "0001036325",
-    "latest_quarter": "2026-Q1",
-    "total_value": 21781443023,
+    "latest_quarter": "2026-Q2",
+    "total_value": 23289545492,
     "num_holdings": 112,
-    "num_new": 6,
+    "num_new": 2,
     "top_holdings": [
       {
         "ticker": "COF-PN",
-        "value": 1557906471,
-        "weight": 7.2,
-        "put_call": null
-      },
-      {
-        "ticker": "CTRA",
-        "value": 1304375994,
-        "weight": 6.0,
+        "value": 1659420488,
+        "weight": 7.1,
         "put_call": null
       },
       {
         "ticker": "USB-PQ",
-        "value": 1156596507,
+        "value": 1295909823,
+        "weight": 5.6,
+        "put_call": null
+      },
+      {
+        "ticker": "CVS",
+        "value": 1227594458,
         "weight": 5.3,
         "put_call": null
       },
       {
         "ticker": "VTRS",
-        "value": 1056633206,
-        "weight": 4.9,
+        "value": 1194789797,
+        "weight": 5.1,
         "put_call": null
       },
       {
-        "ticker": "META",
-        "value": 983589944,
-        "weight": 4.5,
+        "ticker": "MGM",
+        "value": 1142790561,
+        "weight": 4.9,
         "put_call": null
       }
     ]

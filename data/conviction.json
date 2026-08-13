@@ -34,7 +34,7 @@
       "Christopher Bloomstran"
     ],
     "holder_count": 28,
-    "total_value": 36305672821,
+    "total_value": 36492843799,
     "any_new": true
   },
   {
@@ -68,7 +68,7 @@
       "Robert Citrone"
     ],
     "holder_count": 24,
-    "total_value": 13245454781,
+    "total_value": 13687807186,
     "any_new": false
   },
   {
@@ -90,6 +90,7 @@
       "Glenn Greenberg",
       "Mason Morfit",
       "Keith Meister",
+      "Rajiv Jain",
       "Ron Baron",
       "Cathie Wood",
       "Bill Nygren",
@@ -98,8 +99,37 @@
       "Terry Smith",
       "Fran\u00e7ois Rochon"
     ],
-    "holder_count": 21,
-    "total_value": 10718215868,
+    "holder_count": 22,
+    "total_value": 10996483912,
+    "any_new": true
+  },
+  {
+    "ticker": "MSFT",
+    "name": "MICROSOFT CORP",
+    "sector": null,
+    "holders": [
+      "David Tepper",
+      "Chris Hohn",
+      "Bill Ackman",
+      "Philippe Laffont",
+      "Brad Gerstner",
+      "Alex Sacerdote",
+      "Chase Coleman",
+      "Andreas Halvorsen",
+      "Glenn Greenberg",
+      "Keith Meister",
+      "Rajiv Jain",
+      "Ron Baron",
+      "Cathie Wood",
+      "Bill Nygren",
+      "Tom Gayner",
+      "Chris Davis",
+      "Terry Smith",
+      "Fran\u00e7ois Rochon",
+      "John Huber"
+    ],
+    "holder_count": 19,
+    "total_value": 7697760681,
     "any_new": true
   },
   {
@@ -127,35 +157,7 @@
       "Fran\u00e7ois Rochon"
     ],
     "holder_count": 18,
-    "total_value": 9707891770,
-    "any_new": true
-  },
-  {
-    "ticker": "MSFT",
-    "name": "MICROSOFT CORP",
-    "sector": null,
-    "holders": [
-      "David Tepper",
-      "Chris Hohn",
-      "Bill Ackman",
-      "Philippe Laffont",
-      "Brad Gerstner",
-      "Alex Sacerdote",
-      "Chase Coleman",
-      "Andreas Halvorsen",
-      "Glenn Greenberg",
-      "Keith Meister",
-      "Ron Baron",
-      "Cathie Wood",
-      "Bill Nygren",
-      "Tom Gayner",
-      "Chris Davis",
-      "Terry Smith",
-      "Fran\u00e7ois Rochon",
-      "John Huber"
-    ],
-    "holder_count": 18,
-    "total_value": 7375585617,
+    "total_value": 10061614085,
     "any_new": true
   },
   {
@@ -183,7 +185,7 @@
       "Robert Citrone"
     ],
     "holder_count": 18,
-    "total_value": 7243930807,
+    "total_value": 7844771717,
     "any_new": true
   },
   {
@@ -209,7 +211,29 @@
       "John Huber"
     ],
     "holder_count": 16,
-    "total_value": 14724925330,
+    "total_value": 14724770855,
+    "any_new": true
+  },
+  {
+    "ticker": "AVGO",
+    "name": "Broadcom Inc",
+    "sector": null,
+    "holders": [
+      "Stanley Druckenmiller",
+      "Dan Loeb",
+      "Philippe Laffont",
+      "Brad Gerstner",
+      "Alex Sacerdote",
+      "Chase Coleman",
+      "Dan Sundheim",
+      "Glen Kacher",
+      "Rajiv Jain",
+      "Ron Baron",
+      "Cathie Wood",
+      "Bill Nygren"
+    ],
+    "holder_count": 12,
+    "total_value": 3917796357,
     "any_new": true
   },
   {
@@ -231,29 +255,8 @@
       "Robert Citrone"
     ],
     "holder_count": 12,
-    "total_value": 6045420108,
+    "total_value": 6146934125,
     "any_new": false
-  },
-  {
-    "ticker": "AVGO",
-    "name": "Broadcom Inc",
-    "sector": null,
-    "holders": [
-      "Stanley Druckenmiller",
-      "Dan Loeb",
-      "Philippe Laffont",
-      "Brad Gerstner",
-      "Alex Sacerdote",
-      "Chase Coleman",
-      "Dan Sundheim",
-      "Glen Kacher",
-      "Ron Baron",
-      "Cathie Wood",
-      "Bill Nygren"
-    ],
-    "holder_count": 11,
-    "total_value": 3776946476,
-    "any_new": true
   },
   {
     "ticker": "APP",
@@ -273,7 +276,27 @@
       "Robert Citrone"
     ],
     "holder_count": 11,
-    "total_value": 2985966559,
+    "total_value": 3015242081,
+    "any_new": true
+  },
+  {
+    "ticker": "ASMLF",
+    "name": "ASML HLDG NV",
+    "sector": null,
+    "holders": [
+      "David Tepper",
+      "Dan Loeb",
+      "Philippe Laffont",
+      "Stephen Mandel",
+      "Dan Sundheim",
+      "Glen Kacher",
+      "Dev Kantesaria",
+      "Pat Dorsey",
+      "Rajiv Jain",
+      "Ron Baron"
+    ],
+    "holder_count": 10,
+    "total_value": 2084867370,
     "any_new": true
   },
   {
@@ -297,26 +320,6 @@
     "any_new": true
   },
   {
-    "ticker": "BRK-A",
-    "name": "BERKSHIRE HATHAWAY INC DEL",
-    "sector": null,
-    "holders": [
-      "Josh Tarasoff",
-      "Chuck Akre",
-      "Rajiv Jain",
-      "Ron Baron",
-      "Li Lu",
-      "Bill Nygren",
-      "Tom Gayner",
-      "Chris Davis",
-      "Fran\u00e7ois Rochon",
-      "Christopher Bloomstran"
-    ],
-    "holder_count": 10,
-    "total_value": 4419061687,
-    "any_new": false
-  },
-  {
     "ticker": "CPNG",
     "name": "Coupang Inc",
     "sector": null,
@@ -333,25 +336,6 @@
     ],
     "holder_count": 9,
     "total_value": 1468091898,
-    "any_new": true
-  },
-  {
-    "ticker": "ASMLF",
-    "name": "ASML HLDG NV",
-    "sector": null,
-    "holders": [
-      "David Tepper",
-      "Dan Loeb",
-      "Philippe Laffont",
-      "Stephen Mandel",
-      "Dan Sundheim",
-      "Glen Kacher",
-      "Dev Kantesaria",
-      "Pat Dorsey",
-      "Ron Baron"
-    ],
-    "holder_count": 9,
-    "total_value": 2083782353,
     "any_new": true
   },
   {
@@ -393,6 +377,25 @@
     "any_new": true
   },
   {
+    "ticker": "AAPL",
+    "name": "APPLE INC",
+    "sector": null,
+    "holders": [
+      "Alex Sacerdote",
+      "Andreas Halvorsen",
+      "Rajiv Jain",
+      "Warren Buffett",
+      "Li Lu",
+      "Bill Nygren",
+      "Tom Gayner",
+      "Fran\u00e7ois Rochon",
+      "Christopher Bloomstran"
+    ],
+    "holder_count": 9,
+    "total_value": 59573340319,
+    "any_new": true
+  },
+  {
     "ticker": "MA",
     "name": "MASTERCARD INCORPORATED",
     "sector": null,
@@ -412,6 +415,25 @@
     "any_new": true
   },
   {
+    "ticker": "BRK-A",
+    "name": "BERKSHIRE HATHAWAY INC DEL",
+    "sector": null,
+    "holders": [
+      "Josh Tarasoff",
+      "Chuck Akre",
+      "Ron Baron",
+      "Li Lu",
+      "Bill Nygren",
+      "Tom Gayner",
+      "Chris Davis",
+      "Fran\u00e7ois Rochon",
+      "Christopher Bloomstran"
+    ],
+    "holder_count": 9,
+    "total_value": 3507524283,
+    "any_new": false
+  },
+  {
     "ticker": "LRCX",
     "name": "LAM RESEARCH CORP",
     "sector": null,
@@ -426,7 +448,7 @@
       "Robert Citrone"
     ],
     "holder_count": 8,
-    "total_value": 3370868312,
+    "total_value": 3371478994,
     "any_new": true
   },
   {
@@ -448,24 +470,6 @@
     "any_new": true
   },
   {
-    "ticker": "AAPL",
-    "name": "APPLE INC",
-    "sector": null,
-    "holders": [
-      "Alex Sacerdote",
-      "Andreas Halvorsen",
-      "Warren Buffett",
-      "Li Lu",
-      "Bill Nygren",
-      "Tom Gayner",
-      "Fran\u00e7ois Rochon",
-      "Christopher Bloomstran"
-    ],
-    "holder_count": 8,
-    "total_value": 59201111133,
-    "any_new": true
-  },
-  {
     "ticker": "AFGB",
     "name": "AMERICAN INTL GROUP INC",
     "sector": null,
@@ -480,7 +484,7 @@
       "Chris Davis"
     ],
     "holder_count": 8,
-    "total_value": 5570544491,
+    "total_value": 4509273235,
     "any_new": true
   },
   {
@@ -498,7 +502,7 @@
       "Fran\u00e7ois Rochon"
     ],
     "holder_count": 8,
-    "total_value": 4864944695,
+    "total_value": 4862465004,
     "any_new": false
   },
   {
@@ -515,7 +519,7 @@
       "Chris Davis"
     ],
     "holder_count": 7,
-    "total_value": 3105719516,
+    "total_value": 2770629458,
     "any_new": true
   },
   {
@@ -549,7 +553,7 @@
       "Robert Citrone"
     ],
     "holder_count": 7,
-    "total_value": 1106028139,
+    "total_value": 1098278464,
     "any_new": false
   },
   {
@@ -597,7 +601,7 @@
       "Chris Davis"
     ],
     "holder_count": 6,
-    "total_value": 2263028887,
+    "total_value": 2302636366,
     "any_new": false
   },
   {
@@ -613,7 +617,7 @@
       "Fran\u00e7ois Rochon"
     ],
     "holder_count": 6,
-    "total_value": 294777749,
+    "total_value": 299709997,
     "any_new": false
   },
   {
@@ -757,7 +761,7 @@
       "Fran\u00e7ois Rochon"
     ],
     "holder_count": 6,
-    "total_value": 2402612677,
+    "total_value": 2129475206,
     "any_new": false
   },
   {
@@ -803,7 +807,7 @@
       "Chris Davis"
     ],
     "holder_count": 5,
-    "total_value": 2686901625,
+    "total_value": 2623971305,
     "any_new": false
   },
   {
@@ -893,7 +897,7 @@
       "Robert Citrone"
     ],
     "holder_count": 5,
-    "total_value": 86889320,
+    "total_value": 90719975,
     "any_new": true
   },
   {
@@ -912,6 +916,21 @@
     "any_new": false
   },
   {
+    "ticker": "ISRG",
+    "name": "INTUITIVE SURGICAL INC",
+    "sector": null,
+    "holders": [
+      "Philippe Laffont",
+      "Mala Gaonkar",
+      "Rajiv Jain",
+      "Ron Baron",
+      "Cathie Wood"
+    ],
+    "holder_count": 5,
+    "total_value": 934800485,
+    "any_new": true
+  },
+  {
     "ticker": "PINS",
     "name": "PINTEREST INC",
     "sector": null,
@@ -923,7 +942,7 @@
       "Robert Citrone"
     ],
     "holder_count": 5,
-    "total_value": 786562724,
+    "total_value": 823628032,
     "any_new": true
   },
   {
@@ -1028,7 +1047,7 @@
       "Terry Smith"
     ],
     "holder_count": 5,
-    "total_value": 1627844967,
+    "total_value": 1801156013,
     "any_new": false
   },
   {
@@ -1088,7 +1107,7 @@
       "Christopher Bloomstran"
     ],
     "holder_count": 5,
-    "total_value": 9151771160,
+    "total_value": 9087267077,
     "any_new": true
   },
   {
@@ -1103,7 +1122,7 @@
       "Christopher Bloomstran"
     ],
     "holder_count": 5,
-    "total_value": 46158271534,
+    "total_value": 46158727429,
     "any_new": false
   },
   {
@@ -1191,6 +1210,20 @@
     "any_new": false
   },
   {
+    "ticker": "JDCMF",
+    "name": "JD.COM INC",
+    "sector": null,
+    "holders": [
+      "David Tepper",
+      "Chase Coleman",
+      "Rajiv Jain",
+      "Chris Davis"
+    ],
+    "holder_count": 4,
+    "total_value": 114694547,
+    "any_new": true
+  },
+  {
     "ticker": "UNH",
     "name": "UNITEDHEALTH GROUP INC",
     "sector": null,
@@ -1201,7 +1234,7 @@
       "John Huber"
     ],
     "holder_count": 4,
-    "total_value": 457528682,
+    "total_value": 649809008,
     "any_new": false
   },
   {
@@ -1257,7 +1290,7 @@
       "Chris Davis"
     ],
     "holder_count": 4,
-    "total_value": 482683206,
+    "total_value": 482878650,
     "any_new": false
   },
   {
@@ -1285,22 +1318,8 @@
       "Chris Davis"
     ],
     "holder_count": 4,
-    "total_value": 1476323781,
+    "total_value": 1475651825,
     "any_new": true
-  },
-  {
-    "ticker": "ISRG",
-    "name": "INTUITIVE SURGICAL INC",
-    "sector": null,
-    "holders": [
-      "Philippe Laffont",
-      "Mala Gaonkar",
-      "Ron Baron",
-      "Cathie Wood"
-    ],
-    "holder_count": 4,
-    "total_value": 624431699,
-    "any_new": false
   },
   {
     "ticker": "SNPS",
@@ -1313,7 +1332,7 @@
       "Chris Davis"
     ],
     "holder_count": 4,
-    "total_value": 344231677,
+    "total_value": 345098025,
     "any_new": false
   },
   {
@@ -1453,7 +1472,7 @@
       "Chris Davis"
     ],
     "holder_count": 4,
-    "total_value": 16022197295,
+    "total_value": 16226262862,
     "any_new": false
   },
   {
@@ -1495,7 +1514,7 @@
       "Chris Davis"
     ],
     "holder_count": 4,
-    "total_value": 765430446,
+    "total_value": 760700447,
     "any_new": false
   },
   {
@@ -1579,7 +1598,7 @@
       "Fran\u00e7ois Rochon"
     ],
     "holder_count": 4,
-    "total_value": 1003471932,
+    "total_value": 1063912667,
     "any_new": false
   },
   {
@@ -1611,20 +1630,6 @@
     "any_new": true
   },
   {
-    "ticker": "HDB",
-    "name": "HDFC BANK LTD",
-    "sector": null,
-    "holders": [
-      "Paul Singer / Jesse Cohn",
-      "Rajiv Jain",
-      "Ron Baron",
-      "Robert Citrone"
-    ],
-    "holder_count": 4,
-    "total_value": 874266356,
-    "any_new": false
-  },
-  {
     "ticker": "PEP",
     "name": "PEPSICO INC",
     "sector": null,
@@ -1635,8 +1640,8 @@
       "Tom Gayner"
     ],
     "holder_count": 4,
-    "total_value": 376093432,
-    "any_new": true
+    "total_value": 240826693,
+    "any_new": false
   },
   {
     "ticker": "BLK",
@@ -1663,8 +1668,8 @@
       "Chris Davis"
     ],
     "holder_count": 4,
-    "total_value": 1050741805,
-    "any_new": true
+    "total_value": 1050692453,
+    "any_new": false
   },
   {
     "ticker": "LLYVK",
@@ -1691,7 +1696,7 @@
       "Robert Citrone"
     ],
     "holder_count": 4,
-    "total_value": 523700724,
+    "total_value": 525259432,
     "any_new": true
   },
   {
@@ -1705,7 +1710,7 @@
       "Chris Davis"
     ],
     "holder_count": 4,
-    "total_value": 1138164403,
+    "total_value": 1381784325,
     "any_new": true
   },
   {
@@ -1719,7 +1724,7 @@
       "Robert Citrone"
     ],
     "holder_count": 4,
-    "total_value": 1452011979,
+    "total_value": 1445631299,
     "any_new": false
   },
   {
@@ -1733,7 +1738,7 @@
       "Christopher Bloomstran"
     ],
     "holder_count": 4,
-    "total_value": 19582976854,
+    "total_value": 18175285669,
     "any_new": false
   },
   {
@@ -1747,7 +1752,21 @@
       "Christopher Bloomstran"
     ],
     "holder_count": 4,
-    "total_value": 1148141809,
+    "total_value": 2325174511,
+    "any_new": false
+  },
+  {
+    "ticker": "GSCE",
+    "name": "GOLDMAN SACHS GROUP INC",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain",
+      "Ron Baron",
+      "Bill Nygren",
+      "Tom Gayner"
+    ],
+    "holder_count": 4,
+    "total_value": 388655582,
     "any_new": false
   },
   {
@@ -1761,22 +1780,8 @@
       "Christopher Bloomstran"
     ],
     "holder_count": 4,
-    "total_value": 1502371849,
+    "total_value": 1502816877,
     "any_new": true
-  },
-  {
-    "ticker": "GSCE",
-    "name": "GOLDMAN SACHS GROUP INC",
-    "sector": null,
-    "holders": [
-      "Rajiv Jain",
-      "Ron Baron",
-      "Bill Nygren",
-      "Tom Gayner"
-    ],
-    "holder_count": 4,
-    "total_value": 388606334,
-    "any_new": false
   },
   {
     "ticker": "COST",
@@ -1936,19 +1941,6 @@
     ],
     "holder_count": 3,
     "total_value": 376103445,
-    "any_new": false
-  },
-  {
-    "ticker": "JDCMF",
-    "name": "JD.COM INC",
-    "sector": null,
-    "holders": [
-      "David Tepper",
-      "Chase Coleman",
-      "Chris Davis"
-    ],
-    "holder_count": 3,
-    "total_value": 57150737,
     "any_new": false
   },
   {
@@ -2316,6 +2308,19 @@
     "any_new": true
   },
   {
+    "ticker": "ADSK",
+    "name": "AUTODESK INC",
+    "sector": null,
+    "holders": [
+      "Dan Sundheim",
+      "Rajiv Jain",
+      "Cathie Wood"
+    ],
+    "holder_count": 3,
+    "total_value": 77162091,
+    "any_new": true
+  },
+  {
     "ticker": "CLBT",
     "name": "CELLEBRITE DI LTD",
     "sector": null,
@@ -2455,7 +2460,20 @@
       "Chris Davis"
     ],
     "holder_count": 3,
-    "total_value": 371889105,
+    "total_value": 370833762,
+    "any_new": false
+  },
+  {
+    "ticker": "HDB",
+    "name": "HDFC BANK LTD",
+    "sector": null,
+    "holders": [
+      "Paul Singer / Jesse Cohn",
+      "Ron Baron",
+      "Robert Citrone"
+    ],
+    "holder_count": 3,
+    "total_value": 25959220,
     "any_new": false
   },
   {
@@ -2511,16 +2529,55 @@
     "any_new": false
   },
   {
-    "ticker": "CME",
-    "name": "CME GROUP INC",
+    "ticker": "ABBV",
+    "name": "ABBVIE INC",
     "sector": null,
     "holders": [
       "Rajiv Jain",
       "Ron Baron",
-      "Tom Gayner"
+      "Bill Nygren"
     ],
     "holder_count": 3,
-    "total_value": 801790390,
+    "total_value": 485883206,
+    "any_new": true
+  },
+  {
+    "ticker": "TEAM",
+    "name": "ATLASSIAN CORPORATION",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain",
+      "Ron Baron",
+      "John Huber"
+    ],
+    "holder_count": 3,
+    "total_value": 596520429,
+    "any_new": true
+  },
+  {
+    "ticker": "KO",
+    "name": "COCA COLA CO",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain",
+      "Warren Buffett",
+      "Christopher Bloomstran"
+    ],
+    "holder_count": 3,
+    "total_value": 31915663633,
+    "any_new": false
+  },
+  {
+    "ticker": "BAP",
+    "name": "CREDICORP LTD",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain",
+      "Ron Baron",
+      "Robert Citrone"
+    ],
+    "holder_count": 3,
+    "total_value": 151532396,
     "any_new": false
   },
   {
@@ -2533,21 +2590,21 @@
       "Chris Davis"
     ],
     "holder_count": 3,
-    "total_value": 916805717,
+    "total_value": 2086071957,
     "any_new": false
   },
   {
-    "ticker": "KO",
-    "name": "COCA COLA CO",
+    "ticker": "FDS",
+    "name": "FACTSET RESH SYS INC",
     "sector": null,
     "holders": [
       "Rajiv Jain",
-      "Warren Buffett",
-      "Christopher Bloomstran"
+      "Ron Baron",
+      "Tom Gayner"
     ],
     "holder_count": 3,
-    "total_value": 32027279684,
-    "any_new": false
+    "total_value": 851188908,
+    "any_new": true
   },
   {
     "ticker": "JNJ",
@@ -2559,21 +2616,8 @@
       "Tom Gayner"
     ],
     "holder_count": 3,
-    "total_value": 1949267710,
+    "total_value": 167014168,
     "any_new": false
-  },
-  {
-    "ticker": "OXY-WT",
-    "name": "OCCIDENTAL PETE CORP",
-    "sector": null,
-    "holders": [
-      "Rajiv Jain",
-      "Warren Buffett",
-      "Li Lu"
-    ],
-    "holder_count": 3,
-    "total_value": 18506773360,
-    "any_new": true
   },
   {
     "ticker": "PG",
@@ -2585,33 +2629,7 @@
       "Terry Smith"
     ],
     "holder_count": 3,
-    "total_value": 620788704,
-    "any_new": false
-  },
-  {
-    "ticker": "VLO",
-    "name": "VALERO ENERGY CORP",
-    "sector": null,
-    "holders": [
-      "Rajiv Jain",
-      "Christopher Bloomstran",
-      "Robert Citrone"
-    ],
-    "holder_count": 3,
-    "total_value": 40266166,
-    "any_new": true
-  },
-  {
-    "ticker": "BAP",
-    "name": "CREDICORP LTD",
-    "sector": null,
-    "holders": [
-      "Rajiv Jain",
-      "Ron Baron",
-      "Robert Citrone"
-    ],
-    "holder_count": 3,
-    "total_value": 147853649,
+    "total_value": 611129862,
     "any_new": false
   },
   {
@@ -2624,8 +2642,47 @@
       "Chris Davis"
     ],
     "holder_count": 3,
-    "total_value": 247945153,
+    "total_value": 281855644,
     "any_new": false
+  },
+  {
+    "ticker": "SAPGF",
+    "name": "SAP SE",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain",
+      "Bill Nygren",
+      "Chris Davis"
+    ],
+    "holder_count": 3,
+    "total_value": 16590368,
+    "any_new": true
+  },
+  {
+    "ticker": "STT-PG",
+    "name": "STATE STR CORP",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain",
+      "Bill Nygren",
+      "Chris Davis"
+    ],
+    "holder_count": 3,
+    "total_value": 990765755,
+    "any_new": true
+  },
+  {
+    "ticker": "VLO",
+    "name": "VALERO ENERGY CORP",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain",
+      "Christopher Bloomstran",
+      "Robert Citrone"
+    ],
+    "holder_count": 3,
+    "total_value": 38811508,
+    "any_new": true
   },
   {
     "ticker": "WMT",
@@ -2637,7 +2694,7 @@
       "John Huber"
     ],
     "holder_count": 3,
-    "total_value": 2673026,
+    "total_value": 2613588,
     "any_new": false
   },
   {
@@ -2702,7 +2759,7 @@
       "Chris Davis"
     ],
     "holder_count": 3,
-    "total_value": 108765513,
+    "total_value": 109602023,
     "any_new": true
   },
   {
@@ -2767,7 +2824,7 @@
       "Chris Davis"
     ],
     "holder_count": 3,
-    "total_value": 85410902,
+    "total_value": 76095140,
     "any_new": false
   },
   {
@@ -2780,7 +2837,7 @@
       "Chris Davis"
     ],
     "holder_count": 3,
-    "total_value": 44667944,
+    "total_value": 44420456,
     "any_new": false
   },
   {
@@ -2912,7 +2969,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 461450358,
+    "total_value": 468581661,
     "any_new": true
   },
   {
@@ -3356,7 +3413,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 364110782,
+    "total_value": 386784748,
     "any_new": false
   },
   {
@@ -3572,7 +3629,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 469100435,
+    "total_value": 470365257,
     "any_new": false
   },
   {
@@ -3660,6 +3717,18 @@
     "any_new": true
   },
   {
+    "ticker": "MCD",
+    "name": "MCDONALDS CORP",
+    "sector": null,
+    "holders": [
+      "Andreas Halvorsen",
+      "Rajiv Jain"
+    ],
+    "holder_count": 2,
+    "total_value": 1289186353,
+    "any_new": true
+  },
+  {
     "ticker": "LAB",
     "name": "STANDARD BIOTOOLS INC",
     "sector": null,
@@ -3693,18 +3762,6 @@
     ],
     "holder_count": 2,
     "total_value": 154569187,
-    "any_new": false
-  },
-  {
-    "ticker": "ADSK",
-    "name": "AUTODESK INC",
-    "sector": null,
-    "holders": [
-      "Dan Sundheim",
-      "Cathie Wood"
-    ],
-    "holder_count": 2,
-    "total_value": 76932627,
     "any_new": false
   },
   {
@@ -4040,7 +4097,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 497410891,
+    "total_value": 518662133,
     "any_new": false
   },
   {
@@ -4148,7 +4205,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 1081188577,
+    "total_value": 1219345168,
     "any_new": true
   },
   {
@@ -4162,18 +4219,6 @@
     "holder_count": 2,
     "total_value": 252596792,
     "any_new": true
-  },
-  {
-    "ticker": "CCI",
-    "name": "CROWN CASTLE INC",
-    "sector": null,
-    "holders": [
-      "Paul Singer / Jesse Cohn",
-      "Chris Davis"
-    ],
-    "holder_count": 2,
-    "total_value": 103013265,
-    "any_new": false
   },
   {
     "ticker": "GLIBK",
@@ -4196,8 +4241,8 @@
       "Rajiv Jain"
     ],
     "holder_count": 2,
-    "total_value": 4617325652,
-    "any_new": true
+    "total_value": 3605394245,
+    "any_new": false
   },
   {
     "ticker": "BDX",
@@ -4292,7 +4337,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 230906416,
+    "total_value": 244811061,
     "any_new": false
   },
   {
@@ -4340,67 +4385,7 @@
       "Tom Gayner"
     ],
     "holder_count": 2,
-    "total_value": 1231388904,
-    "any_new": false
-  },
-  {
-    "ticker": "FNV",
-    "name": "FRANCO NEV CORP",
-    "sector": null,
-    "holders": [
-      "Rajiv Jain",
-      "Tom Gayner"
-    ],
-    "holder_count": 2,
-    "total_value": 449231459,
-    "any_new": false
-  },
-  {
-    "ticker": "KR",
-    "name": "KROGER CO",
-    "sector": null,
-    "holders": [
-      "Rajiv Jain",
-      "Warren Buffett"
-    ],
-    "holder_count": 2,
-    "total_value": 4539653793,
-    "any_new": false
-  },
-  {
-    "ticker": "RYDAF",
-    "name": "SHELL PLC",
-    "sector": null,
-    "holders": [
-      "Rajiv Jain",
-      "Christopher Bloomstran"
-    ],
-    "holder_count": 2,
-    "total_value": 1020147,
-    "any_new": false
-  },
-  {
-    "ticker": "UNLYF",
-    "name": "UNILEVER PLC",
-    "sector": null,
-    "holders": [
-      "Rajiv Jain",
-      "Bill Nygren"
-    ],
-    "holder_count": 2,
-    "total_value": 535826144,
-    "any_new": true
-  },
-  {
-    "ticker": "VALE",
-    "name": "VALE S A",
-    "sector": null,
-    "holders": [
-      "Rajiv Jain",
-      "Chris Davis"
-    ],
-    "holder_count": 2,
-    "total_value": 310334732,
+    "total_value": 1282483792,
     "any_new": false
   },
   {
@@ -4412,7 +4397,7 @@
       "Ron Baron"
     ],
     "holder_count": 2,
-    "total_value": 1761971802,
+    "total_value": 1770646633,
     "any_new": false
   },
   {
@@ -4424,7 +4409,103 @@
       "Ron Baron"
     ],
     "holder_count": 2,
-    "total_value": 21462474,
+    "total_value": 21131234,
+    "any_new": true
+  },
+  {
+    "ticker": "DVN",
+    "name": "DEVON ENERGY CORP NEW",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain",
+      "Chris Davis"
+    ],
+    "holder_count": 2,
+    "total_value": 1447752489,
+    "any_new": true
+  },
+  {
+    "ticker": "HSY",
+    "name": "HERSHEY CO",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain",
+      "Tom Gayner"
+    ],
+    "holder_count": 2,
+    "total_value": 498595032,
+    "any_new": true
+  },
+  {
+    "ticker": "KR",
+    "name": "KROGER CO",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain",
+      "Warren Buffett"
+    ],
+    "holder_count": 2,
+    "total_value": 3619901088,
+    "any_new": false
+  },
+  {
+    "ticker": "NETTF",
+    "name": "NETEASE COM INC",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain",
+      "Chris Davis"
+    ],
+    "holder_count": 2,
+    "total_value": 235704698,
+    "any_new": true
+  },
+  {
+    "ticker": "RYDAF",
+    "name": "SHELL PLC",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain",
+      "Christopher Bloomstran"
+    ],
+    "holder_count": 2,
+    "total_value": 927366,
+    "any_new": false
+  },
+  {
+    "ticker": "TRV",
+    "name": "TRAVELERS COMPANIES INC",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain",
+      "Christopher Bloomstran"
+    ],
+    "holder_count": 2,
+    "total_value": 794594727,
+    "any_new": true
+  },
+  {
+    "ticker": "UNLYF",
+    "name": "UNILEVER PLC",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain",
+      "Bill Nygren"
+    ],
+    "holder_count": 2,
+    "total_value": 521702353,
+    "any_new": true
+  },
+  {
+    "ticker": "WDAY",
+    "name": "WORKDAY INC",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain",
+      "Bill Nygren"
+    ],
+    "holder_count": 2,
+    "total_value": 3381762,
     "any_new": true
   },
   {
@@ -4438,18 +4519,6 @@
     "holder_count": 2,
     "total_value": 86573795,
     "any_new": true
-  },
-  {
-    "ticker": "ABBV",
-    "name": "ABBVIE INC",
-    "sector": null,
-    "holders": [
-      "Ron Baron",
-      "Bill Nygren"
-    ],
-    "holder_count": 2,
-    "total_value": 2323228,
-    "any_new": false
   },
   {
     "ticker": "AEM",
@@ -4472,7 +4541,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 10362424,
+    "total_value": 13537615,
     "any_new": false
   },
   {
@@ -4485,18 +4554,6 @@
     ],
     "holder_count": 2,
     "total_value": 64840038,
-    "any_new": false
-  },
-  {
-    "ticker": "TEAM",
-    "name": "ATLASSIAN CORPORATION",
-    "sector": null,
-    "holders": [
-      "Ron Baron",
-      "John Huber"
-    ],
-    "holder_count": 2,
-    "total_value": 772511,
     "any_new": false
   },
   {
@@ -4620,6 +4677,18 @@
     "any_new": true
   },
   {
+    "ticker": "CME",
+    "name": "CME GROUP INC",
+    "sector": null,
+    "holders": [
+      "Ron Baron",
+      "Tom Gayner"
+    ],
+    "holder_count": 2,
+    "total_value": 26255888,
+    "any_new": false
+  },
+  {
     "ticker": "CRWD",
     "name": "CROWDSTRIKE HLDGS INC",
     "sector": null,
@@ -4640,7 +4709,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 10265042,
+    "total_value": 10473782,
     "any_new": true
   },
   {
@@ -4652,7 +4721,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 4075214,
+    "total_value": 4730143,
     "any_new": false
   },
   {
@@ -4676,7 +4745,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 25354368,
+    "total_value": 26036817,
     "any_new": false
   },
   {
@@ -4688,7 +4757,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 34263288,
+    "total_value": 34246998,
     "any_new": false
   },
   {
@@ -4700,7 +4769,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 7958412,
+    "total_value": 12212857,
     "any_new": false
   },
   {
@@ -4712,19 +4781,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 11558585,
-    "any_new": false
-  },
-  {
-    "ticker": "FDS",
-    "name": "FACTSET RESH SYS INC",
-    "sector": null,
-    "holders": [
-      "Ron Baron",
-      "Tom Gayner"
-    ],
-    "holder_count": 2,
-    "total_value": 846289124,
+    "total_value": 11870078,
     "any_new": false
   },
   {
@@ -4748,7 +4805,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 273464654,
+    "total_value": 259159515,
     "any_new": false
   },
   {
@@ -4808,7 +4865,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 5538950,
+    "total_value": 6309150,
     "any_new": true
   },
   {
@@ -4832,8 +4889,8 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 77176465,
-    "any_new": true
+    "total_value": 77215254,
+    "any_new": false
   },
   {
     "ticker": "KNSL",
@@ -4964,7 +5021,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 165004655,
+    "total_value": 165059419,
     "any_new": false
   },
   {
@@ -5036,7 +5093,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 11118985,
+    "total_value": 11339251,
     "any_new": false
   },
   {
@@ -5072,7 +5129,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 90956452,
+    "total_value": 91538259,
     "any_new": false
   },
   {
@@ -5208,6 +5265,18 @@
     "any_new": false
   },
   {
+    "ticker": "OXY-WT",
+    "name": "OCCIDENTAL PETE CORP",
+    "sector": null,
+    "holders": [
+      "Warren Buffett",
+      "Li Lu"
+    ],
+    "holder_count": 2,
+    "total_value": 17316515515,
+    "any_new": false
+  },
+  {
     "ticker": "ACN",
     "name": "ACCENTURE PLC IRELAND",
     "sector": null,
@@ -5228,7 +5297,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 568555264,
+    "total_value": 571511350,
     "any_new": true
   },
   {
@@ -5252,7 +5321,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 2548140276,
+    "total_value": 2495772246,
     "any_new": false
   },
   {
@@ -5324,7 +5393,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 120768855,
+    "total_value": 119912810,
     "any_new": false
   },
   {
@@ -5336,7 +5405,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 326428787,
+    "total_value": 429778060,
     "any_new": false
   },
   {
@@ -5349,30 +5418,6 @@
     ],
     "holder_count": 2,
     "total_value": 422622656,
-    "any_new": false
-  },
-  {
-    "ticker": "SAPGF",
-    "name": "SAP SE",
-    "sector": null,
-    "holders": [
-      "Bill Nygren",
-      "Chris Davis"
-    ],
-    "holder_count": 2,
-    "total_value": 54595844,
-    "any_new": true
-  },
-  {
-    "ticker": "STT-PG",
-    "name": "STATE STR CORP",
-    "sector": null,
-    "holders": [
-      "Bill Nygren",
-      "Chris Davis"
-    ],
-    "holder_count": 2,
-    "total_value": 797345079,
     "any_new": false
   },
   {
@@ -5408,7 +5453,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 11374587,
+    "total_value": 11422341,
     "any_new": false
   },
   {
@@ -5504,7 +5549,7 @@
       "Chris Davis"
     ],
     "holder_count": 2,
-    "total_value": 891019019,
+    "total_value": 776781230,
     "any_new": false
   },
   {
@@ -5528,7 +5573,7 @@
       "Robert Citrone"
     ],
     "holder_count": 2,
-    "total_value": 13035061,
+    "total_value": 8894681,
     "any_new": true
   },
   {
@@ -5540,7 +5585,7 @@
       "Fran\u00e7ois Rochon"
     ],
     "holder_count": 2,
-    "total_value": 14023885,
+    "total_value": 15379352,
     "any_new": false
   },
   {
@@ -6525,17 +6570,6 @@
     "any_new": false
   },
   {
-    "ticker": "MCD",
-    "name": "MCDONALDS CORP",
-    "sector": null,
-    "holders": [
-      "Andreas Halvorsen"
-    ],
-    "holder_count": 1,
-    "total_value": 1126622763,
-    "any_new": false
-  },
-  {
     "ticker": "ORIC",
     "name": "ORIC PHARMACEUTICALS INC",
     "sector": null,
@@ -7493,6 +7527,17 @@
     "any_new": true
   },
   {
+    "ticker": "CCI",
+    "name": "CROWN CASTLE INC",
+    "sector": null,
+    "holders": [
+      "Paul Singer / Jesse Cohn"
+    ],
+    "holder_count": 1,
+    "total_value": 99604750,
+    "any_new": false
+  },
+  {
     "ticker": "EMR",
     "name": "EMERSON ELEC CO",
     "sector": null,
@@ -7878,17 +7923,6 @@
     "any_new": false
   },
   {
-    "ticker": "T-PC",
-    "name": "AT&T INC",
-    "sector": null,
-    "holders": [
-      "Rajiv Jain"
-    ],
-    "holder_count": 1,
-    "total_value": 2358426148,
-    "any_new": false
-  },
-  {
     "ticker": "MO",
     "name": "ALTRIA GROUP INC",
     "sector": null,
@@ -7896,7 +7930,7 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 1572994195,
+    "total_value": 1806782270,
     "any_new": false
   },
   {
@@ -7907,7 +7941,7 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 546149611,
+    "total_value": 581127327,
     "any_new": false
   },
   {
@@ -7918,7 +7952,18 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 471169,
+    "total_value": 75671518,
+    "any_new": false
+  },
+  {
+    "ticker": "T-PC",
+    "name": "AT&T INC",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain"
+    ],
+    "holder_count": 1,
+    "total_value": 1223364203,
     "any_new": false
   },
   {
@@ -7929,8 +7974,30 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 163887510,
+    "total_value": 202443484,
     "any_new": false
+  },
+  {
+    "ticker": "BBVXF",
+    "name": "BANCO BILBAO VIZCAYA ARGENTA",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain"
+    ],
+    "holder_count": 1,
+    "total_value": 8285036,
+    "any_new": true
+  },
+  {
+    "ticker": "BCDRF",
+    "name": "BANCO SANTANDER SA",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain"
+    ],
+    "holder_count": 1,
+    "total_value": 3578011,
+    "any_new": true
   },
   {
     "ticker": "BPPFF",
@@ -7940,8 +8007,8 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 256739990,
-    "any_new": true
+    "total_value": 522413270,
+    "any_new": false
   },
   {
     "ticker": "CELG-RI",
@@ -7951,8 +8018,8 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 2811794,
-    "any_new": true
+    "total_value": 5546732,
+    "any_new": false
   },
   {
     "ticker": "BTAFF",
@@ -7962,18 +8029,7 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 1618644764,
-    "any_new": false
-  },
-  {
-    "ticker": "CMS-PC",
-    "name": "CMS ENERGY CORP",
-    "sector": null,
-    "holders": [
-      "Rajiv Jain"
-    ],
-    "holder_count": 1,
-    "total_value": 342327877,
+    "total_value": 1517240175,
     "any_new": false
   },
   {
@@ -7984,8 +8040,8 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 853652499,
-    "any_new": true
+    "total_value": 10868440,
+    "any_new": false
   },
   {
     "ticker": "CNVEF",
@@ -7995,8 +8051,8 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 708332323,
-    "any_new": true
+    "total_value": 411552352,
+    "any_new": false
   },
   {
     "ticker": "CNP",
@@ -8006,7 +8062,7 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 204647168,
+    "total_value": 176573746,
     "any_new": false
   },
   {
@@ -8017,18 +8073,40 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 238909962,
+    "total_value": 216679259,
     "any_new": false
   },
   {
-    "ticker": "DVN",
-    "name": "DEVON ENERGY CORP NEW",
+    "ticker": "CMS-PC",
+    "name": "CMS ENERGY CORP",
     "sector": null,
     "holders": [
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 813692707,
+    "total_value": 363387746,
+    "any_new": false
+  },
+  {
+    "ticker": "DELL",
+    "name": "DELL TECHNOLOGIES INC",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain"
+    ],
+    "holder_count": 1,
+    "total_value": 478933543,
+    "any_new": true
+  },
+  {
+    "ticker": "FANG",
+    "name": "DIAMONDBACK ENERGY INC",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain"
+    ],
+    "holder_count": 1,
+    "total_value": 103192084,
     "any_new": true
   },
   {
@@ -8039,18 +8117,7 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 1021657201,
-    "any_new": false
-  },
-  {
-    "ticker": "EIPAF",
-    "name": "ENI SPA",
-    "sector": null,
-    "holders": [
-      "Rajiv Jain"
-    ],
-    "holder_count": 1,
-    "total_value": 17025357,
+    "total_value": 823157324,
     "any_new": false
   },
   {
@@ -8061,7 +8128,7 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 360422496,
+    "total_value": 203409967,
     "any_new": false
   },
   {
@@ -8072,7 +8139,18 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 4130317976,
+    "total_value": 2660876370,
+    "any_new": false
+  },
+  {
+    "ticker": "EIPAF",
+    "name": "ENI SPA",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain"
+    ],
+    "holder_count": 1,
+    "total_value": 27689004,
     "any_new": false
   },
   {
@@ -8083,8 +8161,30 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 1092078338,
+    "total_value": 922917399,
     "any_new": false
+  },
+  {
+    "ticker": "GRABW",
+    "name": "GRAB HOLDINGS LIMITED",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain"
+    ],
+    "holder_count": 1,
+    "total_value": 48803,
+    "any_new": true
+  },
+  {
+    "ticker": "HBCYF",
+    "name": "HSBC HLDGS PLC",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain"
+    ],
+    "holder_count": 1,
+    "total_value": 3587000,
+    "any_new": true
   },
   {
     "ticker": "IBN",
@@ -8094,8 +8194,30 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 2003793746,
+    "total_value": 896979414,
     "any_new": false
+  },
+  {
+    "ticker": "INFY",
+    "name": "INFOSYS LTD",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain"
+    ],
+    "holder_count": 1,
+    "total_value": 283226224,
+    "any_new": true
+  },
+  {
+    "ticker": "IBM",
+    "name": "INTERNATIONAL BUSINESS MACHS",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain"
+    ],
+    "holder_count": 1,
+    "total_value": 8646937,
+    "any_new": true
   },
   {
     "ticker": "ITUB",
@@ -8105,8 +8227,19 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 684195330,
+    "total_value": 393276593,
     "any_new": false
+  },
+  {
+    "ticker": "LLOBF",
+    "name": "LLOYDS BANKING GROUP PLC",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain"
+    ],
+    "holder_count": 1,
+    "total_value": 1988781,
+    "any_new": true
   },
   {
     "ticker": "NMKBP",
@@ -8116,7 +8249,7 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 500324,
+    "total_value": 8432914,
     "any_new": false
   },
   {
@@ -8127,7 +8260,7 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 859952359,
+    "total_value": 651293395,
     "any_new": false
   },
   {
@@ -8138,7 +8271,7 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 373824036,
+    "total_value": 337128503,
     "any_new": false
   },
   {
@@ -8149,19 +8282,19 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 140935500,
+    "total_value": 72049828,
     "any_new": false
   },
   {
-    "ticker": "PPL",
-    "name": "PPL CORP",
+    "ticker": "OMC",
+    "name": "OMNICOM GROUP INC",
     "sector": null,
     "holders": [
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 13215848,
-    "any_new": false
+    "total_value": 3331463,
+    "any_new": true
   },
   {
     "ticker": "PBR-A",
@@ -8171,7 +8304,7 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 3598882238,
+    "total_value": 3122083433,
     "any_new": false
   },
   {
@@ -8182,7 +8315,18 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 2709495,
+    "total_value": 3168134,
+    "any_new": false
+  },
+  {
+    "ticker": "PPL",
+    "name": "PPL CORP",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain"
+    ],
+    "holder_count": 1,
+    "total_value": 5328481,
     "any_new": false
   },
   {
@@ -8193,7 +8337,7 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 494885,
+    "total_value": 633121,
     "any_new": false
   },
   {
@@ -8204,7 +8348,7 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 7935731,
+    "total_value": 4165322,
     "any_new": false
   },
   {
@@ -8215,7 +8359,7 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 5183318,
+    "total_value": 5146997,
     "any_new": false
   },
   {
@@ -8226,29 +8370,7 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 1057816356,
-    "any_new": false
-  },
-  {
-    "ticker": "VZ",
-    "name": "VERIZON COMMUNICATIONS INC",
-    "sector": null,
-    "holders": [
-      "Rajiv Jain"
-    ],
-    "holder_count": 1,
-    "total_value": 2294873367,
-    "any_new": false
-  },
-  {
-    "ticker": "XELLL",
-    "name": "XCEL ENERGY INC",
-    "sector": null,
-    "holders": [
-      "Rajiv Jain"
-    ],
-    "holder_count": 1,
-    "total_value": 889186422,
+    "total_value": 1107935862,
     "any_new": false
   },
   {
@@ -8259,7 +8381,29 @@
       "Rajiv Jain"
     ],
     "holder_count": 1,
-    "total_value": 22354038,
+    "total_value": 20512763,
+    "any_new": false
+  },
+  {
+    "ticker": "VZ",
+    "name": "VERIZON COMMUNICATIONS INC",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain"
+    ],
+    "holder_count": 1,
+    "total_value": 1519042936,
+    "any_new": false
+  },
+  {
+    "ticker": "XELLL",
+    "name": "XCEL ENERGY INC",
+    "sector": null,
+    "holders": [
+      "Rajiv Jain"
+    ],
+    "holder_count": 1,
+    "total_value": 891688246,
     "any_new": false
   },
   {
@@ -11035,17 +11179,6 @@
     "any_new": false
   },
   {
-    "ticker": "WDAY",
-    "name": "WORKDAY INC",
-    "sector": null,
-    "holders": [
-      "Bill Nygren"
-    ],
-    "holder_count": 1,
-    "total_value": 1515777,
-    "any_new": false
-  },
-  {
     "ticker": "ZBH",
     "name": "ZIMMER BIOMET HOLDINGS INC",
     "sector": null,
@@ -11178,6 +11311,17 @@
     "any_new": false
   },
   {
+    "ticker": "FNV",
+    "name": "FRANCO NEV CORP",
+    "sector": null,
+    "holders": [
+      "Tom Gayner"
+    ],
+    "holder_count": 1,
+    "total_value": 161228340,
+    "any_new": false
+  },
+  {
     "ticker": "GD",
     "name": "GENERAL DYNAMICS CORP",
     "sector": null,
@@ -11208,17 +11352,6 @@
     ],
     "holder_count": 1,
     "total_value": 60167720,
-    "any_new": false
-  },
-  {
-    "ticker": "HSY",
-    "name": "HERSHEY CO",
-    "sector": null,
-    "holders": [
-      "Tom Gayner"
-    ],
-    "holder_count": 1,
-    "total_value": 13158750,
     "any_new": false
   },
   {
@@ -11383,7 +11516,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 241781462,
+    "total_value": 246362363,
     "any_new": false
   },
   {
@@ -11394,7 +11527,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 6500602,
+    "total_value": 5549285,
     "any_new": false
   },
   {
@@ -11405,7 +11538,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 13063100,
+    "total_value": 11300644,
     "any_new": false
   },
   {
@@ -11416,7 +11549,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 56317810,
+    "total_value": 60222331,
     "any_new": false
   },
   {
@@ -11427,7 +11560,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 16219296,
+    "total_value": 15044540,
     "any_new": false
   },
   {
@@ -11438,7 +11571,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 12310161,
+    "total_value": 15387236,
     "any_new": false
   },
   {
@@ -11449,7 +11582,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 5244336,
+    "total_value": 5902429,
     "any_new": false
   },
   {
@@ -11460,18 +11593,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 9155520,
-    "any_new": false
-  },
-  {
-    "ticker": "CTRA",
-    "name": "Coterra Energy, Inc.",
-    "sector": null,
-    "holders": [
-      "Chris Davis"
-    ],
-    "holder_count": 1,
-    "total_value": 1304375994,
+    "total_value": 10651353,
     "any_new": false
   },
   {
@@ -11482,7 +11604,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 13236515,
+    "total_value": 17196678,
     "any_new": false
   },
   {
@@ -11493,7 +11615,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 11622128,
+    "total_value": 9339954,
     "any_new": false
   },
   {
@@ -11504,7 +11626,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 46055780,
+    "total_value": 45162088,
     "any_new": false
   },
   {
@@ -11515,8 +11637,8 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 1785463,
-    "any_new": true
+    "total_value": 4134824,
+    "any_new": false
   },
   {
     "ticker": "FITBM",
@@ -11526,7 +11648,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 130716372,
+    "total_value": 151307396,
     "any_new": false
   },
   {
@@ -11537,7 +11659,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 10600735,
+    "total_value": 13503956,
     "any_new": false
   },
   {
@@ -11548,7 +11670,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 1904060,
+    "total_value": 4788435,
     "any_new": false
   },
   {
@@ -11559,7 +11681,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 27721505,
+    "total_value": 26891862,
     "any_new": false
   },
   {
@@ -11570,18 +11692,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 65548714,
-    "any_new": false
-  },
-  {
-    "ticker": "NETTF",
-    "name": "NetEase Inc. - ADR",
-    "sector": null,
-    "holders": [
-      "Chris Davis"
-    ],
-    "holder_count": 1,
-    "total_value": 47318692,
+    "total_value": 61723337,
     "any_new": false
   },
   {
@@ -11592,7 +11703,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 10113691,
+    "total_value": 9635215,
     "any_new": false
   },
   {
@@ -11603,7 +11714,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 317062477,
+    "total_value": 329781509,
     "any_new": false
   },
   {
@@ -11614,7 +11725,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 5806594,
+    "total_value": 5744931,
     "any_new": false
   },
   {
@@ -11625,7 +11736,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 10488746,
+    "total_value": 9276952,
     "any_new": false
   },
   {
@@ -11636,7 +11747,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 6860535,
+    "total_value": 6430660,
     "any_new": false
   },
   {
@@ -11647,7 +11758,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 413371240,
+    "total_value": 486686122,
     "any_new": false
   },
   {
@@ -11658,7 +11769,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 5470443,
+    "total_value": 5093777,
     "any_new": false
   },
   {
@@ -11669,7 +11780,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 8016377,
+    "total_value": 9962874,
     "any_new": false
   },
   {
@@ -11680,7 +11791,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 547756837,
+    "total_value": 497288923,
     "any_new": false
   },
   {
@@ -11691,7 +11802,18 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 1156596507,
+    "total_value": 1295909823,
+    "any_new": false
+  },
+  {
+    "ticker": "VALE",
+    "name": "Vale S.A., ADR",
+    "sector": null,
+    "holders": [
+      "Chris Davis"
+    ],
+    "holder_count": 1,
+    "total_value": 44064944,
     "any_new": false
   },
   {
@@ -11702,7 +11824,7 @@
       "Chris Davis"
     ],
     "holder_count": 1,
-    "total_value": 6015318,
+    "total_value": 5717808,
     "any_new": false
   },
   {
@@ -12319,17 +12441,6 @@
     ],
     "holder_count": 1,
     "total_value": 845917,
-    "any_new": false
-  },
-  {
-    "ticker": "TRV",
-    "name": "TRAVELERS COMPANIES INC",
-    "sector": null,
-    "holders": [
-      "Christopher Bloomstran"
-    ],
-    "holder_count": 1,
-    "total_value": 5571088,
     "any_new": false
   },
   {
