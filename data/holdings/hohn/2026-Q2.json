@@ -1,0 +1,133 @@
+{
+  "investor_id": "hohn",
+  "cik": "0001647251",
+  "quarter": "2026-Q2",
+  "report_date": "2026-06-30",
+  "filing_date": "2026-08-14",
+  "accession_number": "0001647251-26-000007",
+  "total_value": 52769884406,
+  "num_holdings": 11,
+  "holdings": [
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL A",
+      "value": 878058090,
+      "shares": 2457000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 3511682917,
+      "shares": 9938819,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "136375102",
+      "name": "CANADIAN NATL RY CO",
+      "ticker": "CNI",
+      "title_of_class": "COM",
+      "value": 1124534915,
+      "shares": 9433422,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "13646K108",
+      "name": "CANADIAN PACIFIC KANSAS CITY",
+      "ticker": "CP",
+      "title_of_class": "COM",
+      "value": 3925911608,
+      "shares": 45325726,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N3168P101",
+      "name": "FERROVIAL NV",
+      "ticker": "FER",
+      "title_of_class": "ORD SHS",
+      "value": 1434611939,
+      "shares": 20940441,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "369604301",
+      "name": "GE AEROSPACE",
+      "ticker": "GE",
+      "title_of_class": "COM NEW",
+      "value": 17725353519,
+      "shares": 47428233,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "573284106",
+      "name": "MARTIN MARIETTA MATLS INC",
+      "ticker": "MRT",
+      "title_of_class": "COM",
+      "value": 758423360,
+      "shares": 1315109,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "615369105",
+      "name": "MOODYS CORP",
+      "ticker": "MCO",
+      "title_of_class": "COM",
+      "value": 6492167509,
+      "shares": 14334027,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78409V104",
+      "name": "S&P GLOBAL INC",
+      "ticker": "SPGI",
+      "title_of_class": "COM",
+      "value": 5735017808,
+      "shares": 14081957,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "ticker": "V",
+      "title_of_class": "COM CL A",
+      "value": 10462232091,
+      "shares": 30494133,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "929160109",
+      "name": "VULCAN MATLS CO",
+      "ticker": "VMC",
+      "title_of_class": "COM",
+      "value": 721890650,
+      "shares": 2447004,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "investor_id": "gaonkar",
+  "cik": "0001960830",
+  "quarter": "2026-Q2",
+  "report_date": "2026-06-30",
+  "filing_date": "2026-08-14",
+  "accession_number": "0000919574-26-005191",
+  "total_value": 3093472161,
+  "num_holdings": 13,
+  "holdings": [
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "ticker": "GOOG",
+      "title_of_class": "CAP STK CL C",
+      "value": 341345046,
+      "shares": 966080,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "04010E109",
+      "name": "ARGAN INC",
+      "ticker": "AGX",
+      "title_of_class": "COM",
+      "value": 119768925,
+      "shares": 149983,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "144285103",
+      "name": "CARPENTER TECHNOLOGY CORP",
+      "ticker": "CRS",
+      "title_of_class": "COM",
+      "value": 423444005,
+      "shares": 686473,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "219350105",
+      "name": "CORNING INC",
+      "ticker": "GLW",
+      "title_of_class": "COM",
+      "value": 203623943,
+      "shares": 797181,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G2R11M108",
+      "name": "DPC HOLDINGS PLC",
+      "ticker": "DPC",
+      "title_of_class": "ORDINARY SHARES",
+      "value": 31335849,
+      "shares": 638725,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "458140100",
+      "name": "INTEL CORP",
+      "ticker": "INTC",
+      "title_of_class": "COM",
+      "value": 258080223,
+      "shares": 1848315,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "46120E602",
+      "name": "INTUITIVE SURGICAL INC",
+      "ticker": "ISRG",
+      "title_of_class": "COM NEW",
+      "value": 102189046,
+      "shares": 256963,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "50212V100",
+      "name": "LPL FINL HLDGS INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 299487246,
+      "shares": 1063218,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "58155Q103",
+      "name": "MCKESSON CORP",
+      "ticker": "MCK",
+      "title_of_class": "COM",
+      "value": 284762972,
+      "shares": 376870,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "58507V107",
+      "name": "MEDLINE INC",
+      "ticker": "MDLN",
+      "title_of_class": "COM CL A",
+      "value": 295307276,
+      "shares": 7487507,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G6683N103",
+      "name": "NU HLDGS LTD",
+      "ticker": "NU",
+      "title_of_class": "ORD SHS CL A",
+      "value": 106889726,
+      "shares": 8000728,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MANUFAC",
+      "ticker": "TSMWF",
+      "title_of_class": "SPONSORED ADS",
+      "value": 433664124,
+      "shares": 908064,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "ticker": "V",
+      "title_of_class": "COM CL A",
+      "value": 193573780,
+      "shares": 564207,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

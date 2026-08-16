@@ -1,0 +1,78 @@
+{
+  "investor_id": "sosin",
+  "cik": "0001697591",
+  "quarter": "2026-Q2",
+  "report_date": "2026-06-30",
+  "filing_date": "2026-08-14",
+  "accession_number": "0001697591-26-000004",
+  "total_value": 1883136156,
+  "num_holdings": 6,
+  "holdings": [
+    {
+      "cusip": "14161W105",
+      "name": "CARDLYTICS, INC.",
+      "ticker": "CDLX",
+      "title_of_class": "COM",
+      "value": 2114727,
+      "shares": 470986,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "146869102",
+      "name": "CARVANA CO CL A",
+      "ticker": "CVNA",
+      "title_of_class": "CL A",
+      "value": 1484870897,
+      "shares": 22559570,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43283X105",
+      "name": "HILTON GRAND VACATIONS",
+      "ticker": "HGV",
+      "title_of_class": "COM",
+      "value": 272683049,
+      "shares": 5206856,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "51819L107",
+      "name": "LATHAM GROUP",
+      "ticker": "SWIM",
+      "title_of_class": "COM",
+      "value": 5969474,
+      "shares": 922639,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "57164Y107",
+      "name": "MARRIOTT VACATIONS WORLDWIDE CORP.",
+      "ticker": "VAC",
+      "title_of_class": "COM",
+      "value": 40752000,
+      "shares": 400000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 76746009,
+      "shares": 136246,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

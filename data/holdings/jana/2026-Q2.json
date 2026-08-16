@@ -1,0 +1,122 @@
+{
+  "investor_id": "jana",
+  "cik": "0001998597",
+  "quarter": "2026-Q2",
+  "report_date": "2026-06-30",
+  "filing_date": "2026-08-14",
+  "accession_number": "0000902664-26-003486",
+  "total_value": 1902301416,
+  "num_holdings": 10,
+  "holdings": [
+    {
+      "cusip": "01644J108",
+      "name": "ALKAMI TECHNOLOGY INC",
+      "ticker": "ALKT",
+      "title_of_class": "COM",
+      "value": 122268451,
+      "shares": 6747707,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "216648501",
+      "name": "COOPER COS INC",
+      "ticker": "COO",
+      "title_of_class": "COM",
+      "value": 256899641,
+      "shares": 3582480,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "74624M102",
+      "name": "EVERPURE INC",
+      "ticker": "PSA-PS",
+      "title_of_class": "CL A",
+      "value": 77938753,
+      "shares": 989196,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "337738108",
+      "name": "FISERV INC",
+      "ticker": "FISV",
+      "title_of_class": "COM",
+      "value": 179625024,
+      "shares": 3662080,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "513272104",
+      "name": "LAMB WESTON HLDGS INC",
+      "ticker": "LW",
+      "title_of_class": "COM",
+      "value": 232940339,
+      "shares": 5394635,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "570535104",
+      "name": "MARKEL GROUP INC",
+      "ticker": "MKL",
+      "title_of_class": "COM",
+      "value": 149879846,
+      "shares": 76743,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "589378108",
+      "name": "MERCURY SYS INC",
+      "ticker": "MRCY",
+      "title_of_class": "COM",
+      "value": 484285998,
+      "shares": 3958849,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "753422104",
+      "name": "RAPID7 INC",
+      "ticker": "RPD",
+      "title_of_class": "COM",
+      "value": 54674482,
+      "shares": 6749936,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83001C108",
+      "name": "SIX FLAGS ENTERTAINMENT CORP",
+      "ticker": "FUN",
+      "title_of_class": "COM",
+      "value": 87672909,
+      "shares": 4116099,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78462F103",
+      "name": "STATE STR SPDR S&P 500 ETF T",
+      "ticker": "SPY",
+      "title_of_class": "TR UNIT",
+      "value": 256115973,
+      "shares": 342965,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

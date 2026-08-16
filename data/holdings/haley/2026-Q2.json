@@ -1,0 +1,177 @@
+{
+  "investor_id": "haley",
+  "cik": "0001858353",
+  "quarter": "2026-Q2",
+  "report_date": "2026-06-30",
+  "filing_date": "2026-08-14",
+  "accession_number": "0001858353-26-000004",
+  "total_value": 497191448,
+  "num_holdings": 15,
+  "holdings": [
+    {
+      "cusip": "10950A106",
+      "name": "BRIGHTSPRING HEALTH SVCS INC",
+      "ticker": "BTSGU",
+      "title_of_class": "COM",
+      "value": 68135980,
+      "shares": 977000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "109696104",
+      "name": "BRINKS CO",
+      "ticker": "BCO",
+      "title_of_class": "COM",
+      "value": 30641690,
+      "shares": 324285,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "141788109",
+      "name": "CARGURUS INC",
+      "ticker": "CARG",
+      "title_of_class": "COM CL A",
+      "value": 28756483,
+      "shares": 843546,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "234264109",
+      "name": "DAKTRONICS INC",
+      "ticker": "DAKT",
+      "title_of_class": "COM",
+      "value": 56465788,
+      "shares": 2886799,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "25960R105",
+      "name": "DOUGLAS DYNAMICS INC",
+      "ticker": "PLOW",
+      "title_of_class": "COM",
+      "value": 10376851,
+      "shares": 192342,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "433313103",
+      "name": "HINGE HEALTH INC",
+      "ticker": "HNGE",
+      "title_of_class": "CL A",
+      "value": 22584300,
+      "shares": 272100,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "448947507",
+      "name": "IDT CORP",
+      "ticker": "IDT",
+      "title_of_class": "CL B NEW",
+      "value": 5642102,
+      "shares": 97010,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "45784P101",
+      "name": "INSULET CORP",
+      "ticker": "PODD",
+      "title_of_class": "COM",
+      "value": 12575850,
+      "shares": 82600,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "63001N106",
+      "name": "NCR ATLEOS CORPORATION",
+      "ticker": "NATL",
+      "title_of_class": "COM SHS",
+      "value": 67758191,
+      "shares": 1560889,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "920253101",
+      "name": "VALMONT INDS INC",
+      "ticker": "VMI",
+      "title_of_class": "COM",
+      "value": 21070848,
+      "shares": 36480,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92047W101",
+      "name": "VALVOLINE INC",
+      "ticker": "VVV",
+      "title_of_class": "COM",
+      "value": 11860853,
+      "shares": 299971,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "946784105",
+      "name": "WAYSTAR HLDG CORP",
+      "ticker": "WAY",
+      "title_of_class": "COM",
+      "value": 21330670,
+      "shares": 1039000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "96208T104",
+      "name": "WEX INC",
+      "ticker": "WEX",
+      "title_of_class": "COM",
+      "value": 12839190,
+      "shares": 91000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "96924N100",
+      "name": "WILLDAN GROUP INC",
+      "ticker": "WLDN",
+      "title_of_class": "COM",
+      "value": 28460655,
+      "shares": 359806,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98379L100",
+      "name": "XPEL INC",
+      "ticker": "XPEL",
+      "title_of_class": "COM",
+      "value": 98691997,
+      "shares": 1989758,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

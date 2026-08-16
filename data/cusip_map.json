@@ -2494,6 +2494,11 @@
     "name": "AKUMIN INC",
     "sector": null
   },
+  "010911105": {
+    "ticker": "ALMR",
+    "name": "Alamar Biosciences, Inc.",
+    "sector": null
+  },
   "011311107": {
     "ticker": "ALG",
     "name": "ALAMO GROUP INC",
@@ -3246,6 +3251,16 @@
   },
   "02079K305": {
     "ticker": "GOOG",
+    "name": "Alphabet Inc.",
+    "sector": null
+  },
+  "02079K404": {
+    "ticker": "GOOGN",
+    "name": "Alphabet Inc.",
+    "sector": null
+  },
+  "02079K602": {
+    "ticker": "GOOGN",
     "name": "Alphabet Inc.",
     "sector": null
   },
@@ -4809,6 +4824,11 @@
     "name": "Apple Hospitality REIT, Inc.",
     "sector": null
   },
+  "03815J107": {
+    "ticker": "AADX",
+    "name": "Applied Aerospace & Defense, Inc.",
+    "sector": null
+  },
   "03815U300": {
     "ticker": "UNKNOWN",
     "name": "APPLIED DNA SCIENCES INC",
@@ -5522,6 +5542,11 @@
   "04335A105": {
     "ticker": "ARVN",
     "name": "ARVINAS, INC.",
+    "sector": null
+  },
+  "04339D105": {
+    "ticker": "ARXS",
+    "name": "Arxis, Inc.",
     "sector": null
   },
   "04342Y104": {
@@ -6506,6 +6531,11 @@
   },
   "05501U106": {
     "ticker": "AZSAQ",
+    "name": "AZUL SA",
+    "sector": null
+  },
+  "05501U601": {
+    "ticker": "AZUXY",
     "name": "AZUL SA",
     "sector": null
   },
@@ -8344,6 +8374,11 @@
     "name": "Bitdeer Technologies Group",
     "sector": null
   },
+  "09175T106": {
+    "ticker": "BHYP",
+    "name": "Bitwise Hyperliquid ETF",
+    "sector": null
+  },
   "09180C106": {
     "ticker": "BJRI",
     "name": "BJs RESTAURANTS INC",
@@ -8817,6 +8852,11 @@
   "09263B207": {
     "ticker": "BKSY-WT",
     "name": "BlackSky Technology Inc.",
+    "sector": null
+  },
+  "09264B107": {
+    "ticker": "BX",
+    "name": "Blackstone Inc.",
     "sector": null
   },
   "092667104": {
@@ -12237,6 +12277,16 @@
   "15673X200": {
     "ticker": "ETON",
     "name": "Eton Pharmaceuticals, Inc.",
+    "sector": null
+  },
+  "15675D103": {
+    "ticker": "CBRS",
+    "name": "Cerebras Systems Inc.",
+    "sector": null
+  },
+  "15675d103": {
+    "ticker": "CBRS",
+    "name": "Cerebras Systems Inc.",
     "sector": null
   },
   "15677J108": {
@@ -20244,6 +20294,11 @@
     "name": "Ero Copper Corp.",
     "sector": null
   },
+  "296013105": {
+    "ticker": "EROC",
+    "name": "ERock, Inc.",
+    "sector": null
+  },
   "29604W108": {
     "ticker": "RAY",
     "name": "Raytech Holding Ltd",
@@ -21654,6 +21709,11 @@
     "name": "Enact Holdings, Inc.",
     "sector": null
   },
+  "314352105": {
+    "ticker": "FDX",
+    "name": "FEDEX CORP",
+    "sector": null
+  },
   "31447E105": {
     "ticker": "FEMY",
     "name": "FEMASYS INC",
@@ -21682,6 +21742,11 @@
   "315405100": {
     "ticker": "FER",
     "name": "Ferrovial SE",
+    "sector": null
+  },
+  "31556C106": {
+    "ticker": "FRVO",
+    "name": "Fervo Energy Co",
     "sector": null
   },
   "315616102": {
@@ -29294,6 +29359,11 @@
     "name": "HAWAIIAN ELECTRIC INDUSTRIES INC",
     "sector": null
   },
+  "420201105": {
+    "ticker": "HAWK",
+    "name": "HawkEye 360, Inc.",
+    "sector": null
+  },
   "420261109": {
     "ticker": "HWKN",
     "name": "HAWKINS INC",
@@ -30079,7 +30149,17 @@
     "name": "Honest Company, Inc.",
     "sector": null
   },
+  "43849R105": {
+    "ticker": "HONA",
+    "name": "Honeywell Aerospace Inc.",
+    "sector": null
+  },
   "438516106": {
+    "ticker": "HON",
+    "name": "HONEYWELL INTERNATIONAL INC",
+    "sector": null
+  },
+  "438516205": {
     "ticker": "HON",
     "name": "HONEYWELL INTERNATIONAL INC",
     "sector": null
@@ -40449,6 +40529,11 @@
     "name": "LINCOLN EDL SVCS CORP",
     "sector": null
   },
+  "533714101": {
+    "ticker": "LCLN",
+    "name": "Lincoln International, Inc.",
+    "sector": null
+  },
   "533900106": {
     "ticker": "LECO",
     "name": "LINCOLN ELECTRIC HOLDINGS INC",
@@ -40742,6 +40827,11 @@
   "53680Q207": {
     "ticker": "LTUM",
     "name": "Lithium Corp",
+    "sector": null
+  },
+  "53680QAA6": {
+    "ticker": "LAR",
+    "name": "Lithium Argentina AG",
     "sector": null
   },
   "53681J103": {
@@ -41797,6 +41887,11 @@
   "556269108": {
     "ticker": "UNKNOWN",
     "name": "MADDEN STEVEN LTD",
+    "sector": null
+  },
+  "55658T105": {
+    "ticker": "MAIR",
+    "name": "Madison Air Solutions Corp",
     "sector": null
   },
   "557437100": {
@@ -49904,6 +49999,11 @@
     "name": "PERSHING SQUARE TONTINE HLDG",
     "sector": null
   },
+  "71531U102": {
+    "ticker": "PS",
+    "name": "PERSHING SQUARE INC.",
+    "sector": null
+  },
   "71535D106": {
     "ticker": "PSNL",
     "name": "Personalis, Inc.",
@@ -52869,6 +52969,11 @@
     "name": "QuantumScape Corp",
     "sector": null
   },
+  "74768A104": {
+    "ticker": "QNT",
+    "name": "Quantinuum Inc.",
+    "sector": null
+  },
   "747798106": {
     "ticker": "HTT",
     "name": "Qudian Inc.",
@@ -54655,6 +54760,11 @@
     "sector": null
   },
   "77926X304": {
+    "ticker": "UNKNOWN",
+    "name": "ROUNDHILL ETF TRUST",
+    "sector": null
+  },
+  "77926X320": {
     "ticker": "UNKNOWN",
     "name": "ROUNDHILL ETF TRUST",
     "sector": null
@@ -58967,6 +59077,11 @@
   "84612U107": {
     "ticker": "SBDS",
     "name": "Solo Brands, Inc.",
+    "sector": null
+  },
+  "84615Q103": {
+    "ticker": "SPCX",
+    "name": "SPACE EXPLORATION TECHNOLOGIES CORP",
     "sector": null
   },
   "846511103": {
@@ -64102,6 +64217,11 @@
   "90137F202": {
     "ticker": "XXII",
     "name": "22nd Century Group, Inc.",
+    "sector": null
+  },
+  "90137V108": {
+    "ticker": "THYP",
+    "name": "21Shares Hyperliquid ETF",
     "sector": null
   },
   "901384107": {
@@ -69284,6 +69404,11 @@
     "name": "XTL BIOPHARMACEUTICALS LTD",
     "sector": null
   },
+  "98386P102": {
+    "ticker": "XE",
+    "name": "X-Energy, Inc.",
+    "sector": null
+  },
   "98389B100": {
     "ticker": "XELLL",
     "name": "XCEL ENERGY INC",
@@ -72309,6 +72434,11 @@
     "name": "Colombier Acquisition Corp. III",
     "sector": null
   },
+  "G22845104": {
+    "ticker": "OCTLF",
+    "name": "Octave Intelligence plc",
+    "sector": null
+  },
   "G2284B101": {
     "ticker": "CNDAW",
     "name": "Concord Acquisition Corp II",
@@ -72962,6 +73092,11 @@
   "G2R09D110": {
     "ticker": "CLIK",
     "name": "Click Holdings Ltd.",
+    "sector": null
+  },
+  "G2R11M108": {
+    "ticker": "DPC",
+    "name": "DPC Holdings PLC",
     "sector": null
   },
   "G2R18K105": {
@@ -79634,6 +79769,11 @@
     "name": "Webull Corp",
     "sector": null
   },
+  "G9600F104": {
+    "ticker": "VGNT",
+    "name": "Versigent PLC",
+    "sector": null
+  },
   "G9604C107": {
     "ticker": "UNKNOWN",
     "name": "WUNONG NET TECHNOLOGY CO LTD",
@@ -81207,6 +81347,11 @@
   "N52586117": {
     "ticker": "LILMF",
     "name": "Lilium N.V.",
+    "sector": null
+  },
+  "N52A8C105": {
+    "ticker": "INIO",
+    "name": "INNIO N.V.",
     "sector": null
   },
   "N53745100": {

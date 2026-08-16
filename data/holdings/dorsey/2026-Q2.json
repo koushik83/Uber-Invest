@@ -1,0 +1,133 @@
+{
+  "investor_id": "dorsey",
+  "cik": "0001671657",
+  "quarter": "2026-Q2",
+  "report_date": "2026-06-30",
+  "filing_date": "2026-08-14",
+  "accession_number": "0001398344-26-014470",
+  "total_value": 1561408466,
+  "num_holdings": 11,
+  "holdings": [
+    {
+      "cusip": "N00985106",
+      "name": "AERCAP HOLDINGS NV",
+      "ticker": "AER",
+      "title_of_class": "SHS",
+      "value": 111788186,
+      "shares": 766828,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "03831W108",
+      "name": "APPLOVIN CORP",
+      "ticker": "APP",
+      "title_of_class": "COM CL A",
+      "value": 226347237,
+      "shares": 439313,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N07059210",
+      "name": "ASML HLDG NV",
+      "ticker": "ASMLF",
+      "title_of_class": "N Y REGISTRY SHS",
+      "value": 259351356,
+      "shares": 130364,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "09857L108",
+      "name": "BOOKING HOLDINGS INC",
+      "ticker": "BKNG",
+      "title_of_class": "COM",
+      "value": 132164960,
+      "shares": 741500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "235851102",
+      "name": "DANAHER CORP DEL",
+      "ticker": "DAN",
+      "title_of_class": "COM",
+      "value": 119280671,
+      "shares": 626211,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "538034109",
+      "name": "LIVE NATION ENTERTAINMENT IN",
+      "ticker": "LYV",
+      "title_of_class": "COM",
+      "value": 120057536,
+      "shares": 655658,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 112602234,
+      "shares": 199901,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G7709Q104",
+      "name": "ROYALTY PHARMA PLC",
+      "ticker": "RPRX",
+      "title_of_class": "SHS CLASS A",
+      "value": 137737525,
+      "shares": 2456528,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78409V104",
+      "name": "S&P GLOBAL INC",
+      "ticker": "SPGI",
+      "title_of_class": "COM",
+      "value": 128862358,
+      "shares": 316413,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "866966104",
+      "name": "SUNBELT RENTALS HOLDINGS INC",
+      "ticker": "SUNB",
+      "title_of_class": "SHS",
+      "value": 86074740,
+      "shares": 1150578,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90353T100",
+      "name": "UBER TECHNOLOGIES INC",
+      "ticker": "UBER",
+      "title_of_class": "COM",
+      "value": 127141663,
+      "shares": 1761941,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}
