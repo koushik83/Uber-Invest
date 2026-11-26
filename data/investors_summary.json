@@ -5,39 +5,39 @@
     "fund": "Duquesne Family Office",
     "avatar": "SD",
     "cik": "0001536411",
-    "latest_quarter": "2026-Q2",
-    "total_value": 5210856000,
-    "num_holdings": 95,
-    "num_new": 48,
+    "latest_quarter": "2026-Q3",
+    "total_value": 4470867000,
+    "num_holdings": 65,
+    "num_new": 18,
     "top_holdings": [
       {
         "ticker": "NTRA",
-        "value": 864923000,
-        "weight": 16.6,
+        "value": 1306335000,
+        "weight": 29.2,
         "put_call": null
       },
       {
-        "ticker": "TSMWF",
-        "value": 281613000,
-        "weight": 5.4,
+        "ticker": "STX",
+        "value": 315247000,
+        "weight": 7.1,
         "put_call": null
       },
       {
-        "ticker": "STMEF",
-        "value": 232375000,
-        "weight": 4.5,
+        "ticker": "AMZN",
+        "value": 192493000,
+        "weight": 4.3,
         "put_call": null
       },
       {
-        "ticker": "IVZ",
-        "value": 174684000,
-        "weight": 3.4,
-        "put_call": "CALL"
+        "ticker": "FOX",
+        "value": 190835000,
+        "weight": 4.3,
+        "put_call": null
       },
       {
-        "ticker": "INSM",
-        "value": 151900000,
-        "weight": 2.9,
+        "ticker": "YPF",
+        "value": 177555000,
+        "weight": 4.0,
         "put_call": null
       }
     ]
@@ -48,39 +48,39 @@
     "fund": "Appaloosa Management",
     "avatar": "DT",
     "cik": "0001656456",
-    "latest_quarter": "2026-Q2",
-    "total_value": 7725383349,
-    "num_holdings": 27,
-    "num_new": 8,
+    "latest_quarter": "2026-Q3",
+    "total_value": 7559628593,
+    "num_holdings": 24,
+    "num_new": 4,
     "top_holdings": [
       {
-        "ticker": "AMZN",
-        "value": 1191700000,
-        "weight": 15.4,
+        "ticker": "MU",
+        "value": 1331387500,
+        "weight": 17.6,
         "put_call": null
       },
       {
-        "ticker": "MU",
-        "value": 1125432750,
-        "weight": 14.6,
+        "ticker": "AMZN",
+        "value": 1114946250,
+        "weight": 14.7,
         "put_call": null
       },
       {
         "ticker": "TSMWF",
-        "value": 787990500,
-        "weight": 10.2,
+        "value": 718499250,
+        "weight": 9.5,
         "put_call": null
       },
       {
-        "ticker": "GOOG",
-        "value": 653660500,
-        "weight": 8.5,
+        "ticker": "SPCX",
+        "value": 556547062,
+        "weight": 7.4,
         "put_call": null
       },
       {
         "ticker": "UBER",
-        "value": 555204163,
-        "weight": 7.2,
+        "value": 501150650,
+        "weight": 6.6,
         "put_call": null
       }
     ]
@@ -91,39 +91,39 @@
     "fund": "TCI Fund Management",
     "avatar": "CH",
     "cik": "0001647251",
-    "latest_quarter": "2026-Q2",
-    "total_value": 52769884406,
-    "num_holdings": 11,
-    "num_new": 2,
+    "latest_quarter": "2026-Q3",
+    "total_value": 49583884496,
+    "num_holdings": 12,
+    "num_new": 1,
     "top_holdings": [
       {
         "ticker": "GE",
-        "value": 17725353519,
-        "weight": 33.6,
+        "value": 14792625484,
+        "weight": 29.8,
         "put_call": null
       },
       {
         "ticker": "V",
-        "value": 10462232091,
-        "weight": 19.8,
+        "value": 10917930511,
+        "weight": 22.0,
         "put_call": null
       },
       {
         "ticker": "MCO",
-        "value": 6492167509,
-        "weight": 12.3,
+        "value": 6484531807,
+        "weight": 13.1,
         "put_call": null
       },
       {
         "ticker": "SPGI",
-        "value": 5735017808,
-        "weight": 10.9,
+        "value": 5554909578,
+        "weight": 11.2,
         "put_call": null
       },
       {
         "ticker": "CP",
-        "value": 3925911608,
-        "weight": 7.4,
+        "value": 3787134760,
+        "weight": 7.6,
         "put_call": null
       }
     ]
@@ -177,39 +177,39 @@
     "fund": "Third Point",
     "avatar": "DL",
     "cik": "0001040273",
-    "latest_quarter": "2026-Q2",
-    "total_value": 4679571988,
-    "num_holdings": 43,
-    "num_new": 19,
+    "latest_quarter": "2026-Q3",
+    "total_value": 4589115363,
+    "num_holdings": 39,
+    "num_new": 11,
     "top_holdings": [
       {
-        "ticker": "WBD",
-        "value": 533200000,
-        "weight": 11.4,
+        "ticker": "META",
+        "value": 474992900,
+        "weight": 10.4,
         "put_call": null
       },
       {
-        "ticker": "AMZN",
-        "value": 417095000,
-        "weight": 8.9,
+        "ticker": "UNMA",
+        "value": 438650000,
+        "weight": 9.6,
         "put_call": null
       },
       {
-        "ticker": "GOOG",
-        "value": 366304250,
-        "weight": 7.8,
+        "ticker": "NVDA",
+        "value": 342570000,
+        "weight": 7.5,
         "put_call": null
       },
       {
         "ticker": "RH",
-        "value": 234865000,
-        "weight": 5.0,
+        "value": 235152000,
+        "weight": 5.1,
         "put_call": null
       },
       {
-        "ticker": "TDS-PV",
-        "value": 232237750,
-        "weight": 5.0,
+        "ticker": "BSQKZ",
+        "value": 233825400,
+        "weight": 5.1,
         "put_call": null
       }
     ]
@@ -220,39 +220,39 @@
     "fund": "Coatue Management",
     "avatar": "PL",
     "cik": "0001135730",
-    "latest_quarter": "2026-Q2",
-    "total_value": 48629053706,
-    "num_holdings": 211,
-    "num_new": 9,
+    "latest_quarter": "2026-Q3",
+    "total_value": 54495247703,
+    "num_holdings": 263,
+    "num_new": 14,
     "top_holdings": [
       {
         "ticker": "LRCX",
-        "value": 2080299031,
-        "weight": 4.3,
-        "put_call": null
-      },
-      {
-        "ticker": "SPCX",
-        "value": 1958896231,
-        "weight": 4.0,
+        "value": 1661834851,
+        "weight": 3.0,
         "put_call": null
       },
       {
         "ticker": "TSMWF",
-        "value": 1649077387,
-        "weight": 3.4,
-        "put_call": null
-      },
-      {
-        "ticker": "AMZN",
-        "value": 1546348490,
-        "weight": 3.2,
+        "value": 1575250985,
+        "weight": 2.9,
         "put_call": null
       },
       {
         "ticker": "MU",
-        "value": 1491474269,
-        "weight": 3.1,
+        "value": 1521330697,
+        "weight": 2.8,
+        "put_call": null
+      },
+      {
+        "ticker": "AMZN",
+        "value": 1515905837,
+        "weight": 2.8,
+        "put_call": null
+      },
+      {
+        "ticker": "META",
+        "value": 1497970243,
+        "weight": 2.7,
         "put_call": null
       }
     ]
@@ -263,39 +263,39 @@
     "fund": "Altimeter Capital",
     "avatar": "BG",
     "cik": "0001541617",
-    "latest_quarter": "2026-Q2",
-    "total_value": 9829676383,
-    "num_holdings": 20,
-    "num_new": 10,
+    "latest_quarter": "2026-Q3",
+    "total_value": 10308735663,
+    "num_holdings": 17,
+    "num_new": 4,
     "top_holdings": [
       {
         "ticker": "NVDA",
-        "value": 1883565023,
-        "weight": 19.2,
-        "put_call": null
-      },
-      {
-        "ticker": "CBRS",
-        "value": 1596733177,
-        "weight": 16.2,
+        "value": 2285186039,
+        "weight": 22.2,
         "put_call": null
       },
       {
         "ticker": "META",
-        "value": 763252318,
-        "weight": 7.8,
+        "value": 1231865441,
+        "weight": 11.9,
         "put_call": null
       },
       {
-        "ticker": "TSMWF",
-        "value": 682617068,
-        "weight": 6.9,
+        "ticker": "CBRS",
+        "value": 1010646202,
+        "weight": 9.8,
         "put_call": null
       },
       {
-        "ticker": "CRWV",
-        "value": 604575601,
-        "weight": 6.2,
+        "ticker": "TSLA",
+        "value": 679617266,
+        "weight": 6.6,
+        "put_call": null
+      },
+      {
+        "ticker": "SNOW",
+        "value": 654077450,
+        "weight": 6.3,
         "put_call": null
       }
     ]
@@ -306,39 +306,39 @@
     "fund": "Whale Rock Capital",
     "avatar": "AS",
     "cik": "0001387322",
-    "latest_quarter": "2026-Q2",
-    "total_value": 12456319060,
-    "num_holdings": 35,
-    "num_new": 7,
+    "latest_quarter": "2026-Q3",
+    "total_value": 11449943528,
+    "num_holdings": 40,
+    "num_new": 9,
     "top_holdings": [
       {
-        "ticker": "SNDK",
-        "value": 1356382263,
-        "weight": 10.9,
+        "ticker": "META",
+        "value": 868864990,
+        "weight": 7.6,
         "put_call": null
       },
       {
         "ticker": "AMD",
-        "value": 876970782,
-        "weight": 7.0,
-        "put_call": null
-      },
-      {
-        "ticker": "GOOG",
-        "value": 856384314,
+        "value": 793136440,
         "weight": 6.9,
         "put_call": null
       },
       {
-        "ticker": "TTMI",
-        "value": 791202137,
-        "weight": 6.4,
+        "ticker": "CLS",
+        "value": 638225744,
+        "weight": 5.6,
         "put_call": null
       },
       {
-        "ticker": "ALAB",
-        "value": 757318364,
-        "weight": 6.1,
+        "ticker": "TTMI",
+        "value": 614838277,
+        "weight": 5.4,
+        "put_call": null
+      },
+      {
+        "ticker": "AMZN",
+        "value": 513596813,
+        "weight": 4.5,
         "put_call": null
       }
     ]
@@ -349,39 +349,39 @@
     "fund": "SRS Investment Management",
     "avatar": "KS",
     "cik": "0001503174",
-    "latest_quarter": "2026-Q2",
-    "total_value": 10814129048,
-    "num_holdings": 33,
-    "num_new": 6,
+    "latest_quarter": "2026-Q3",
+    "total_value": 10603849539,
+    "num_holdings": 37,
+    "num_new": 8,
     "top_holdings": [
       {
         "ticker": "CAR",
-        "value": 2576807286,
-        "weight": 23.8,
+        "value": 1859352183,
+        "weight": 17.5,
         "put_call": null
       },
       {
         "ticker": "NFLX",
-        "value": 1084175442,
+        "value": 1056539597,
         "weight": 10.0,
         "put_call": null
       },
       {
         "ticker": "RBLX",
-        "value": 710389976,
-        "weight": 6.6,
+        "value": 832707101,
+        "weight": 7.9,
         "put_call": null
       },
       {
-        "ticker": "CRDO",
-        "value": 699947086,
-        "weight": 6.5,
+        "ticker": "META",
+        "value": 653228366,
+        "weight": 6.2,
         "put_call": null
       },
       {
-        "ticker": "TPR",
-        "value": 594726863,
-        "weight": 5.5,
+        "ticker": "NVDA",
+        "value": 570950000,
+        "weight": 5.4,
         "put_call": null
       }
     ]
@@ -392,10 +392,10 @@
     "fund": "Matrix Capital",
     "avatar": "DG",
     "cik": "0001410830",
-    "latest_quarter": "2026-Q2",
+    "latest_quarter": "2026-Q3",
     "total_value": 0,
     "num_holdings": 1,
-    "num_new": 1,
+    "num_new": 0,
     "top_holdings": [
       {
         "ticker": "UNKNOWN",
@@ -411,39 +411,39 @@
     "fund": "Tiger Global",
     "avatar": "CC",
     "cik": "0001167483",
-    "latest_quarter": "2026-Q2",
-    "total_value": 23981506027,
-    "num_holdings": 46,
-    "num_new": 9,
+    "latest_quarter": "2026-Q3",
+    "total_value": 20173101170,
+    "num_holdings": 45,
+    "num_new": 3,
     "top_holdings": [
       {
-        "ticker": "TSMWF",
-        "value": 2331022991,
-        "weight": 9.7,
+        "ticker": "NVDA",
+        "value": 2740560000,
+        "weight": 13.6,
         "put_call": null
       },
       {
         "ticker": "AMZN",
-        "value": 2307979214,
-        "weight": 9.6,
-        "put_call": null
-      },
-      {
-        "ticker": "NVDA",
-        "value": 2240762490,
-        "weight": 9.3,
-        "put_call": null
-      },
-      {
-        "ticker": "GOOG",
-        "value": 2074778363,
-        "weight": 8.7,
+        "value": 2311877799,
+        "weight": 11.5,
         "put_call": null
       },
       {
         "ticker": "META",
-        "value": 1590269062,
-        "weight": 6.6,
+        "value": 1630449026,
+        "weight": 8.1,
+        "put_call": null
+      },
+      {
+        "ticker": "TSMWF",
+        "value": 1429664790,
+        "weight": 7.1,
+        "put_call": null
+      },
+      {
+        "ticker": "MSFT",
+        "value": 1162699678,
+        "weight": 5.8,
         "put_call": null
       }
     ]
@@ -454,39 +454,39 @@
     "fund": "Lone Pine Capital",
     "avatar": "SM",
     "cik": "0001061165",
-    "latest_quarter": "2026-Q2",
-    "total_value": 16357760275,
-    "num_holdings": 34,
-    "num_new": 13,
+    "latest_quarter": "2026-Q3",
+    "total_value": 15329467248,
+    "num_holdings": 31,
+    "num_new": 9,
     "top_holdings": [
       {
-        "ticker": "NBIS",
-        "value": 1175934069,
-        "weight": 7.2,
+        "ticker": "AMZN",
+        "value": 1394866773,
+        "weight": 9.1,
         "put_call": null
       },
       {
-        "ticker": "ASMLF",
-        "value": 1132337523,
-        "weight": 6.9,
+        "ticker": "DAN",
+        "value": 1095168397,
+        "weight": 7.1,
         "put_call": null
       },
       {
-        "ticker": "STX",
-        "value": 965105185,
+        "ticker": "META",
+        "value": 908445314,
         "weight": 5.9,
         "put_call": null
       },
       {
-        "ticker": "HD",
-        "value": 918092697,
-        "weight": 5.6,
+        "ticker": "V",
+        "value": 801202054,
+        "weight": 5.2,
         "put_call": null
       },
       {
-        "ticker": "AMAT",
-        "value": 873193851,
-        "weight": 5.3,
+        "ticker": "TSMWF",
+        "value": 782875414,
+        "weight": 5.1,
         "put_call": null
       }
     ]
@@ -497,39 +497,39 @@
     "fund": "Viking Global",
     "avatar": "AH",
     "cik": "0001103804",
-    "latest_quarter": "2026-Q2",
-    "total_value": 35079228595,
-    "num_holdings": 90,
-    "num_new": 35,
+    "latest_quarter": "2026-Q3",
+    "total_value": 32703894076,
+    "num_holdings": 79,
+    "num_new": 25,
     "top_holdings": [
       {
-        "ticker": "V",
-        "value": 2193581596,
-        "weight": 6.3,
+        "ticker": "TSMWF",
+        "value": 1780873153,
+        "weight": 5.4,
         "put_call": null
       },
       {
-        "ticker": "TSMWF",
-        "value": 1512988084,
-        "weight": 4.3,
+        "ticker": "V",
+        "value": 1547918540,
+        "weight": 4.7,
         "put_call": null
       },
       {
         "ticker": "APD",
-        "value": 1389776106,
-        "weight": 4.0,
+        "value": 1366698313,
+        "weight": 4.2,
         "put_call": null
       },
       {
-        "ticker": "SHW",
-        "value": 1334542657,
-        "weight": 3.8,
+        "ticker": "VYLD",
+        "value": 1136170131,
+        "weight": 3.5,
         "put_call": null
       },
       {
         "ticker": "FTV",
-        "value": 1217814611,
-        "weight": 3.5,
+        "value": 1086494190,
+        "weight": 3.3,
         "put_call": null
       }
     ]
@@ -540,39 +540,39 @@
     "fund": "D1 Capital",
     "avatar": "DS",
     "cik": "0001747057",
-    "latest_quarter": "2026-Q2",
-    "total_value": 34783267943,
-    "num_holdings": 55,
-    "num_new": 21,
+    "latest_quarter": "2026-Q3",
+    "total_value": 31819682979,
+    "num_holdings": 44,
+    "num_new": 4,
     "top_holdings": [
       {
         "ticker": "SPCX",
-        "value": 21535575760,
-        "weight": 61.9,
+        "value": 17612914353,
+        "weight": 55.4,
         "put_call": null
       },
       {
         "ticker": "CART",
-        "value": 1068425997,
+        "value": 972978437,
         "weight": 3.1,
         "put_call": null
       },
       {
+        "ticker": "LSCC",
+        "value": 765620611,
+        "weight": 2.4,
+        "put_call": null
+      },
+      {
         "ticker": "JHIUF",
-        "value": 721141609,
-        "weight": 2.1,
+        "value": 726834863,
+        "weight": 2.3,
         "put_call": null
       },
       {
-        "ticker": "NU",
-        "value": 593431734,
-        "weight": 1.7,
-        "put_call": null
-      },
-      {
-        "ticker": "JCI",
-        "value": 548188210,
-        "weight": 1.6,
+        "ticker": "UNKNOWN",
+        "value": 684622816,
+        "weight": 2.2,
         "put_call": null
       }
     ]
@@ -583,39 +583,39 @@
     "fund": "Light Street Capital",
     "avatar": "GK",
     "cik": "0001569049",
-    "latest_quarter": "2026-Q2",
-    "total_value": 902839902,
-    "num_holdings": 28,
-    "num_new": 8,
+    "latest_quarter": "2026-Q3",
+    "total_value": 738353908,
+    "num_holdings": 22,
+    "num_new": 4,
     "top_holdings": [
       {
         "ticker": "TSMWF",
-        "value": 107906464,
-        "weight": 12.0,
+        "value": 112943976,
+        "weight": 15.3,
         "put_call": null
       },
       {
         "ticker": "AMD",
-        "value": 63609645,
-        "weight": 7.0,
-        "put_call": null
-      },
-      {
-        "ticker": "ALAB",
-        "value": 60739765,
-        "weight": 6.7,
-        "put_call": null
-      },
-      {
-        "ticker": "GTLB",
-        "value": 59380850,
-        "weight": 6.6,
+        "value": 90785184,
+        "weight": 12.3,
         "put_call": null
       },
       {
         "ticker": "AVGO",
-        "value": 57890188,
-        "weight": 6.4,
+        "value": 62522356,
+        "weight": 8.5,
+        "put_call": null
+      },
+      {
+        "ticker": "CHYM",
+        "value": 52323331,
+        "weight": 7.1,
+        "put_call": null
+      },
+      {
+        "ticker": "AMKR",
+        "value": 43677273,
+        "weight": 5.9,
         "put_call": null
       }
     ]
@@ -626,39 +626,39 @@
     "fund": "Jericho Capital",
     "avatar": "JR",
     "cik": "0001525234",
-    "latest_quarter": "2026-Q2",
-    "total_value": 12098624849,
-    "num_holdings": 29,
-    "num_new": 10,
+    "latest_quarter": "2026-Q3",
+    "total_value": 11669392529,
+    "num_holdings": 28,
+    "num_new": 7,
     "top_holdings": [
       {
-        "ticker": "FFIV",
-        "value": 881314834,
-        "weight": 7.3,
+        "ticker": "FOX",
+        "value": 938090653,
+        "weight": 8.0,
         "put_call": null
       },
       {
-        "ticker": "APP",
-        "value": 864156122,
-        "weight": 7.1,
+        "ticker": "FFIV",
+        "value": 779959368,
+        "weight": 6.7,
         "put_call": null
       },
       {
         "ticker": "LYV",
-        "value": 768000511,
-        "weight": 6.3,
+        "value": 710078569,
+        "weight": 6.1,
         "put_call": null
       },
       {
-        "ticker": "FOX",
-        "value": 747688251,
-        "weight": 6.2,
+        "ticker": "SNDK",
+        "value": 681828092,
+        "weight": 5.8,
         "put_call": null
       },
       {
-        "ticker": "CORZR",
-        "value": 585574486,
-        "weight": 4.8,
+        "ticker": "HOOD",
+        "value": 591847538,
+        "weight": 5.1,
         "put_call": null
       }
     ]
@@ -669,39 +669,39 @@
     "fund": "SurgoCap Partners",
     "avatar": "MG",
     "cik": "0001960830",
-    "latest_quarter": "2026-Q2",
-    "total_value": 3093472161,
-    "num_holdings": 13,
+    "latest_quarter": "2026-Q3",
+    "total_value": 3042397084,
+    "num_holdings": 11,
     "num_new": 3,
     "top_holdings": [
       {
         "ticker": "TSMWF",
-        "value": 433664124,
-        "weight": 14.0,
+        "value": 495050545,
+        "weight": 16.3,
         "put_call": null
       },
       {
-        "ticker": "CRS",
-        "value": 423444005,
-        "weight": 13.7,
-        "put_call": null
-      },
-      {
-        "ticker": "GOOG",
-        "value": 341345046,
-        "weight": 11.0,
+        "ticker": "MCK",
+        "value": 493146995,
+        "weight": 16.2,
         "put_call": null
       },
       {
         "ticker": "UNKNOWN",
-        "value": 299487246,
-        "weight": 9.7,
+        "value": 349156630,
+        "weight": 11.5,
         "put_call": null
       },
       {
-        "ticker": "MDLN",
-        "value": 295307276,
-        "weight": 9.5,
+        "ticker": "CRS",
+        "value": 319563382,
+        "weight": 10.5,
+        "put_call": null
+      },
+      {
+        "ticker": "MSFT",
+        "value": 294108657,
+        "weight": 9.7,
         "put_call": null
       }
     ]
@@ -712,39 +712,39 @@
     "fund": "Darsana Capital",
     "avatar": "AD",
     "cik": "0001609098",
-    "latest_quarter": "2026-Q2",
-    "total_value": 22269061321,
-    "num_holdings": 16,
-    "num_new": 3,
+    "latest_quarter": "2026-Q3",
+    "total_value": 20186213471,
+    "num_holdings": 14,
+    "num_new": 1,
     "top_holdings": [
       {
         "ticker": "SPCX",
-        "value": 17335782797,
-        "weight": 77.8,
+        "value": 15148141497,
+        "weight": 75.0,
         "put_call": null
       },
       {
         "ticker": "AMZN",
-        "value": 595850000,
-        "weight": 2.7,
+        "value": 685162500,
+        "weight": 3.4,
         "put_call": null
       },
       {
         "ticker": "SATS",
-        "value": 507500000,
-        "weight": 2.3,
+        "value": 625870000,
+        "weight": 3.1,
         "put_call": null
       },
       {
         "ticker": "SHC",
-        "value": 479250000,
-        "weight": 2.2,
+        "value": 499230000,
+        "weight": 2.5,
         "put_call": null
       },
       {
-        "ticker": "GWRE",
-        "value": 468082200,
-        "weight": 2.1,
+        "ticker": "WCC",
+        "value": 494436250,
+        "weight": 2.4,
         "put_call": null
       }
     ]
@@ -755,39 +755,39 @@
     "fund": "ShawSpring Partners",
     "avatar": "DH",
     "cik": "0001766908",
-    "latest_quarter": "2026-Q2",
-    "total_value": 232082002,
-    "num_holdings": 11,
-    "num_new": 2,
+    "latest_quarter": "2026-Q3",
+    "total_value": 233799903,
+    "num_holdings": 12,
+    "num_new": 1,
     "top_holdings": [
       {
         "ticker": "BBAAY",
-        "value": 39270505,
-        "weight": 16.9,
+        "value": 44642112,
+        "weight": 19.1,
         "put_call": null
       },
       {
         "ticker": "AMZN",
-        "value": 37424147,
-        "weight": 16.1,
+        "value": 36588425,
+        "weight": 15.6,
         "put_call": null
       },
       {
         "ticker": "OKTA",
-        "value": 32030819,
-        "weight": 13.8,
+        "value": 30805249,
+        "weight": 13.2,
         "put_call": null
       },
       {
         "ticker": "ZS",
-        "value": 23615101,
-        "weight": 10.2,
+        "value": 24554585,
+        "weight": 10.5,
         "put_call": null
       },
       {
-        "ticker": "CR",
-        "value": 18151206,
-        "weight": 7.8,
+        "ticker": "MSFT",
+        "value": 21764399,
+        "weight": 9.3,
         "put_call": null
       }
     ]
@@ -841,39 +841,39 @@
     "fund": "Greenlea Lane Capital",
     "avatar": "JT",
     "cik": "0001766504",
-    "latest_quarter": "2026-Q2",
-    "total_value": 364211495,
-    "num_holdings": 10,
-    "num_new": 1,
+    "latest_quarter": "2026-Q3",
+    "total_value": 348404561,
+    "num_holdings": 9,
+    "num_new": 0,
     "top_holdings": [
       {
+        "ticker": "UNKNOWN",
+        "value": 69549744,
+        "weight": 20.0,
+        "put_call": null
+      },
+      {
         "ticker": "AMZN",
-        "value": 66818619,
-        "weight": 18.3,
+        "value": 69024516,
+        "weight": 19.8,
         "put_call": null
       },
       {
         "ticker": "BKFDF",
-        "value": 59316882,
-        "weight": 16.3,
+        "value": 50202139,
+        "weight": 14.4,
         "put_call": null
       },
       {
         "ticker": "BRK-A",
-        "value": 47177550,
-        "weight": 13.0,
+        "value": 47061315,
+        "weight": 13.5,
         "put_call": null
       },
       {
-        "ticker": "MKL",
-        "value": 39655868,
-        "weight": 10.9,
-        "put_call": null
-      },
-      {
-        "ticker": "UNKNOWN",
-        "value": 38556610,
-        "weight": 10.6,
+        "ticker": "GOOG",
+        "value": 33903923,
+        "weight": 9.7,
         "put_call": null
       }
     ]
@@ -884,39 +884,39 @@
     "fund": "Valley Forge Capital",
     "avatar": "DK",
     "cik": "0001697868",
-    "latest_quarter": "2026-Q2",
-    "total_value": 3116388059,
-    "num_holdings": 7,
-    "num_new": 0,
+    "latest_quarter": "2026-Q3",
+    "total_value": 2527376800,
+    "num_holdings": 10,
+    "num_new": 4,
     "top_holdings": [
       {
-        "ticker": "FICO",
-        "value": 803114389,
-        "weight": 25.8,
-        "put_call": null
-      },
-      {
         "ticker": "SPGI",
-        "value": 620678901,
-        "weight": 19.9,
+        "value": 549441484,
+        "weight": 21.7,
         "put_call": null
       },
       {
         "ticker": "MCO",
-        "value": 596580789,
-        "weight": 19.1,
+        "value": 413841403,
+        "weight": 16.4,
         "put_call": null
       },
       {
-        "ticker": "MA",
-        "value": 547463702,
-        "weight": 17.6,
+        "ticker": "FICO",
+        "value": 379300479,
+        "weight": 15.0,
         "put_call": null
       },
       {
         "ticker": "ASMLF",
-        "value": 340359364,
-        "weight": 10.9,
+        "value": 377720513,
+        "weight": 14.9,
+        "put_call": null
+      },
+      {
+        "ticker": "AMZN",
+        "value": 177157609,
+        "weight": 7.0,
         "put_call": null
       }
     ]
@@ -927,39 +927,39 @@
     "fund": "CAS Investment Partners",
     "avatar": "CS",
     "cik": "0001697591",
-    "latest_quarter": "2026-Q2",
-    "total_value": 1883136156,
+    "latest_quarter": "2026-Q3",
+    "total_value": 1717874390,
     "num_holdings": 6,
-    "num_new": 2,
+    "num_new": 0,
     "top_holdings": [
       {
         "ticker": "CVNA",
-        "value": 1484870897,
-        "weight": 78.9,
+        "value": 1373016356,
+        "weight": 79.9,
         "put_call": null
       },
       {
         "ticker": "HGV",
-        "value": 272683049,
-        "weight": 14.5,
+        "value": 175750774,
+        "weight": 10.2,
         "put_call": null
       },
       {
         "ticker": "META",
-        "value": 76746009,
-        "weight": 4.1,
+        "value": 125223357,
+        "weight": 7.3,
         "put_call": null
       },
       {
         "ticker": "VAC",
-        "value": 40752000,
-        "weight": 2.2,
+        "value": 39833969,
+        "weight": 2.3,
         "put_call": null
       },
       {
         "ticker": "SWIM",
-        "value": 5969474,
-        "weight": 0.3,
+        "value": 2699222,
+        "weight": 0.2,
         "put_call": null
       }
     ]
@@ -970,39 +970,39 @@
     "fund": "Dorsey Asset Management",
     "avatar": "PD",
     "cik": "0001671657",
-    "latest_quarter": "2026-Q2",
-    "total_value": 1561408466,
-    "num_holdings": 11,
-    "num_new": 0,
+    "latest_quarter": "2026-Q3",
+    "total_value": 1712548933,
+    "num_holdings": 13,
+    "num_new": 4,
     "top_holdings": [
       {
-        "ticker": "ASMLF",
-        "value": 259351356,
-        "weight": 16.6,
+        "ticker": "VEEV",
+        "value": 241391649,
+        "weight": 14.1,
         "put_call": null
       },
       {
         "ticker": "APP",
-        "value": 226347237,
-        "weight": 14.5,
+        "value": 174849025,
+        "weight": 10.2,
         "put_call": null
       },
       {
-        "ticker": "RPRX",
-        "value": 137737525,
-        "weight": 8.8,
-        "put_call": null
-      },
-      {
-        "ticker": "BKNG",
-        "value": 132164960,
-        "weight": 8.5,
+        "ticker": "META",
+        "value": 159237200,
+        "weight": 9.3,
         "put_call": null
       },
       {
         "ticker": "SPGI",
-        "value": 128862358,
-        "weight": 8.3,
+        "value": 146926269,
+        "weight": 8.6,
+        "put_call": null
+      },
+      {
+        "ticker": "RPRX",
+        "value": 140978326,
+        "weight": 8.2,
         "put_call": null
       }
     ]
@@ -1013,39 +1013,39 @@
     "fund": "Akre Capital",
     "avatar": "CA",
     "cik": "0001112520",
-    "latest_quarter": "2026-Q2",
-    "total_value": 5122536308,
-    "num_holdings": 20,
-    "num_new": 0,
+    "latest_quarter": "2026-Q3",
+    "total_value": 4424875808,
+    "num_holdings": 21,
+    "num_new": 2,
     "top_holdings": [
       {
         "ticker": "MA",
-        "value": 1022015722,
-        "weight": 20.0,
+        "value": 970165325,
+        "weight": 21.9,
         "put_call": null
       },
       {
         "ticker": "MCO",
-        "value": 523979978,
-        "weight": 10.2,
-        "put_call": null
-      },
-      {
-        "ticker": "BKFDF",
-        "value": 516187709,
-        "weight": 10.1,
+        "value": 462720323,
+        "weight": 10.5,
         "put_call": null
       },
       {
         "ticker": "UNKNOWN",
-        "value": 457200745,
+        "value": 393502138,
         "weight": 8.9,
         "put_call": null
       },
       {
-        "ticker": "FICO",
-        "value": 432302468,
-        "weight": 8.4,
+        "ticker": "BKFDF",
+        "value": 382924957,
+        "weight": 8.7,
+        "put_call": null
+      },
+      {
+        "ticker": "ROP",
+        "value": 350242644,
+        "weight": 7.9,
         "put_call": null
       }
     ]
@@ -1056,39 +1056,39 @@
     "fund": "Abrams Capital",
     "avatar": "DA",
     "cik": "0001358706",
-    "latest_quarter": "2026-Q2",
-    "total_value": 5479746142,
-    "num_holdings": 11,
-    "num_new": 0,
+    "latest_quarter": "2026-Q3",
+    "total_value": 4806253123,
+    "num_holdings": 12,
+    "num_new": 1,
     "top_holdings": [
       {
         "ticker": "LOAR",
-        "value": 2583569846,
-        "weight": 47.1,
+        "value": 1971730765,
+        "weight": 41.0,
         "put_call": null
       },
       {
         "ticker": "LAD",
-        "value": 723475222,
-        "weight": 13.2,
+        "value": 726812537,
+        "weight": 15.1,
         "put_call": null
       },
       {
         "ticker": "GOOG",
-        "value": 489773798,
-        "weight": 8.9,
-        "put_call": null
-      },
-      {
-        "ticker": "UNKNOWN",
-        "value": 454624038,
-        "weight": 8.3,
+        "value": 471559920,
+        "weight": 9.8,
         "put_call": null
       },
       {
         "ticker": "ABG",
-        "value": 433426331,
-        "weight": 7.9,
+        "value": 371391272,
+        "weight": 7.7,
+        "put_call": null
+      },
+      {
+        "ticker": "UNKNOWN",
+        "value": 360161977,
+        "weight": 7.5,
         "put_call": null
       }
     ]
@@ -1099,39 +1099,39 @@
     "fund": "Brave Warrior Advisors",
     "avatar": "GG",
     "cik": "0001553733",
-    "latest_quarter": "2026-Q2",
-    "total_value": 4588428223,
-    "num_holdings": 40,
+    "latest_quarter": "2026-Q3",
+    "total_value": 4321176421,
+    "num_holdings": 42,
     "num_new": 7,
     "top_holdings": [
       {
         "ticker": "ICLR",
-        "value": 547761133,
-        "weight": 11.9,
-        "put_call": null
-      },
-      {
-        "ticker": "OMF",
-        "value": 462466717,
-        "weight": 10.1,
+        "value": 482218963,
+        "weight": 11.2,
         "put_call": null
       },
       {
         "ticker": "SNX",
-        "value": 385405364,
-        "weight": 8.4,
+        "value": 435804330,
+        "weight": 10.1,
         "put_call": null
       },
       {
-        "ticker": "ELV",
-        "value": 377790736,
-        "weight": 8.2,
+        "ticker": "OMF",
+        "value": 416740789,
+        "weight": 9.6,
+        "put_call": null
+      },
+      {
+        "ticker": "AN",
+        "value": 303296667,
+        "weight": 7.0,
         "put_call": null
       },
       {
         "ticker": "SLMBP",
-        "value": 347106901,
-        "weight": 7.6,
+        "value": 300057642,
+        "weight": 6.9,
         "put_call": null
       }
     ]
@@ -1142,39 +1142,39 @@
     "fund": "Baupost Group",
     "avatar": "SK",
     "cik": "0001061768",
-    "latest_quarter": "2026-Q2",
-    "total_value": 5415853000,
-    "num_holdings": 23,
-    "num_new": 3,
+    "latest_quarter": "2026-Q3",
+    "total_value": 5045853000,
+    "num_holdings": 21,
+    "num_new": 2,
     "top_holdings": [
       {
         "ticker": "AMZN",
-        "value": 892310000,
-        "weight": 16.5,
+        "value": 932781000,
+        "weight": 18.5,
         "put_call": null
       },
       {
         "ticker": "ELV",
-        "value": 493140000,
-        "weight": 9.1,
+        "value": 495805000,
+        "weight": 9.8,
         "put_call": null
       },
       {
         "ticker": "QSR",
-        "value": 489612000,
-        "weight": 9.0,
+        "value": 480104000,
+        "weight": 9.5,
         "put_call": null
       },
       {
-        "ticker": "GOOG",
-        "value": 484744000,
-        "weight": 9.0,
+        "ticker": "GPC",
+        "value": 389540000,
+        "weight": 7.7,
         "put_call": null
       },
       {
         "ticker": "FERG",
-        "value": 344269000,
-        "weight": 6.4,
+        "value": 349868000,
+        "weight": 6.9,
         "put_call": null
       }
     ]
@@ -1185,39 +1185,39 @@
     "fund": "Greenlight Capital",
     "avatar": "DE",
     "cik": "0001489933",
-    "latest_quarter": "2026-Q2",
-    "total_value": 3908853490,
-    "num_holdings": 95,
+    "latest_quarter": "2026-Q3",
+    "total_value": 3553265746,
+    "num_holdings": 93,
     "num_new": 7,
     "top_holdings": [
       {
         "ticker": "GRBK-PA",
-        "value": 691746260,
-        "weight": 17.7,
+        "value": 571356138,
+        "weight": 16.1,
         "put_call": null
       },
       {
         "ticker": "FLR",
-        "value": 200560970,
-        "weight": 5.1,
+        "value": 188084706,
+        "weight": 5.3,
         "put_call": null
       },
       {
         "ticker": "CNR",
-        "value": 155765172,
-        "weight": 4.0,
+        "value": 167094256,
+        "weight": 4.7,
+        "put_call": null
+      },
+      {
+        "ticker": "VGNT",
+        "value": 125974460,
+        "weight": 3.5,
         "put_call": null
       },
       {
         "ticker": "BHFAO",
-        "value": 145192223,
-        "weight": 3.7,
-        "put_call": null
-      },
-      {
-        "ticker": "ACAD",
-        "value": 111828072,
-        "weight": 2.9,
+        "value": 114456428,
+        "weight": 3.2,
         "put_call": null
       }
     ]
@@ -1228,39 +1228,39 @@
     "fund": "Elliott Management",
     "avatar": "PS",
     "cik": "0001791786",
-    "latest_quarter": "2026-Q2",
-    "total_value": 22669814953,
-    "num_holdings": 29,
-    "num_new": 7,
+    "latest_quarter": "2026-Q3",
+    "total_value": 28637999237,
+    "num_holdings": 39,
+    "num_new": 11,
     "top_holdings": [
       {
-        "ticker": "TFPM",
-        "value": 3993248804,
-        "weight": 17.6,
+        "ticker": "PSX",
+        "value": 4914972810,
+        "weight": 17.2,
         "put_call": null
       },
       {
-        "ticker": "PSX",
-        "value": 3254381550,
-        "weight": 14.4,
+        "ticker": "TFPM",
+        "value": 4105171693,
+        "weight": 14.3,
         "put_call": null
       },
       {
         "ticker": "QQQ",
-        "value": 2562672000,
-        "weight": 11.3,
+        "value": 4040031924,
+        "weight": 14.1,
         "put_call": "PUT"
       },
       {
         "ticker": "SU",
-        "value": 1581090720,
+        "value": 1999042980,
         "weight": 7.0,
         "put_call": null
       },
       {
         "ticker": "HPE-PC",
-        "value": 1455789243,
-        "weight": 6.4,
+        "value": 1725030000,
+        "weight": 6.0,
         "put_call": null
       }
     ]
@@ -1271,39 +1271,39 @@
     "fund": "ValueAct Capital",
     "avatar": "MM",
     "cik": "0001418814",
-    "latest_quarter": "2026-Q2",
-    "total_value": 5634931372,
-    "num_holdings": 18,
-    "num_new": 1,
+    "latest_quarter": "2026-Q3",
+    "total_value": 6177720948,
+    "num_holdings": 21,
+    "num_new": 7,
     "top_holdings": [
       {
         "ticker": "V",
-        "value": 794682213,
-        "weight": 14.1,
+        "value": 832298113,
+        "weight": 13.5,
         "put_call": null
       },
       {
         "ticker": "AMZN",
-        "value": 701124778,
-        "weight": 12.4,
+        "value": 748122705,
+        "weight": 12.1,
         "put_call": null
       },
       {
-        "ticker": "RCKTW",
-        "value": 656283191,
-        "weight": 11.6,
-        "put_call": null
-      },
-      {
-        "ticker": "BLK",
-        "value": 559339452,
-        "weight": 9.9,
+        "ticker": "CRM",
+        "value": 687449431,
+        "weight": 11.1,
         "put_call": null
       },
       {
         "ticker": "META",
-        "value": 515790007,
-        "weight": 9.2,
+        "value": 664028471,
+        "weight": 10.7,
+        "put_call": null
+      },
+      {
+        "ticker": "BLK",
+        "value": 519832048,
+        "weight": 8.4,
         "put_call": null
       }
     ]
@@ -1314,39 +1314,39 @@
     "fund": "Starboard Value",
     "avatar": "JS",
     "cik": "0001517137",
-    "latest_quarter": "2026-Q2",
-    "total_value": 4523797468,
+    "latest_quarter": "2026-Q3",
+    "total_value": 4671957549,
     "num_holdings": 22,
-    "num_new": 2,
+    "num_new": 3,
     "top_holdings": [
       {
         "ticker": "UNKNOWN",
-        "value": 684565693,
-        "weight": 15.1,
+        "value": 877883607,
+        "weight": 18.8,
         "put_call": null
       },
       {
         "ticker": "QRVO",
-        "value": 523387030,
-        "weight": 11.6,
+        "value": 642407496,
+        "weight": 13.8,
         "put_call": null
       },
       {
         "ticker": "KVUE",
-        "value": 521848848,
-        "weight": 11.5,
+        "value": 482252781,
+        "weight": 10.3,
         "put_call": null
       },
       {
         "ticker": "DT",
-        "value": 389336446,
-        "weight": 8.6,
+        "value": 370932038,
+        "weight": 7.9,
         "put_call": null
       },
       {
-        "ticker": "AGQPF",
-        "value": 335130001,
-        "weight": 7.4,
+        "ticker": "BILL",
+        "value": 298875320,
+        "weight": 6.4,
         "put_call": null
       }
     ]
@@ -1357,39 +1357,39 @@
     "fund": "Sachem Head Capital",
     "avatar": "SF",
     "cik": "0001582090",
-    "latest_quarter": "2026-Q2",
-    "total_value": 4819684910,
-    "num_holdings": 19,
-    "num_new": 7,
+    "latest_quarter": "2026-Q3",
+    "total_value": 3969598137,
+    "num_holdings": 18,
+    "num_new": 4,
     "top_holdings": [
       {
-        "ticker": "TLN",
-        "value": 526436200,
-        "weight": 10.9,
-        "put_call": null
-      },
-      {
         "ticker": "STX",
-        "value": 455480000,
-        "weight": 9.5,
+        "value": 512821040,
+        "weight": 12.9,
         "put_call": null
       },
       {
-        "ticker": "PRMB",
-        "value": 434909800,
+        "ticker": "TLN",
+        "value": 361938675,
+        "weight": 9.1,
+        "put_call": null
+      },
+      {
+        "ticker": "IOND",
+        "value": 357468500,
         "weight": 9.0,
         "put_call": null
       },
       {
-        "ticker": "PFGC",
-        "value": 374496500,
-        "weight": 7.8,
+        "ticker": "PRMB",
+        "value": 320230500,
+        "weight": 8.1,
         "put_call": null
       },
       {
-        "ticker": "UNKNOWN",
-        "value": 361488960,
-        "weight": 7.5,
+        "ticker": "PFGC",
+        "value": 306558500,
+        "weight": 7.7,
         "put_call": null
       }
     ]
@@ -1400,39 +1400,39 @@
     "fund": "Corvex Management",
     "avatar": "KM",
     "cik": "0001535472",
-    "latest_quarter": "2026-Q2",
-    "total_value": 3274441524,
-    "num_holdings": 25,
+    "latest_quarter": "2026-Q3",
+    "total_value": 3291331563,
+    "num_holdings": 28,
     "num_new": 6,
     "top_holdings": [
       {
-        "ticker": "ILMN",
-        "value": 497695958,
-        "weight": 15.2,
+        "ticker": "WGSWW",
+        "value": 345924411,
+        "weight": 10.5,
         "put_call": null
       },
       {
-        "ticker": "WGSWW",
-        "value": 328460731,
-        "weight": 10.0,
+        "ticker": "VST",
+        "value": 280381494,
+        "weight": 8.5,
         "put_call": null
       },
       {
         "ticker": "VSTS",
-        "value": 287698743,
-        "weight": 8.8,
+        "value": 264714546,
+        "weight": 8.0,
         "put_call": null
       },
       {
         "ticker": "SWX",
-        "value": 284533150,
-        "weight": 8.7,
+        "value": 261591573,
+        "weight": 7.9,
         "put_call": null
       },
       {
-        "ticker": "MGM",
-        "value": 255686828,
-        "weight": 7.8,
+        "ticker": "AMZN",
+        "value": 242854478,
+        "weight": 7.4,
         "put_call": null
       }
     ]
@@ -1443,39 +1443,39 @@
     "fund": "JANA Partners",
     "avatar": "BR",
     "cik": "0001998597",
-    "latest_quarter": "2026-Q2",
-    "total_value": 1902301416,
+    "latest_quarter": "2026-Q3",
+    "total_value": 1589134762,
     "num_holdings": 10,
-    "num_new": 1,
+    "num_new": 2,
     "top_holdings": [
       {
         "ticker": "MRCY",
-        "value": 484285998,
-        "weight": 25.5,
-        "put_call": null
-      },
-      {
-        "ticker": "COO",
-        "value": 256899641,
-        "weight": 13.5,
-        "put_call": null
-      },
-      {
-        "ticker": "SPY",
-        "value": 256115973,
-        "weight": 13.5,
+        "value": 321303707,
+        "weight": 20.2,
         "put_call": null
       },
       {
         "ticker": "LW",
-        "value": 232940339,
-        "weight": 12.2,
+        "value": 224902333,
+        "weight": 14.2,
+        "put_call": null
+      },
+      {
+        "ticker": "COO",
+        "value": 216985883,
+        "weight": 13.7,
+        "put_call": null
+      },
+      {
+        "ticker": "SPY",
+        "value": 214090832,
+        "weight": 13.5,
         "put_call": null
       },
       {
         "ticker": "FISV",
-        "value": 179625024,
-        "weight": 9.4,
+        "value": 187508250,
+        "weight": 11.8,
         "put_call": null
       }
     ]
@@ -1486,39 +1486,39 @@
     "fund": "GQG Partners",
     "avatar": "RJ",
     "cik": "0001697233",
-    "latest_quarter": "2026-Q2",
-    "total_value": 53757403317,
-    "num_holdings": 106,
-    "num_new": 29,
+    "latest_quarter": "2026-Q3",
+    "total_value": 53384702889,
+    "num_holdings": 150,
+    "num_new": 81,
     "top_holdings": [
       {
         "ticker": "PM",
-        "value": 8220008114,
-        "weight": 15.3,
+        "value": 3861361396,
+        "weight": 7.2,
         "put_call": null
       },
       {
-        "ticker": "CB",
-        "value": 4250112612,
-        "weight": 7.9,
+        "ticker": "NVDA",
+        "value": 3205664908,
+        "weight": 6.0,
         "put_call": null
       },
       {
-        "ticker": "PBR-A",
-        "value": 3122083433,
-        "weight": 5.8,
-        "put_call": null
-      },
-      {
-        "ticker": "ENBFF",
-        "value": 2646936674,
+        "ticker": "TSMWF",
+        "value": 2617509736,
         "weight": 4.9,
         "put_call": null
       },
       {
-        "ticker": "XOM",
-        "value": 2307497463,
-        "weight": 4.3,
+        "ticker": "NBIS",
+        "value": 2589216284,
+        "weight": 4.9,
+        "put_call": null
+      },
+      {
+        "ticker": "MSFT",
+        "value": 2538765813,
+        "weight": 4.8,
         "put_call": null
       }
     ]
@@ -1529,39 +1529,39 @@
     "fund": "Baron Capital",
     "avatar": "RB",
     "cik": "0001017918",
-    "latest_quarter": "2026-Q2",
-    "total_value": 66640911675,
-    "num_holdings": 345,
-    "num_new": 54,
+    "latest_quarter": "2026-Q3",
+    "total_value": 59789485521,
+    "num_holdings": 337,
+    "num_new": 26,
     "top_holdings": [
       {
         "ticker": "SPCX",
-        "value": 24907141616,
-        "weight": 37.4,
+        "value": 21901079229,
+        "weight": 36.6,
         "put_call": null
       },
       {
         "ticker": "TSLA",
-        "value": 5267910691,
-        "weight": 7.9,
+        "value": 4424933083,
+        "weight": 7.4,
         "put_call": null
       },
       {
         "ticker": "MSCI",
-        "value": 1798710150,
+        "value": 1649957595,
+        "weight": 2.8,
+        "put_call": null
+      },
+      {
+        "ticker": "SHOP",
+        "value": 1590719188,
         "weight": 2.7,
         "put_call": null
       },
       {
         "ticker": "ACGLN",
-        "value": 1540579997,
-        "weight": 2.3,
-        "put_call": null
-      },
-      {
-        "ticker": "H",
-        "value": 1410978224,
-        "weight": 2.1,
+        "value": 1321097398,
+        "weight": 2.2,
         "put_call": null
       }
     ]
@@ -1572,38 +1572,38 @@
     "fund": "ARK Invest",
     "avatar": "CW",
     "cik": "0001697748",
-    "latest_quarter": "2026-Q2",
-    "total_value": 15402788184,
-    "num_holdings": 191,
-    "num_new": 16,
+    "latest_quarter": "2026-Q3",
+    "total_value": 17374380716,
+    "num_holdings": 182,
+    "num_new": 9,
     "top_holdings": [
       {
         "ticker": "TSLA",
-        "value": 1160772073,
-        "weight": 7.5,
-        "put_call": null
-      },
-      {
-        "ticker": "AMD",
-        "value": 822826048,
-        "weight": 5.3,
+        "value": 1196306136,
+        "weight": 6.9,
         "put_call": null
       },
       {
         "ticker": "SPCX",
-        "value": 765113281,
-        "weight": 5.0,
+        "value": 1017764417,
+        "weight": 5.9,
         "put_call": null
       },
       {
         "ticker": "TEM",
-        "value": 580611200,
+        "value": 766382941,
+        "weight": 4.4,
+        "put_call": null
+      },
+      {
+        "ticker": "TWST",
+        "value": 656640575,
         "weight": 3.8,
         "put_call": null
       },
       {
-        "ticker": "HOOD",
-        "value": 525069168,
+        "ticker": "NVDA",
+        "value": 584932116,
         "weight": 3.4,
         "put_call": null
       }
@@ -1615,39 +1615,39 @@
     "fund": "Berkshire Hathaway",
     "avatar": "WB",
     "cik": "0001067983",
-    "latest_quarter": "2026-Q2",
-    "total_value": 299253556246,
+    "latest_quarter": "2026-Q3",
+    "total_value": 304196581325,
     "num_holdings": 89,
     "num_new": 1,
     "top_holdings": [
       {
         "ticker": "AXP",
-        "value": 50419898471,
-        "weight": 16.8,
-        "put_call": null
-      },
-      {
-        "ticker": "GOOG",
-        "value": 23523689772,
-        "weight": 7.9,
+        "value": 45329463785,
+        "weight": 14.9,
         "put_call": null
       },
       {
         "ticker": "AAPL",
-        "value": 23341172315,
-        "weight": 7.8,
+        "value": 26862998356,
+        "weight": 8.8,
         "put_call": null
       },
       {
         "ticker": "KO",
-        "value": 22976876186,
-        "weight": 7.7,
+        "value": 24336772512,
+        "weight": 8.0,
+        "put_call": null
+      },
+      {
+        "ticker": "GOOG",
+        "value": 22648882605,
+        "weight": 7.4,
         "put_call": null
       },
       {
         "ticker": "AAPL",
-        "value": 17808079008,
-        "weight": 6.0,
+        "value": 20495045864,
+        "weight": 6.7,
         "put_call": null
       }
     ]
@@ -1658,39 +1658,39 @@
     "fund": "Himalaya Capital",
     "avatar": "LL",
     "cik": "0001709323",
-    "latest_quarter": "2026-Q2",
-    "total_value": 3702921099,
+    "latest_quarter": "2026-Q3",
+    "total_value": 3781431260,
     "num_holdings": 8,
     "num_new": 0,
     "top_holdings": [
       {
-        "ticker": "GOOG",
-        "value": 908899121,
-        "weight": 24.5,
-        "put_call": null
-      },
-      {
-        "ticker": "GOOG",
-        "value": 866117829,
-        "weight": 23.4,
-        "put_call": null
-      },
-      {
         "ticker": "PDD",
-        "value": 820858157,
-        "weight": 22.2,
+        "value": 916661615,
+        "weight": 24.2,
+        "put_call": null
+      },
+      {
+        "ticker": "GOOG",
+        "value": 875098664,
+        "weight": 23.1,
+        "put_call": null
+      },
+      {
+        "ticker": "GOOG",
+        "value": 835255962,
+        "weight": 22.1,
         "put_call": null
       },
       {
         "ticker": "BRK-A",
-        "value": 554591244,
-        "weight": 15.0,
+        "value": 551886948,
+        "weight": 14.6,
         "put_call": null
       },
       {
         "ticker": "EWBC",
-        "value": 358399151,
-        "weight": 9.7,
+        "value": 344073179,
+        "weight": 9.1,
         "put_call": null
       }
     ]
@@ -1701,39 +1701,39 @@
     "fund": "Oakmark",
     "avatar": "BN",
     "cik": "0000813917",
-    "latest_quarter": "2026-Q2",
-    "total_value": 75422839842,
-    "num_holdings": 226,
-    "num_new": 13,
+    "latest_quarter": "2026-Q3",
+    "total_value": 76774722322,
+    "num_holdings": 238,
+    "num_new": 22,
     "top_holdings": [
       {
-        "ticker": "KDP",
-        "value": 2986589619,
-        "weight": 4.0,
-        "put_call": null
-      },
-      {
-        "ticker": "ABNB",
-        "value": 2649817273,
-        "weight": 3.5,
-        "put_call": null
-      },
-      {
         "ticker": "CRM",
-        "value": 2489308101,
-        "weight": 3.3,
+        "value": 3429483362,
+        "weight": 4.5,
         "put_call": null
       },
       {
         "ticker": "IQV",
-        "value": 2320651855,
-        "weight": 3.1,
+        "value": 2766131104,
+        "weight": 3.6,
         "put_call": null
       },
       {
-        "ticker": "COF-PN",
-        "value": 2260368359,
-        "weight": 3.0,
+        "ticker": "ICE",
+        "value": 2698145269,
+        "weight": 3.5,
+        "put_call": null
+      },
+      {
+        "ticker": "ABNB",
+        "value": 2624443820,
+        "weight": 3.4,
+        "put_call": null
+      },
+      {
+        "ticker": "KDP",
+        "value": 2403967842,
+        "weight": 3.1,
         "put_call": null
       }
     ]
@@ -1744,38 +1744,38 @@
     "fund": "Markel Group",
     "avatar": "TG",
     "cik": "0001096343",
-    "latest_quarter": "2026-Q2",
-    "total_value": 13130490727,
-    "num_holdings": 205,
-    "num_new": 3,
+    "latest_quarter": "2026-Q3",
+    "total_value": 12839103847,
+    "num_holdings": 220,
+    "num_new": 17,
     "top_holdings": [
       {
         "ticker": "GOOG",
-        "value": 866587757,
+        "value": 844786460,
         "weight": 6.6,
         "put_call": null
       },
       {
         "ticker": "DE",
-        "value": 556878306,
-        "weight": 4.2,
+        "value": 578305282,
+        "weight": 4.5,
         "put_call": null
       },
       {
         "ticker": "BRK-A",
-        "value": 552660740,
+        "value": 540340484,
         "weight": 4.2,
         "put_call": null
       },
       {
         "ticker": "AMZN",
-        "value": 448634056,
-        "weight": 3.4,
+        "value": 477962634,
+        "weight": 3.7,
         "put_call": null
       },
       {
         "ticker": "BRK-A",
-        "value": 441821500,
+        "value": 440732950,
         "weight": 3.4,
         "put_call": null
       }
@@ -1787,39 +1787,39 @@
     "fund": "Davis Advisors",
     "avatar": "CD",
     "cik": "0001036325",
-    "latest_quarter": "2026-Q2",
-    "total_value": 23289545492,
-    "num_holdings": 112,
-    "num_new": 2,
+    "latest_quarter": "2026-Q3",
+    "total_value": 23151870725,
+    "num_holdings": 117,
+    "num_new": 7,
     "top_holdings": [
       {
         "ticker": "COF-PN",
-        "value": 1659420488,
-        "weight": 7.1,
-        "put_call": null
-      },
-      {
-        "ticker": "USB-PQ",
-        "value": 1295909823,
-        "weight": 5.6,
-        "put_call": null
-      },
-      {
-        "ticker": "CVS",
-        "value": 1227594458,
-        "weight": 5.3,
+        "value": 1619691835,
+        "weight": 7.0,
         "put_call": null
       },
       {
         "ticker": "VTRS",
-        "value": 1194789797,
-        "weight": 5.1,
+        "value": 1282987009,
+        "weight": 5.5,
         "put_call": null
       },
       {
-        "ticker": "MGM",
-        "value": 1142790561,
-        "weight": 4.9,
+        "ticker": "META",
+        "value": 1209226227,
+        "weight": 5.2,
+        "put_call": null
+      },
+      {
+        "ticker": "USB-PQ",
+        "value": 1202886505,
+        "weight": 5.2,
+        "put_call": null
+      },
+      {
+        "ticker": "DVN",
+        "value": 1197910208,
+        "weight": 5.2,
         "put_call": null
       }
     ]
@@ -1830,39 +1830,39 @@
     "fund": "Fundsmith",
     "avatar": "TS",
     "cik": "0001569205",
-    "latest_quarter": "2026-Q2",
-    "total_value": 13648923682,
-    "num_holdings": 41,
-    "num_new": 13,
+    "latest_quarter": "2026-Q3",
+    "total_value": 12922460889,
+    "num_holdings": 42,
+    "num_new": 2,
     "top_holdings": [
       {
-        "ticker": "MAR",
-        "value": 958255687,
-        "weight": 7.0,
-        "put_call": null
-      },
-      {
-        "ticker": "SYK",
-        "value": 917391182,
-        "weight": 6.7,
-        "put_call": null
-      },
-      {
         "ticker": "WAT",
-        "value": 852702945,
-        "weight": 6.2,
+        "value": 995873920,
+        "weight": 7.7,
         "put_call": null
       },
       {
         "ticker": "V",
-        "value": 692976613,
-        "weight": 5.1,
+        "value": 809191397,
+        "weight": 6.3,
         "put_call": null
       },
       {
-        "ticker": "UBER",
-        "value": 645337776,
-        "weight": 4.7,
+        "ticker": "MA",
+        "value": 805835538,
+        "weight": 6.2,
+        "put_call": null
+      },
+      {
+        "ticker": "VEEV",
+        "value": 772240730,
+        "weight": 6.0,
+        "put_call": null
+      },
+      {
+        "ticker": "SYK",
+        "value": 735976470,
+        "weight": 5.7,
         "put_call": null
       }
     ]
@@ -1873,39 +1873,39 @@
     "fund": "Giverny Capital",
     "avatar": "FR",
     "cik": "0001641864",
-    "latest_quarter": "2026-Q2",
-    "total_value": 2974321189,
+    "latest_quarter": "2026-Q3",
+    "total_value": 2917847112,
     "num_holdings": 51,
-    "num_new": 7,
+    "num_new": 3,
     "top_holdings": [
       {
-        "ticker": "GOOG",
-        "value": 213927182,
+        "ticker": "META",
+        "value": 210835932,
         "weight": 7.2,
         "put_call": null
       },
       {
-        "ticker": "HEI-A",
-        "value": 189627812,
-        "weight": 6.4,
-        "put_call": null
-      },
-      {
-        "ticker": "META",
-        "value": 170613782,
-        "weight": 5.7,
+        "ticker": "GOOG",
+        "value": 199304278,
+        "weight": 6.8,
         "put_call": null
       },
       {
         "ticker": "SCHW-PJ",
-        "value": 155158187,
-        "weight": 5.2,
+        "value": 166179503,
+        "weight": 5.7,
+        "put_call": null
+      },
+      {
+        "ticker": "HEI-A",
+        "value": 163913997,
+        "weight": 5.6,
         "put_call": null
       },
       {
         "ticker": "ADP",
-        "value": 146587816,
-        "weight": 4.9,
+        "value": 162740894,
+        "weight": 5.6,
         "put_call": null
       }
     ]
@@ -1916,39 +1916,39 @@
     "fund": "Greenhaven Road",
     "avatar": "SMi",
     "cik": "0001741129",
-    "latest_quarter": "2026-Q2",
-    "total_value": 154030266,
-    "num_holdings": 17,
-    "num_new": 4,
+    "latest_quarter": "2026-Q3",
+    "total_value": 129573667,
+    "num_holdings": 19,
+    "num_new": 2,
     "top_holdings": [
       {
+        "ticker": "LFCR",
+        "value": 18877237,
+        "weight": 14.6,
+        "put_call": null
+      },
+      {
         "ticker": "HGTY",
-        "value": 22235926,
+        "value": 18709090,
         "weight": 14.4,
         "put_call": null
       },
       {
-        "ticker": "CLBT",
-        "value": 18396569,
-        "weight": 11.9,
-        "put_call": null
-      },
-      {
         "ticker": "KFS",
-        "value": 17673873,
-        "weight": 11.5,
+        "value": 14622277,
+        "weight": 11.3,
         "put_call": null
       },
       {
-        "ticker": "LFCR",
-        "value": 16751537,
-        "weight": 10.9,
+        "ticker": "CLBT",
+        "value": 12763964,
+        "weight": 9.9,
         "put_call": null
       },
       {
         "ticker": "PAR",
-        "value": 14247609,
-        "weight": 9.2,
+        "value": 10841339,
+        "weight": 8.4,
         "put_call": null
       }
     ]
@@ -1959,39 +1959,39 @@
     "fund": "Saber Capital",
     "avatar": "JH",
     "cik": "0001911378",
-    "latest_quarter": "2026-Q2",
-    "total_value": 147055894,
-    "num_holdings": 38,
-    "num_new": 6,
+    "latest_quarter": "2026-Q3",
+    "total_value": 140185191,
+    "num_holdings": 42,
+    "num_new": 8,
     "top_holdings": [
       {
         "ticker": "NRP",
-        "value": 20875908,
-        "weight": 14.2,
-        "put_call": null
-      },
-      {
-        "ticker": "PBI-PB",
-        "value": 16367951,
-        "weight": 11.1,
+        "value": 24963948,
+        "weight": 17.8,
         "put_call": null
       },
       {
         "ticker": "FCNCN",
-        "value": 13170339,
-        "weight": 9.0,
+        "value": 13086189,
+        "weight": 9.3,
         "put_call": null
       },
       {
-        "ticker": "FND",
-        "value": 11132018,
-        "weight": 7.6,
+        "ticker": "PBI-PB",
+        "value": 9734854,
+        "weight": 6.9,
+        "put_call": null
+      },
+      {
+        "ticker": "UNKNOWN",
+        "value": 9370866,
+        "weight": 6.7,
         "put_call": null
       },
       {
         "ticker": "BSMLP",
-        "value": 8618386,
-        "weight": 5.9,
+        "value": 8856950,
+        "weight": 6.3,
         "put_call": null
       }
     ]
@@ -2002,39 +2002,39 @@
     "fund": "Semper Augustus",
     "avatar": "CB",
     "cik": "0001115373",
-    "latest_quarter": "2026-Q2",
-    "total_value": 884603403,
-    "num_holdings": 50,
-    "num_new": 7,
+    "latest_quarter": "2026-Q3",
+    "total_value": 889569191,
+    "num_holdings": 51,
+    "num_new": 4,
     "top_holdings": [
       {
         "ticker": "BRK-A",
-        "value": 136679027,
-        "weight": 15.5,
-        "put_call": null
-      },
-      {
-        "ticker": "ALK",
-        "value": 93627329,
-        "weight": 10.6,
+        "value": 138365367,
+        "weight": 15.6,
         "put_call": null
       },
       {
         "ticker": "BRK-A",
-        "value": 89862000,
-        "weight": 10.2,
+        "value": 89640600,
+        "weight": 10.1,
         "put_call": null
       },
       {
         "ticker": "DG",
-        "value": 76583445,
-        "weight": 8.7,
+        "value": 75673118,
+        "weight": 8.5,
         "put_call": null
       },
       {
-        "ticker": "DECK",
-        "value": 66544059,
-        "weight": 7.5,
+        "ticker": "ALK",
+        "value": 70780017,
+        "weight": 8.0,
+        "put_call": null
+      },
+      {
+        "ticker": "DLTR",
+        "value": 59867683,
+        "weight": 6.7,
         "put_call": null
       }
     ]
@@ -2045,39 +2045,39 @@
     "fund": "Discovery Capital Management",
     "avatar": "RC",
     "cik": "0001389507",
-    "latest_quarter": "2026-Q2",
-    "total_value": 2407934157,
-    "num_holdings": 113,
-    "num_new": 53,
+    "latest_quarter": "2026-Q3",
+    "total_value": 2194871569,
+    "num_holdings": 104,
+    "num_new": 29,
     "top_holdings": [
       {
         "ticker": "SNDK",
-        "value": 471996790,
-        "weight": 19.6,
+        "value": 372910624,
+        "weight": 17.0,
         "put_call": null
       },
       {
         "ticker": "BAP",
-        "value": 105913167,
-        "weight": 4.4,
+        "value": 153550292,
+        "weight": 7.0,
         "put_call": null
       },
       {
-        "ticker": "AMXOF",
-        "value": 103649861,
-        "weight": 4.3,
+        "ticker": "AMZN",
+        "value": 113796522,
+        "weight": 5.2,
         "put_call": null
       },
       {
         "ticker": "AMTM",
-        "value": 98418769,
-        "weight": 4.1,
+        "value": 104305572,
+        "weight": 4.8,
         "put_call": null
       },
       {
-        "ticker": "CMPX",
-        "value": 92801708,
-        "weight": 3.9,
+        "ticker": "IAU",
+        "value": 100601075,
+        "weight": 4.6,
         "put_call": null
       }
     ]
