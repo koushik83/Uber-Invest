@@ -1,4 +1,4 @@
-"""Send a WhatsApp digest of newly scraped 13F filings via CallMeBot.
+"""Send a Telegram digest of newly scraped 13F filings.
 
 Usage:
     NEW_FILES="data/holdings/burry/2026-Q3.json ..." python scraper/notify.py
@@ -6,8 +6,8 @@ Usage:
     python scraper/notify.py --test             # send a one-line test ping
 
 Env:
-    WHATSAPP_PHONE    your number with country code, e.g. +919876543210
-    CALLMEBOT_APIKEY  key CallMeBot sent you on WhatsApp
+    TELEGRAM_BOT_TOKEN  token from @BotFather
+    TELEGRAM_CHAT_ID    your user id (from @userinfobot); you must /start the bot once
     NEW_FILES         whitespace-separated holdings files added in this run
     DASHBOARD_URL     link appended to the message
 
@@ -18,6 +18,7 @@ import json
 import os
 import re
 import sys
+import html
 import urllib.parse
 import urllib.request
 from collections import Counter
@@ -26,7 +27,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 CHANGELOG = ROOT / "data" / "frontend" / "changelog.json"
 DASHBOARD = os.environ.get("DASHBOARD_URL", "https://koushik83.github.io/Uber-Invest/")
-MAX_CHARS = 1500
+MAX_CHARS = 3500  # Telegram limit is 4096
 
 
 def money(v):
@@ -59,7 +60,7 @@ def build_message(pairs):
 
     def label(e):
         opt = f" {e['put_call']}" if e.get("put_call") else ""
-        return f"{e.get('ticker') or e.get('stock_name', '?')}{opt}"
+        return html.escape(f"{e.get('ticker') or e.get('stock_name', '?')}{opt}")
 
     def top(action, n, per_investor=2):
         rows, seen = [], Counter()
@@ -67,7 +68,7 @@ def build_message(pairs):
                         key=lambda e: e.get("value") or 0, reverse=True):
             if seen[e["investor"]] < per_investor:
                 seen[e["investor"]] += 1
-                rows.append(f"• {e['investor']}: {label(e)} ({money(e.get('value'))})")
+                rows.append(f"• {html.escape(e['investor'])}: {label(e)} ({money(e.get('value'))})")
             if len(rows) == n:
                 break
         return rows
@@ -81,20 +82,20 @@ def build_message(pairs):
     bought = crowd(("NEW", "INCREASED"))
     sold = crowd(("EXITED", "REDUCED"))
 
-    lines = [f"📊 *Uber Invest* — {len(pairs)} new 13F filing(s) ({', '.join(quarters)})"]
+    lines = [f"📊 <b>Uber Invest</b> — {len(pairs)} new 13F filing(s) ({', '.join(quarters)})"]
     if investors:
-        shown = ", ".join(investors[:12]) + (f" +{len(investors) - 12} more" if len(investors) > 12 else "")
+        shown = html.escape(", ".join(investors[:12])) + (f" +{len(investors) - 12} more" if len(investors) > 12 else "")
         lines.append(f"Filed: {shown}")
     for title, rows in (("🆕 Biggest new positions", top("NEW", 5)),
                         ("🚪 Biggest exits", top("EXITED", 4))):
         if rows:
-            lines += ["", f"*{title}*", *rows]
+            lines += ["", f"<b>{title}</b>", *rows]
     crowd = [f"{t} ({n})" for t, n in bought.most_common(5) if n > 1]
     if crowd:
-        lines += ["", "*🔥 Most bought:* " + ", ".join(crowd)]
+        lines += ["", "<b>🔥 Most bought:</b> " + ", ".join(crowd)]
     dumped = [f"{t} ({n})" for t, n in sold.most_common(5) if n > 1]
     if dumped:
-        lines += ["*🧊 Most sold:* " + ", ".join(dumped)]
+        lines += ["<b>🧊 Most sold:</b> " + ", ".join(dumped)]
     lines += ["", f"🔗 {DASHBOARD}"]
 
     msg = "\n".join(lines)
@@ -104,20 +105,21 @@ def build_message(pairs):
 
 
 def send(text):
-    phone = os.environ.get("WHATSAPP_PHONE", "").strip()
-    key = os.environ.get("CALLMEBOT_APIKEY", "").strip()
-    if not phone or not key:
-        print("WHATSAPP_PHONE / CALLMEBOT_APIKEY not set -- skipping send.")
+    token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+    chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+    if not token or not chat:
+        print("TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID not set -- skipping send.")
         return
-    url = "https://api.callmebot.com/whatsapp.php?" + urllib.parse.urlencode(
-        {"phone": phone, "text": text, "apikey": key})
+    data = urllib.parse.urlencode({"chat_id": chat, "text": text, "parse_mode": "HTML",
+                                   "disable_web_page_preview": "true"}).encode()
     try:
-        with urllib.request.urlopen(url, timeout=30) as r:
-            body = r.read().decode("utf-8", "replace")
-        ok = r.status == 200 and "error" not in body.lower()
-        print("WhatsApp sent." if ok else f"CallMeBot responded oddly: {r.status} {body[:300]}")
+        with urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage",
+                                    data=data, timeout=30) as r:
+            ok = json.loads(r.read()).get("ok")
+        print("Telegram sent." if ok else "Telegram returned ok=false")
     except Exception as exc:  # never fail the workflow over a notification
-        print(f"::warning::WhatsApp send failed: {exc}")
+        # don't print exc verbatim: urllib errors can include the URL (token)
+        print(f"::warning::Telegram send failed: {type(exc).__name__} {getattr(exc, 'code', '')}")
 
 
 def main():

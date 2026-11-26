@@ -10,8 +10,8 @@ on:
     - cron: '0 4 */3 * *'
   workflow_dispatch:
     inputs:
-      test_whatsapp:
-        description: 'Send a WhatsApp test ping'
+      test_telegram:
+        description: 'Send a Telegram test ping'
         type: boolean
         default: false
 
@@ -69,7 +69,7 @@ jobs:
             echo "No data changes -- nothing to commit."
             exit 0
           fi
-          # Newly added quarter files -> WhatsApp digest in the deploy job
+          # Newly added quarter files -> Telegram digest in the deploy job
           echo "new_files=$(git diff --cached --name-only --diff-filter=A -- data/holdings | tr '\n' ' ')" >> "$GITHUB_OUTPUT"
           git commit -m "Update holdings $(date -u +%Y-%m-%d_%H:%M)"
           git pull --rebase origin main
@@ -143,13 +143,13 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./frontend/dist
 
-      - name: WhatsApp digest of new filings
+      - name: Telegram digest of new filings
         # Runs after deploy so the link in the message shows the new data.
         # notify.py never exits non-zero; skips quietly if secrets are unset.
-        if: needs.scrape.outputs.new_files != '' || inputs.test_whatsapp
-        run: python scraper/notify.py ${{ inputs.test_whatsapp && '--test' || '' }}
+        if: needs.scrape.outputs.new_files != '' || inputs.test_telegram
+        run: python scraper/notify.py ${{ inputs.test_telegram && '--test' || '' }}
         env:
           NEW_FILES: ${{ needs.scrape.outputs.new_files }}
-          WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
-          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           PYTHONIOENCODING: utf-8
