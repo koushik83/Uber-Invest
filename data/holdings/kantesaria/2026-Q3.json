@@ -1,0 +1,122 @@
+{
+  "investor_id": "kantesaria",
+  "cik": "0001697868",
+  "quarter": "2026-Q3",
+  "report_date": "2026-09-30",
+  "filing_date": "2026-11-16",
+  "accession_number": "0001697868-26-000007",
+  "total_value": 2527376800,
+  "num_holdings": 10,
+  "holdings": [
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 177157609,
+      "shares": 711048,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N07059210",
+      "name": "ASML HLDG NV",
+      "ticker": "ASMLF",
+      "title_of_class": "N Y REGISTRY SHS",
+      "value": 377720513,
+      "shares": 208493,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "11135F101",
+      "name": "BROADCOM INC",
+      "ticker": "AVGO",
+      "title_of_class": "COM",
+      "value": 166926928,
+      "shares": 475318,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "303250104",
+      "name": "FAIR ISAAC CORP",
+      "ticker": "FICO",
+      "title_of_class": "COM",
+      "value": 379300479,
+      "shares": 640202,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "MASTERCARD INCORPORATED",
+      "ticker": "MA",
+      "title_of_class": "CL A",
+      "value": 93481334,
+      "shares": 169513,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "615369105",
+      "name": "MOODYS CORP",
+      "ticker": "MCO",
+      "title_of_class": "COM",
+      "value": 413841403,
+      "shares": 911284,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "ticker": "NVDA",
+      "title_of_class": "COM",
+      "value": 147559287,
+      "shares": 646113,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78409V104",
+      "name": "S&P GLOBAL INC",
+      "ticker": "SPGI",
+      "title_of_class": "COM",
+      "value": 549441484,
+      "shares": 1392860,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MANUFAC",
+      "ticker": "TSMWF",
+      "title_of_class": "SPONSORED ADS",
+      "value": 136354279,
+      "shares": 298898,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "ticker": "V",
+      "title_of_class": "COM CL A",
+      "value": 85593484,
+      "shares": 238203,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

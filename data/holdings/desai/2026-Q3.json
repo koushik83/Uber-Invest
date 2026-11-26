@@ -1,0 +1,166 @@
+{
+  "investor_id": "desai",
+  "cik": "0001609098",
+  "quarter": "2026-Q3",
+  "report_date": "2026-09-30",
+  "filing_date": "2026-11-16",
+  "accession_number": "0001172661-26-005425",
+  "total_value": 20186213471,
+  "num_holdings": 14,
+  "holdings": [
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 685162500,
+      "shares": 2750000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "808513105",
+      "name": "CHARLES SCHWAB CORP (THE)",
+      "ticker": "SCHW-PJ",
+      "title_of_class": "COM",
+      "value": 219915000,
+      "shares": 2250000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "278768106",
+      "name": "ECHOSTAR CORP",
+      "ticker": "SATS",
+      "title_of_class": "CL A",
+      "value": 625870000,
+      "shares": 7000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "40171V100",
+      "name": "GUIDEWIRE SOFTWARE INC",
+      "ticker": "GWRE",
+      "title_of_class": "COM",
+      "value": 342192000,
+      "shares": 2400000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "40412C101",
+      "name": "HCA HEALTHCARE INC",
+      "ticker": "HCA",
+      "title_of_class": "COM",
+      "value": 469414000,
+      "shares": 1100000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "531229771",
+      "name": "LIBERTY MEDIA CORP DEL",
+      "ticker": "FWONB",
+      "title_of_class": "COM SER A",
+      "value": 71935500,
+      "shares": 850000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "531229755",
+      "name": "LIBERTY MEDIA CORP DEL",
+      "ticker": "FWONB",
+      "title_of_class": "COM SER C",
+      "value": 397320000,
+      "shares": 4300000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 362590000,
+      "shares": 500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "650111107",
+      "name": "NEW YORK TIMES CO MTN BE",
+      "ticker": "NYT",
+      "title_of_class": "CL A",
+      "value": 382200000,
+      "shares": 6000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83601L102",
+      "name": "SOTERA HEALTH CO",
+      "ticker": "SHC",
+      "title_of_class": "COM",
+      "value": 499230000,
+      "shares": 27000000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "84615Q103",
+      "name": "SPACE EXPLORATION TECHN CORP",
+      "ticker": "SPCX",
+      "title_of_class": "CLASS A COM STK",
+      "value": 15148141497,
+      "shares": 100411915,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "934550203",
+      "name": "WARNER MUSIC GROUP CORP",
+      "ticker": "WMG",
+      "title_of_class": "COM CL A",
+      "value": 329751724,
+      "shares": 11943199,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "95082P105",
+      "name": "WESCO INTL INC",
+      "ticker": "WCC",
+      "title_of_class": "COM",
+      "value": 494436250,
+      "shares": 1375000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "974155103",
+      "name": "WINGSTOP INC",
+      "ticker": "WING",
+      "title_of_class": "COM",
+      "value": 158055000,
+      "shares": 1500000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

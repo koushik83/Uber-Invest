@@ -1,0 +1,210 @@
+{
+  "investor_id": "ferguson",
+  "cik": "0001582090",
+  "quarter": "2026-Q3",
+  "report_date": "2026-09-30",
+  "filing_date": "2026-11-13",
+  "accession_number": "0000902664-26-004536",
+  "total_value": 3969598137,
+  "num_holdings": 18,
+  "holdings": [
+    {
+      "cusip": "146869102",
+      "name": "Carvana Co",
+      "ticker": "CVNA",
+      "title_of_class": "CL A",
+      "value": 227020200,
+      "shares": 3630000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "15118V207",
+      "name": "Celsius Hldgs Inc",
+      "ticker": "CELH",
+      "title_of_class": "COM NEW",
+      "value": 248611500,
+      "shares": 9090000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "17253J106",
+      "name": "Cipher Digital Inc",
+      "ticker": "CDE",
+      "title_of_class": "COM",
+      "value": 185042700,
+      "shares": 11690000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "36165L108",
+      "name": "GDS Hldgs Ltd",
+      "ticker": "GDHLF",
+      "title_of_class": "Sponsored ADS",
+      "value": 271232550,
+      "shares": 8685000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "375916103",
+      "name": "Gildan Activewear Inc",
+      "ticker": "GIL",
+      "title_of_class": "COM",
+      "value": 211018500,
+      "shares": 4950000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "443320106",
+      "name": "Hub Group Inc",
+      "ticker": "HUBG",
+      "title_of_class": "CL A",
+      "value": 88296300,
+      "shares": 2985000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "46137V357",
+      "name": "Invesco Exchange Traded FD T",
+      "ticker": "IVZ",
+      "title_of_class": "S&P500 EQL WGT",
+      "value": 55125300,
+      "shares": 265000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "462210105",
+      "name": "Ionic Digital Inc",
+      "ticker": "IOND",
+      "title_of_class": "COM CL A",
+      "value": 357468500,
+      "shares": 4450000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "55306N104",
+      "name": "MKS INC.",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 215658072,
+      "shares": 812700,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "71377A103",
+      "name": "Performance Food Group Co",
+      "ticker": "PFGC",
+      "title_of_class": "COM",
+      "value": 306558500,
+      "shares": 3350000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "741623102",
+      "name": "Primo Brands Corporation",
+      "ticker": "PRMB",
+      "title_of_class": "CLASS A COM SHS",
+      "value": 320230500,
+      "shares": 16810000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "767292105",
+      "name": "Riot Platforms Inc",
+      "ticker": "RIOT",
+      "title_of_class": "COM",
+      "value": 117071500,
+      "shares": 5810000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G7997R103",
+      "name": "Seagate Technology Hldngs PL",
+      "ticker": "STX",
+      "title_of_class": "ORD SHS",
+      "value": 512821040,
+      "shares": 556000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83001C108",
+      "name": "Six Flags Entertainment Corp",
+      "ticker": "FUN",
+      "title_of_class": "COM",
+      "value": 53871300,
+      "shares": 5030000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "83088M102",
+      "name": "Skyworks Solutions Inc",
+      "ticker": "SWKS",
+      "title_of_class": "COM",
+      "value": 298752600,
+      "shares": 3495000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "861012102",
+      "name": "STMicroelectronics N V",
+      "ticker": "STMEF",
+      "title_of_class": "NY REGISTRY",
+      "value": 103785200,
+      "shares": 1945000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "87422Q109",
+      "name": "Talen Energy Corp",
+      "ticker": "TLN",
+      "title_of_class": "COM",
+      "value": 361938675,
+      "shares": 1157500,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90138F102",
+      "name": "Twilio Inc",
+      "ticker": "TWLO",
+      "title_of_class": "CL A",
+      "value": 35095200,
+      "shares": 120000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

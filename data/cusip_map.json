@@ -159,6 +159,11 @@
     "name": "ABM INDS INC",
     "sector": null
   },
+  "001026103": {
+    "ticker": "ADIG",
+    "name": "ADI GLOBAL DISTRIBUTION INC.",
+    "sector": null
+  },
   "001040203": {
     "ticker": "ARTCU",
     "name": "Art Technology Acquisition Corp.",
@@ -532,6 +537,11 @@
   "00214Q708": {
     "ticker": "UNKNOWN",
     "name": "ARK ETF TR",
+    "sector": null
+  },
+  "00214Q724": {
+    "ticker": "UNKNOWN",
+    "name": "ARK Active Autocallable Income",
     "sector": null
   },
   "00214Q807": {
@@ -1037,6 +1047,11 @@
   "00489Q102": {
     "ticker": "ACR-PD",
     "name": "ACRES Commercial Realty Corp.",
+    "sector": null
+  },
+  "004966107": {
+    "ticker": "ACCV",
+    "name": "Accelevation Holdings Corp.",
     "sector": null
   },
   "004CVR031": {
@@ -14134,6 +14149,11 @@
     "name": "Compass Diversified Holdings",
     "sector": null
   },
+  "20451Q904": {
+    "ticker": "CODI-PA",
+    "name": "Compass Diversified Holdings",
+    "sector": null
+  },
   "20451W101": {
     "ticker": "CMPS",
     "name": "COMPASS Pathways plc",
@@ -15377,6 +15397,11 @@
   "23255M204": {
     "ticker": "CYCN",
     "name": "Cyclerion Therapeutics, Inc.",
+    "sector": null
+  },
+  "23255M303": {
+    "ticker": "KRSA",
+    "name": "Korsana Biosciences, Inc.",
     "sector": null
   },
   "23256X100": {
@@ -21174,6 +21199,11 @@
     "name": "EYEGATE PHARMACEUTICALS INC",
     "sector": null
   },
+  "30233Q108": {
+    "ticker": "XOM",
+    "name": "ExxonMobil Holdings Corp",
+    "sector": null
+  },
   "30234E104": {
     "ticker": "ENVA",
     "name": "Enova International, Inc.",
@@ -25432,6 +25462,11 @@
   "35655L206": {
     "ticker": "BLNE",
     "name": "Beeline Holdings, Inc.",
+    "sector": null
+  },
+  "35661P100": {
+    "ticker": "FRNM",
+    "name": "Freenome, Inc.",
     "sector": null
   },
   "35671D857": {
@@ -34769,6 +34804,11 @@
     "name": "ioneer Ltd",
     "sector": null
   },
+  "462210105": {
+    "ticker": "IOND",
+    "name": "Ionic Digital Inc.",
+    "sector": null
+  },
   "462222100": {
     "ticker": "IONS",
     "name": "IONIS PHARMACEUTICALS INC",
@@ -37987,6 +38027,11 @@
   "47632P101": {
     "ticker": "JRSH",
     "name": "Jerash Holdings (US), Inc.",
+    "sector": null
+  },
+  "47668J102": {
+    "ticker": "JMKE",
+    "name": "Jersey Mike's Subs Inc.",
     "sector": null
   },
   "477143101": {
@@ -41444,6 +41489,11 @@
     "name": "Lyft, Inc.",
     "sector": null
   },
+  "55173P109": {
+    "ticker": "LYNX",
+    "name": "Lyntris Inc.",
+    "sector": null
+  },
   "55234L105": {
     "ticker": "LYRA",
     "name": "Lyra Therapeutics, Inc.",
@@ -43674,6 +43724,11 @@
     "name": "MOBIX LABS, INC",
     "sector": null
   },
+  "60744M106": {
+    "ticker": "MBGL",
+    "name": "Mobility Global Inc.",
+    "sector": null
+  },
   "607525102": {
     "ticker": "UNKNOWN",
     "name": "MODEL N INC",
@@ -45174,6 +45229,11 @@
     "name": "NEUROCRINE BIOSCIENCES INC",
     "sector": null
   },
+  "64125S104": {
+    "ticker": "LIME",
+    "name": "Neutron Holdings, Inc.",
+    "sector": null
+  },
   "641288105": {
     "ticker": "NPCE",
     "name": "NeuroPace Inc",
@@ -45710,6 +45770,11 @@
     "sector": null
   },
   "65345N114": {
+    "ticker": "NXNVW",
+    "name": "NEXTNAV INC.",
+    "sector": null
+  },
+  "65345N906": {
     "ticker": "NXNVW",
     "name": "NEXTNAV INC.",
     "sector": null
@@ -47865,6 +47930,11 @@
     "sector": null
   },
   "68270C103": {
+    "ticker": "ONMDW",
+    "name": "OneMedNet Corp",
+    "sector": null
+  },
+  "68270C202": {
     "ticker": "ONMDW",
     "name": "OneMedNet Corp",
     "sector": null
@@ -51284,6 +51354,11 @@
     "name": "PROCTER & GAMBLE Co",
     "sector": null
   },
+  "74274F100": {
+    "ticker": "PBAM",
+    "name": "Private Bancorp of America, Inc.",
+    "sector": null
+  },
   "74275C205": {
     "ticker": "PCSA",
     "name": "Processa Pharmaceuticals, Inc.",
@@ -53044,6 +53119,11 @@
     "name": "QumulusAI, Inc.",
     "sector": null
   },
+  "74906Q102": {
+    "ticker": "QMLS",
+    "name": "QumulusAI, Inc.",
+    "sector": null
+  },
   "74907L102": {
     "ticker": "QNRX",
     "name": "Quoin Pharmaceuticals, Ltd.",
@@ -53842,6 +53922,11 @@
   "758338404": {
     "ticker": "REED",
     "name": "REED'S, INC.",
+    "sector": null
+  },
+  "75867H106": {
+    "ticker": "REF",
+    "name": "Reformation Inc.",
     "sector": null
   },
   "758750103": {
@@ -55062,6 +55147,11 @@
   "783859101": {
     "ticker": "STBA",
     "name": "S&T BANCORP INC",
+    "sector": null
+  },
+  "78392B206": {
+    "ticker": "HXSCL",
+    "name": "SK hynix Inc.",
     "sector": null
   },
   "78396V109": {
@@ -56809,6 +56899,11 @@
     "name": "CTT PHARMACEUTICAL HOLDINGS, INC.",
     "sector": null
   },
+  "811033109": {
+    "ticker": "SCTX",
+    "name": "Scribe Therapeutics, Inc.",
+    "sector": null
+  },
   "811054402": {
     "ticker": "UNKNOWN",
     "name": "SCRIPPS E W CO OHIO",
@@ -57012,6 +57107,11 @@
   "814785309": {
     "ticker": "SNFCA",
     "name": "SECURITY NATIONAL FINANCIAL CORP",
+    "sector": null
+  },
+  "81517B101": {
+    "ticker": "SECZ",
+    "name": "Securitize Corp.",
     "sector": null
   },
   "81577F109": {
@@ -68029,6 +68129,11 @@
     "name": "WATTS WATER TECHNOLOGIES INC",
     "sector": null
   },
+  "94352A104": {
+    "ticker": "WVE",
+    "name": "Wave Life Sciences, Inc.",
+    "sector": null
+  },
   "94419L101": {
     "ticker": "W",
     "name": "Wayfair Inc.",
@@ -72709,6 +72814,11 @@
     "name": "D. Boral ARC Acquisition I Corp.",
     "sector": null
   },
+  "G2646Y104": {
+    "ticker": "DMRA",
+    "name": "Damora Therapeutics, Inc.",
+    "sector": null
+  },
   "G26507106": {
     "ticker": "UNKNOWN",
     "name": "CRESCERA CAP ACQUISITION COR",
@@ -76777,6 +76887,11 @@
   "G6700G107": {
     "ticker": "NVT",
     "name": "nVent Electric plc",
+    "sector": null
+  },
+  "G670AQ104": {
+    "ticker": "CSHRW",
+    "name": "CoinShares PLC",
     "sector": null
   },
   "G6715X103": {
@@ -81144,6 +81259,11 @@
     "name": "TELUS CORP",
     "sector": null
   },
+  "M8769Q102": {
+    "ticker": "TEVA",
+    "name": "TEVA PHARMACEUTICAL INDUSTRIES LTD",
+    "sector": null
+  },
   "M87915274": {
     "ticker": "TSEM",
     "name": "TOWER SEMICONDUCTOR LTD",
@@ -81612,6 +81732,11 @@
   "S2192Y109": {
     "ticker": "UNKNOWN",
     "name": "Discovery Ltd",
+    "sector": null
+  },
+  "T19377109": {
+    "ticker": "BSP",
+    "name": "Bending Spoons S.p.A.",
     "sector": null
   },
   "T9224W109": {

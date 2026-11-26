@@ -1,0 +1,144 @@
+{
+  "investor_id": "hong",
+  "cik": "0001766908",
+  "quarter": "2026-Q3",
+  "report_date": "2026-09-30",
+  "filing_date": "2026-11-13",
+  "accession_number": "0001172661-26-004999",
+  "total_value": 233799903,
+  "num_holdings": 12,
+  "holdings": [
+    {
+      "cusip": "01609W102",
+      "name": "ALIBABA GROUP HLDG LTD",
+      "ticker": "BBAAY",
+      "title_of_class": "SPONSORED ADS",
+      "value": 44642112,
+      "shares": 415121,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "title_of_class": "COM",
+      "value": 36588425,
+      "shares": 146853,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "10576N102",
+      "name": "BRAZE INC",
+      "ticker": "BRZE",
+      "title_of_class": "COM CL A",
+      "value": 11191387,
+      "shares": 445872,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "21037T109",
+      "name": "CONSTELLATION ENERGY CORP",
+      "ticker": "CEG",
+      "title_of_class": "COM",
+      "value": 6752868,
+      "shares": 26584,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "22266T109",
+      "name": "COUPANG INC",
+      "ticker": "CPNG",
+      "title_of_class": "CL A",
+      "value": 11930447,
+      "shares": 860162,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "224408104",
+      "name": "CRANE COMPANY",
+      "ticker": "CR",
+      "title_of_class": "COMMON STOCK",
+      "value": 12907733,
+      "shares": 63267,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "36165L108",
+      "name": "GDS HLDGS LTD",
+      "ticker": "GDHLF",
+      "title_of_class": "SPONSORED ADS",
+      "value": 11084932,
+      "shares": 354945,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "531229755",
+      "name": "LIBERTY MEDIA CORP DEL",
+      "ticker": "FWONB",
+      "title_of_class": "COM SER C",
+      "value": 14737246,
+      "shares": 159494,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 21764399,
+      "shares": 42434,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N97284108",
+      "name": "NEBIUS GROUP N.V.",
+      "ticker": "NBIS",
+      "title_of_class": "SHS CLASS A",
+      "value": 6840520,
+      "shares": 29000,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "679295105",
+      "name": "OKTA INC",
+      "ticker": "OKTA",
+      "title_of_class": "CL A",
+      "value": 30805249,
+      "shares": 147316,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "98980G102",
+      "name": "ZSCALER INC",
+      "ticker": "ZS",
+      "title_of_class": "COM",
+      "value": 24554585,
+      "shares": 123130,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

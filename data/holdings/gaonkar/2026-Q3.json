@@ -1,0 +1,133 @@
+{
+  "investor_id": "gaonkar",
+  "cik": "0001960830",
+  "quarter": "2026-Q3",
+  "report_date": "2026-09-30",
+  "filing_date": "2026-11-16",
+  "accession_number": "0000919574-26-007845",
+  "total_value": 3042397084,
+  "num_holdings": 11,
+  "holdings": [
+    {
+      "cusip": "144285103",
+      "name": "CARPENTER TECHNOLOGY CORP",
+      "ticker": "CRS",
+      "title_of_class": "COM",
+      "value": 319563382,
+      "shares": 821880,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "ticker": "HLT",
+      "title_of_class": "COM",
+      "value": 165617089,
+      "shares": 520612,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "458140100",
+      "name": "INTEL CORP",
+      "ticker": "INTC",
+      "title_of_class": "COM",
+      "value": 252284380,
+      "shares": 2098348,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "50212V100",
+      "name": "LPL FINL HLDGS INC",
+      "ticker": "UNKNOWN",
+      "title_of_class": "COM",
+      "value": 349156630,
+      "shares": 1141781,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "58155Q103",
+      "name": "MCKESSON CORP",
+      "ticker": "MCK",
+      "title_of_class": "COM",
+      "value": 493146995,
+      "shares": 577584,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "58507V107",
+      "name": "MEDLINE INC",
+      "ticker": "MDLN",
+      "title_of_class": "COM CL A",
+      "value": 228186159,
+      "shares": 6575970,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "58733R102",
+      "name": "MERCADOLIBRE INC",
+      "ticker": "MELI",
+      "title_of_class": "COM",
+      "value": 116426867,
+      "shares": 67356,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "title_of_class": "COM",
+      "value": 294108657,
+      "shares": 573423,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G6683N103",
+      "name": "NU HLDGS LTD",
+      "ticker": "NU",
+      "title_of_class": "ORD SHS CL A",
+      "value": 112544032,
+      "shares": 8889734,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MANUFAC",
+      "ticker": "TSMWF",
+      "title_of_class": "SPONSORED ADS",
+      "value": 495050545,
+      "shares": 1085185,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "ticker": "V",
+      "title_of_class": "COM CL A",
+      "value": 216312348,
+      "shares": 601988,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}

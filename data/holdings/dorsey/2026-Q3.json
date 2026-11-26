@@ -1,0 +1,155 @@
+{
+  "investor_id": "dorsey",
+  "cik": "0001671657",
+  "quarter": "2026-Q3",
+  "report_date": "2026-09-30",
+  "filing_date": "2026-11-16",
+  "accession_number": "0001398344-26-020103",
+  "total_value": 1712548933,
+  "num_holdings": 13,
+  "holdings": [
+    {
+      "cusip": "N00985106",
+      "name": "AERCAP HOLDINGS NV",
+      "ticker": "AER",
+      "title_of_class": "SHS",
+      "value": 97829260,
+      "shares": 681642,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "03831W108",
+      "name": "APPLOVIN CORP",
+      "ticker": "APP",
+      "title_of_class": "COM CL A",
+      "value": 174849025,
+      "shares": 602035,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "N07059210",
+      "name": "ASML HLDG NV",
+      "ticker": "ASMLF",
+      "title_of_class": "N Y REGISTRY SHS",
+      "value": 134492946,
+      "shares": 74237,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "05464C101",
+      "name": "AXON ENTERPRISE INC",
+      "ticker": "AXON",
+      "title_of_class": "COM",
+      "value": 75052650,
+      "shares": 177631,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "09857L108",
+      "name": "BOOKING HOLDINGS INC",
+      "ticker": "BKNG",
+      "title_of_class": "COM",
+      "value": 135754043,
+      "shares": 833307,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "464288257",
+      "name": "ISHARES TR",
+      "ticker": "UNKNOWN",
+      "title_of_class": "MSCI ACWI ETF",
+      "value": 17648000,
+      "shares": 111158,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "538034109",
+      "name": "LIVE NATION ENTERTAINMENT IN",
+      "ticker": "LYV",
+      "title_of_class": "COM",
+      "value": 124745658,
+      "shares": 736832,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "ticker": "META",
+      "title_of_class": "CL A",
+      "value": 159237200,
+      "shares": 219583,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "G7709Q104",
+      "name": "ROYALTY PHARMA PLC",
+      "ticker": "RPRX",
+      "title_of_class": "SHS CLASS A",
+      "value": 140978326,
+      "shares": 2415667,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "78409V104",
+      "name": "S&P GLOBAL INC",
+      "ticker": "SPGI",
+      "title_of_class": "COM",
+      "value": 146926269,
+      "shares": 372465,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "902252105",
+      "name": "TYLER TECHNOLOGIES INC",
+      "ticker": "TYL",
+      "title_of_class": "COM",
+      "value": 127989585,
+      "shares": 401725,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "90353T100",
+      "name": "UBER TECHNOLOGIES INC",
+      "ticker": "UBER",
+      "title_of_class": "COM",
+      "value": 135654322,
+      "shares": 1980066,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    },
+    {
+      "cusip": "922475108",
+      "name": "VEEVA SYS INC",
+      "ticker": "VEEV",
+      "title_of_class": "CL A COM",
+      "value": 241391649,
+      "shares": 845653,
+      "share_type": "SH",
+      "put_call": null,
+      "sector": null
+    }
+  ]
+}
