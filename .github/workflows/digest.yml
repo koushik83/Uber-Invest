@@ -1,0 +1,64 @@
+name: Telegram Digest
+
+on:
+  schedule:
+    # One digest every 15 days at ~09:17 IST. GitHub's cron is best-effort and
+    # silently skips runs, so this fires DAILY purely as retries: notify.py
+    # only sends once 15 days have passed since data/digest_state.json's date,
+    # and every other run exits in seconds.
+    - cron: '47 3 * * *'
+  workflow_dispatch:   # manual run = send a digest now (--force)
+
+concurrency:
+  group: digest
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # commit data/digest_state.json
+  actions: write    # keepalive
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Python dependencies
+        run: pip install requests lxml
+
+      - name: Regenerate dashboard JSONs from raw holdings
+        # data/frontend/*.json is gitignored; rebuild it (no SEC requests).
+        run: python scraper/main.py --export-only
+
+      - name: Send digest if due
+        run: python scraper/notify.py ${{ github.event_name == 'workflow_dispatch' && '--force' || '' }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          PYTHONIOENCODING: utf-8
+
+      - name: Commit digest state
+        # Also keeps the repo active every 15 days, which stops GitHub's
+        # 60-day inactivity rule from disabling the scrape workflow.
+        run: |
+          git config user.name  "13F Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/digest_state.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No state change."
+            exit 0
+          fi
+          git commit -m "Digest sent $(TZ=Asia/Kolkata date +%Y-%m-%d)"
+          git pull --rebase origin main
+          git push origin main
+
+      - name: Keepalive
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/digest.yml/enable" || true

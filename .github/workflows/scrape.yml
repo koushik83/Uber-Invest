@@ -7,13 +7,8 @@ on:
     # so a 3-day cadence still catches everything within ~3 days of filing
     # while cutting our SEC load to ~1/3 of the daily schedule.
     # Manual trigger remains available via workflow_dispatch.
-    - cron: '0 4 */3 * *'
+    - cron: '23 4 */3 * *'   # :23, not :00 -- GitHub delays/skips :00 runs most
   workflow_dispatch:
-    inputs:
-      test_telegram:
-        description: 'Send a Telegram test ping'
-        type: boolean
-        default: false
 
 jobs:
   # --------------------------------------------------------------------------
@@ -23,8 +18,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write   # needed to push the data commit
-    outputs:
-      new_files: ${{ steps.commit.outputs.new_files }}
 
     steps:
       - uses: actions/checkout@v4
@@ -56,7 +49,6 @@ jobs:
           SEC_DELAY: "0.5"
 
       - name: Commit updated data if anything changed
-        id: commit
         # If the scrape takes a few minutes and the remote main advances in
         # the meantime (e.g. another workflow pushes), a plain `git push`
         # is rejected as non-fast-forward. Pulling with rebase before push
@@ -69,8 +61,6 @@ jobs:
             echo "No data changes -- nothing to commit."
             exit 0
           fi
-          # Newly added quarter files -> Telegram digest in the deploy job
-          echo "new_files=$(git diff --cached --name-only --diff-filter=A -- data/holdings | tr '\n' ' ')" >> "$GITHUB_OUTPUT"
           git commit -m "Update holdings $(date -u +%Y-%m-%d_%H:%M)"
           git pull --rebase origin main
           git push origin main
@@ -142,14 +132,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./frontend/dist
-
-      - name: Telegram digest of new filings
-        # Runs after deploy so the link in the message shows the new data.
-        # notify.py never exits non-zero; skips quietly if secrets are unset.
-        if: needs.scrape.outputs.new_files != '' || inputs.test_telegram
-        run: python scraper/notify.py ${{ inputs.test_telegram && '--test' || '' }}
-        env:
-          NEW_FILES: ${{ needs.scrape.outputs.new_files }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          PYTHONIOENCODING: utf-8
